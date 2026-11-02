@@ -88,7 +88,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "このまま奴らのロックが\\n民の間で流行り病のように\\n広まったりしないかな",
-   "en": "I wonder if their\\nrock won't spread\\namong the people\\nlike an epidemic.",
+   "en": "I wonder if their\\nrock might spread\\namong the people\\nlike an epidemic.",
    "op": "0x62",
    "msg": "0x0a9a"
   },
@@ -838,7 +838,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "……どこまでも\\nおめでたいヤロウだ",
-   "en": "...You're a\\nhopeless\\noptimist, through\\nand through.",
+   "en": "...You're a\\nhopelessly naive\\nfool, through\\nand through.",
    "op": "0x62",
    "msg": "0x0bd6"
   },
@@ -1365,7 +1365,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "上様の命を受け\\nこれより雷舞の\\n調査を行う！",
-   "en": "By order of the\\nshogun, we will\\nnow investigate\\nthis live!",
+   "en": "By order of His\\nHighness, we will\\nnow investigate\\nthis live!",
    "op": "0x62",
    "msg": "0x0aff"
   },
@@ -1375,7 +1375,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "やはり\\n坂本達だったか　",
-   "en": "So it was\\nSakamoto and\\nhis lot after all.",
+   "en": "So it was\\nSakamoto and his\\ngang after all.",
    "op": "0x62",
    "msg": "0x0b00"
   },

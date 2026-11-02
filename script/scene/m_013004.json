@@ -148,7 +148,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "まだ　わからんのか\\nロックは　歌は\\nそんなもんじゃないぜよ！",
-   "en": "You still don't\\nget it? Rock,\\nsongs --they\\nain't anything\\nlike that!",
+   "en": "You still don't\\nget it? Rock,\\nsongs--they\\nain't anything\\nlike that!",
    "op": "0x62",
    "msg": "0x5492"
   },
@@ -258,7 +258,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "神（スター）は負けない！\\n負けないからこそ\\n王（キング）なのだ！",
-   "en": "A star never\\nloses! It's because\\nhe never loses\\nthat he's the king!",
+   "en": "A god never\\nloses! It's because\\nhe never loses\\nthat he's the king!",
    "op": "0x62",
    "msg": "0x549d"
   },

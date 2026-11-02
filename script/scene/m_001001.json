@@ -278,7 +278,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "殴られた",
-   "en": "He got punched.",
+   "en": "Ryoma got\\npunched.",
    "op": "0x62",
    "msg": "0x0136"
   },
@@ -615,7 +615,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "日本一と出たか\\nこりゃ大きいな",
-   "en": "Number one in\\nJapan, eh? That's\\na big one, lad.",
+   "en": "Number one in\\nJapan, eh?\\nThat's a big one.",
    "op": "0x62",
    "msg": "0x0155"
   },
@@ -705,7 +705,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "ワシが美味いメシを\\n馳走してやろう",
-   "en": "Allow me to treat\\nyou to a fine\\nmeal, my boy.",
+   "en": "Allow me to\\ntreat you to\\na fine meal.",
    "op": "0x62",
    "msg": "0x015e"
   },
@@ -785,7 +785,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "おっ　きたきた\\nこれだ　これ\\nこれが美味いんじゃよ",
-   "en": "Oh, here it\\ncomes! This is\\nthe one, my boy,\\nthis right here.\\nSimply delicious.",
+   "en": "Oh, here it comes!\\nThis is the one,\\nthis right here.\\nSimply delicious.",
    "op": "0x62",
    "msg": "0x0166"
   },
@@ -885,7 +885,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "うふふ\\n気に入ってもらえて\\n嬉しいわぁ～",
-   "en": "Ufufu! I'm so\\nglad you like it~",
+   "en": "Tee hee~ I'm so\\nglad you like it~",
    "op": "0x62",
    "msg": "0x0172"
   },
@@ -985,7 +985,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "まあ　正確にはな　\\n才能のある歌い手を\\n発掘して",
-   "en": "Well, to be\\nprecise, my boy,\\nmy calling is to\\ndig up talented\\nsingers...",
+   "en": "Well, to be\\nprecise, my\\ncalling is to dig\\nup talented\\nsingers...",
    "op": "0x62",
    "msg": "0x017c"
   },
@@ -1125,7 +1125,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "うむ　お前の持っている\\nギターの音や歌声を\\nより大きく響かせるために",
-   "en": "Mm. To make that\\nguitar and voice\\nof yours ring out\\nlouder, lad...",
+   "en": "Mm. To make\\nthat guitar and\\nvoice of yours\\nring out louder...",
    "op": "0x62",
    "msg": "0x018a"
   },
@@ -1255,7 +1255,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "そうだな\\nお前の言うとおりだ",
-   "en": "Indeed, lad. It's\\njust as you say.",
+   "en": "Indeed,\\nindeed. It's\\njust as you say.",
    "op": "0x62",
    "msg": "0x0197"
   },
@@ -1325,7 +1325,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "しまった\\n財布を忘れた",
-   "en": "Oh dear. I've\\nforgotten\\nmy wallet.",
+   "en": "Drat! Forgot\\nmy wallet!",
    "op": "0x62",
    "msg": "0x019e"
   },
@@ -1385,7 +1385,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "テンちゃんとは\\n同じ釜のぴっつぁを\\n食うた仲だしな",
-   "en": "Me and Ten-chan,\\nwe ate pizza from\\nthe same oven,\\nafter all.",
+   "en": "Me and Ten-chan,\\nwe ate peetsa\\nfrom the same\\noven, after all.",
    "op": "0x62",
    "msg": "0x01a4"
   },
@@ -1575,7 +1575,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "んふっ　そんなウブな\\nところもカワイイ♪\\nま　いいわ",
-   "en": "Hehe, so\\ninnocent.\\nThat's cute\\ntoo~ Well, fine.",
+   "en": "Tee hee~ So\\ninnocent.\\nThat's cute\\ntoo~ Well, fine.",
    "op": "0x62",
    "msg": "0x01b7"
   },
@@ -1605,7 +1605,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "うふっ　いいお返事\\nそれじゃ　これから\\nよろしくね！",
-   "en": "Hehe, good\\nanswer. Well\\nthen, I'm\\ncounting on you!",
+   "en": "Tee hee~ Good\\nanswer. Well\\nthen, I'm\\ncounting on you!",
    "op": "0x62",
    "msg": "0x01ba"
   },
@@ -1755,7 +1755,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "んふっ　そうね\\n楽しみにしてるわ～",
-   "en": "Tee hee,\\nsure. I'll look\\nforward to it~",
+   "en": "Tee hee~\\nSure. I'll look\\nforward to it~",
    "op": "0x62",
    "msg": "0x01c9"
   },

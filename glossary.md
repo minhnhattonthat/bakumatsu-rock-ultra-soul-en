@@ -95,6 +95,7 @@ an `Avoid` spelling fails. Name + honorific (龍馬さん) must come out as `Ryo
 | 黒船 | Black Ships | | 黒船来航 -> the arrival of the Black Ships | |
 | 六絃琴 | six-string | | Ryoma's guitar | |
 | 千塵万華 | Alter Soul | | Ii's curse technique, 千塵万華（オルターソウル） | |
+| 呪魂 | Dark Soul | | 呪魂（ダークソウル）, b_007001 | |
 | 雷舞券 | ticket | | 雷舞券（チケット） -> live ticket | |
 | 局長 | Commander | | Kondo (Shinsengumi) | |
 | 副長 | Vice-Commander | | Hijikata | |

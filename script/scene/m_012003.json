@@ -1388,7 +1388,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "そりゃ仮面を\\n被ってますからねぇ……",
-   "en": "Well, he is\\nwearing a mask...",
+   "en": "Well, naturally,\\nhe is wearing a\\nmask...",
    "op": "0x62",
    "msg": "0x5289"
   },
@@ -2055,7 +2055,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "誠仮面！　わしらは\\n何をすればええんじゃ？",
-   "en": "Makoto Mask!\\nWhat should\\nwe do?",
+   "en": "Makoto Mask!\\nWhat're we\\ns'posed to do?",
    "op": "0x62",
    "msg": "0x52c9"
   },
@@ -2295,7 +2295,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "わかったぜよ",
-   "en": "You got it!",
+   "en": "Got it, pal!",
    "op": "0x62",
    "msg": "0x52e1"
   },

@@ -738,7 +738,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "で　お前らは\\nこれまで通り　雷舞を\\n続けていくのか？",
-   "en": "And you guys?\\nWill you keep\\nplaying lives\\nlike before?",
+   "en": "And you\\nguys? Will you\\nkeep holding\\nlive shows like\\nbefore?",
    "op": "0x62",
    "msg": "0x13db"
   },
@@ -1725,7 +1725,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "わしらは\\n片魂仲間（ソウルメイト）\\nだろ？",
-   "en": "We're Piece\\nSoulmates,\\nain't we?",
+   "en": "We're Piece Soul\\nmates, ain't we?",
    "op": "0x62",
    "msg": "0x143b"
   },
@@ -2675,7 +2675,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "なんだ　本当に\\nシンディは\\n素直じゃないなあ",
-   "en": "Aw, jeez. Shindy\\nreally ain't\\nhonest, is he?",
+   "en": "Aw, jeez. Shindy\\njust can't be\\nhonest with\\nhimself, can he?",
    "op": "0x62",
    "msg": "0x149a"
   },

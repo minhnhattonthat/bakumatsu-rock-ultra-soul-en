@@ -2295,7 +2295,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "その唇に浮かぶのは\\n幾度も見てきた\\nあの空虚な笑みだ",
-   "en": "On his lips was\\nthat hollow smile\\nhe had seen so\\nmany times.",
+   "en": "On the boy's\\nlips was that\\nhollow smile\\nRyoma had seen\\nso many times.",
    "op": "0x62",
    "msg": "0x1e71"
   },
@@ -2425,7 +2425,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "ロックンロールぜよ！",
-   "en": "Rock 'n' roll!",
+   "en": "Rock 'n' roll,\\nI tell ya!",
    "op": "0x62",
    "msg": "0x1e7e"
   },
@@ -3369,7 +3369,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "誰の為の泰平でもない\\nただひたすらに人の魂を\\n喰らう化け物――",
-   "en": "A monster that\\nain't bringin'\\npeace for\\nanybody, just\\ndevourin'\\npeople's souls,\\nover and over--",
+   "en": "A monster that\\nbrings peace to\\nno one, only\\ndevours\\npeople's souls,\\nover and over--",
    "op": "0x62",
    "msg": "0x1ece"
   },

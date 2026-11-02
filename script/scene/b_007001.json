@@ -808,7 +808,7 @@
    "max": 8,
    "kind": "dialogue",
    "jp": "はい",
-   "en": "Yes, sir.",
+   "en": "Understood.",
    "op": "0x62",
    "msg": "0x302a"
   },
@@ -2208,7 +2208,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "斬るよ？",
-   "en": "I'll cut you,\\nyou know?",
+   "en": "Want me\\nto cut you?",
    "op": "0x62",
    "msg": "0x30b6"
   },

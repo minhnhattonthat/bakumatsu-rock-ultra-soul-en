@@ -78,7 +78,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "せっかくの雷舞じゃ！\\n日本代表の志士として\\n参加させてもらうぜよ！",
-   "en": "A live this big!\\nLet us join in,\\nas the rebels\\nrepresentin'\\nJapan!",
+   "en": "A live this big!\\nWe're joinin' in,\\nas the rebels\\nrepresentin'\\nJapan!",
    "op": "0x62",
    "msg": "0x53fb"
   },
@@ -278,7 +278,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "今日はわしのロックで\\nみんなの心と　うまい\\nピッツァを取り戻すぜよ！",
-   "en": "Today my rock's\\ngonna win back\\neverybody's\\nhearts -- and that\\ntasty pizza too!",
+   "en": "Today my rock's\\ngonna win back\\neverybody's\\nhearts--and that\\ntasty peetsa too!",
    "op": "0x62",
    "msg": "0x540f"
   },

@@ -48,7 +48,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "クズがさえずるための\\n口なんて削いでしまった\\n方がいいと思うけど",
-   "en": "If you ask me,\\ntrash that chirps\\nlike that ought to\\nhave its mouths\\nsliced right off.",
+   "en": "If you ask me,\\ntrash that chirps\\nlike that ought to\\nhave their mouths\\nsliced right off.",
    "op": "0x62",
    "msg": "0x081d"
   },
@@ -718,7 +718,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "おっと　いかん\\n俺も席に戻らねば……",
-   "en": "Oops, can't have\\nthat. I'd better get\\nback to my seat...",
+   "en": "Oops, I'd better\\nnot dawdle. Back\\nto my seat...",
    "op": "0x62",
    "msg": "0x0860"
   },
@@ -2145,7 +2145,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "さぁ　聴かせてよ！\\n君のロックを！",
-   "en": "Now, let us hear\\nit! Your rock!",
+   "en": "Come on, let's\\nhear it! Your rock!",
    "op": "0x62",
    "msg": "0x08ee"
   },

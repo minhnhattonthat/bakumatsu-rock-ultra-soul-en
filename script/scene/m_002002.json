@@ -1018,7 +1018,7 @@
    "max": 20,
    "kind": "choice",
    "jp": "呑気に感心するな！",
-   "en": "Quit gawking\\nso carelessly!",
+   "en": "Quit gawking\\nat them like\\nan airhead!",
    "op": "0x51"
   },
   {
@@ -2202,7 +2202,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "そうかな？\\nケンカも魂が共鳴してこそ\\nできることじゃ",
-   "en": "Is that so, hm?\\nWhy, fightin'\\nonly happens\\nbecause your\\nsouls resonate.",
+   "en": "Is that so, hm?\\nWhy, fighting\\nonly happens\\nbecause your\\nsouls resonate.",
    "op": "0x62",
    "msg": "0x05c6"
   },
@@ -2242,7 +2242,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "また　ときどき\\n様子を見に来るからの",
-   "en": "I'll drop by now\\nand then to see\\nhow you're\\ngettin' on, eh?",
+   "en": "I'll drop by now\\nand then to see\\nhow you're\\ngetting on, eh?",
    "op": "0x62",
    "msg": "0x05ca"
   },
@@ -3082,7 +3082,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "まずは　こいつを\\n大人しく\\nさせなくちゃ\\nどうにもならん",
-   "en": "First we gotta\\nsettle this fella\\ndown, or we ain't\\ngettin' anywhere.",
+   "en": "First we gotta\\nsubdue this\\nfella, or we ain't\\ngettin' anywhere.",
    "op": "0x62",
    "msg": "0x061e"
   },

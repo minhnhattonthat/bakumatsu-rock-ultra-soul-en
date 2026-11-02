@@ -438,7 +438,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "地べたにいつまでも\\n這いつくばってるヤツは\\n負け犬だよ",
-   "en": "Anyone who\\nstays groveling\\nin the dirt\\nforever is a loser.",
+   "en": "Anyone who stays\\ngroveling in the\\ndirt forever is a\\nwhipped dog.",
    "op": "0x62",
    "msg": "0x511c"
   },
@@ -458,7 +458,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "……そんな負け犬\\n好敵手とは認めないから",
-   "en": "...I won't call\\nlosers like\\nthat my rivals.",
+   "en": "...I won't call\\nwhipped dogs like\\nthat my rivals.",
    "op": "0x62",
    "msg": "0x511e"
   },
@@ -685,7 +685,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "ははっ　それは\\n勘弁してほしいぜよ！",
-   "en": "Haha, spare\\nme that one!",
+   "en": "Haha, spare me\\nthat one, I tell ya!",
    "op": "0x62",
    "msg": "0x5132"
   },
@@ -885,7 +885,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "烈！\\nロックンロールぜよ！",
-   "en": "Let's rock 'n' roll!",
+   "en": "Let's rock 'n'\\nrooooll, I tell ya!",
    "op": "0x62",
    "msg": "0x5146"
   },

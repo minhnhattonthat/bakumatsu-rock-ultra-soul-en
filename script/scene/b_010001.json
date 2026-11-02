@@ -378,7 +378,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "踏んづけてすっころんだ\\n拍子に岡持からぴっつぁが\\n飛んでいって",
-   "en": "I stomped on it\\nand took a\\ntumble, and the\\npizza went flyin'\\noutta the box...",
+   "en": "I stomped on it\\nand took a\\ntumble, and the\\npeetsa went flyin'\\noutta the box...",
    "op": "0x62",
    "msg": "0x2c2b"
   },
@@ -528,7 +528,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "よーし速攻で終わらせて\\n美味いぴっつぁを食うぜよ",
-   "en": "All right! I'll\\nfinish this\\nlickety-split and\\neat me some\\ntasty pizza!",
+   "en": "All right! I'll\\nfinish this\\nlickety-split and\\neat me some\\ntasty peetsa!",
    "op": "0x62",
    "msg": "0x2c3a"
   },
@@ -548,7 +548,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "わわわっ！\\n大事な出前のぴっつぁが！\\nこっちか？　こっちか？",
-   "en": "Whoa whoa\\nwhoa! The\\nprecious delivery\\npizza! This way?\\nThat way?",
+   "en": "Whoa whoa\\nwhoa! The\\nprecious delivery\\npeetsa! This\\nway? That way?",
    "op": "0x62",
    "msg": "0x2c3c"
   },

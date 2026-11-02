@@ -238,7 +238,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "まじで\\nどういう風の吹き回しじゃ",
-   "en": "Seriously? What's\\ngot into you all?",
+   "en": "Seriously? What's\\ngotten into y'all?",
    "op": "0x62",
    "msg": "0x2f1f"
   },
@@ -768,7 +768,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "誘惑したいと思うような\\n色男ではないものねぇ",
-   "en": "they're not\\nexactly the kind\\nof hunks\\nanyone'd want to\\nseduce, are they?",
+   "en": "they're not\\nexactly the kind\\nof ladies' men\\nanyone'd want to\\nseduce, are they?",
    "op": "0x62",
    "msg": "0x2f54"
   },
@@ -828,7 +828,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "おや　じゃあ自分達が\\n色男とでもいうのかい",
-   "en": "Oh? So you're\\nsaying you're\\nlady-killers?",
+   "en": "Oh? So you're\\nsaying you're\\nladies' men?",
    "op": "0x62",
    "msg": "0x2f5a"
   },
@@ -838,7 +838,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "当然じゃ！\\nわしほどの色男は\\nいないぜよ",
-   "en": "Course we are!\\nThere ain't a\\nlady-killer like\\nme anywhere!",
+   "en": "Course we are!\\nThere ain't a\\nladies' man like\\nme anywhere!",
    "op": "0x62",
    "msg": "0x2f5b"
   },
@@ -848,7 +848,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "龍馬　それは違うぜ\\nこの中で一番の色男と\\n言えば　オレ様だからな",
-   "en": "Ryoma, you've got\\nit wrong. When it\\ncomes to the\\nbiggest lady-killer\\nhere, that's the\\ngreat Takasugi.",
+   "en": "Ryoma, you've\\ngot it wrong.\\nWhen it comes\\nto the biggest\\nladies' man\\nhere, that's the\\ngreat Takasugi.",
    "op": "0x62",
    "msg": "0x2f5c"
   },
@@ -1258,7 +1258,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "危ないぜよ\\n当たり所が悪かったら\\n刺さったぜよ",
-   "en": "That's dangerous!\\nIf it'd hit wrong,\\nit would've stuck\\nright in me!",
+   "en": "That's dangerous,\\nI tell ya! If it'd hit\\nwrong, it\\nwould've stuck\\nright in me!",
    "op": "0x62",
    "msg": "0x2f85"
   },
@@ -1398,7 +1398,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "金がなくても\\n色男はモテる",
-   "en": "A real lady-killer\\nis popular even\\nwithout money.",
+   "en": "A real ladies' man\\nis popular even\\nwithout money.",
    "op": "0x62",
    "msg": "0x2f93"
   },

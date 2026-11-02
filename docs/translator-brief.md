@@ -57,7 +57,7 @@ copy `%d`, `%s`, `%x` exactly.
 - Ruby words: translate the reading (glossary "Decisions from earlier batches"). Takasugi plays bass, Katsura drums.
 - "Heaven's Song" takes no article ("Heaven's Song was always..."), like a name. Otose is warm ("dear", "you boys").
 - 雷舞 = live; when the plural "lives" could read as "life", write "live shows". 将軍様 -> "Lord Shogun". Ryoma's ぴっつぁ
-  -> "pitsa". Takasugi says "Hey", never "Oi", and never "ain't" (Ryoma's word). `--` unspaced (the wrapper may break a line after it).
+  (and his ピッツァ) -> "peetsa". Takasugi says "Hey", never "Oi", and never "ain't" (Ryoma's word). `--` unspaced (the wrapper may break a line after it).
 - A wordplay you adapt (a pun on 龍 = dragon, etc.): keep it short and report it as UNSURE.
 
 ## Consistency

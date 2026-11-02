@@ -48,7 +48,7 @@
    "max": 116,
    "kind": "dialogue",
    "jp": "泰平化を解かれた新選組の\\n隊士達からの熱い要望と\\n勝海舟の口添えにより\\n土方と沖田の　新選組への\\n復隊が決まった",
-   "en": "Freed troopers'\\nfervent pleas and\\na word from\\nKaishu Katsu got\\nHijikata and Okita\\nreinstated in the\\nShinsengumi.",
+   "en": "Fervent pleas\\nfrom the freed\\ntroopers and a\\nword from\\nKaishu Katsu got\\nHijikata and\\nOkita back into\\nthe Shinsengumi.",
    "op": "0x62",
    "msg": "0x1c9c"
   },
@@ -928,7 +928,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "……くっ\\nもしやと様子を見に来たが\\nやつらもやられたのか……",
-   "en": "...Damn. I came\\nto check on\\nthem just in\\ncase... Did they\\nget them too...?",
+   "en": "...Damn. I came\\nto check on\\nthem just in\\ncase... Have they\\nbeen struck\\ndown too...?",
    "op": "0x62",
    "msg": "0x1cf4"
   },
@@ -1555,7 +1555,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "わしらが留守にしていた間\\n何が起こったか教えてくれ",
-   "en": "Tell us what\\nhappened while\\nwe were away.",
+   "en": "Tell us what\\nhappened\\nwhile we were\\ngone, will ya?",
    "op": "0x62",
    "msg": "0x1d31"
   },

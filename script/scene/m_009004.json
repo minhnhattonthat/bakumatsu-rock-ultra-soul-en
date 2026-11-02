@@ -248,7 +248,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "慶喜様？\\n将軍様のことか！",
-   "en": "Yoshinobu-sama?\\nYou mean\\nthe shogun!",
+   "en": "Yoshinobu-sama?\\nYou mean\\nLord Shogun!",
    "op": "0x62",
    "msg": "0x1bce"
   },
@@ -508,7 +508,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "それこそお前の\\n思い上がりじゃ！",
-   "en": "You're the one\\nwho doesn't\\nknow his place!",
+   "en": "You're the\\narrogant\\none here!",
    "op": "0x62",
    "msg": "0x1be8"
   },

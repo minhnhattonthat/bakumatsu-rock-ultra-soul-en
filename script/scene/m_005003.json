@@ -188,7 +188,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "感受性豊かで敏感な方が\\nいい音楽を奏でられる\\n先生はそう言ってましたよ",
-   "en": "The more\\nsensitive and\\nreceptive you\\nare, the better\\nthe music you\\ncan play. That's\\nwhat Sensei\\nused to say.",
+   "en": "The more\\nsensitive and\\nreceptive you\\nare, the better\\nthe music you can\\nplay. That's what\\nShoin-sensei used\\nto say.",
    "op": "0x62",
    "msg": "0x0eb8"
   },
@@ -678,7 +678,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "お登勢やんの\\nぴっつぁが\\n食べたいぜよ！",
-   "en": "I'm cravin'\\nOtose-yan's pizza!",
+   "en": "I'm cravin'\\nOtose-yan's\\npeetsa!",
    "op": "0x62",
    "msg": "0x0ee9"
   },
@@ -1158,7 +1158,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "もし　あるのなら\\n誰かが殺され　俺も誰かを\\n殺したいなどと……",
-   "en": "If one did... then\\nsomeone being\\nkilled, me\\nwanting to kill\\nsomeone in turn...",
+   "en": "If there were...\\nthen a killing,\\nand my own urge\\nto kill in return...",
    "op": "0x62",
    "msg": "0x0f19"
   },
@@ -1168,7 +1168,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "そんなものに\\n取り憑かれはしなかった",
-   "en": "...I'd never have\\nbeen possessed\\nby any of that.",
+   "en": "...I'd never have\\nbeen haunted\\nby any of that.",
    "op": "0x62",
    "msg": "0x0f1a"
   },
@@ -1618,7 +1618,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "やれやれ……あいつらは\\nお尋ね者なんだがな",
-   "en": "Good grief...\\nThose guys are\\nwanted men,\\nyou know.",
+   "en": "Good grief...\\nThey're\\nwanted men.",
    "op": "0x62",
    "msg": "0x0f47"
   },

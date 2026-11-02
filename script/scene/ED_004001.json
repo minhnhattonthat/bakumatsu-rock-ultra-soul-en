@@ -608,7 +608,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "稽古をサボった分際で\\n口ごたえをするんじゃない",
-   "en": "Don't talk back\\nwhen you\\nskipped training.",
+   "en": "You skipped\\ntraining.\\nYou've no right\\nto talk back.",
    "op": "0x62",
    "msg": "0x2134"
   },

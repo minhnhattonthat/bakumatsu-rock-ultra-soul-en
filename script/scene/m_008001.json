@@ -1505,7 +1505,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "もっと早く来いよ……",
-   "en": "Could you have\\ncome any later...?",
+   "en": "You could've\\ncome sooner...",
    "op": "0x62",
    "msg": "0x1731"
   },
@@ -1755,7 +1755,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "お前らが無事だったのは\\n運良く　その命が下りて\\nいなかっただけだろう",
-   "en": "You lot are only\\nsafe because,\\nby luck, they\\nweren't ordered\\nto kill you yet.",
+   "en": "You guys are only\\nsafe because, by\\nluck, they hadn't\\nbeen ordered to\\nkill you yet.",
    "op": "0x62",
    "msg": "0x174a"
   },
@@ -2175,7 +2175,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "捕らえた坂本の様子は\\nどうだ？　お龍",
-   "en": "How fares our\\ncaptive\\nSakamoto, Oryo?",
+   "en": "And how is our\\ncaptive\\nSakamoto, Oryo?",
    "op": "0x62",
    "msg": "0x1774"
   },

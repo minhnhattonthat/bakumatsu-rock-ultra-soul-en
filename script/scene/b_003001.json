@@ -328,7 +328,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "なにがだよ？",
-   "en": "What does?",
+   "en": "What makes\\nsense?",
    "op": "0x62",
    "msg": "0x2730"
   },
@@ -1248,7 +1248,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "健康に気遣うとか\\nロックじゃねえだろ……",
-   "en": "Watching your\\nhealth? That ain't\\nexactly rock...",
+   "en": "Watching your\\nhealth? That's\\nnot exactly rock...",
    "op": "0x62",
    "msg": "0x278c"
   },

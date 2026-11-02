@@ -658,7 +658,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "ほーい　わかったぜよ",
-   "en": "Yo-ho, you got it!",
+   "en": "Yo-ho, gotcha,\\nya hear!",
    "op": "0x62",
    "msg": "0x299f"
   },
@@ -698,7 +698,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "お登勢やん\\n特製ぴっつぁに\\nたっぷりタバスコ\\nかけといたぜよ",
-   "en": "Here's Otose-yan's\\nspecial pitsa! I\\ndrowned it in\\nTabasco for ya!",
+   "en": "Here's Otose-yan's\\nspecial peetsa! I\\ndrowned it in\\nTabasco for ya!",
    "op": "0x62",
    "msg": "0x29a3"
   },

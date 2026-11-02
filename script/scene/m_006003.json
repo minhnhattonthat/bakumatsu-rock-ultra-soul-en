@@ -328,7 +328,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "沖田を懐柔して\\n勝ったつもりか",
-   "en": "You win Okita\\nover, and now\\nyou think\\nyou've won?",
+   "en": "You've won\\nOkita over, and\\nyou think that's\\na victory?",
    "op": "0x62",
    "msg": "0x118f"
   },
@@ -948,7 +948,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "それは美しい……\\n化け物になりたまえ！",
-   "en": "Become a\\nbeautiful...\\nmonster!",
+   "en": "How beautiful...\\nNow, become a\\nmonster!",
    "op": "0x62",
    "msg": "0x11cc"
   },
@@ -1038,7 +1038,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "龍馬くんっ！\\n沖田くんはもう理性が\\n残っていない！",
-   "en": "Ryoma-kun!\\nOkita-kun has\\nno reason left!",
+   "en": "Ryoma-kun!\\nOkita-kun has\\nlost all reason!",
    "op": "0x62",
    "msg": "0x11d6"
   },

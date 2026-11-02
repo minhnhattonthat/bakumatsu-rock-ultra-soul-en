@@ -318,7 +318,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "いやん　龍ちゃん\\nどこにいたのよ",
-   "en": "Oh, Ryo-chan!\\nWhere were you?",
+   "en": "Oh, Ryo-chan~\\nWhere have\\nyou been?",
    "op": "0x62",
    "msg": "0x06eb"
   },
@@ -1935,7 +1935,7 @@
    "max": 8,
    "kind": "dialogue",
    "jp": "あぁ",
-   "en": "Huh?",
+   "en": "Hah?",
    "op": "0x62",
    "msg": "0x078b"
   },
@@ -2855,7 +2855,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "しかたがないから\\n新選組の雷舞に\\n行ってやる！",
-   "en": "Fine. Since I've\\ngot no choice, I'll\\ngo to your\\nShinsengumi live!",
+   "en": "Fine. Since I've\\ngot no choice, I'll\\ngo to that\\nShinsengumi live!",
    "op": "0x62",
    "msg": "0x07e7"
   },

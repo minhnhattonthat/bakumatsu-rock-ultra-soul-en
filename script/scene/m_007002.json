@@ -145,7 +145,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "ほんとにおめでたい\\n頭なんだね～\\n僕は呆れてるんだけど",
-   "en": "What a truly\\nhappy-go-lucky\\nhead you've\\ngot~ I'm actually\\nappalled.",
+   "en": "You've got a truly\\nhappy-go-lucky\\nbrain, you know~\\nI'm actually\\nappalled.",
    "op": "0x62",
    "msg": "0x14cc"
   },
@@ -345,7 +345,7 @@
    "max": 8,
    "kind": "dialogue",
    "jp": "ほえ？",
-   "en": "Huh?",
+   "en": "Hwah?",
    "op": "0x62",
    "msg": "0x14e0"
   },
@@ -855,7 +855,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "そうだ！\\nモジャモジャの先生は\\n無事だったのか！",
-   "en": "Sure is! So\\nthe Shaggy\\nSensei's safe!",
+   "en": "That's right!\\nSo the Shaggy\\nSensei's safe!",
    "op": "0x62",
    "msg": "0x1513"
   },
@@ -3352,7 +3352,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "オレ様のロックで先生の\\n魂を揺さぶり起こして\\n目を覚まさせてやるぜ",
-   "en": "I'll shake Sensei's\\nsoul awake with\\nmy rock and\\nmake him open\\nhis eyes!",
+   "en": "Yours truly will\\nshake Sensei's\\nsoul awake\\nwith his rock\\nand make him\\nopen his eyes!",
    "op": "0x62",
    "msg": "0x160c"
   },

@@ -448,7 +448,7 @@
    "max": 96,
    "kind": "dialogue",
    "jp": "だがその井伊の声は\\n慶喜に届くことはない\\n呪いに呑み込まれた将軍は\\nほの暗い幸福に浸っていた",
-   "en": "But Ii's voice\\nwould never\\nreach Yoshinobu.\\nSwallowed by the\\ncurse, the\\nshogun was\\nsteeped in a dim,\\nhollow happiness.",
+   "en": "But Ii's voice\\nwould never\\nreach Yoshinobu.\\nSwallowed by the\\ncurse, the shogun\\nwas steeped in a\\ndim happiness.",
    "op": "0x62",
    "msg": "0x2034"
   },
@@ -558,7 +558,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "そこにおったか！\\nふふ　そうじゃな　直弼は\\n予を置いてはいかぬ！",
-   "en": "There you are!\\nHehe, of course.\\nNaosuke would\\nnever leave me\\nbehind!",
+   "en": "Ah, there you\\nare! Hehe, of\\ncourse. Naosuke\\nwould never\\nleave me behind!",
    "op": "0x62",
    "msg": "0x203f"
   },

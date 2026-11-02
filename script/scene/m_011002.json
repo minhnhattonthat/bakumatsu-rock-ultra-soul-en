@@ -438,7 +438,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "けっ　あんなもん\\nロックじゃねえ！\\n激辛こそロックだぜ！",
-   "en": "Tch. That stuff\\nain't rock! Only\\nsuper-spicy is\\nrock!",
+   "en": "Tch. That stuff\\nisn't rock! Only\\nsuper-spicy is\\nrock!",
    "op": "0x62",
    "msg": "0x4fbf"
   },
@@ -548,7 +548,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "頼もーう！",
-   "en": "Hellooo!\\nAnybody home!?",
+   "en": "Ho there, within!\\nI request entry!",
    "op": "0x62",
    "msg": "0x4fca"
   },

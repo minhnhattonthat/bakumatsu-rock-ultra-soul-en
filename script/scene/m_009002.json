@@ -88,7 +88,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "これがぴっつぁか\\n初めて食うが……",
-   "en": "So this is a\\npitsa... First time\\nI've ever had it...",
+   "en": "So this is a\\npeetsa... First time\\nI've ever had it...",
    "op": "0x62",
    "msg": "0x1ab3"
   },
@@ -658,7 +658,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "最後の　オレ様達が\\nぶっ飛ぶ話ってのは\\n何なんだ？",
-   "en": "So what's this\\nlast one, the one\\nthat's supposed\\nto knock the\\ngreat Takasugi's\\nsocks off?",
+   "en": "So what's this\\nlast one, the one\\nthat's supposed\\nto knock our\\nsocks off?",
    "op": "0x62",
    "msg": "0x1aec"
   },
@@ -948,7 +948,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "ノるさ！\\n当たり前だろ！",
-   "en": "Of course!",
+   "en": "I'm in! Of\\ncourse I am!",
    "op": "0x62",
    "msg": "0x1b09"
   },

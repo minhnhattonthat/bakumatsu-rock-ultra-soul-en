@@ -728,7 +728,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "それじゃ\\nいってくるぜよ！",
-   "en": "Well then, I'm off!",
+   "en": "Well then, I'm\\noff, I tell ya!",
    "op": "0x62",
    "msg": "0x046c"
   },
@@ -1198,7 +1198,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "そうかそうか\\nお登勢やんのぴっつぁは\\n本当にうまいからなあ！",
-   "en": "I'll bet!\\nOtose-yan's\\npizza is real\\ntasty, after all!",
+   "en": "Yeah, yeah!\\nOtose-yan's\\npeetsa is real\\ntasty, after all!",
    "op": "0x62",
    "msg": "0x049b"
   },
@@ -1228,7 +1228,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "おう！　お登勢やん！\\nシンディにぴっつぁの\\nお代わりじゃ！",
-   "en": "You got it!\\nOtose-yan!\\nAnother pizza\\nfor Shindy here!",
+   "en": "You got it!\\nOtose-yan!\\nAnother peetsa\\nfor Shindy here!",
    "op": "0x62",
    "msg": "0x049e"
   },
@@ -1278,7 +1278,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "いいのか？\\nぜひ　お願いするぜよ！",
-   "en": "Really? I'd be\\nmuch obliged,\\nI tell ya!",
+   "en": "Really? I'd sure\\nappreciate it, I\\ntell ya!",
    "op": "0x62",
    "msg": "0x04a3"
   },

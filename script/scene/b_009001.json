@@ -68,7 +68,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "今日はテラーダの\\n仕事（バイト）も\\n終わったし\\nゆっくりするか～",
-   "en": "My shift at the\\nTerada's done for\\ntoday, so I reckon\\nI'll kick back~",
+   "en": "My shift at\\nTerada's done for\\ntoday, so I reckon\\nI'll kick back~",
    "op": "0x62",
    "msg": "0x2aa4"
   },
@@ -688,7 +688,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "ぴっつぁぜよ！",
-   "en": "Pizza, that's what!",
+   "en": "Peetsa,\\nthat's what!",
    "op": "0x62",
    "msg": "0x2ae2"
   },
@@ -708,7 +708,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "今日はお登勢やんの\\n手伝いをして　わしも\\nぴっつぁを作ったなぁ",
-   "en": "Today I was\\nhelpin' Otose-yan\\nout, so I made\\nsome pizza\\nmyself, too!",
+   "en": "Today I was\\nhelpin' Otose-yan\\nout, so I made\\nsome peetsa\\nmyself, too!",
    "op": "0x62",
    "msg": "0x2ae4"
   },
@@ -1568,7 +1568,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "それは　この\\n名探偵☆カツラ君！\\nが推理しましょう！",
-   "en": "That, Great\\nDetective\\nKatsura-kun!\\nshall now deduce!",
+   "en": "That, Great\\nDetective\\nKatsura-kun shall\\nnow deduce!",
    "op": "0x62",
    "msg": "0x2b3a"
   },
@@ -1618,7 +1618,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "もちろん土方クンの\\n性格からして　盗った\\nわけがないとも思いました",
-   "en": "Of course,\\nknowing\\nHijikata-kun's\\ncharacter, he\\nalso knew there\\nwas no way\\nHijikata-kun\\nwould steal it.",
+   "en": "Of course,\\nknowing\\nHijikata-kun's\\ncharacter,\\nOkita-kun also\\nnever believed\\nhe'd steal it.",
    "op": "0x62",
    "msg": "0x2b3f"
   },
@@ -1908,7 +1908,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "これにて一件落着ぅ！",
-   "en": "And so, this\\nmatter is settled~!",
+   "en": "And thus, all\\nis well that\\nends well~!",
    "op": "0x62",
    "msg": "0x2b5c"
   },

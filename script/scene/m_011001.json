@@ -208,7 +208,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "そりゃあいい！\\nお登勢やんのぴっつぁは\\nマジでうまいからな！",
-   "en": "That's great!\\nOtose-yan's\\npitsa is seriously\\ndelicious!",
+   "en": "That's great!\\nOtose-yan's\\npeetsa is\\nseriously\\ndelicious!",
    "op": "0x62",
    "msg": "0x4ea8"
   },
@@ -258,7 +258,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "おう　勝のおっさんの家で\\nロックと政治の勉強中って\\n聞いとるぜよ",
-   "en": "Yup. Heard\\nthey're studyin'\\nrock and politics\\nat old man\\nKatsu's place.",
+   "en": "Yup. Heard\\nthey're studyin'\\nrock and politics\\nat Old Man\\nKatsu's place.",
    "op": "0x62",
    "msg": "0x4ead"
   },
@@ -1985,7 +1985,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "それじゃ\\n黒船で！",
-   "en": "Then climb\\naboard the\\nBlack Ships!",
+   "en": "Then let's go\\nby Black Ships!",
    "op": "0x62",
    "msg": "0x4f57"
   },

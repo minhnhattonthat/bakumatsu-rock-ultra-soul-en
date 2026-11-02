@@ -248,7 +248,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "てめーら　オレ様の音を\\n一音たりとも聴き逃すなよ\\nわかったな？",
-   "en": "You lot, don't\\nyou dare miss\\na single note\\nof mine. Got it?",
+   "en": "Don't you\\npeasants dare\\nmiss a single note\\nof mine. Got it?",
    "op": "0x62",
    "msg": "0x09c8"
   },
@@ -288,7 +288,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "ですねぇ",
-   "en": "Isn't he, though.",
+   "en": "He certainly is.",
    "op": "0x62",
    "msg": "0x09cc"
   },
@@ -768,7 +768,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "そりゃ　みんなに楽しんで\\n欲しいからに決まってる\\nセンセーもそう思うだろ？",
-   "en": "Well, 'cause we\\nwant everybody\\nto have fun,\\nobviously! Ain't\\nthat right,\\nSensei?",
+   "en": "Well, 'cause we\\nwant everybody\\nto have fun, of\\ncourse! Ain't that\\nright, Sensei?",
    "op": "0x62",
    "msg": "0x09fc"
   },
@@ -838,7 +838,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "今まで温めていた\\nとっておきの曲が　昨日\\nついに完成したんだからな",
-   "en": "'Cause the ace\\nsong I've been\\nsavin' up finally\\ngot finished\\nyesterday!",
+   "en": "'Cause the ace\\nsong I've been\\nsaving up finally\\ngot finished\\nyesterday!",
    "op": "0x62",
    "msg": "0x0a03"
   },
@@ -1475,7 +1475,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "こ　これは超特大ぴっつぁ！\\n出来立てのアツアツだっ\\n良い匂いがするぜよ",
-   "en": "Wh-whoa, a\\nsuper-huge\\npiiizza! Fresh\\noutta the oven\\nand piping\\nhot! Smells\\nmighty good!",
+   "en": "Wh-whoa, a\\nsuper-huge\\npeeeetsa! Fresh\\noutta the oven\\nand piping hot!\\nSmells mighty\\ngood!",
    "op": "0x62",
    "msg": "0x0a40"
   },
@@ -1495,7 +1495,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "シンディ\\n雷舞の話は後回しだ\\n今はぴっつぁぜよ ",
-   "en": "Shindy, live\\ntalk can wait.\\nRight now it's\\npiiizza time!",
+   "en": "Shindy, live\\ntalk can wait.\\nRight now it's\\npeeeetsa time!",
    "op": "0x62",
    "msg": "0x0a42"
   },

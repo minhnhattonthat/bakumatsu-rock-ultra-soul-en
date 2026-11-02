@@ -518,7 +518,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "あれ　なにかしら？\\n歌？　歌にしちゃあ\\nずいぶん\\n下手なのよねぇ",
-   "en": "What is that,\\nanyway? Singing?\\nAwfully bad for\\nsinging, isn't it?",
+   "en": "What is that,\\nanyway? Singing?\\nPretty awful for\\nsinging, if you\\nask me~",
    "op": "0x62",
    "msg": "0x0218"
   },
@@ -548,7 +548,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "んふっ　何かに夢中に\\nなってる男って\\nいいものだものね～ぇ",
-   "en": "Tee hee. There's\\njust something\\nabout a man\\nwho's crazy\\nabout something,\\nisn't there~?",
+   "en": "Tee hee~ There's\\njust something\\nabout a man\\nwho's crazy\\nabout something,\\nisn't there~?",
    "op": "0x62",
    "msg": "0x021b"
   },
@@ -1358,7 +1358,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "あむっあむあむあむ！\\nやっぱお登勢やんの\\nぴっつぁは最高だ～！",
-   "en": "*Munch, munch,\\nmunch!*\\nOtose-yan's pizza\\nreally is the best~!",
+   "en": "*Munch,\\nmunch, munch!*\\nOtose-yan's\\npeetsa really\\nis the best~!",
    "op": "0x62",
    "msg": "0x026c"
   },
@@ -2248,7 +2248,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "てめぇみたいな盗人野郎に\\n呼ばれる名前なんざ\\n持ち合わせてないんだ",
-   "en": "I don't have a\\nname for some\\nthieving punk like\\nyou to call me by!",
+   "en": "A thieving punk\\nlike you doesn't\\nget to call me\\nanything!",
    "op": "0x62",
    "msg": "0x02c7"
   },
@@ -2855,7 +2855,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "そんなことはしとらん！\\n疑うなら　その松陰先生に\\n訊けばいい！",
-   "en": "I did no such\\nthing! If you\\ndoubt me, go ask\\nthis Shoin-sensei\\nyourself!",
+   "en": "I ain't done\\nnothin' like that!\\nIf you doubt\\nme, go ask this\\nShoin-sensei\\nyourself!",
    "op": "0x62",
    "msg": "0x0300"
   },
@@ -3525,7 +3525,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "貴様ら　今\\n禁じられている音楽を\\n奏でようとしておったな！",
-   "en": "You lot were\\nabout to play\\nforbidden\\nmusic just now,\\nweren't you!",
+   "en": "You people\\nwere about to\\nplay forbidden\\nmusic just now,\\nweren't you!",
    "op": "0x62",
    "msg": "0x0343"
   },

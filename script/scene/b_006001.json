@@ -288,7 +288,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "最後まで近藤さんに迷惑を\\nかけて……",
-   "en": "Causing\\nKondo-san\\ntrouble right to\\nthe very end...",
+   "en": "He caused\\nKondo-san\\ntrouble right to\\nthe very end...",
    "op": "0x62",
    "msg": "0x27c1"
   },
@@ -328,7 +328,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "最後まで強く優しく\\n誇り高く　そんな\\n誠の武士（おとこ）に……",
-   "en": "Strong and kind\\nto the very end,\\nproud... a true\\nman of sincerity...",
+   "en": "Strong and\\nkind to the very\\nend, proud... a\\ntrue samurai of\\nsincerity...",
    "op": "0x62",
    "msg": "0x27c5"
   },
@@ -1628,7 +1628,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "トシ　強くなれ　真に強い\\n誠の武士になりたいのなら\\n俺が手を貸してやる",
-   "en": "Toshi, get\\nstrong. If you\\nwant to become a\\ntruly strong man\\nof sincerity, I'll\\nlend you a hand.",
+   "en": "Toshi, get strong.\\nIf you want to\\nbecome a truly\\nstrong samurai\\nof sincerity, I'll\\nlend you a hand.",
    "op": "0x62",
    "msg": "0x2846"
   },

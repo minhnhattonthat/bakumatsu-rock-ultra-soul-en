@@ -375,7 +375,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "本当に\\n能天気だな……",
-   "en": "You really do\\nhave sunshine\\nfor brains...",
+   "en": "You really do\\nhave sunshine\\nbetween the\\nears...",
    "op": "0x62",
    "msg": "0x0fa2"
   },
@@ -732,7 +732,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "その通りじゃ！\\nさあ　今日も\\n思いっきり歌うぜよ！",
-   "en": "Darn right!\\nNow, let's sing\\nour hearts out\\nagain today!",
+   "en": "Damn straight!\\nNow, let's sing\\nour hearts out\\nagain today!",
    "op": "0x62",
    "msg": "0x0fc3"
   },
@@ -1579,7 +1579,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "いや～風流　風流",
-   "en": "My, how elegant,\\nhow elegant!",
+   "en": "Ahh, real classy!\\nReal classy stuff,\\nI tell ya!",
    "op": "0x62",
    "msg": "0x1016"
   },
@@ -2119,7 +2119,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "お前の能天気と\\n一緒にするんじゃねえ！",
-   "en": "Don't lump\\nme in with\\nyour sunshine\\nfor brains!",
+   "en": "Don't lump me in\\nwith your\\nsunshine\\nbetween the ears!",
    "op": "0x62",
    "msg": "0x104d"
   },
@@ -2209,7 +2209,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "ふふふ　引き抜いた矢を\\nマイク代わりにして\\n歌うとはね",
-   "en": "Hehehe. Using\\nthe arrow he\\npulled out as\\na microphone\\nto sing...",
+   "en": "Hehehe. Using\\nthe arrow\\nTakasugi\\npulled out as\\na microphone\\nto sing...",
    "op": "0x62",
    "msg": "0x1056"
   },
@@ -2749,7 +2749,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "今の僕の歌を聴いたら\\n近藤さんも抗えないんじゃ\\nないかな？　うふふ……",
-   "en": "If you heard me\\nsing now,\\nKondo-san, I\\ndon't think even\\nyou could\\nresist. Tee hee...",
+   "en": "If you heard\\nme sing now,\\nKondo-san, I\\ndon't think\\neven you could\\nresist. Hehe...",
    "op": "0x62",
    "msg": "0x131c"
   },

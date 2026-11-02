@@ -38,7 +38,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "志士共よ\\n貴様らの希望は潰えた",
-   "en": "Rebels.\\nYour hopes\\nare crushed.",
+   "en": "Rebels...\\nyour hopes\\nare crushed.",
    "op": "0x62",
    "msg": "0x58bc"
   },
@@ -218,7 +218,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "慶喜様\\n腹部に力を入れるのです\\n天歌を制すもの天地を制す",
-   "en": "Yoshinobu-sama,\\ntighten your\\nstomach! He\\nwho masters the\\nHeaven's Song\\nmasters heaven\\nand earth!",
+   "en": "Yoshinobu-sama,\\ntighten your\\nstomach! He who\\nmasters Heaven's\\nSong masters\\nheaven and earth!",
    "op": "0x62",
    "msg": "0x58ce"
   },

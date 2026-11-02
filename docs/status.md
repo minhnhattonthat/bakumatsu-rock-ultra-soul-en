@@ -32,6 +32,16 @@ Updated at the end of every session. Keep it to what the next session needs; his
     tinted (no stroke); chapter cards off-centre (`gfx` title rows keep the canvas centre); b_017001 stub line,
     b_006002 wording. Checked, not bugs: ADV card text behind the pause menu (the original does it too), the
     "--Edo" dash (drawn), ui_system_text 0x5d80. font24 had blank ASCII: `vwf.font24()` now ships Latin glyphs.
+  - Visual QA round 2 (after the round-1 fixes): 3 issues, fixed: SFX textures that are kana atlases (the game
+    draws one sprite per kana piece and re-arranges them: adv_260/265/271/279/287/293/320/336/337/339, found by
+    sprite-quad count in the D2C) now carry romaji per piece (`box=` per connected component, ー/! pieces kept);
+    SQUEEZE kept inside its sprite; Bangers italic overhang was clipped by typeset's layer (gfx.fit pads it).
+  - Polish pass: all 47 earlier polish.md lines (43 fixed, 4 waived). Memstick-space notice: the number now starts
+    its own line (the game joins "at least" + number).
+  - Story pass (`tools/story.py` -> `work/qa/story/chapters/*.txt`, 21 files; reviewer brief
+    `docs/story-reviewer-brief.md`; verdicts `work/qa/story/verdicts/`): 21/21 ok, one Important fixed
+    (m_006001:0x34928 Ryoma's 風流 line), 117 Minors -> polish.md "Story pass" section. Speaker column is "-" (the
+    speaker op isn't decoded), reviewers inferred speakers.
   - **Known issue (open):** the ADV back log shows no speaker labels in English (JP: 坂本龍馬 / ト書き left of each
     entry). Not the names (Japanese names also vanish), not font24, not the box mode (a build that keeps mode 2:
     still no labels), not the EBOOT code (a build without ADV_CODE/TEXT_CODE: still none). The English back log also

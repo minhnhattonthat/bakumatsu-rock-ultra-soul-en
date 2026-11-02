@@ -898,7 +898,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "そっちは　もっと\\n厳しい状況なんです",
-   "en": "That situation\\nis even more\\ndifficult.",
+   "en": "That would be\\neven tougher,\\nI'm afraid.",
    "op": "0x62",
    "msg": "0x19fa"
   },
@@ -1295,7 +1295,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "ちょっ\\nよくないぜよ！",
-   "en": "Wh-- No, it\\ndoes NOT!",
+   "en": "Whoa, whoa!\\nThat ain't\\nokay, I tell ya!",
    "op": "0x62",
    "msg": "0x1a1f"
   },
@@ -1655,7 +1655,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "いっそのこと　少し短く\\nなった方が口数が減って\\n良かったかもしれん",
-   "en": "If it got a little\\nshorter, you\\nmight talk less.\\nMight've been\\nfor the best.",
+   "en": "If your tongue\\nwere a little\\nshorter, you\\nmight talk less.\\nMight've been\\nfor the best.",
    "op": "0x62",
    "msg": "0x1a43"
   },
@@ -2295,7 +2295,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "恐らく勝が\\n警備体制を\\n指示したのだろう",
-   "en": "Katsu had\\nprobably\\narranged the\\nguard himself.",
+   "en": "Katsu had\\nprobably set\\nup the security\\narrangements\\nhimself.",
    "op": "0x62",
    "msg": "0x1a84"
   },
@@ -2555,7 +2555,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "ええ？　だって\\nおなかが減ったって\\n言ったのはおじさんでしょ",
-   "en": "Huh? But you're\\nthe one who\\nsaid he was\\nhungry, mister.",
+   "en": "Huh? But you're\\nthe one who\\nsaid you were\\nhungry, mister.",
    "op": "0x62",
    "msg": "0x1a9e"
   },

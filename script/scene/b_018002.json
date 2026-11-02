@@ -48,7 +48,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "慶喜たちの歌が終わる頃には\\n老中たちは恍惚の表情を\\n浮かべていた",
-   "en": "By the time\\nYoshinobu's song\\ncame to an end,\\nthe Elders wore\\nlooks of rapture.",
+   "en": "By the time\\nYoshinobu and\\nthe others\\nfinished their\\nsong, the Elders\\nwore looks of\\nrapture.",
    "op": "0x62",
    "msg": "0x584d"
   },
@@ -458,7 +458,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "そして\\n慶喜様の役に立たぬ者は\\n皆殺しだ",
-   "en": "And all who are\\nof no use to\\nYoshinobu-sama\\nwill die.",
+   "en": "And all who are\\nof no use to\\nYoshinobu-sama\\nwill be\\nslaughtered,\\nevery last one.",
    "op": "0x62",
    "msg": "0x5876"
   },
@@ -498,7 +498,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "生かしておいて\\n差し上げよう",
-   "en": "I shall let\\nyou live.",
+   "en": "I shall graciously\\nlet you live.",
    "op": "0x62",
    "msg": "0x587a"
   },
@@ -568,7 +568,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "くっくっくっ……\\nわーっはっはっはっ！",
-   "en": "Heh heh heh...\\nWahahahaha!",
+   "en": "Heh heh heh...\\nAhahahaha!",
    "op": "0x62",
    "msg": "0x5881"
   },

@@ -125,6 +125,9 @@ an `Avoid` spelling fails. Name + honorific (龍馬さん) must come out as `Ryo
 | 混色様式 | Mixed Color Style | | song: GOD BREATH -Mixed Color Style- | |
 | 宙ノ翼 | Wings of the Sky | | song | |
 | 絶頂DAYBREAK | Zenith DAYBREAK | | song | Climax DAYBREAK |
+| 光の原石 | The Uncut Gem of Light | | song | |
+| サークルサークル | Circle Circle | | song | |
+| 非常幻想オーバーミラージュ | Extraordinary Fantasy Over Mirage | | song | |
 | 松下村塾 | Shoka Sonjuku | | Shoin's school | |
 | 壬生組 | Mibu-gumi | | | |
 | 記録メディア | Memory Stick | | system text | |

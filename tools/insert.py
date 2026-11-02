@@ -173,6 +173,8 @@ def patch_script(name, data, texts, kind='scene', shared=None):
             else:
                 out += tok.to_bytes(4, 'little')
         words = (len(out) - off_map[ins.off]) // 4
+        if words == (ins.words or 1):
+            words = ins.words  # keep a 0 words field: the chart player crashes (jump to 0) on 0 -> 1
         out[off_map[ins.off]:off_map[ins.off] + 4] = ins.op.to_bytes(2, 'little') + words.to_bytes(2, 'little')
         if ins.table:
             for tok in ins.table:

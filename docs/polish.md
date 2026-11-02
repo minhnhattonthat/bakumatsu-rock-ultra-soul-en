@@ -56,6 +56,16 @@ The release script refuses to run while any line is unticked.
 - [ ] ED_004001:0x754c vs 0x16f0c 茶店/茶屋 one word; 0x18204 "Here are a ... and a parfait"
 - [ ] ED_005001:0x2720 "best too?"; 0x4050 Katsura "please"; 0x18b54 ya/you mix
 
+## b092-b114 (profiles, skits, UI)
+- [ ] ui_skit_00:0x2b0, 0x7d0, 0x1c1c, 0x288c, 0x3838, 0x3928, 0x46a4/0x46cc, 0x3a68 'I like you', 0x5544, 0x5c94, 0x67b8
+- [ ] ui_profile:0x29dc "I was made for the world."; 0x67ac rakkyo; 0x18e4 "behind Kondo's back"; bio tense pass
+- [ ] ui_skit_00:0x9c30 calisthenics; 0x933c; 0x9938; 0xe310 "I was Kondo-san's man"; 0xf46c "talking about"
+- [ ] ui_skit_01:0x2e50/0x2edc pronoun; 0x3bd8; 0x2534; 0x1fe4; 0x2bf8; Katsura "you know" over-use
+- [ ] ui_skit_02:0x454, 0x236c, 0x3494 "HUP!!???", 0x43c0, Okita "Tee hee" -> "Hehe", 0x5718, 0x274 "Bring it on!"
+- [ ] ui_system_text:0x628 "O Enter"; 0x8418, 0x36e8, 0x65a0, 0x2090, 0xc518 wording; 0xa290/0xa498 number join (check in game)
+- [ ] staff roll: two-column cast lines ragged in the proportional font; names romanized without an official source
+  check (list in the b115-b119 translator report: Sora Fujii, Masaaki Shimoma, ...)
+
 ## b088-b091
 - [ ] ED_005001:0x28260, 0x2b0d8 "I know he's an idiot", 0x2db7c "Getting cold feet, are ya?"; Alright/All right one spelling
 - [ ] ED_006001:0x85f0, 0x10d84 "test it"; ED_008001:0xb7c4 "Ready, go~!"; ui_event:0x17c "The Trio's Live"; 0x20c check stomper/stomped

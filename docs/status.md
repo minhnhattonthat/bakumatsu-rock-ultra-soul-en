@@ -2,11 +2,18 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 6 (translate) **in progress**: `tools/batches.py split` made b001-b114 (16,189 entries, `work/tl/`,
-  gitignored: re-split only if work/ is lost). Reviewed + merged: b001-b071. Translated, in review: b072-b091.
-  Translating: b092-b114 (b108-b114 = UI/skit/system/EBOOT slots). Merge = `batches.py merge bNNN..` after check +
-  review; minor review findings go to `docs/polish.md`. Not batched: lyrics (play/, see open bugs), staff roll
-  (separate batch, todo); speaker table done by hand.
+- **Phase:** 7 (insert, fit, QA) next. **Phase 6 done** (2026-11-02): b001-b119 (16,267 entries: every scene line,
+  choice, UI table, skit, profile, save title, SFO title, staff roll) translated, `batches.py check` OK on all, every
+  batch reviewed (no Critical/Important left; minors in `docs/polish.md`), merged into `script/`. Lyrics (play/) stay
+  Japanese (see Waiting on the user). `work/tl/` is gitignored; `script/` holds the result.
+  English build: `tools/build.py` -> smoke exit 0; warps ok: boot_autosave, chapter_main, gallery_profile,
+  gallery_skit_view, gallery_event_view, live_play, m_005001, b_013001, ED_002001, staffroll (English renders in ADV
+  panels and the staff roll).
+- **Next (phase 7):** full warp tour of the English build with visual QA (`--all` + visual-qa agents), fix overflow;
+  known gaps: menus in font24 are monospace 8 px (profile names cramped), staff-roll two-column cast lines are ragged
+  (proportional font), chapter title cards / menu art are Japanese graphics (744 GIMs, graphics survey), skit balloon
+  widths unchecked in game, ui_system_text line counts kept as JP, ui_profile zodiac slots 7 bytes ("Goat", "Archer",
+  "Aquar.").
 - **Phase 5** (engine spike + marker build) **done**. Done: insertion pipeline, marker
   build, **horizontal ADV dialogue centred on every panel** (script ops + 9-word EBOOT patch, D12), PT Serif VWF in
   font17, ADV width gate 112 px x 8 lines on all four panel variants, torture line, every box variant measured
@@ -66,15 +73,17 @@ Updated at the end of every session. Keep it to what the next session needs; his
 - **Phase 5 (install data):** INST.DNS = PGD-encrypted INST.CPK; a player who used Options > data management would read the
   original Japanese INST from the memstick. Plan: EBOOT patch renaming the install path it probes (`containers.md`), so it
   always reads the UMD. Build leaves INST.DNS untouched.
-- **Open bugs:** rhythm charts: any changed lyric string in `play/script/oto01.bin` makes `warp.py live_play` halt
-  (emulator log: bad execution access at 00000000 right after chart load; same-length kana edits in oto00 pass; chart
-  lyric reader 0x08a12f7c). Until fixed, lyrics stay Japanese (play/ `en` left empty).
+- **Open bugs:** rhythm charts: a lyric slot that changes size makes `live_play` halt (jump to 0 after chart load);
+  probably a chart offset that is not a known jump arg. Same-size lyric edits work (fixed: insert rewrote 0 `words`
+  header fields as 1, test `test_same_size_lyric_changes_only_its_bytes`).
   `warp.py live_pause` dies with `JSONDecodeError` from the driver (psp.py's lenient JSON patch covers
   `log` events but not this one): the scene itself was fine in phase 2, so it is a driver/timing regression to re-check.
 - **Waiting on the user** (non-blocking; defaults in use):
   - Song MVs (`mv_*.pmf`) have burned-in Japanese lyric typography: default leave as is (PSMF re-encode out of scope).
-  - Rhythm-game lyric fragments (words on notes, timed to sung syllables): default romanized Hepburn, since English word order
-    can't follow the syllable timing.
+  - Rhythm-game lyric fragments (words on notes, shown on a hit, timed to sung syllables): default now **keep
+    Japanese**. Romaji doesn't fit the fixed slots (刺激を -> "shigeki o", 9 chars in 7 bytes) and resized chart slots
+    crash; the songs are sung in Japanese and the MVs keep Japanese lyrics anyway. Say so if you want romaji
+    (needs the chart resize fix first).
   - 誠 on 誠仮面's mask / Shinsengumi crests: default keep (costume/crest art).
   - **Plain-ELF EBOOT (D12, replaces D11)**: English dialogue needs a small EBOOT code patch, so the build ships the
     decrypted EBOOT.BIN (PPSSPP and CFW run it; a patched ISO can't run elsewhere anyway) and translates its 8 save

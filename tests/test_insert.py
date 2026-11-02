@@ -65,6 +65,16 @@ def test_longer_text_keeps_every_jump_valid(fn):
 
 
 @need
+def test_same_size_lyric_changes_only_its_bytes():
+    """A chart rebuild must keep 0 'words' header fields: rewriting them as 1 crashes the chart player."""
+    data = (Path(insert.CPK) / "INST" / "play" / "script" / "oto01.bin").read_bytes()
+    slot = next(s for s in mzscript.parse(data, "play").slots if s.text == "頭の")
+    out = insert.patch_script("oto01.bin", data, {slot.off: "奥に"}, "play")
+    diff = [i for i in range(len(data)) if data[i] != out[i]]
+    assert len(out) == len(data) and diff and all(slot.off <= i < slot.off + 8 for i in diff)
+
+
+@need
 def test_same_text_is_not_a_patch():
     src = Path(insert.CPK) / "INST" / "scene" / "script" / "m_001002.bin"
     data = src.read_bytes()

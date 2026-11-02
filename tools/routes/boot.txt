@@ -1,0 +1,15 @@
+# Cold boot to the title screen (original JP ISO, fresh memstick). Circle = OK.
+600 -
+6 circle
+900 -
+6 circle
+600 -
+# "load failed, retry?" -> No
+6 right
+30 -
+6 circle
+900 -
+6 circle
+900 -
+6 circle
+900 -

@@ -1,6 +1,6 @@
-# <Game title> English translation
+# Bakumatsu Rock: Ultra Soul English translation
 
-Unofficial English fan translation of **<Game title>** (<platform>, <publisher>, <year>): the source text and tools
+Unofficial English fan translation of **Bakumatsu Rock: Ultra Soul** (PSP, Marvelous, 2014): the source text and tools
 that build the patch.
 
 **Just want to play?** Download the patch from [Releases](../../releases) and follow its README. This repository holds

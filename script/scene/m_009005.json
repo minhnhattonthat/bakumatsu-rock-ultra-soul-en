@@ -8,7 +8,7 @@
    "max": 100,
    "kind": "dialogue",
    "jp": "龍馬たちが歌い終わると\\n役目を果たしたとばかりに\\n超魂はその輝きを薄れさせ\\nまた五つの欠片に戻った",
-   "en": "",
+   "en": "As Ryoma and the\\nothers finished\\nsinging, the Ultra\\nSoul's glow faded\\nas if its work\\nwere done, and it\\nsplit back into\\nfive pieces.",
    "op": "0x62",
    "msg": "0x1c6c"
   },
@@ -18,7 +18,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "そして　それぞれの内へと\\n吸い込まれていく\\n光は静かに消えていった",
-   "en": "",
+   "en": "Each was drawn\\nback inside its\\nowner, and the\\nlight quietly\\nfaded away.",
    "op": "0x62",
    "msg": "0x1c14"
   },
@@ -28,7 +28,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "くっ……",
-   "en": "",
+   "en": "Ngh...",
    "op": "0x62",
    "msg": "0x1c15"
   },
@@ -38,7 +38,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "井伊……\\nわしにはわかったぜよ\\nお前の気持ちが",
-   "en": "",
+   "en": "Ii... I get it now.\\nHow you feel.",
    "op": "0x62",
    "msg": "0x1c16"
   },
@@ -48,7 +48,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "ぐ……うぐ……\\nなにがわかったと……\\nいうのだ……",
-   "en": "",
+   "en": "Gh... ugh... And\\nwhat... is it you\\nthink you\\nunderstand...?",
    "op": "0x62",
    "msg": "0x1c17"
   },
@@ -58,7 +58,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "お前がどうして\\nそこまでして\\n天歌を歌うのか",
-   "en": "",
+   "en": "Why you'd go so\\nfar to sing\\nHeaven's Song.",
    "op": "0x62",
    "msg": "0x1c18"
   },
@@ -68,7 +68,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "大切な人のために\\nその人を守るために\\n平和な世を作りたかった",
-   "en": "",
+   "en": "For someone\\nprecious to you.\\nTo protect that\\nperson, you\\nwanted to build a\\npeaceful world.",
    "op": "0x62",
    "msg": "0x1c19"
   },
@@ -78,7 +78,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "そういう気持ちが\\n魂の叫びが聞こえたぜよ",
-   "en": "",
+   "en": "I heard that\\nfeeling, the cry of\\nyour soul, I tell\\nya.",
    "op": "0x62",
    "msg": "0x1c1a"
   },
@@ -88,7 +88,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "……くっ　貴様に　何が\\nぐふっ……",
-   "en": "",
+   "en": "...Ngh... What\\ncould you\\npossibly... Gwhh...",
    "op": "0x62",
    "msg": "0x1c1b"
   },
@@ -98,7 +98,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "もう　やめにしよう\\n魂を食われてしまう",
-   "en": "",
+   "en": "Let's stop this\\nnow. Your soul's\\ngonna get eaten.",
    "op": "0x62",
    "msg": "0x1c1c"
   },
@@ -108,7 +108,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "ならん……\\n慶喜様のために\\n我は……まだ……",
-   "en": "",
+   "en": "I cannot... For\\nYoshinobu-sama's\\nsake... I must...\\nstill...",
    "op": "0x62",
    "msg": "0x1c1d"
   },
@@ -118,7 +118,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "井伊！\\nしっかりしろ！",
-   "en": "",
+   "en": "Ii! Hang in there!",
    "op": "0x62",
    "msg": "0x1c1e"
   },
@@ -128,7 +128,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "聞け　坂本\\n貴様の言う泰平の世は\\n決して実現しない……",
-   "en": "",
+   "en": "Listen, Sakamoto.\\nThe peaceful\\nworld you speak\\nof will never\\ncome to pass...",
    "op": "0x62",
    "msg": "0x1c1f"
   },
@@ -138,7 +138,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "なんだって？",
-   "en": "",
+   "en": "What!?",
    "op": "0x62",
    "msg": "0x1c20"
   },
@@ -148,7 +148,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "貴様達のような\\n強い魂を持つ者は\\nいいだろう",
-   "en": "",
+   "en": "For those with\\nstrong souls like\\nyours, it may be\\nfine.",
    "op": "0x62",
    "msg": "0x1c21"
   },
@@ -158,7 +158,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "しかし　人はそれほど\\n強くはないのだ……",
-   "en": "",
+   "en": "But people are\\nnot so strong...",
    "op": "0x62",
    "msg": "0x1c22"
   },
@@ -168,7 +168,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "努力が徒労に終わった時\\n人は絶望の淵に落ちる",
-   "en": "",
+   "en": "When their\\nefforts come to\\nnothing, people\\nfall into the abyss\\nof despair.",
    "op": "0x62",
    "msg": "0x1c23"
   },
@@ -178,7 +178,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "自分の弱さを忘れ\\n他人の強さを妬み\\n自分より弱い者を蔑む",
-   "en": "",
+   "en": "They forget their\\nown weakness,\\nenvy the strength\\nof others, and\\nscorn those\\nweaker than\\nthemselves.",
    "op": "0x62",
    "msg": "0x1c24"
   },
@@ -188,7 +188,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "それが争いを生んできた\\n古来より　ずっと\\nその繰り返しだ……",
-   "en": "",
+   "en": "That is what has\\nbred conflict.\\nSince ancient\\ntimes, it has been\\nthe same cycle,\\nover and over...",
    "op": "0x62",
    "msg": "0x1c25"
   },
@@ -198,7 +198,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "井伊\\nお前は……",
-   "en": "",
+   "en": "Ii... you...",
    "op": "0x62",
    "msg": "0x1c26"
   },
@@ -208,7 +208,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "坂本龍馬よ\\nこれは我が遺す呪詛だ\\n努々　忘れるなよ",
-   "en": "",
+   "en": "Ryoma Sakamoto...\\nthis is the curse I\\nleave you. Never,\\never forget it.",
    "op": "0x62",
    "msg": "0x1c27"
   },
@@ -218,7 +218,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "そんなことはない！\\n人間というのは\\nもっと　もっと――",
-   "en": "",
+   "en": "That ain't true!\\nPeople are so\\nmuch... so much\\nmore--",
    "op": "0x62",
    "msg": "0x1c28"
   },
@@ -228,7 +228,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "それが……\\n小賢しいというのだ……\\nぐふっ",
-   "en": "",
+   "en": "That... is exactly\\nwhat I call\\nimpudent...\\nGwhh...",
    "op": "0x62",
    "msg": "0x1c29"
   },
@@ -238,7 +238,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "死ぬな！\\n井伊",
-   "en": "",
+   "en": "Don't die! Ii!",
    "op": "0x62",
    "msg": "0x1c2a"
   },
@@ -248,7 +248,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "我は　ただ……",
-   "en": "",
+   "en": "I only...",
    "op": "0x62",
    "msg": "0x1c2b"
   },
@@ -258,7 +258,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "ただ慶喜様のために――\\nあの方が穏やかに暮らせる\\n世の中にしたかった",
-   "en": "",
+   "en": "Only for\\nYoshinobu-sama--\\nI wanted a world\\nwhere he could\\nlive in peace.",
    "op": "0x62",
    "msg": "0x1c2c"
   },
@@ -268,7 +268,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "あの方はお優しい\\nだが　強くはない",
-   "en": "",
+   "en": "He is kind. But he\\nis not strong.",
    "op": "0x62",
    "msg": "0x1c2d"
   },
@@ -278,7 +278,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "それだけが\\n心残りだ――",
-   "en": "",
+   "en": "That alone... is my\\none regret--",
    "op": "0x62",
    "msg": "0x1c2e"
   },
@@ -288,7 +288,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "おい　井伊！\\n目を開けろ！\\n井伊",
-   "en": "",
+   "en": "Hey, Ii! Open\\nyour eyes! Ii!",
    "op": "0x62",
    "msg": "0x1c2f"
   },
@@ -298,7 +298,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "よせ　坂本\\nもう事切れている",
-   "en": "",
+   "en": "Stop, Sakamoto.\\nHe's already gone.",
    "op": "0x62",
    "msg": "0x1c30"
   },
@@ -308,7 +308,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "井伊っ\\n井伊！",
-   "en": "",
+   "en": "Ii--!",
    "op": "0x62",
    "msg": "0x1c31"
   },
@@ -318,7 +318,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "龍馬\\n終わったんだ",
-   "en": "",
+   "en": "Ryoma. It's over.",
    "op": "0x62",
    "msg": "0x1c32"
   },
@@ -328,7 +328,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "井伊は……\\n悪い奴じゃなかった",
-   "en": "",
+   "en": "Ii... wasn't a bad\\nguy.",
    "op": "0x62",
    "msg": "0x1c33"
   },
@@ -338,7 +338,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "無垢すぎて　純粋すぎて\\n大切な人への想いが\\n強すぎて……",
-   "en": "",
+   "en": "He was too\\ninnocent, too\\npure, his feelings\\nfor the one he\\ncared about too\\nstrong...",
    "op": "0x62",
    "msg": "0x1c34"
   },
@@ -348,7 +348,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "やり方を間違えただけ\\nなんじゃ",
-   "en": "",
+   "en": "He just went\\nabout it the\\nwrong way, that's\\nall.",
    "op": "0x62",
    "msg": "0x1c35"
   },
@@ -358,7 +358,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "もっと早く　わかり合う\\nことができたら……",
-   "en": "",
+   "en": "If only we\\ncould've\\nunderstood each\\nother sooner...",
    "op": "0x62",
    "msg": "0x1c36"
   },
@@ -368,7 +368,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "龍馬……",
-   "en": "",
+   "en": "Ryoma...",
    "op": "0x62",
    "msg": "0x1c37"
   },
@@ -378,7 +378,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "僕も残念だよ……",
-   "en": "",
+   "en": "I feel the same...",
    "op": "0x62",
    "msg": "0x1c38"
   },
@@ -388,7 +388,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "純粋な想いが　こんな……\\nこんな哀しい結末だなんて",
-   "en": "",
+   "en": "Such pure\\nfeelings... and\\nsuch a sad, sad\\nending...",
    "op": "0x62",
    "msg": "0x1c39"
   },
@@ -398,7 +398,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "坂本\\n悲しんでいるヒマはない",
-   "en": "",
+   "en": "Sakamoto. There's\\nno time to grieve.",
    "op": "0x62",
    "msg": "0x1c3a"
   },
@@ -408,7 +408,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "どういうことじゃ？\\n井伊は　もう戻らないんじゃ\\nヒジゾーさん！",
-   "en": "",
+   "en": "What d'ya mean?\\nIi ain't ever comin'\\nback, Hijizo-san!",
    "op": "0x62",
    "msg": "0x1c3b"
   },
@@ -418,7 +418,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "井伊の魂を食らった者……\\nそいつが真の悪って\\nことにならないか？",
-   "en": "",
+   "en": "Whoever\\ndevoured Ii's\\nsoul... Wouldn't\\nthat make them\\nthe true evil?",
    "op": "0x62",
    "msg": "0x1c3c"
   },
@@ -428,7 +428,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "真の……悪？",
-   "en": "",
+   "en": "The true... evil?",
    "op": "0x62",
    "msg": "0x1c3d"
   },
@@ -438,7 +438,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "俺は坂本が歌っている時に\\n井伊から妙な気配を感じた",
-   "en": "",
+   "en": "While you were\\nsinging,\\nSakamoto, I\\nsensed something\\nstrange coming\\nfrom Ii.",
    "op": "0x62",
    "msg": "0x1c3e"
   },
@@ -448,7 +448,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "井伊の気持ちが徳川慶喜へ\\n真っ直ぐに向いていたのは\\n間違いない",
-   "en": "",
+   "en": "There's no doubt\\nIi's feelings were\\naimed straight at\\nYoshinobu\\nTokugawa.",
    "op": "0x62",
    "msg": "0x1c3f"
   },
@@ -458,7 +458,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "それは　わしも感じたが……\\nヒジゾーさんは　何か\\n気付いたのか？",
-   "en": "",
+   "en": "I felt that too,\\nbut... Did ya\\nnotice somethin',\\nHijizo-san?",
    "op": "0x62",
    "msg": "0x1c40"
   },
@@ -468,7 +468,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "ハッキリとは\\nしないんだが……",
-   "en": "",
+   "en": "I can't say for\\nsure...",
    "op": "0x62",
    "msg": "0x1c41"
   },
@@ -478,7 +478,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "しかし\\n腑に落ちないことはある\\n井伊の死に方だ",
-   "en": "",
+   "en": "But there's\\nsomething that\\ndoesn't sit right.\\nThe way Ii died.",
    "op": "0x62",
    "msg": "0x1c42"
   },
@@ -488,7 +488,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "死に方？",
-   "en": "",
+   "en": "The way he died?",
    "op": "0x62",
    "msg": "0x1c43"
   },
@@ -498,7 +498,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "総司が死にかけた時を\\n思い出せ",
-   "en": "",
+   "en": "Remember when\\nSoji nearly died.",
    "op": "0x62",
    "msg": "0x1c44"
   },
@@ -508,7 +508,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "俺はてっきり\\n総司は井伊に魂を食われて\\nいるんだと考えていた",
-   "en": "",
+   "en": "I was certain Ii\\nwas the one\\neating Soji's soul.",
    "op": "0x62",
    "msg": "0x1c45"
   },
@@ -518,7 +518,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "そりゃあ　そうじゃろう\\nソウちんは井伊に操られて\\nいたんだから",
-   "en": "",
+   "en": "Well, sure he was.\\nSo-chin was bein'\\ncontrolled by Ii,\\nafter all.",
    "op": "0x62",
    "msg": "0x1c46"
   },
@@ -528,7 +528,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "じゃあ井伊は　いったい\\n何に魂を食われたんだ？",
-   "en": "",
+   "en": "Then what\\nexactly was\\neating Ii's soul?",
    "op": "0x62",
    "msg": "0x1c47"
   },
@@ -538,7 +538,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "……む？",
-   "en": "",
+   "en": "...Hm?",
    "op": "0x62",
    "msg": "0x1c48"
   },
@@ -548,7 +548,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "井伊は　徳川慶喜の\\nために　天歌を使って\\n泰平化しようとしていた",
-   "en": "",
+   "en": "Ii was trying to\\npacify everyone\\nwith Heaven's\\nSong for\\nYoshinobu\\nTokugawa's sake.",
    "op": "0x62",
    "msg": "0x1c49"
   },
@@ -558,7 +558,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "その井伊が　徳川慶喜が\\n生きている内に自滅する\\nような手段を取るかな",
-   "en": "",
+   "en": "Would Ii really\\nchoose a way that\\ndestroys himself\\nwhile Yoshinobu\\nTokugawa still\\nlives?",
    "op": "0x62",
    "msg": "0x1c4a"
   },
@@ -568,7 +568,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "僕だったら　土方さんが\\n生きてるなら　地を這って\\nでも逃げ延びるね",
-   "en": "",
+   "en": "If it were me, as\\nlong as\\nHijikata-san was\\nalive, I'd survive\\neven if I had to\\ncrawl through the\\ndirt.",
    "op": "0x62",
    "msg": "0x1c4b"
   },
@@ -578,7 +578,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "僕が死んじゃったら\\n土方さんの世話をする人が\\nいなくなっちゃうもの",
-   "en": "",
+   "en": "If I died, there'd\\nbe nobody left to\\nlook after\\nHijikata-san.",
    "op": "0x62",
    "msg": "0x1c4c"
   },
@@ -588,7 +588,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "おい総司……\\nいや　俺が言いたいのも\\nまさにそこだ",
-   "en": "",
+   "en": "Hey, Soji... No,\\nactually, that's\\nexactly my point.",
    "op": "0x62",
    "msg": "0x1c4d"
   },
@@ -598,7 +598,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "井伊の気持ちを利用した\\n何者かがいるってことか？",
-   "en": "",
+   "en": "You're saying\\nsomeone used Ii's\\nfeelings?",
    "op": "0x62",
    "msg": "0x1c4e"
   },
@@ -608,7 +608,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "そいつが……\\n井伊の魂を……？",
-   "en": "",
+   "en": "And that\\nsomeone... ate Ii's\\nsoul...?",
    "op": "0x62",
    "msg": "0x1c4f"
   },
@@ -618,7 +618,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "ああ\\n恐らくは",
-   "en": "",
+   "en": "Yes. Most likely.",
    "op": "0x62",
    "msg": "0x1c50"
   },
@@ -628,7 +628,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "誰じゃ！\\nこんな酷いことをしたのは\\n誰なんじゃ！",
-   "en": "",
+   "en": "Who!? Who did\\nsomethin' so\\ncruel!? Who was\\nit!?",
    "op": "0x62",
    "msg": "0x1c51"
   },
@@ -638,7 +638,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "わからんのは　そこだ\\n井伊は　事実上　幕府の\\n最高権力者だった",
-   "en": "",
+   "en": "That's what I can't\\nfigure out. Ii was\\neffectively the\\nmost powerful\\nman in the\\nshogunate.",
    "op": "0x62",
    "msg": "0x1c52"
   },
@@ -648,7 +648,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "そんなヤツを\\n誰が利用できる",
-   "en": "",
+   "en": "Who could\\npossibly use a\\nman like that?",
    "op": "0x62",
    "msg": "0x1c53"
   },
@@ -658,7 +658,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "できるとすれば\\n将軍　徳川慶喜だが",
-   "en": "",
+   "en": "If anyone could,\\nit'd be the\\nshogun,\\nYoshinobu\\nTokugawa, but...",
    "op": "0x62",
    "msg": "0x1c54"
   },
@@ -668,7 +668,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "死に際の井伊の口ぶりじゃ\\n将軍が黒幕ってことも\\nなさそうだけど……",
-   "en": "",
+   "en": "From the way Ii\\ntalked as he died,\\nit doesn't seem\\nlike the shogun's\\nthe mastermind\\neither...",
    "op": "0x62",
    "msg": "0x1c55"
   },
@@ -678,7 +678,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "いずれにせよ\\n徳川家に関わりのある\\n者の仕業だろう",
-   "en": "",
+   "en": "Either way, it\\nmust be the work\\nof someone tied\\nto the Tokugawa\\nfamily.",
    "op": "0x62",
    "msg": "0x1c56"
   },
@@ -688,7 +688,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "徳川家の闇の部分\\nというわけですね",
-   "en": "",
+   "en": "The dark side of\\nthe Tokugawa\\nfamily, you mean.",
    "op": "0x62",
    "msg": "0x1c57"
   },
@@ -698,7 +698,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "井伊の想いを踏みにじり\\n死なせたのは徳川家か……",
-   "en": "",
+   "en": "So it was the\\nTokugawa family\\nthat trampled Ii's\\nfeelings and let\\nhim die...",
    "op": "0x62",
    "msg": "0x1c58"
   },
@@ -708,7 +708,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "それが本当なら……",
-   "en": "",
+   "en": "If that's true...",
    "op": "0x62",
    "msg": "0x1c59"
   },
@@ -718,7 +718,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "許されることじゃねえ",
-   "en": "",
+   "en": "It's unforgivable.",
    "op": "0x62",
    "msg": "0x1c5a"
   },
@@ -728,7 +728,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "私達が\\n許したとしても……",
-   "en": "",
+   "en": "Even if we were\\nto forgive it...",
    "op": "0x62",
    "msg": "0x1c5b"
   },
@@ -738,7 +738,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "天が許さないよ",
-   "en": "",
+   "en": "...Heaven won't.",
    "op": "0x62",
    "msg": "0x1c5c"
   },
@@ -748,7 +748,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "坂本\\nどうする？",
-   "en": "",
+   "en": "Sakamoto. What'll\\nyou do?",
    "op": "0x62",
    "msg": "0x1c5d"
   },
@@ -758,7 +758,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "出来ることなら\\nたしかめたいぜよ",
-   "en": "",
+   "en": "If I can, I wanna\\nfind out for sure.",
    "op": "0x62",
    "msg": "0x1c5e"
   },
@@ -768,7 +768,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "たしかめて\\nどうするんだ？\\n相手は将軍家だ",
-   "en": "",
+   "en": "And once you\\nfind out, then\\nwhat? We're\\ntalking about the\\nshogun's family.",
    "op": "0x62",
    "msg": "0x1c5f"
   },
@@ -778,7 +778,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "将軍家だろうと\\nなんだろうと\\n関係無いぜよ！",
-   "en": "",
+   "en": "Shogun's family\\nor whatever, it\\ndon't matter!",
    "op": "0x62",
    "msg": "0x1c60"
   },
@@ -788,7 +788,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "こんな酷いことは\\n二度としないように\\n説得する！",
-   "en": "",
+   "en": "I'll talk 'em into\\nnever doin'\\nanything this\\ncruel again!",
    "op": "0x62",
    "msg": "0x1c61"
   },
@@ -798,7 +798,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "は？\\n説得で済ますつもりかよ\\nとことん呑気な野郎だ",
-   "en": "",
+   "en": "Huh? You think\\ntalking will settle\\nit? You're one\\ncarefree idiot, I\\nswear.",
    "op": "0x62",
    "msg": "0x1c62"
   },
@@ -808,7 +808,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "そういうところは\\n龍馬くんらしいけど",
-   "en": "",
+   "en": "That's so like you,\\nthough,\\nRyoma-kun.",
    "op": "0x62",
    "msg": "0x1c63"
   },
@@ -818,7 +818,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "やる価値はあるでしょ\\n土方さん",
-   "en": "",
+   "en": "It's worth a shot,\\nright,\\nHijikata-san?",
    "op": "0x62",
    "msg": "0x1c64"
   },
@@ -828,7 +828,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "ああ\\n二条城へ乗り込むぞ\\n覚悟はいいな",
-   "en": "",
+   "en": "Yes. We're\\nstorming Nijo\\nCastle. Are you\\nready?",
    "op": "0x62",
    "msg": "0x1c65"
   },
@@ -838,7 +838,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "土方の問いに\\n全員がうなづく",
-   "en": "",
+   "en": "At Hijikata's\\nquestion,\\neveryone nodded.",
    "op": "0x62",
    "msg": "0x1c66"
   },
@@ -848,7 +848,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "行こう\\n龍馬くん",
-   "en": "",
+   "en": "Let's go,\\nRyoma-kun.",
    "op": "0x62",
    "msg": "0x1c67"
   },
@@ -858,7 +858,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "ああ……わかった\\n井伊よ　安らかにな……\\nぐすっ",
-   "en": "",
+   "en": "Yeah... all right.\\nRest in peace, Ii...\\n*sniff*",
    "op": "0x62",
    "msg": "0x1c68"
   },
@@ -868,7 +868,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "井伊の亡骸に\\n手を合わせると\\n龍馬達は天歌祭の\\n会場を抜け出した",
-   "en": "",
+   "en": "After pressing\\ntheir hands\\ntogether before\\nIi's body, Ryoma\\nand the others\\nslipped out of the\\nHeaven's Song\\nFestival venue.",
    "op": "0x62",
    "msg": "0x1c69"
   },
@@ -878,7 +878,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "江戸の街は\\n不気味なほどに\\n静まりかえっていた",
-   "en": "",
+   "en": "The streets of\\nEdo were eerily\\nquiet.",
    "op": "0x62",
    "msg": "0x1c6a"
   },
@@ -888,7 +888,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "龍馬は涙を拭いながら\\n何度も振り返り\\nやがて走り出したのだった",
-   "en": "",
+   "en": "Wiping his tears,\\nRyoma looked\\nback again and\\nagain, and at last\\nbroke into a run.",
    "op": "0x62",
    "msg": "0x1c6b"
   }

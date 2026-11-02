@@ -8,7 +8,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "ううっ……",
-   "en": "",
+   "en": "Ugh...",
    "op": "0x62",
    "msg": "0x30ca"
   },
@@ -18,7 +18,7 @@
    "max": 124,
    "kind": "dialogue",
    "jp": "沖田に敗れた二人の身体は\\nぐずぐずと崩れてゆく……\\n井伊に力を与えられた時\\nすでに彼らは　人間では\\nなくなっていたのだろう",
-   "en": "",
+   "en": "Beaten by Okita,\\nthe two men's\\nbodies crumbled\\naway... They had\\nlikely stopped\\nbeing human\\nwhen Ii gave\\nthem power.",
    "op": "0x62",
    "msg": "0x30cb"
   },
@@ -28,7 +28,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "さようなら……",
-   "en": "",
+   "en": "Goodbye...",
    "op": "0x62",
    "msg": "0x30cc"
   },
@@ -38,7 +38,7 @@
    "max": 116,
    "kind": "dialogue",
    "jp": "今まで数え切れないほど\\n人を斬り命を奪ってきた\\nそこには迷いも憐れみも\\n無く　悼みの心など一度も\\n持ったことはない",
-   "en": "",
+   "en": "I've cut down\\nmore people than\\nI can count. I\\nnever felt doubt\\nor pity, and never\\nonce mourned a\\nsingle one.",
    "op": "0x62",
    "msg": "0x30cd"
   },
@@ -48,7 +48,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "……けれど\\n君達には祈るよ",
-   "en": "",
+   "en": "...But for you two,\\nI'll pray.",
    "op": "0x62",
    "msg": "0x30ce"
   },
@@ -58,7 +58,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "近藤さんと同じとこに\\n行けるように……",
-   "en": "",
+   "en": "That you'll make\\nit to where\\nKondo-san is...",
    "op": "0x62",
    "msg": "0x30cf"
   },
@@ -68,7 +68,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "沖田の目から\\n幾筋も涙がこぼれ落ち\\n仲間の身体と共に消えていく",
-   "en": "",
+   "en": "Tear after tear\\nfell from Okita's\\neyes, vanishing\\nalong with his\\ncomrades' bodies.",
    "op": "0x62",
    "msg": "0x30d0"
   },
@@ -78,7 +78,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "そしたら　君達は\\n僕を出し抜けるよ",
-   "en": "",
+   "en": "Then you'll have\\ngotten one over\\non me.",
    "op": "0x62",
    "msg": "0x30d1"
   },
@@ -88,7 +88,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "近藤さんに一足早く\\n会えるんだから……",
-   "en": "",
+   "en": "Since you'll get to\\nsee Kondo-san\\nbefore I do...",
    "op": "0x62",
    "msg": "0x30d2"
   },
@@ -98,7 +98,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "うわっ……",
-   "en": "",
+   "en": "Whoa...!",
    "op": "0x62",
    "msg": "0x30d3"
   },
@@ -108,7 +108,7 @@
    "max": 84,
    "kind": "dialogue",
    "jp": "思わず目を閉じた沖田の涙を\\n隊士達の溶けた身体を\\n攫うように\\n大きな風が吹き抜けた",
-   "en": "",
+   "en": "Okita shut his\\neyes as a great\\nwind swept\\nthrough, carrying\\noff his tears and\\nthe troopers'\\nmelted bodies.",
    "op": "0x62",
    "msg": "0x30d4"
   },
@@ -118,7 +118,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "……よく　頑張ったな",
-   "en": "",
+   "en": "...You did well.",
    "op": "0x62",
    "msg": "0x30d5"
   },
@@ -128,7 +128,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "いま　近藤さんの声が……",
-   "en": "",
+   "en": "Just now, that\\nwas Kondo-san's\\nvoice...",
    "op": "0x62",
    "msg": "0x30d6"
   },
@@ -138,7 +138,7 @@
    "max": 104,
    "kind": "dialogue",
    "jp": "目を開けると　そこは\\n何もない街道だった\\n沖田の涙も　まるで\\n誰かが拭ってくれたように\\n吹き飛んでいた",
-   "en": "",
+   "en": "When he opened\\nhis eyes, he stood\\non an empty\\nhighway. Okita's\\ntears were gone,\\nas if someone had\\nwiped them away.",
    "op": "0x62",
    "msg": "0x30d7"
   },
@@ -148,7 +148,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "近藤さん……\\nありがとう",
-   "en": "",
+   "en": "Kondo-san...\\nThank you.",
    "op": "0x62",
    "msg": "0x30d8"
   },
@@ -158,7 +158,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "沖田は空を見上げて\\nもう一度\\n月へと語りかける",
-   "en": "",
+   "en": "Okita looked up\\nat the sky and\\nspoke to the moon\\nonce more.",
    "op": "0x62",
    "msg": "0x30d9"
   },
@@ -168,7 +168,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "どんなに闇が暗くても\\nどんなに道が険しくても\\nもう　見失うことはない",
-   "en": "",
+   "en": "No matter how\\ndark the night, no\\nmatter how steep\\nthe road, I won't\\nlose my way\\nagain.",
    "op": "0x62",
    "msg": "0x30da"
   },
@@ -178,7 +178,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "僕の心に……闇の中にも\\n貴方という月は\\n輝き続けるから",
-   "en": "",
+   "en": "Because in my\\nheart... even in\\nthe dark, the\\nmoon that is you\\nwill keep on\\nshining.",
    "op": "0x62",
    "msg": "0x30db"
   }

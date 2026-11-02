@@ -8,7 +8,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "雨がやむ気配はないですね\\n夜まで降るのかも",
-   "en": "",
+   "en": "There's no sign of\\nthe rain letting\\nup. It may keep\\nfalling until\\nnight.",
    "op": "0x62",
    "msg": "0x28d2"
   },
@@ -18,7 +18,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "じっとするのは退屈だし\\nどこかへ出てパッと\\n遊びたいなぁ～",
-   "en": "",
+   "en": "Sittin' around is\\nborin'. I wanna\\nhead out\\nsomewhere and\\nhave some real\\nfun~",
    "op": "0x62",
    "msg": "0x28d3"
   },
@@ -28,7 +28,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "子供かおまえは\\nわざわざ濡れに行くこたぁ\\nねえだろ",
-   "en": "",
+   "en": "What are you, a\\nkid? No need to\\ngo out of your\\nway to get\\nsoaked.",
    "op": "0x62",
    "msg": "0x28d4"
   },
@@ -38,7 +38,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "龍馬くん　退屈だったら\\nヱゲレスの書物でも\\n読みますか？",
-   "en": "",
+   "en": "Ryoma-kun, if\\nyou're bored,\\nwould you like to\\nread an English\\nbook?",
    "op": "0x62",
    "msg": "0x28d5"
   },
@@ -48,7 +48,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "わしはヱゲレスの書物より\\nヱゲレスの生のロックを\\n聴いてみたいっ！",
-   "en": "",
+   "en": "Instead of\\nEnglish books, I'd\\nrather hear real\\nlive English rock!",
    "op": "0x62",
    "msg": "0x28d6"
   },
@@ -58,7 +58,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "どうせエゲレス語が\\n読めねえんだろ",
-   "en": "",
+   "en": "You can't read\\nEnglish anyway,\\ncan you?",
    "op": "0x62",
    "msg": "0x28d7"
   },
@@ -68,7 +68,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "わしだって少しは読めるぞ\\n掘った芋弄るな！　とか",
-   "en": "",
+   "en": "I can read a little,\\nI'll have ya know!\\nLike, \"Wotta time\\nizzit nao!\"",
    "op": "0x62",
    "msg": "0x28d8"
   },
@@ -78,7 +78,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "なんだそりゃ\\nわけわからねぇ",
-   "en": "",
+   "en": "What's that\\nsupposed to be?\\nMakes no sense.",
    "op": "0x62",
    "msg": "0x28d9"
   },
@@ -88,7 +88,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "そういえば龍馬くんって\\n土佐にいた時はどうしてた\\nのです？",
-   "en": "",
+   "en": "Speaking of\\nwhich,\\nRyoma-kun, what\\ndid you do back\\nwhen you were in\\nTosa?",
    "op": "0x62",
    "msg": "0x28da"
   },
@@ -98,7 +98,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "大自然に囲まれて\\n楽しく遊んでたなー",
-   "en": "",
+   "en": "Ran around havin'\\nfun out in the\\ngreat outdoors!",
    "op": "0x62",
    "msg": "0x28db"
   },
@@ -108,7 +108,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "勉学はしなかったのかよ",
-   "en": "",
+   "en": "You didn't study\\nor anything?",
    "op": "0x62",
    "msg": "0x28dc"
   },
@@ -118,7 +118,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "勉学も剣術もしてたし\\nいっぱいと遊ぶことも\\n忘れんかったな",
-   "en": "",
+   "en": "I did my studies\\nand my\\nswordsmanship,\\nand I never\\nforgot to play\\nplenty, neither.",
    "op": "0x62",
    "msg": "0x28dd"
   },
@@ -128,7 +128,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "土佐の遊びって\\n私達の遊びとは違うのか\\n興味がありますね",
-   "en": "",
+   "en": "I wonder if games\\nin Tosa are\\ndifferent from\\nours. How\\nfascinating.",
    "op": "0x62",
    "msg": "0x28de"
   },
@@ -138,7 +138,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "よく聞いてくれた\\n土佐の遊びはわいるどで\\nえきさいてぃんぐじゃ",
-   "en": "",
+   "en": "Glad ya asked!\\nTosa games are\\nwild 'n' excitin'!",
    "op": "0x62",
    "msg": "0x28df"
   },
@@ -148,7 +148,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "土佐はなーんもねえだろ\\n自然は豊かそうだけどな",
-   "en": "",
+   "en": "There's nothing\\nin Tosa. Plenty of\\nnature, I'll give\\nyou that.",
    "op": "0x62",
    "msg": "0x28e0"
   },
@@ -158,7 +158,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "鍾乳洞で探検遊びして\\n中で迷子になって二日ほど\\n迷路を彷徨ったなー",
-   "en": "",
+   "en": "I played explorer\\nin a limestone\\ncave, got lost\\ninside, and\\nwandered that\\nmaze for two\\ndays or so!",
    "op": "0x62",
    "msg": "0x28e1"
   },
@@ -168,7 +168,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "危ないですね……\\nでもよく助かりましたね",
-   "en": "",
+   "en": "How dangerous...\\nBut it's a wonder\\nyou were rescued.",
    "op": "0x62",
    "msg": "0x28e2"
   },
@@ -178,7 +178,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "腹が減って　腹が減って\\nそしたら美味そうな匂いが\\n漂ってきたんじゃ",
-   "en": "",
+   "en": "I was hungry, so\\nhungry... And\\nthen this tasty\\nsmell came\\ndriftin' my way.",
    "op": "0x62",
    "msg": "0x28e3"
   },
@@ -188,7 +188,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "鍾乳洞の中でか？",
-   "en": "",
+   "en": "Inside a cave?",
    "op": "0x62",
    "msg": "0x28e4"
   },
@@ -198,7 +198,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "そうなんじゃ\\nこりゃたまらんと\\n匂いの方へ歩いたんじゃ",
-   "en": "",
+   "en": "Yep! I couldn't\\nstand it, so I\\nfollowed my nose\\ntoward the smell.",
    "op": "0x62",
    "msg": "0x28e5"
   },
@@ -208,7 +208,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "なんとそれは鍾乳洞の\\n入り口近くの茶店から漂う\\n団子の匂いだったんじゃ！",
-   "en": "",
+   "en": "And wouldn't ya\\nknow, it was the\\nsmell of dango\\ndriftin' from a\\nteahouse by the\\ncave entrance!",
    "op": "0x62",
    "msg": "0x28e6"
   },
@@ -218,7 +218,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "団子の匂いに誘われて\\n助かったってことですか",
-   "en": "",
+   "en": "So you were\\nsaved by\\nfollowing the\\nsmell of dango?",
    "op": "0x62",
    "msg": "0x28e7"
   },
@@ -228,7 +228,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "そういうことじゃ\\nわはは",
-   "en": "",
+   "en": "That's about the\\nsize of it!\\nWahaha!",
    "op": "0x62",
    "msg": "0x28e8"
   },
@@ -238,7 +238,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "わははじゃねーだろ\\n動物かよおまえは",
-   "en": "",
+   "en": "Don't \"wahaha\"\\nme. What are you,\\nan animal?",
    "op": "0x62",
    "msg": "0x28e9"
   },
@@ -248,7 +248,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "松蔭先生も鍾乳洞で\\n迷子になったらしいけど\\n命懸けすぎだろ",
-   "en": "",
+   "en": "I heard\\nShoin-sensei got\\nlost in a cave too,\\nbut that's way too\\nmuch risking your\\nlife.",
    "op": "0x62",
    "msg": "0x28ea"
   },
@@ -258,7 +258,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "土佐の鍾乳洞というと……\\n龍河洞（りゅうがどう）\\nですよね",
-   "en": "",
+   "en": "A limestone cave\\nin Tosa... That\\nwould be\\nRyugado,\\nwouldn't it?",
    "op": "0x62",
    "msg": "0x28eb"
   },
@@ -268,7 +268,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "そうじゃ\\nさすがセンセー\\n物知りじゃ",
-   "en": "",
+   "en": "That's right!\\nSensei sure knows\\nhis stuff!",
    "op": "0x62",
    "msg": "0x28ec"
   },
@@ -278,7 +278,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "あと　土佐と言えば\\nカツオと鯨が有名ですね",
-   "en": "",
+   "en": "And speaking of\\nTosa, it's famous\\nfor its bonito and\\nwhales.",
    "op": "0x62",
    "msg": "0x28ed"
   },
@@ -288,7 +288,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "そうじゃ　カツオと鯨！",
-   "en": "",
+   "en": "That's right,\\nbonito and\\nwhales!",
    "op": "0x62",
    "msg": "0x28ee"
   },
@@ -298,7 +298,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "カツオは旬になると\\n漁船がカツオで真っ黒い\\n山になるんじゃ",
-   "en": "",
+   "en": "In bonito season,\\nthe fishing boats\\ncome back piled\\nwith black\\nmountains of\\nbonito!",
    "op": "0x62",
    "msg": "0x28ef"
   },
@@ -308,7 +308,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "そんなに獲れるのかよ\\n話盛りすぎだろ",
-   "en": "",
+   "en": "They catch that\\nmany? You're\\nlaying it on way\\ntoo thick.",
    "op": "0x62",
    "msg": "0x28f0"
   },
@@ -318,7 +318,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "大げさじゃないって\\n船が半分ぐらい沈みかける\\nほどに獲れるんじゃ",
-   "en": "",
+   "en": "I ain't\\nexaggeratin'!\\nThey catch so\\nmany, the boats\\nare half sinkin'!",
    "op": "0x62",
    "msg": "0x28f1"
   },
@@ -328,7 +328,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "わしはカツオが好きでな\\n漁から戻ってくるのを\\n心待ちにしてたぜよ",
-   "en": "",
+   "en": "I love bonito, see.\\nI'd wait and wait\\nfor the boats to\\ncome back in.",
    "op": "0x62",
    "msg": "0x28f2"
   },
@@ -338,7 +338,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "へえ　カツオ漁ってのは\\n網でやるのか？",
-   "en": "",
+   "en": "Huh. So do they\\ncatch bonito with\\nnets?",
    "op": "0x62",
    "msg": "0x28f3"
   },
@@ -348,7 +348,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "よくぞ聞いてくれた！\\n網なんぞ使わん\\n土佐の漁師は一本釣りじゃ",
-   "en": "",
+   "en": "Glad ya asked! No\\nnets! Tosa\\nfishermen use\\npole-and-line, one\\nfish at a time!",
    "op": "0x62",
    "msg": "0x28f4"
   },
@@ -358,7 +358,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "一本釣りなんて\\n効率が悪くねえか？",
-   "en": "",
+   "en": "Isn't one fish at a\\ntime kind of\\ninefficient?",
    "op": "0x62",
    "msg": "0x28f5"
   },
@@ -368,7 +368,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "カツオは鯨と一緒に\\n泳ぐから網が使えん\\n一本釣りが基本なんじゃ",
-   "en": "",
+   "en": "Bonito swim with\\nwhales, so ya\\ncan't use nets.\\nPole-and-line's\\nthe way it's done.",
    "op": "0x62",
    "msg": "0x28f6"
   },
@@ -378,7 +378,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "勇壮な海の男達が\\n竿一本でカツオを釣る！\\n海でもロックなんじゃ！",
-   "en": "",
+   "en": "Brave men of the\\nsea, landin' bonito\\nwith nothin' but a\\npole! That's rock,\\neven out on the\\nsea!",
    "op": "0x62",
    "msg": "0x28f7"
   },
@@ -388,7 +388,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "素晴らしそうですね\\nカツオの一本釣りは\\n私も見てみたいですよ",
-   "en": "",
+   "en": "That sounds\\nwonderful. I'd\\nlove to see\\npole-and-line\\nbonito fishing\\nmyself.",
    "op": "0x62",
    "msg": "0x28f8"
   },
@@ -398,7 +398,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "わしも船に乗った\\nことがあるぜよ",
-   "en": "",
+   "en": "I've been out on\\nthe boats myself,\\ny'know!",
    "op": "0x62",
    "msg": "0x28f9"
   },
@@ -408,7 +408,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "龍馬くんも\\n釣れたんですか？",
-   "en": "",
+   "en": "Did you catch one\\ntoo, Ryoma-kun?",
    "op": "0x62",
    "msg": "0x28fa"
   },
@@ -418,7 +418,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "でっかいカツオが掛かって\\nわし対カツオの一本勝負に\\nなった！",
-   "en": "",
+   "en": "I hooked a huge\\nbonito, and it\\nturned into a\\none-on-one\\nshowdown, me\\nagainst the\\nbonito!",
    "op": "0x62",
    "msg": "0x28fb"
   },
@@ -428,7 +428,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "ものすごい力で逃げようと\\nするカツオと　釣り上げて\\n食おうとするわしの勝負",
-   "en": "",
+   "en": "A showdown\\nbetween a bonito\\nfightin' with all\\nits might to get\\naway and me,\\nreelin' it in to eat\\nit!",
    "op": "0x62",
    "msg": "0x28fc"
   },
@@ -438,7 +438,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "カツオは命懸けだからな",
-   "en": "",
+   "en": "That bonito was\\nfightin' for its\\nlife, after all.",
    "op": "0x62",
    "msg": "0x28fd"
   },
@@ -448,7 +448,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "あと少しでカツオの鼻面が\\n海面にみえて来た！\\nってところまで頑張った",
-   "en": "",
+   "en": "I hung on till I\\ncould just about\\nsee its snout\\nbreakin' the\\nsurface!",
    "op": "0x62",
    "msg": "0x28fe"
   },
@@ -458,7 +458,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "釣り上げたんですね！",
-   "en": "",
+   "en": "So you reeled it\\nin!",
    "op": "0x62",
    "msg": "0x28ff"
   },
@@ -468,7 +468,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "いや　わしがカツオに\\n釣られて海へドボンじゃ\\nわはははは",
-   "en": "",
+   "en": "Nope! The bonito\\nreeled ME in, and\\nin the sea I went,\\nsplash!\\nWahahahaha!",
    "op": "0x62",
    "msg": "0x2900"
   },
@@ -478,7 +478,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "そんなこっちゃねーかと\\n思ってたらそのまんまか",
-   "en": "",
+   "en": "I figured it'd be\\nsomething like\\nthat, and that's\\nexactly what it\\nwas.",
    "op": "0x62",
    "msg": "0x2901"
   },
@@ -488,7 +488,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "海に落ちたわしを\\n漁師が一本釣りで\\n釣り上げてくれてなー",
-   "en": "",
+   "en": "Then a fisherman\\nreeled me outta\\nthe sea with his\\npole!",
    "op": "0x62",
    "msg": "0x2902"
   },
@@ -498,7 +498,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "さすが土佐の漁師\\nわしの帯に張りを引っかけ\\n釣り上げたってわけじゃ",
-   "en": "",
+   "en": "That's a Tosa\\nfisherman for ya.\\nHe hooked my\\nsash and reeled\\nme right on up.",
    "op": "0x62",
    "msg": "0x2903"
   },
@@ -508,7 +508,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "すごい体験です　龍馬くん\\nヱゲレスの本よりも\\nドキドキしますよ！",
-   "en": "",
+   "en": "What an\\nincredible\\nexperience,\\nRyoma-kun! It's\\nmore thrilling\\nthan any English\\nbook!",
    "op": "0x62",
    "msg": "0x2904"
   },
@@ -518,7 +518,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "わははは\\n土佐の子供はわいるどで\\nえきさいてぃんぐ！",
-   "en": "",
+   "en": "Wahahaha! Tosa\\nkids are wild 'n'\\nexcitin'!",
    "op": "0x62",
    "msg": "0x2905"
   },
@@ -528,7 +528,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "あと　わしは鯨に飲まれた\\nことがあるぜよ！",
-   "en": "",
+   "en": "And I got\\nswallowed by a\\nwhale once, too!",
    "op": "0x62",
    "msg": "0x2906"
   },
@@ -538,7 +538,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "ええっ \\n鯨って人を食べないはず\\nですけど",
-   "en": "",
+   "en": "Whaaat? But\\nwhales aren't\\nsupposed to eat\\npeople...",
    "op": "0x62",
    "msg": "0x2907"
   },
@@ -548,7 +548,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "それが食われたんじゃ\\nセンセー",
-   "en": "",
+   "en": "Well, this one ate\\nme, Sensei.",
    "op": "0x62",
    "msg": "0x2908"
   },
@@ -558,7 +558,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "でっかい鯨に\\nぱくっと飲まれて\\n死ぬかと思ったぜよ！",
-   "en": "",
+   "en": "A huge whale\\nswallowed me in\\none gulp! I\\nthought I was a\\ngoner!",
    "op": "0x62",
    "msg": "0x2909"
   },
@@ -568,7 +568,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "ウソつけ　この野郎",
-   "en": "",
+   "en": "Quit lying, you\\njerk.",
    "op": "0x62",
    "msg": "0x290a"
   },
@@ -578,7 +578,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "ウソじゃないって\\nガチで恐ろしい目に\\n遭ったんじゃ",
-   "en": "",
+   "en": "It ain't a lie! I\\nwent through\\nsomethin'\\nseriously\\nterrifyin'!",
    "op": "0x62",
    "msg": "0x290b"
   },
@@ -588,7 +588,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "今思い出しても\\n背筋がゾクゾクする\\n恐ろしい体験だった～",
-   "en": "",
+   "en": "Even now, just\\nrememberin' it\\nsends chills down\\nmy spine. What a\\nterrifyin' time\\nthat was~",
    "op": "0x62",
    "msg": "0x290c"
   },
@@ -598,7 +598,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "詳しく話して下さい\\n龍馬くん\\nすごく興味があります",
-   "en": "",
+   "en": "Please tell me the\\ndetails,\\nRyoma-kun. I'm\\nvery interested.",
    "op": "0x62",
    "msg": "0x290d"
   },
@@ -608,7 +608,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "おいおい　桂さんよ\\n本気にしてるのか",
-   "en": "",
+   "en": "Hey, hey,\\nKatsura-san.\\nYou're actually\\nbuying this?",
    "op": "0x62",
    "msg": "0x290e"
   },
@@ -618,7 +618,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "まあシンディも聞け",
-   "en": "",
+   "en": "Aw, just listen,\\nShindy.",
    "op": "0x62",
    "msg": "0x290f"
   },
@@ -628,7 +628,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "ありゃあ　わしがまだ\\n五つか六つの頃だった",
-   "en": "",
+   "en": "It was back when\\nI was only five or\\nsix.",
    "op": "0x62",
    "msg": "0x2910"
   },
@@ -638,7 +638,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "今日は大漁じゃという\\n知らせを聞いて\\n港へ見に行ったんだ",
-   "en": "",
+   "en": "I heard word\\nthere was a big\\ncatch that day, so\\nI went down to\\nthe harbor to see.",
    "op": "0x62",
    "msg": "0x2911"
   },
@@ -648,7 +648,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "そういう知らせが届く\\nようになっているんですか",
-   "en": "",
+   "en": "Does news like\\nthat reach you,\\nthen?",
    "op": "0x62",
    "msg": "0x2912"
   },
@@ -658,7 +658,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "漁港が近いしな　近所に\\n漁師さんが住んでいて\\n家族に話が届くぜよ",
-   "en": "",
+   "en": "The fishin' port's\\nclose by, and\\nfishermen live in\\nthe\\nneighborhood, so\\nword gets to the\\nfamilies.",
    "op": "0x62",
    "msg": "0x2913"
   },
@@ -668,7 +668,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "港へ駆けつけたら\\nでっかい鯨がいくつも\\n揚がっていたんだ",
-   "en": "",
+   "en": "When I ran down\\nto the harbor,\\nthere were a\\nbunch of huge\\nwhales hauled up.",
    "op": "0x62",
    "msg": "0x2914"
   },
@@ -678,7 +678,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "こりゃでかい鯨だ\\n大人でもひと飲みに\\nするだろうと思ってな",
-   "en": "",
+   "en": "\"Now that's a big\\nwhale,\" I thought.\\n\"Bet it could\\nswallow a\\ngrown-up in one\\ngulp.\"",
    "op": "0x62",
    "msg": "0x2915"
   },
@@ -688,7 +688,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "そんなに大きな鯨が\\n揚がるんですね",
-   "en": "",
+   "en": "They really haul\\nup whales that\\nbig?",
    "op": "0x62",
    "msg": "0x2916"
   },
@@ -698,7 +698,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "そりゃあもう\\n一人ではとうてい\\n食えん大きさじゃ！",
-   "en": "",
+   "en": "You bet! Way too\\nbig for one fella\\nto ever eat by\\nhimself!",
    "op": "0x62",
    "msg": "0x2917"
   },
@@ -708,7 +708,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "どこの世界に鯨一頭\\n一人で食う奴がいるんだよ\\n大人でも無理だろうが",
-   "en": "",
+   "en": "Where in the\\nworld is there a\\nguy who'd eat a\\nwhole whale\\nalone? Even a\\ngrown man\\ncouldn't do it.",
    "op": "0x62",
    "msg": "0x2918"
   },
@@ -718,7 +718,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "そうですか？\\n干し肉にすれば\\nしばらく保存できますよ",
-   "en": "",
+   "en": "Is that so? If you\\ndried the meat, it\\nwould keep for\\nquite a while.",
    "op": "0x62",
    "msg": "0x2919"
   },
@@ -728,7 +728,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "あのなあ　桂さん\\n食い終わる前に飽きるだろ",
-   "en": "",
+   "en": "Look,\\nKatsura-san.\\nYou'd get sick of\\nit before you\\nfinished.",
    "op": "0x62",
    "msg": "0x291a"
   },
@@ -738,7 +738,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "わはは\\nセンセーは天然入ってる\\nから　シンディも\\n苦労するなぁ",
-   "en": "",
+   "en": "Wahaha! Sensei's\\ngot a bit of a\\nnatural-born\\nairhead in him.\\nMust be rough on\\nya, Shindy.",
    "op": "0x62",
    "msg": "0x291b"
   },
@@ -748,7 +748,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "天然のおまえが言うな！\\n桂さんも何か言ってやれよ",
-   "en": "",
+   "en": "Don't you say\\nthat, you\\nnatural-born\\nairhead!\\nKatsura-san, say\\nsomething to him!",
    "op": "0x62",
    "msg": "0x291c"
   },
@@ -758,7 +758,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "んー　だから龍馬くんと\\n息が合うんですね",
-   "en": "",
+   "en": "Hmm... So that's\\nwhy Ryoma-kun\\nand I get along so\\nwell.",
    "op": "0x62",
    "msg": "0x291d"
   },
@@ -768,7 +768,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "なんかもう　どうでも\\nよくなってくるような\\n反応だな　桂さんよ",
-   "en": "",
+   "en": "That's the kind of\\nanswer that\\nmakes me stop\\ncaring about\\nanything,\\nKatsura-san.",
    "op": "0x62",
    "msg": "0x291e"
   },
@@ -778,7 +778,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "それで龍馬くん\\nどうして鯨に飲まれたのか\\n聞かせてもらいたいです",
-   "en": "",
+   "en": "So, Ryoma-kun,\\nI'd love to hear\\nhow you got\\nswallowed by a\\nwhale.",
    "op": "0x62",
    "msg": "0x291f"
   },
@@ -788,7 +788,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "そうそう　その話！\\n鯨の中でも一番でかい奴の\\n鼻面に近付いた時だ",
-   "en": "",
+   "en": "Right, right, that\\nstory! It was when\\nI got close to the\\nsnout of the\\nbiggest whale of\\nall.",
    "op": "0x62",
    "msg": "0x2920"
   },
@@ -798,7 +798,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "わしの背丈を超える口が\\nがばーっと開いたんぜよ！",
-   "en": "",
+   "en": "A mouth taller\\nthan me opened\\nup wide --\\n*gwaaah*!",
    "op": "0x62",
    "msg": "0x2921"
   },
@@ -808,7 +808,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "こりゃいかん　食われると\\n思って逃げようとした\\nその時じゃ！",
-   "en": "",
+   "en": "I thought, \"Uh-oh,\\nit's gonna eat me!\"\\nand tried to run,\\nand right then!",
    "op": "0x62",
    "msg": "0x2922"
   },
@@ -818,7 +818,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "ドキドキしますね　晋作",
-   "en": "",
+   "en": "How thrilling,\\nShinsaku.",
    "op": "0x62",
    "msg": "0x2923"
   },
@@ -828,7 +828,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "話半分に聞いてろよ\\n桂さんは\\nで　どうなったんだよ？",
-   "en": "",
+   "en": "Only believe half\\nof it, Katsura-san.\\nSo? What\\nhappened?",
    "op": "0x62",
    "msg": "0x2924"
   },
@@ -838,7 +838,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "わしの足が縄に絡まって\\n動けんところを\\n鯨の口がぱくっと！",
-   "en": "",
+   "en": "My foot got\\ntangled in a rope,\\nand while I was\\nstuck there, the\\nwhale's mouth\\nwent *chomp*!",
    "op": "0x62",
    "msg": "0x2925"
   },
@@ -848,7 +848,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "うわー\\nそれは怖いですね",
-   "en": "",
+   "en": "Oh my, how\\nfrightening.",
    "op": "0x62",
    "msg": "0x2926"
   },
@@ -858,7 +858,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "頭から飲まれたんじゃ\\nまともに息も出来んし\\n恐ろしかった……",
-   "en": "",
+   "en": "It swallowed me\\nheadfirst! I\\ncouldn't hardly\\nbreathe. It was\\nterrifyin'...",
    "op": "0x62",
    "msg": "0x2927"
   },
@@ -868,7 +868,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "鯨の口の中って\\n想像も出来ませんね",
-   "en": "",
+   "en": "I can't even\\nimagine the\\ninside of a\\nwhale's mouth.",
    "op": "0x62",
    "msg": "0x2928"
   },
@@ -878,7 +878,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "口の中が生臭くて\\nそりゃあもう臭い臭い",
-   "en": "",
+   "en": "It was all fishy in\\nthere. And boy,\\ndid it stink, stink,\\nstink!",
    "op": "0x62",
    "msg": "0x2929"
   },
@@ -888,7 +888,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "あたりまえだろ\\nというか息できないのに\\nなんで匂いがわかるんだよ",
-   "en": "",
+   "en": "Obviously. And\\nhow'd you smell\\nanything if you\\ncouldn't breathe?",
    "op": "0x62",
    "msg": "0x292a"
   },
@@ -898,7 +898,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "逃げ出した時に\\n着物が臭かったんじゃ",
-   "en": "",
+   "en": "My kimono stank\\nwhen I got out!",
    "op": "0x62",
    "msg": "0x292b"
   },
@@ -908,7 +908,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "私の興味はそこですよ\\nどうやって助かったんです",
-   "en": "",
+   "en": "That's the part\\nI'm curious about.\\nHow were you\\nsaved?",
    "op": "0x62",
    "msg": "0x292c"
   },
@@ -918,7 +918,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "不幸中の幸いか\\n腹の中に先客がいた",
-   "en": "",
+   "en": "Call it a stroke of\\nluck: somebody\\nwas already in its\\nbelly ahead of me.",
    "op": "0x62",
    "msg": "0x292d"
   },
@@ -928,7 +928,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "龍馬くんの他にも\\n飲まれた人がいましたか！",
-   "en": "",
+   "en": "Someone besides\\nyou had been\\nswallowed,\\nRyoma-kun!?",
    "op": "0x62",
    "msg": "0x292e"
   },
@@ -938,7 +938,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "ごっつい刃物を持った\\n漁師のおっさんが\\n腹の中を切り始めたんじゃ",
-   "en": "",
+   "en": "A burly fisherman\\nwith a big ol'\\nblade started\\ncuttin' up its belly\\nfrom the inside!",
    "op": "0x62",
    "msg": "0x292f"
   },
@@ -948,7 +948,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "鯨が痛がって暴れたんで\\nわしは吐き出されたんじゃ",
-   "en": "",
+   "en": "The whale\\nthrashed around\\nin pain, and it\\nspat me right out!",
    "op": "0x62",
    "msg": "0x2930"
   },
@@ -958,7 +958,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "すごい体験です　龍馬くん\\n私も体験してみたいです",
-   "en": "",
+   "en": "What an\\nincredible\\nexperience,\\nRyoma-kun. I'd\\nlike to experience\\nit too.",
    "op": "0x62",
    "msg": "0x2931"
   },
@@ -968,7 +968,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "ねえ晋作　紀州に行けば\\n鯨漁を見られますよね？",
-   "en": "",
+   "en": "Say, Shinsaku, if\\nwe went to Kishu,\\nwe could see\\nwhaling, couldn't\\nwe?",
    "op": "0x62",
    "msg": "0x2932"
   },
@@ -978,7 +978,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "あのなあ　桂さん\\n龍馬の話を鵜呑みにするな\\nよ～く考えてみろ",
-   "en": "",
+   "en": "Look,\\nKatsura-san. Don't\\nswallow Ryoma's\\nstory whole.\\nThink it over real\\nhard.",
    "op": "0x62",
    "msg": "0x2933"
   },
@@ -988,7 +988,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "漁港に揚げられた鯨が\\n生きてると思うか？\\n暴れて大変だぞ？",
-   "en": "",
+   "en": "You think a whale\\nhauled up at a\\nfishing port is\\nstill alive? It'd\\nthrash all over\\nthe place,\\nwouldn't it?",
    "op": "0x62",
    "msg": "0x2934"
   },
@@ -998,7 +998,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "ああ　そういえばそうです\\n鯨はとどめを刺してから\\n陸に運ぶんですね",
-   "en": "",
+   "en": "Ah, now that you\\nmention it, you're\\nright. They finish\\noff a whale\\nbefore bringing it\\nashore.",
    "op": "0x62",
    "msg": "0x2935"
   },
@@ -1008,7 +1008,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "だからよ　龍馬の話は\\n嘘っぱちだってんだよ",
-   "en": "",
+   "en": "That's what I'm\\nsaying. Ryoma's\\nstory is a pack of\\nlies.",
    "op": "0x62",
    "msg": "0x2936"
   },
@@ -1018,7 +1018,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "でも鯨に飲まれたって",
-   "en": "",
+   "en": "But he said he\\nwas swallowed by\\na whale...",
    "op": "0x62",
    "msg": "0x2937"
   },
@@ -1028,7 +1028,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "わははは……\\n正直言うと　ちょっぴり\\n話を盛ったんじゃ",
-   "en": "",
+   "en": "Wahahaha...\\nTruth is, I\\nstretched the\\nstory a teeny bit.",
    "op": "0x62",
    "msg": "0x2938"
   },
@@ -1038,7 +1038,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "本当は漁師のおっさん達が\\n面白がって　わしを\\n鯨の口へ放り込んだんだ",
-   "en": "",
+   "en": "What really\\nhappened is the\\nfishermen\\nthought it'd be a\\nlaugh and tossed\\nme into a whale's\\nmouth.",
    "op": "0x62",
    "msg": "0x2939"
   },
@@ -1048,7 +1048,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "山ほど鯨を食べるから\\n一度食われてみるんじゃ！\\nなんて　言われてな",
-   "en": "",
+   "en": "They said, \"You\\neat heaps of\\nwhale, so try\\ngettin' eaten for\\nonce!\"",
    "op": "0x62",
    "msg": "0x293a"
   },
@@ -1058,7 +1058,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "ほれみろ\\nとんだヨタ話じゃねえか",
-   "en": "",
+   "en": "See? What a load\\nof tall tales.",
    "op": "0x62",
    "msg": "0x293b"
   },
@@ -1068,7 +1068,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "でも面白い話でしたよ\\n私も鯨の口の中に\\n入ってみたいですね",
-   "en": "",
+   "en": "But it was a fun\\nstory. I'd like to\\ngo inside a\\nwhale's mouth\\nmyself.",
    "op": "0x62",
    "msg": "0x293c"
   },
@@ -1078,7 +1078,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "ロックを深く理解するには\\n鯨に飲まれるのがいい\\nシンディも飲まれてみ？",
-   "en": "",
+   "en": "If ya wanna\\nunderstand rock\\ndeep down,\\ngettin' swallowed\\nby a whale's the\\nway. Why\\ndon'tcha try it,\\nShindy?",
    "op": "0x62",
    "msg": "0x293d"
   },
@@ -1088,7 +1088,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "はっ　またヨタかよ\\nそんなことをしなくても\\nオレ様のロックは最高だ",
-   "en": "",
+   "en": "Hah, another tall\\ntale? Yours truly's\\nrock is already\\nthe best without\\nany of that.",
    "op": "0x62",
    "msg": "0x293e"
   },
@@ -1098,7 +1098,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "もっと高みに登れるかも\\n知れないですよ　晋作",
-   "en": "",
+   "en": "You might be able\\nto climb even\\nhigher, Shinsaku.",
    "op": "0x62",
    "msg": "0x293f"
   },
@@ -1108,7 +1108,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "あのなあ　桂さん\\nお人好しもたいがいにしろ",
-   "en": "",
+   "en": "Look,\\nKatsura-san.\\nBeing a soft touch\\nonly goes so far.",
    "op": "0x62",
    "msg": "0x2940"
   },
@@ -1118,7 +1118,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "そうですかね？\\n何事も体験だと思いますよ\\n晋作",
-   "en": "",
+   "en": "Do you think so? I\\nbelieve\\neverything is\\nworth\\nexperiencing,\\nShinsaku.",
    "op": "0x62",
    "msg": "0x2941"
   },
@@ -1128,7 +1128,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "既成概念に縛られていたら\\n真のロックは難しいんじゃ\\nないかと思うんです",
-   "en": "",
+   "en": "If you're bound by\\nconventional\\nideas, I think true\\nrock would be\\ndifficult, don't\\nyou?",
    "op": "0x62",
    "msg": "0x2942"
   },
@@ -1138,7 +1138,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "はあ　お説教かよ\\n付き合い切れねえ\\nオレ様は湯を沸かしてくる",
-   "en": "",
+   "en": "Ugh, a sermon? I\\ncan't keep up.\\nYours truly is\\ngoing to go heat\\nup a bath.",
    "op": "0x62",
    "msg": "0x2943"
   },
@@ -1148,7 +1148,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "龍馬のヨタ話を聞いてたら\\n体中が生臭い気がしてきて\\nたまらねえからな",
-   "en": "",
+   "en": "Listening to\\nRyoma's tall tales,\\nI feel like I smell\\nfishy all over. I\\ncan't stand it.",
    "op": "0x62",
    "msg": "0x2944"
   },
@@ -1158,7 +1158,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "ふふっ　晋作もヨタって\\n言いながら　しっかり\\n話を聞いてたんですね",
-   "en": "",
+   "en": "Hehe. Shinsaku\\nkept calling it a\\ntall tale, but he\\nwas listening\\nclosely the whole\\ntime.",
    "op": "0x62",
    "msg": "0x2945"
   },
@@ -1168,7 +1168,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "ねえ　龍馬くん\\nもっと聞かせて欲しいです\\n土佐でのお話",
-   "en": "",
+   "en": "Say, Ryoma-kun,\\nI'd love to hear\\nmore stories\\nabout Tosa.",
    "op": "0x62",
    "msg": "0x2946"
   },
@@ -1178,7 +1178,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "おう　いくらでも話すぞ\\n盛りは少なめで",
-   "en": "",
+   "en": "Sure, I'll tell ya as\\nmany as you like.\\nAnd I'll go easy\\non the stretchin'.",
    "op": "0x62",
    "msg": "0x2947"
   },
@@ -1188,7 +1188,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "盛っていてもいいですよ\\n龍馬くんのお話は楽しくて\\nワクワクしますから",
-   "en": "",
+   "en": "You can stretch\\nthem all you like.\\nYour stories are\\nfun and exciting,\\nRyoma-kun.",
    "op": "0x62",
    "msg": "0x2948"
   },
@@ -1198,7 +1198,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "おう\\nじゃあ盛り盛りで！",
-   "en": "",
+   "en": "All right! Then I'll\\nstretch 'em as far\\nas they go!",
    "op": "0x62",
    "msg": "0x2949"
   },
@@ -1208,7 +1208,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "こうして――\\n龍馬は高杉と桂に\\n懐かしい土佐での\\n思い出を語り続けた",
-   "en": "",
+   "en": "And so, Ryoma\\nwent on telling\\nTakasugi and\\nKatsura about his\\nfond memories of\\nTosa.",
    "op": "0x62",
    "msg": "0x294a"
   }

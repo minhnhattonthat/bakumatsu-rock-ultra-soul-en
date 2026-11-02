@@ -3,9 +3,10 @@
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
 - **Phase:** 6 (translate) **in progress**: `tools/batches.py split` made b001-b114 (16,189 entries, `work/tl/`,
-  gitignored: re-split only if work/ is lost). Pilot b001-b003 done (check OK, under review); wave 1 b004-b023 out to
-  5 translators. Merge = `batches.py merge bNNN..` after check + review. Not batched: lyrics (play/, byte slots too
-  small for romaji: open), staff roll (separate batch, todo); speaker table done by hand.
+  gitignored: re-split only if work/ is lost). Reviewed + merged: b001-b071. Translated, in review: b072-b091.
+  Translating: b092-b114 (b108-b114 = UI/skit/system/EBOOT slots). Merge = `batches.py merge bNNN..` after check +
+  review; minor review findings go to `docs/polish.md`. Not batched: lyrics (play/, see open bugs), staff roll
+  (separate batch, todo); speaker table done by hand.
 - **Phase 5** (engine spike + marker build) **done**. Done: insertion pipeline, marker
   build, **horizontal ADV dialogue centred on every panel** (script ops + 9-word EBOOT patch, D12), PT Serif VWF in
   font17, ADV width gate 112 px x 8 lines on all four panel variants, torture line, every box variant measured
@@ -65,7 +66,10 @@ Updated at the end of every session. Keep it to what the next session needs; his
 - **Phase 5 (install data):** INST.DNS = PGD-encrypted INST.CPK; a player who used Options > data management would read the
   original Japanese INST from the memstick. Plan: EBOOT patch renaming the install path it probes (`containers.md`), so it
   always reads the UMD. Build leaves INST.DNS untouched.
-- **Open bugs:** `warp.py live_pause` dies with `JSONDecodeError` from the driver (psp.py's lenient JSON patch covers
+- **Open bugs:** rhythm charts: any changed lyric string in `play/script/oto01.bin` makes `warp.py live_play` halt
+  (emulator log: bad execution access at 00000000 right after chart load; same-length kana edits in oto00 pass; chart
+  lyric reader 0x08a12f7c). Until fixed, lyrics stay Japanese (play/ `en` left empty).
+  `warp.py live_pause` dies with `JSONDecodeError` from the driver (psp.py's lenient JSON patch covers
   `log` events but not this one): the scene itself was fine in phase 2, so it is a driver/timing regression to re-check.
 - **Waiting on the user** (non-blocking; defaults in use):
   - Song MVs (`mv_*.pmf`) have burned-in Japanese lyric typography: default leave as is (PSMF re-encode out of scope).

@@ -8,7 +8,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "龍馬を中心としたロックは\\n雷舞会場を大いに沸かせた",
-   "en": "",
+   "en": "The rock with\\nRyoma at its\\ncenter whipped\\nthe live venue\\ninto a frenzy.",
    "op": "0x62",
    "msg": "0x5484"
   },
@@ -18,7 +18,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "観客達の熱狂が龍馬達の\\n心と超魂を揺さぶり――",
-   "en": "",
+   "en": "The crowd's\\nfervor shook the\\nhearts and Ultra\\nSouls of Ryoma\\nand the others--",
    "op": "0x62",
    "msg": "0x5485"
   },
@@ -28,7 +28,7 @@
    "max": 96,
    "kind": "dialogue",
    "jp": "揺さぶられた心と超魂は\\n互いに共鳴して巨大な魂の\\nうねりとなって雷舞会場を\\n呑み込んでいった",
-   "en": "",
+   "en": "And those shaken\\nhearts and Ultra\\nSouls resonated\\nwith one another,\\nbecoming a giant\\nsurge of soul that\\nswallowed the\\nwhole live venue.",
    "op": "0x62",
    "msg": "0x5486"
   },
@@ -38,7 +38,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "言葉にならないわ……",
-   "en": "",
+   "en": "I'm at a loss for\\nwords...",
    "op": "0x62",
    "msg": "0x5487"
   },
@@ -48,7 +48,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "これほど心に響く\\nロックは初めて……",
-   "en": "",
+   "en": "It's the first time\\nany rock has\\nstruck my heart\\nlike this...",
    "op": "0x62",
    "msg": "0x5488"
   },
@@ -58,7 +58,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "すごく心が震えて……",
-   "en": "",
+   "en": "My heart's\\ntrembling so\\nmuch...",
    "op": "0x62",
    "msg": "0x5489"
   },
@@ -68,7 +68,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "熱い涙がぁ\\nあふれますぅ……",
-   "en": "",
+   "en": "Hot tears are\\nspilling ooouuut...",
    "op": "0x62",
    "msg": "0x548a"
   },
@@ -78,7 +78,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "大地を揺るがす程の\\n歓声が響く",
-   "en": "",
+   "en": "Cheers that could\\nshake the very\\nearth rang out.",
    "op": "0x62",
    "msg": "0x548b"
   },
@@ -88,7 +88,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "じゅにあ！\\nお前の魂に伝わったか？\\nわしらの熱い想いが！",
-   "en": "",
+   "en": "Junior! Did it\\nreach your soul?\\nOur burning\\nfeelings!",
    "op": "0x62",
    "msg": "0x548c"
   },
@@ -98,7 +98,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "オッケーだ\\nレッドボーイ",
-   "en": "",
+   "en": "Okay, Red Boy.",
    "op": "0x62",
    "msg": "0x548d"
   },
@@ -108,7 +108,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "極東の小さな島国に\\nこれほどのロッカーが\\nいたとはな",
-   "en": "",
+   "en": "To think a tiny\\nisland nation in\\nthe Far East had\\nrockers like you.",
    "op": "0x62",
    "msg": "0x548e"
   },
@@ -118,7 +118,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "お前たちの超魂は\\n神にこそふさわしい",
-   "en": "",
+   "en": "Your Ultra Souls\\nare fit for none\\nbut a god.",
    "op": "0x62",
    "msg": "0x548f"
   },
@@ -128,7 +128,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "さあ\\n超魂をオレに捧げろ！",
-   "en": "",
+   "en": "Now, offer your\\nUltra Souls to me!",
    "op": "0x62",
    "msg": "0x5490"
   },
@@ -138,7 +138,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "オレは完全無欠の\\nロックの神になる！",
-   "en": "",
+   "en": "I will become the\\nflawless god of\\nrock!",
    "op": "0x62",
    "msg": "0x5491"
   },
@@ -148,7 +148,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "まだ　わからんのか\\nロックは　歌は\\nそんなもんじゃないぜよ！",
-   "en": "",
+   "en": "You still don't get\\nit? Rock, songs --\\nthey ain't\\nanything like\\nthat!",
    "op": "0x62",
    "msg": "0x5492"
   },
@@ -158,7 +158,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "なあ　じゅにあ\\nロックは超魂で奏でる\\nものじゃないぜよ",
-   "en": "",
+   "en": "Listen, Junior.\\nRock ain't\\nsomethin' you\\nplay with Ultra\\nSoul.",
    "op": "0x62",
    "msg": "0x5493"
   },
@@ -168,7 +168,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "魂がロックを生み出し\\nロックが魂を震わせる",
-   "en": "",
+   "en": "The soul makes\\nthe rock, and the\\nrock makes the\\nsoul tremble.",
    "op": "0x62",
    "msg": "0x5494"
   },
@@ -178,7 +178,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "その力の結晶が\\n超魂になるんじゃ",
-   "en": "",
+   "en": "The crystal of\\nthat power is\\nwhat becomes\\nUltra Soul.",
    "op": "0x62",
    "msg": "0x5495"
   },
@@ -188,7 +188,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "……オレにロックを語るな",
-   "en": "",
+   "en": "...Don't lecture me\\nabout rock.",
    "op": "0x62",
    "msg": "0x5496"
   },
@@ -198,7 +198,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "奪った超魂で奏でても\\nそれは自分の\\nロックじゃない",
-   "en": "",
+   "en": "If you play with\\nstolen Ultra Soul,\\nit ain't your own\\nrock.",
    "op": "0x62",
    "msg": "0x5497"
   },
@@ -208,7 +208,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "己の中から熱くたぎって\\n湧き出てくる音楽！",
-   "en": "",
+   "en": "It's music that\\nboils up hot and\\ncomes gushin' out\\nfrom inside you!",
    "op": "0x62",
    "msg": "0x5498"
   },
@@ -218,7 +218,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "超魂よりも己の魂を震わせ\\n溢れ出るもの！\\nそれこそがロックぜよ！",
-   "en": "",
+   "en": "Somethin' that\\nshakes your own\\nsoul more than\\nany Ultra Soul\\nand comes\\noverflowin' out!\\nThat's what rock\\nis, I tell ya!",
    "op": "0x62",
    "msg": "0x5499"
   },
@@ -228,7 +228,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "だからどうした",
-   "en": "",
+   "en": "So what?",
    "op": "0x62",
    "msg": "0x549a"
   },
@@ -238,7 +238,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "オレは神！\\nロックスターだ！",
-   "en": "",
+   "en": "I am a god! A rock\\nstar!",
    "op": "0x62",
    "msg": "0x549b"
   },
@@ -248,7 +248,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "な　なんだ？\\nジュニアから感じる\\nこの重圧（プレッシャー）は",
-   "en": "",
+   "en": "Wh-what the?\\nWhat's this\\npressure coming\\noff Junior?",
    "op": "0x62",
    "msg": "0x549c"
   },
@@ -258,7 +258,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "神（スター）は負けない！\\n負けないからこそ\\n王（キング）なのだ！",
-   "en": "",
+   "en": "A star never\\nloses! It's because\\nhe never loses\\nthat he's the king!",
    "op": "0x62",
    "msg": "0x549d"
   },
@@ -268,7 +268,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "聴かせてやろう\\n真のロックを！",
-   "en": "",
+   "en": "I'll let you hear\\ntrue rock!",
    "op": "0x62",
    "msg": "0x549e"
   },
@@ -278,7 +278,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "そして　全員跪け！\\n神の前に！",
-   "en": "",
+   "en": "And then all of\\nyou will kneel!\\nBefore your god!",
    "op": "0x62",
    "msg": "0x549f"
   },
@@ -288,7 +288,7 @@
    "max": 8,
    "kind": "dialogue",
    "jp": "Ｊ！",
-   "en": "",
+   "en": "J!",
    "op": "0x62",
    "msg": "0x54a0"
   },
@@ -298,7 +298,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "フハハハハハハ！\\nいいぞ　Ｊ！\\nもっと　もっとだ",
-   "en": "",
+   "en": "Fuhahahahahaha!\\nThat's it, J! More!\\nMore!",
    "op": "0x62",
    "msg": "0x54a1"
   },
@@ -308,7 +308,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "な　なんじゃ\\nこの力は",
-   "en": "",
+   "en": "Wh-what in the\\nworld is this\\npower?",
    "op": "0x62",
    "msg": "0x54a2"
   },
@@ -318,7 +318,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "ジュニア！\\nいけません",
-   "en": "",
+   "en": "Junior! You\\nmustn't!",
    "op": "0x62",
    "msg": "0x54a3"
   },
@@ -328,7 +328,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "センセー！\\nどうしたんじゃ？",
-   "en": "",
+   "en": "Sensei! What's\\nwrong?",
    "op": "0x62",
    "msg": "0x54a4"
   },
@@ -338,7 +338,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "Ｊが奏でるギターの\\n音色で　超魂から力を\\n引き出してるんです",
-   "en": "",
+   "en": "The tone of J's\\nguitar is drawing\\npower out of the\\nUltra Soul.",
    "op": "0x62",
    "msg": "0x54a5"
   },
@@ -348,7 +348,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "それはどういう\\nことぜよ",
-   "en": "",
+   "en": "What's that\\nsupposed to\\nmean?",
    "op": "0x62",
    "msg": "0x54a6"
   },
@@ -358,7 +358,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "無理に超魂の力を\\n引き出そうとすれば\\n心が壊れてしまいます！",
-   "en": "",
+   "en": "If you force out\\nthe power of\\nUltra Soul, it will\\ndestroy his heart!",
    "op": "0x62",
    "msg": "0x54a7"
   },
@@ -368,7 +368,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "なんだって\\nやめるんじゃ！\\nＪ！　じゅにあ！",
-   "en": "",
+   "en": "What!? Stop it! J!\\nJunior!",
    "op": "0x62",
    "msg": "0x54a8"
   },
@@ -378,7 +378,7 @@
    "max": 8,
    "kind": "dialogue",
    "jp": "……",
-   "en": "",
+   "en": "...",
    "op": "0x62",
    "msg": "0x54a9"
   },
@@ -388,7 +388,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "手を止めるな！\\nＪ！",
-   "en": "",
+   "en": "Don't stop\\nplaying, J!",
    "op": "0x62",
    "msg": "0x54aa"
   },
@@ -398,7 +398,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "ジュニア！　\\nやめろ！",
-   "en": "",
+   "en": "Junior! Stop!",
    "op": "0x62",
    "msg": "0x54ab"
   },
@@ -408,7 +408,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "オレは今　最高に楽しい\\nこんな気分は　初めてだ",
-   "en": "",
+   "en": "I'm having the\\ntime of my life\\nright now. I've\\nnever felt like\\nthis before.",
    "op": "0x62",
    "msg": "0x54ac"
   },
@@ -418,7 +418,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "お前たちのロックを\\n聴かされて　黙って\\nいられるか？",
-   "en": "",
+   "en": "After hearing\\nyour rock, how\\ncould I keep\\nquiet?",
    "op": "0x62",
    "msg": "0x54ad"
   },
@@ -428,7 +428,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "この気持ちを\\nこの衝動を\\n抑えきれるものか！",
-   "en": "",
+   "en": "How could I hold\\nback this feeling,\\nthis urge!",
    "op": "0x62",
    "msg": "0x54ae"
   },
@@ -438,7 +438,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "オレは\\nオレのために歌う\\nただそれだけだ",
-   "en": "",
+   "en": "I sing for myself.\\nThat's all there is\\nto it.",
    "op": "0x62",
    "msg": "0x54af"
   },
@@ -448,7 +448,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "Ｊ\\nお前のために\\n弾け",
-   "en": "",
+   "en": "J. Play for\\nyourself.",
    "op": "0x62",
    "msg": "0x54b0"
   },
@@ -458,7 +458,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "お前のロックで\\nオレの魂に\\n火をつけてくれ！",
-   "en": "",
+   "en": "Set my soul on\\nfire with your\\nrock!",
    "op": "0x62",
    "msg": "0x54b1"
   },
@@ -468,7 +468,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "オッケー！\\nそうだ！\\nこの力だ！",
-   "en": "",
+   "en": "Okay! Yes! This is\\nthe power!",
    "op": "0x62",
    "msg": "0x54b2"
   },
@@ -478,7 +478,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "これこそ　オレの力！\\n誰に何と言われようとも\\nオレが生きてきた証！",
-   "en": "",
+   "en": "This is my power!\\nNo matter what\\nanyone says, it's\\nthe proof that I've\\nlived!",
    "op": "0x62",
    "msg": "0x54b3"
   },
@@ -488,7 +488,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "今こそ　拘束を解こう！\\nもう抑えつける必要は\\nない！",
-   "en": "",
+   "en": "Now I'll undo my\\nrestraints! There's\\nno need to hold\\nback anymore!",
    "op": "0x62",
    "msg": "0x54b4"
   },
@@ -498,7 +498,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "あの拘束衣は\\n強すぎる超魂の力を\\n抑えるためだったのか",
-   "en": "",
+   "en": "So that\\nstraitjacket was\\nthere to hold back\\nhis Ultra Soul's\\noverwhelming\\npower.",
    "op": "0x62",
    "msg": "0x54b5"
   },
@@ -508,7 +508,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "す　すごい！\\n複数の超魂を同時に\\n解放するなんて",
-   "en": "",
+   "en": "A-amazing!\\nReleasing several\\nUltra Souls at\\nonce...",
    "op": "0x62",
    "msg": "0x54b6"
   },
@@ -518,7 +518,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "解放ですって？\\nあれは暴走です",
-   "en": "",
+   "en": "Releasing? That's\\nno release. It's a\\nmeltdown!",
    "op": "0x62",
    "msg": "0x54b7"
   },
@@ -528,7 +528,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "聴け\\nこれが神のロックだ",
-   "en": "",
+   "en": "Listen. This is the\\nrock of a god.",
    "op": "0x62",
    "msg": "0x54b8"
   },
@@ -538,7 +538,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "いかんぜよ！\\nやめるんじゃ！\\nじゅにあ！",
-   "en": "",
+   "en": "That's no good!\\nStop it, Junior!",
    "op": "0x62",
    "msg": "0x54b9"
   },
@@ -548,7 +548,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "龍馬くん\\n歌うんです",
-   "en": "",
+   "en": "Ryoma-kun, you\\nhave to sing.",
    "op": "0x62",
    "msg": "0x54ba"
   },
@@ -558,7 +558,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "センセー！\\nそれでじゅにあを\\n救えるんか",
-   "en": "",
+   "en": "Sensei! Can that\\nreally save\\nJunior?",
    "op": "0x62",
    "msg": "0x54bb"
   },
@@ -568,7 +568,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "私たち五人に\\n不可能はありません\\n私たちならできます！",
-   "en": "",
+   "en": "Nothing is\\nimpossible for the\\nfive of us. We can\\ndo it!",
    "op": "0x62",
    "msg": "0x54bc"
   },
@@ -578,7 +578,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "そうじゃ\\nロックは人の心を\\n楽しませるもの",
-   "en": "",
+   "en": "That's right. Rock\\nis s'posed to make\\npeople's hearts\\nhappy.",
    "op": "0x62",
    "msg": "0x54bd"
   },
@@ -588,7 +588,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "ジュニアのロックの\\nパワーは　確かに\\nすごいぜよ……",
-   "en": "",
+   "en": "The power of\\nJunior's rock sure\\nis somethin' else...",
    "op": "0x62",
    "msg": "0x54be"
   },
@@ -598,7 +598,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "だが　違うんじゃ！\\n自分が楽しくない\\nロックなんて間違っとる！",
-   "en": "",
+   "en": "But it ain't right!\\nRock that ain't\\nfun for the one\\nplayin' it is just\\nplain wrong!",
    "op": "0x62",
    "msg": "0x54bf"
   },
@@ -608,7 +608,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "ほう　神のロックに\\n正面から立ち向かおうと\\nいうのか",
-   "en": "",
+   "en": "Hoh. You mean to\\nstand up to the\\nrock of a god\\nhead-on?",
    "op": "0x62",
    "msg": "0x54c0"
   },
@@ -618,7 +618,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "いいぞ！\\nオッケーだ！",
-   "en": "",
+   "en": "Good! Okay!",
    "op": "0x62",
    "msg": "0x54c1"
   },
@@ -628,7 +628,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "それでこそロック！\\n我がライバルと認めよう\\n燃えてきたぞ",
-   "en": "",
+   "en": "That's what rock\\nis! I acknowledge\\nyou as my rival.\\nNow I'm getting\\nfired up.",
    "op": "0x62",
    "msg": "0x54c2"
   },
@@ -638,7 +638,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "坂本\\n俺は　お前を信じる\\n存分に歌え",
-   "en": "",
+   "en": "Sakamoto. I\\nbelieve in you.\\nSing your heart\\nout.",
    "op": "0x62",
    "msg": "0x54c3"
   },
@@ -648,7 +648,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "トサカくんの想いは\\n僕らの想いだよ\\nそれを忘れないで",
-   "en": "",
+   "en": "Your feelings are\\nour feelings,\\nTosaka-kun. Don't\\nforget that.",
    "op": "0x62",
    "msg": "0x54c4"
   },
@@ -658,7 +658,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "私たちのほとばしる熱情を\\n熱いロックに乗せて！",
-   "en": "",
+   "en": "Let's put our\\ngushing passion\\ninto red-hot rock!",
    "op": "0x62",
    "msg": "0x54c5"
   },
@@ -668,7 +668,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "オレ様のロックで\\nジュニアのハートに\\nブチ込んでやる！",
-   "en": "",
+   "en": "Yours truly's rock\\nis gonna blast\\nright into Junior's\\nheart!",
    "op": "0x62",
    "msg": "0x54c6"
   },
@@ -678,7 +678,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "うぉぉぉおおお！\\nこれが最後の曲\\n（ラストナンバー）ぜよ！",
-   "en": "",
+   "en": "Raaaahhh! This is\\nour last number!",
    "op": "0x62",
    "msg": "0x54c7"
   },
@@ -688,7 +688,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "わしらの心から……\\n魂から溢れ出す熱いロック\\nで目を覚ませ　じゅにあ！",
-   "en": "",
+   "en": "This red-hot rock\\npourin' out of our\\nhearts... out of\\nour souls... it's\\ngonna wake you\\nup, Junior!",
    "op": "0x62",
    "msg": "0x54c8"
   }

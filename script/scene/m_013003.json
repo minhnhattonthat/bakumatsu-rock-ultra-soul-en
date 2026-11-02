@@ -8,7 +8,7 @@
    "max": 80,
    "kind": "dialogue",
    "jp": "龍馬達のロックは\\n互いの超魂を震わせ\\n大きな波となって\\nジュニアを揺さぶった",
-   "en": "",
+   "en": "Ryoma and the\\nothers' rock made\\neach other's Ultra\\nSouls tremble,\\nand it swelled\\ninto a great wave\\nthat shook Junior.",
    "op": "0x62",
    "msg": "0x5439"
   },
@@ -18,7 +18,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "ほう……\\n少しはオレを感じさせる\\nようになったか",
-   "en": "",
+   "en": "Hoh... So you can\\nfinally make me\\nfeel a little\\nsomething.",
    "op": "0x62",
    "msg": "0x543a"
   },
@@ -28,7 +28,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "…………",
-   "en": "",
+   "en": "............",
    "op": "0x62",
    "msg": "0x543b"
   },
@@ -38,7 +38,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "モンキーの……いや\\nレッドボーイのロックから\\n力強いグルーヴを感じる",
-   "en": "",
+   "en": "From Monkey's--\\nno, from Red\\nBoy's rock, I feel a\\npowerful groove.",
    "op": "0x62",
    "msg": "0x543c"
   },
@@ -48,7 +48,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "れっどぼーい？\\nわしのことか？",
-   "en": "",
+   "en": "Red Boy? You\\nmean me?",
    "op": "0x62",
    "msg": "0x543d"
   },
@@ -58,7 +58,7 @@
    "max": 8,
    "kind": "dialogue",
    "jp": "そうだ",
-   "en": "",
+   "en": "That's right.",
    "op": "0x62",
    "msg": "0x543e"
   },
@@ -68,7 +68,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "おう　じゅにあ\\nわしらのことを\\n思い出したようじゃの",
-   "en": "",
+   "en": "Hey, Junior! Looks\\nlike you\\nremember us\\nnow, huh?",
    "op": "0x62",
    "msg": "0x543f"
   },
@@ -78,7 +78,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "レッドボーイ\\n誰かの超魂を\\n奪ったのか？",
-   "en": "",
+   "en": "Red Boy, did you\\nsteal someone's\\nUltra Soul?",
    "op": "0x62",
    "msg": "0x5440"
   },
@@ -88,7 +88,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "わはは\\nそれはないぜよ",
-   "en": "",
+   "en": "Wahaha! No way,\\npal!",
    "op": "0x62",
    "msg": "0x5441"
   },
@@ -98,7 +98,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "誰かから超魂を奪う\\n方法なんて知らんし\\n奪うつもりもない",
-   "en": "",
+   "en": "I don't know any\\nway to steal Ultra\\nSoul from\\nsomebody, and I\\nain't fixin' to,\\nneither.",
    "op": "0x62",
    "msg": "0x5442"
   },
@@ -108,7 +108,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "ごまかすな\\nレッドボーイ",
-   "en": "",
+   "en": "Don't play dumb,\\nRed Boy.",
    "op": "0x62",
    "msg": "0x5443"
   },
@@ -118,7 +118,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "こんな短い期間での\\nレベルアップは不可能だ",
-   "en": "",
+   "en": "Leveling up this\\nmuch in such a\\nshort time is\\nimpossible.",
    "op": "0x62",
    "msg": "0x5444"
   },
@@ -128,7 +128,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "無理かどうかは\\n誰が決めるんじゃ？",
-   "en": "",
+   "en": "And who decides\\nwhat's impossible?",
    "op": "0x62",
    "msg": "0x5445"
   },
@@ -138,7 +138,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "わしらは無理と決め付けず\\nみんなで心をひとつにして\\n魂を震わせたぜよ",
-   "en": "",
+   "en": "We didn't go\\nwritin' it off as\\nimpossible. We\\nbrought all our\\nhearts together\\nas one and got\\nour souls shakin'!",
    "op": "0x62",
    "msg": "0x5446"
   },
@@ -148,7 +148,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "ワッツ？\\nココロをひとつに？\\nそれはサムライの魂か",
-   "en": "",
+   "en": "What? Hearts as\\none? Is that the\\nsamurai spirit?",
    "op": "0x62",
    "msg": "0x5447"
   },
@@ -158,7 +158,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "いいえ　ジュニア\\n私たちの力の源は\\n心の共鳴効果ですよ",
-   "en": "",
+   "en": "No, Junior. The\\nsource of our\\npower is the\\nresonance effect\\nof our hearts.",
    "op": "0x62",
    "msg": "0x5448"
   },
@@ -168,7 +168,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "共鳴効果？\\nハウリング……か\\nナンセンスだ",
-   "en": "",
+   "en": "Resonance effect?\\nLike feedback\\nhowling...?\\nNonsense.",
    "op": "0x62",
    "msg": "0x5449"
   },
@@ -178,7 +178,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "ココロに形はない\\n共鳴もしない！",
-   "en": "",
+   "en": "The heart has no\\nshape! It doesn't\\nresonate!",
    "op": "0x62",
    "msg": "0x544a"
   },
@@ -188,7 +188,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "そうかなあ\\nじゃあなぜジュニアは\\n僕達の歌に感動したのさ",
-   "en": "",
+   "en": "Is that so? Then\\nwhy were you so\\nmoved by our\\nsong, Junior?",
    "op": "0x62",
    "msg": "0x544b"
   },
@@ -198,7 +198,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "……感動？\\nオレが？",
-   "en": "",
+   "en": "...Moved? Me?",
    "op": "0x62",
    "msg": "0x544c"
   },
@@ -208,7 +208,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "聞いて下さい\\nジュニア\\nそれにＪも",
-   "en": "",
+   "en": "Please listen,\\nJunior. You too, J.",
    "op": "0x62",
    "msg": "0x544d"
   },
@@ -218,7 +218,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "私達にこの新しい力を\\n与えてくれたのは\\nジュニア　あなたですよ",
-   "en": "",
+   "en": "The one who gave\\nus this new power\\nwas you, Junior.",
    "op": "0x62",
    "msg": "0x544e"
   },
@@ -228,7 +228,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "そうじゃ！\\n世界のロックをわしらに\\n聴かせてくれたからぜよ",
-   "en": "",
+   "en": "That's right!\\n'Cause you let us\\nhear the rock of\\nthe whole world!",
    "op": "0x62",
    "msg": "0x544f"
   },
@@ -238,7 +238,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "じゅにあのロックを聴くまで\\nわしらは自分自身に\\n満足をしていた",
-   "en": "",
+   "en": "Till we heard\\nyour rock, Junior,\\nwe were plenty\\nsatisfied with\\nourselves.",
    "op": "0x62",
    "msg": "0x5450"
   },
@@ -248,7 +248,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "じゃが　じゅにあの\\nロックを聴いて\\n打ちのめされた",
-   "en": "",
+   "en": "But then we\\nheard your rock,\\nand it knocked us\\nflat.",
    "op": "0x62",
    "msg": "0x5451"
   },
@@ -258,7 +258,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "魂が震えた\\n素晴らしいロックじゃった",
-   "en": "",
+   "en": "It set my soul\\ntremblin'. That\\nwas some amazin'\\nrock.",
    "op": "0x62",
    "msg": "0x5452"
   },
@@ -268,7 +268,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "当たり前だ\\nオレのロックは世界一\\nこれは世界の常識だ",
-   "en": "",
+   "en": "Naturally. My\\nrock is number\\none in the world.\\nThat's common\\nknowledge all\\nover the world.",
    "op": "0x62",
    "msg": "0x5453"
   },
@@ -278,7 +278,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "世界一になって\\nどうしたいんじゃ？",
-   "en": "",
+   "en": "So what do ya\\nwanna do once\\nyou're number\\none?",
    "op": "0x62",
    "msg": "0x5454"
   },
@@ -288,7 +288,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "世界一なんて言葉に\\nどんな意味がある？",
-   "en": "",
+   "en": "What's a phrase\\nlike \"number one\\nin the world\" even\\nmean?",
    "op": "0x62",
    "msg": "0x5455"
   },
@@ -298,7 +298,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "わしは　ただ世界中の\\n人に　わしのロックを\\n聴いてもらいたいぜよ！",
-   "en": "",
+   "en": "Me, I just want\\nfolks all over the\\nworld to hear my\\nrock!",
    "op": "0x62",
    "msg": "0x5456"
   },
@@ -308,7 +308,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "オレと同じだろう\\nロックで世界を\\n征服するつもりなら",
-   "en": "",
+   "en": "Then you're the\\nsame as me, if\\nyou mean to\\nconquer the\\nworld with rock.",
    "op": "0x62",
    "msg": "0x5457"
   },
@@ -318,7 +318,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "違う　わしのロックで\\nみんなに楽しい気持ちに\\nなって欲しい！",
-   "en": "",
+   "en": "Nope! I want my\\nrock to make\\neverybody feel\\nhappy!",
    "op": "0x62",
    "msg": "0x5458"
   },
@@ -328,7 +328,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "そう思ってるだけぜよ",
-   "en": "",
+   "en": "That's all I'm\\nthinkin', I tell ya.",
    "op": "0x62",
    "msg": "0x5459"
   },
@@ -338,7 +338,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "レッドボーイの真意は\\nそれか",
-   "en": "",
+   "en": "So that's your\\ntrue aim, Red\\nBoy.",
    "op": "0x62",
    "msg": "0x545a"
   },
@@ -348,7 +348,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "ロックでニッポンを\\n征服するつもりだな？",
-   "en": "",
+   "en": "You plan to\\nconquer Nippon\\nwith rock, don't\\nyou?",
    "op": "0x62",
    "msg": "0x545b"
   },
@@ -358,7 +358,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "違う！　\\nみんなにわしのロックを\\n熱情を　気持ちを――",
-   "en": "",
+   "en": "No! I want\\neverybody to get\\nmy rock, my\\npassion, my\\nfeelings--",
    "op": "0x62",
    "msg": "0x545c"
   },
@@ -368,7 +368,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "ただ届けたい\\n歌いたい\\nそれだけぜよ！",
-   "en": "",
+   "en": "I just wanna get\\nit to 'em. I wanna\\nsing. That's all\\nthere is to it!",
    "op": "0x62",
    "msg": "0x545d"
   },
@@ -378,7 +378,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "そんな気持ちになれたんは\\nじゅにあとＪのおかげじゃ\\n本当に感謝してるぜよ",
-   "en": "",
+   "en": "It's thanks to you\\nand J that I came\\nto feel this way.\\nI'm real grateful,\\nI tell ya.",
    "op": "0x62",
    "msg": "0x545e"
   },
@@ -388,7 +388,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "……感謝か\\nいいだろう",
-   "en": "",
+   "en": "...Grateful, huh.\\nVery well.",
    "op": "0x62",
    "msg": "0x545f"
   },
@@ -398,7 +398,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "認めよう　レッドボーイ\\nお前たちが　この国最高の\\nロックンローラーだと",
-   "en": "",
+   "en": "I'll admit it, Red\\nBoy. You are the\\nfinest rock 'n'\\nrollers in this\\ncountry.",
    "op": "0x62",
    "msg": "0x5460"
   },
@@ -408,7 +408,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "だがオレは世界一\\n最高のロックスター",
-   "en": "",
+   "en": "But I am the\\nworld's number\\none, the greatest\\nrock star.",
    "op": "0x62",
    "msg": "0x5461"
   },
@@ -418,7 +418,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "そこまで言うなら\\nオレを楽しませることが\\nできるんだろうな？",
-   "en": "",
+   "en": "If you talk that\\nbig, you can show\\nme a good time,\\ncan't you?",
    "op": "0x62",
    "msg": "0x5462"
   },
@@ -428,7 +428,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "ロックの神である\\nこのオレを",
-   "en": "",
+   "en": "Me, the god of\\nrock.",
    "op": "0x62",
    "msg": "0x5463"
   },
@@ -438,7 +438,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "ああ\\nもちろんじゃ",
-   "en": "",
+   "en": "Yeah. You bet I\\ncan.",
    "op": "0x62",
    "msg": "0x5464"
   },
@@ -448,7 +448,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "もっともっと\\n楽しむぜよ！\\nこの最高の舞台を！",
-   "en": "",
+   "en": "Let's have even\\nmore fun! Right\\nhere on the\\ngreatest stage\\nthere is!",
    "op": "0x62",
    "msg": "0x5465"
   },
@@ -458,7 +458,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "そうとも\\nレッドボーイ！",
-   "en": "",
+   "en": "That's the spirit,\\nRed Boy!",
    "op": "0x62",
    "msg": "0x5466"
   },
@@ -468,7 +468,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "私たちは志士\\n転がり続ける石",
-   "en": "",
+   "en": "We are rebels.\\nRolling stones.",
    "op": "0x62",
    "msg": "0x5467"
   },
@@ -478,7 +478,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "龍馬くん　ほんの少し\\n離れていた間に\\n驚くほど成長しましたね",
-   "en": "",
+   "en": "Ryoma-kun, in\\nthe short time we\\nwere apart,\\nyou've grown\\nremarkably.",
    "op": "0x62",
    "msg": "0x5468"
   },
@@ -488,7 +488,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "なんか照れるのぉ",
-   "en": "",
+   "en": "Aw, that's kinda\\nembarrassin'.",
    "op": "0x62",
    "msg": "0x5469"
   },
@@ -498,7 +498,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "身近すぎると\\n気付かないもんだ",
-   "en": "",
+   "en": "When something's\\ntoo close, you\\ndon't notice it.",
    "op": "0x62",
    "msg": "0x546a"
   },
@@ -508,7 +508,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "桂さんの考え\\nオレ様の天才ぶり\\n龍馬のバカさ加減",
-   "en": "",
+   "en": "Katsura-san's\\nideas, the great\\nTakasugi's\\ngenius, Ryoma's\\nidiocy,",
    "op": "0x62",
    "msg": "0x546b"
   },
@@ -518,7 +518,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "沖田の努力\\n土方の想い……",
-   "en": "",
+   "en": "Okita's hard work,\\nHijikata's\\nfeelings...",
    "op": "0x62",
    "msg": "0x546c"
   },
@@ -528,7 +528,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "すべてを認めあって\\nぶつけあうことで\\n火花を散らすんだ",
-   "en": "",
+   "en": "We accept all of it\\nand smash it\\ntogether, and\\nthat's what makes\\nthe sparks fly.",
    "op": "0x62",
    "msg": "0x546d"
   },
@@ -538,7 +538,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "だからロックは面白え！\\nだからロックは\\n魂を熱くする！",
-   "en": "",
+   "en": "That's why rock is\\na blast! That's\\nwhy rock sets\\nyour soul on fire!",
    "op": "0x62",
    "msg": "0x546e"
   },
@@ -548,7 +548,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "ジュニア\\nお前たちには本当に\\n感謝している",
-   "en": "",
+   "en": "Junior. We truly\\nowe you our\\nthanks.",
    "op": "0x62",
    "msg": "0x546f"
   },
@@ -558,7 +558,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "大きな壁にぶつかることで\\n大切なことを思い出せたよ",
-   "en": "",
+   "en": "Running into a\\ngreat wall\\nreminded me of\\nwhat's important.",
    "op": "0x62",
    "msg": "0x5470"
   },
@@ -568,7 +568,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "近藤さんの夢を\\n実現させるために",
-   "en": "",
+   "en": "To make\\nKondo-san's\\ndream come true,",
    "op": "0x62",
    "msg": "0x5471"
   },
@@ -578,7 +578,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "僕たちは\\n立ち止まってなんか\\nいられない",
-   "en": "",
+   "en": "we can't afford to\\nstand still.",
    "op": "0x62",
    "msg": "0x5472"
   },
@@ -588,7 +588,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "今のわしらには\\nそれにふさわしい\\nロックがあるはず",
-   "en": "",
+   "en": "The way we are\\nnow, we oughta\\nhave a rock that's\\nworthy of it.",
    "op": "0x62",
    "msg": "0x5473"
   },
@@ -598,7 +598,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "この日のために\\n新曲を作り上げたぜよ！",
-   "en": "",
+   "en": "We made a\\nbrand-new song\\njust for this day!",
    "op": "0x62",
    "msg": "0x5474"
   },
@@ -608,7 +608,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "オレに向かってロックを\\n語るとは　大きく出たな\\nレッドボーイ",
-   "en": "",
+   "en": "Lecturing me\\nabout rock? Big\\nwords, Red Boy.",
    "op": "0x62",
    "msg": "0x5475"
   },
@@ -618,7 +618,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "オッケーだ",
-   "en": "",
+   "en": "Okay.",
    "op": "0x62",
    "msg": "0x5476"
   },
@@ -628,7 +628,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "もっと\\n聴かせてみろ\\nお前たちのロックを",
-   "en": "",
+   "en": "Let me hear more.\\nLet me hear your\\nrock.",
    "op": "0x62",
    "msg": "0x5477"
   },
@@ -638,7 +638,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "もっと\\n響かせてみろ\\nこのオレの魂に！",
-   "en": "",
+   "en": "Make it ring\\nlouder. Make it\\nring in my soul!",
    "op": "0x62",
    "msg": "0x5478"
   },
@@ -648,7 +648,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "覚悟しろよ　ジュニア\\nクールに構えていられる\\nのも　今だけだ",
-   "en": "",
+   "en": "Brace yourself,\\nJunior. You can\\nonly play it cool\\nfor a little while\\nlonger.",
    "op": "0x62",
    "msg": "0x5479"
   },
@@ -658,7 +658,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "さあ　来たぜ来たぜ！\\n俺様の中で新しいロックが\\n雷光してやがる！",
-   "en": "",
+   "en": "Here it comes,\\nhere it comes! A\\nbrand-new rock is\\nsparking inside\\nyours truly!",
    "op": "0x62",
    "msg": "0x547a"
   },
@@ -668,7 +668,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "誰の支配も必要ない\\n私たちの想いが\\n歌が　未来を作る！",
-   "en": "",
+   "en": "We need no one's\\nrule. Our feelings\\nand our songs\\nwill make the\\nfuture!",
    "op": "0x62",
    "msg": "0x547b"
   },
@@ -678,7 +678,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "俺たちは未熟\\nかもしれない",
-   "en": "",
+   "en": "We may still be\\nunfinished.",
    "op": "0x62",
    "msg": "0x547c"
   },
@@ -688,7 +688,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "だがそれは\\n前に進む余地が――\\n未来があるということ",
-   "en": "",
+   "en": "But that means\\nthere's room to\\nmove forward--\\nthat we have a\\nfuture.",
    "op": "0x62",
    "msg": "0x547d"
   },
@@ -698,7 +698,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "今日の僕たちは\\n昨日までの僕たちじゃない\\nそれを教えてあげるよ！",
-   "en": "",
+   "en": "We aren't who we\\nwere yesterday.\\nLet us show you!",
    "op": "0x62",
    "msg": "0x547e"
   },
@@ -708,7 +708,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "じゅにあ！\\nわしらのロックを\\nお前の魂に刻み込め！",
-   "en": "",
+   "en": "Junior! Carve our\\nrock into your\\nsoul!",
    "op": "0x62",
    "msg": "0x547f"
   },
@@ -718,7 +718,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "うぉぉおおおおお！",
-   "en": "",
+   "en": "Raaaaaahhh!",
    "op": "0x62",
    "msg": "0x5480"
   },
@@ -728,7 +728,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "これが――\\nわしが――",
-   "en": "",
+   "en": "This is-- I am--",
    "op": "0x62",
    "msg": "0x5481"
   },
@@ -738,7 +738,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "ロックじゃぁぁぁあああ",
-   "en": "",
+   "en": "ROOOOOOOCK!!",
    "op": "0x62",
    "msg": "0x5482"
   },
@@ -748,7 +748,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "烈\\nロックンロォォォル",
-   "en": "",
+   "en": "Let's rock 'n'\\nroooooll!",
    "op": "0x62",
    "msg": "0x5483"
   }

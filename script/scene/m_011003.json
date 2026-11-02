@@ -8,7 +8,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "よしっ\\n手応えあったぜ！",
-   "en": "",
+   "en": "All right! That\\none landed!",
    "op": "0x62",
    "msg": "0x5033"
   },
@@ -18,7 +18,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "ええ　最高の演奏が\\n出来たと思いますよ！",
-   "en": "",
+   "en": "Yes, I believe we\\ngave our best\\nperformance!",
    "op": "0x62",
    "msg": "0x5034"
   },
@@ -28,7 +28,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "はぁ～　やっぱ雷舞は\\n気持ちいいな！\\n最高ぜよ",
-   "en": "",
+   "en": "Haah~ Lives sure\\nfeel great! The\\nbest, I tell ya!",
    "op": "0x62",
    "msg": "0x5035"
   },
@@ -38,7 +38,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "オーケー　オーケー\\nいいんじゃないか？",
-   "en": "",
+   "en": "Okay, okay. Not\\nbad, I guess?",
    "op": "0x62",
    "msg": "0x5036"
   },
@@ -48,7 +48,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "マトモに楽器が\\n弾けるんだな\\n曲芸としてはなかなかだ",
-   "en": "",
+   "en": "So you can\\nactually play\\ninstruments. Not\\nbad, for a circus\\nact.",
    "op": "0x62",
    "msg": "0x5037"
   },
@@ -58,7 +58,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "おっ　ホントか\\nじゅにあに褒められると\\n照れるなぁ！",
-   "en": "",
+   "en": "Oh, really? Gettin'\\npraised by\\nJunior's makin' me\\nblush!",
    "op": "0x62",
    "msg": "0x5038"
   },
@@ -68,7 +68,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "ロックを好きな者同士\\nもうダチぜよ！",
-   "en": "",
+   "en": "We all love rock,\\nso that makes us\\npals already!",
    "op": "0x62",
    "msg": "0x5039"
   },
@@ -78,7 +78,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "ロックを好きな者？\\nユーはモンキーだ",
-   "en": "",
+   "en": "Love rock? You're\\na monkey.",
    "op": "0x62",
    "msg": "0x503a"
   },
@@ -88,7 +88,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "へ？\\nもんきぃ？",
-   "en": "",
+   "en": "Huh? A monkey?",
    "op": "0x62",
    "msg": "0x503b"
   },
@@ -98,7 +98,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "ロックとは神の音楽\\n奏でることが許されるのは",
-   "en": "",
+   "en": "Rock is the music\\nof the gods. The\\nonly one allowed\\nto play it...",
    "op": "0x62",
    "msg": "0x503c"
   },
@@ -108,7 +108,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "ロックスター\\nそう　神である\\nオレだけだ",
-   "en": "",
+   "en": "...is a rock star.\\nYes--me, a god.\\nOnly me.",
    "op": "0x62",
    "msg": "0x503d"
   },
@@ -118,7 +118,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "なんだと！",
-   "en": "",
+   "en": "What did you\\nsay!?",
    "op": "0x62",
    "msg": "0x503e"
   },
@@ -128,7 +128,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "龍馬のバカはともかく\\nオレ様達のロックを\\n悪く言うのは許さねぇ！",
-   "en": "",
+   "en": "Ryoma's an idiot,\\nsure, but I won't\\nlet you badmouth\\nour rock!",
    "op": "0x62",
    "msg": "0x503f"
   },
@@ -138,7 +138,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "ああ　そう\\n大体オッケー",
-   "en": "",
+   "en": "Ah, I see. Pretty\\nmuch okay.",
    "op": "0x62",
    "msg": "0x5040"
   },
@@ -148,7 +148,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "…………",
-   "en": "",
+   "en": "......",
    "op": "0x62",
    "msg": "0x5041"
   },
@@ -158,7 +158,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "ああ　Ｊ\\nバトルタイムだ",
-   "en": "",
+   "en": "Yeah, J. It's battle\\ntime.",
    "op": "0x62",
    "msg": "0x5042"
   },
@@ -168,7 +168,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "…………",
-   "en": "",
+   "en": "......",
    "op": "0x62",
    "msg": "0x5043"
   },
@@ -178,7 +178,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "オーライ！\\nレディたち！",
-   "en": "",
+   "en": "All right! Ladies!",
    "op": "0x62",
    "msg": "0x5044"
   },
@@ -188,7 +188,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "控え室で\\nずっと寂しかったよ",
-   "en": "",
+   "en": "I was so lonely\\nback in the\\ndressing room.",
    "op": "0x62",
    "msg": "0x5045"
   },
@@ -198,7 +198,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "君達にラブを\\n伝えたくて\\nたまらないんだ！",
-   "en": "",
+   "en": "I just can't wait to\\ngive you all my\\nlove!",
    "op": "0x62",
    "msg": "0x5046"
   },
@@ -208,7 +208,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "受け止めてくれ\\nマイスイートハート！",
-   "en": "",
+   "en": "Take it, my\\nsweetheart!",
    "op": "0x62",
    "msg": "0x5047"
   },
@@ -218,7 +218,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "オレのホットで\\nスパイシーなラブを\\nレディに捧げるよ……！",
-   "en": "",
+   "en": "My hot and spicy\\nlove, I dedicate to\\nyou, ladies...!",
    "op": "0x62",
    "msg": "0x5048"
   }

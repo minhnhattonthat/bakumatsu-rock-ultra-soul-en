@@ -8,7 +8,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "こりゃあ驚いた！\\n見事な合奏だったぜよ！",
-   "en": "",
+   "en": "Well, I'll be! That\\nwas some fine\\nplayin' together!",
    "op": "0x62",
    "msg": "0x52e7"
   },
@@ -18,7 +18,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "ふう\\nやっぱりロックは\\nサイコーだぜ！",
-   "en": "",
+   "en": "Phew. Rock really\\nis the best!",
    "op": "0x62",
    "msg": "0x52e8"
   },
@@ -28,7 +28,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "疲れ切っていたと\\n思ってたけど\\nやればできるもんだな",
-   "en": "",
+   "en": "I thought I was\\ntotally wiped out,\\nbut I guess you\\ncan do it if you\\ntry.",
    "op": "0x62",
    "msg": "0x52e9"
   },
@@ -38,7 +38,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "全力で演奏するのは\\n気持ちがいいものですね\\nそれに何か……",
-   "en": "",
+   "en": "Playing with\\neverything you\\nhave feels\\nwonderful. And\\nsomehow...",
    "op": "0x62",
    "msg": "0x52ea"
   },
@@ -48,7 +48,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "ああ\\nまだ完璧じゃねえが\\n何か掴めた気がするぜ",
-   "en": "",
+   "en": "Yeah. It's not\\nperfect yet, but I\\nfeel like I've got\\nhold of\\nsomething.",
    "op": "0x62",
    "msg": "0x52eb"
   },
@@ -58,7 +58,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "ええ\\n光が差し込んできた\\nそんな感じです",
-   "en": "",
+   "en": "Yes. It's as if a\\nlight has started\\nshining in.",
    "op": "0x62",
    "msg": "0x52ec"
   },
@@ -68,7 +68,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "糸口が見えたか\\nそれが特訓の成果だ",
-   "en": "",
+   "en": "You've found a\\nthread to follow?\\nThat is the fruit\\nof special\\ntraining.",
    "op": "0x62",
    "msg": "0x52ed"
   },
@@ -78,7 +78,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "バカにして悪かったな\\nあんたのおかげで\\n進む方向が見えた",
-   "en": "",
+   "en": "Sorry I made fun\\nof you. Thanks to\\nyou, I can see\\nwhere we're\\nheaded.",
    "op": "0x62",
    "msg": "0x52ee"
   },
@@ -88,7 +88,7 @@
    "max": 84,
    "kind": "dialogue",
    "jp": "少しずつでも前進していれば\\nいつかはジュニアの実力に\\n追いつけるかも知れない……",
-   "en": "",
+   "en": "If we keep\\nmoving forward,\\neven a little at a\\ntime, maybe\\nsomeday we can\\ncatch up to\\nJunior...",
    "op": "0x62",
    "msg": "0x52ef"
   },
@@ -98,7 +98,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "よし\\nでは走り込みに戻ろうか",
-   "en": "",
+   "en": "Good. Then let us\\nget back to\\nrunning.",
    "op": "0x62",
    "msg": "0x52f0"
   },
@@ -108,7 +108,7 @@
    "max": 8,
    "kind": "dialogue",
    "jp": "えっ？",
-   "en": "",
+   "en": "Huh?",
    "op": "0x62",
    "msg": "0x52f1"
   },
@@ -118,7 +118,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "条約について　ジュニアへ\\n返答をするまで時間がない\\n事は知っているはずだが",
-   "en": "",
+   "en": "You should know\\nthere's little time\\nleft before Japan\\nmust answer\\nJunior about the\\ntreaty.",
    "op": "0x62",
    "msg": "0x52f2"
   },
@@ -128,7 +128,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "あ　ああ\\n知ってるけどよ",
-   "en": "",
+   "en": "Y-yeah, I know,\\nbut...",
    "op": "0x62",
    "msg": "0x52f3"
   },
@@ -138,7 +138,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "期限までにジュニアの\\n実力に追いつくのだ！",
-   "en": "",
+   "en": "You will catch up\\nto Junior's skill\\nbefore the\\ndeadline!",
    "op": "0x62",
    "msg": "0x52f4"
   },
@@ -148,7 +148,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "さすがに　それは\\n無理があるんじゃ……",
-   "en": "",
+   "en": "Surely that's\\nasking a bit\\nmuch...",
    "op": "0x62",
    "msg": "0x52f5"
   },
@@ -158,7 +158,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "特訓に不可能はない\\nさあ　再開するぞ",
-   "en": "",
+   "en": "Nothing is\\nimpossible in\\nspecial training.\\nNow, we resume.",
    "op": "0x62",
    "msg": "0x52f6"
   },
@@ -168,7 +168,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "走れ走れ走れ\\nそれとも刀の錆に\\nなりたいのか！",
-   "en": "",
+   "en": "Run, run, run! Or\\nwould you rather\\nend up as rust on\\nmy blade!?",
    "op": "0x62",
    "msg": "0x52f7"
   },
@@ -178,7 +178,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "走る！\\n走るから　その刀を\\nしまうぜよ",
-   "en": "",
+   "en": "We're runnin'!\\nWe're runnin', so\\nput that sword\\naway!",
    "op": "0x62",
    "msg": "0x52f8"
   },
@@ -188,7 +188,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "特訓に付き合おうって\\n言い出したのは\\n桂さんだぞ！",
-   "en": "",
+   "en": "You're the one\\nwho said we\\nshould go along\\nwith the training,\\nKatsura-san!",
    "op": "0x62",
    "msg": "0x52f9"
   },
@@ -198,7 +198,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "どうしてこうなった",
-   "en": "",
+   "en": "How did it come\\nto this...",
    "op": "0x62",
    "msg": "0x52fa"
   },
@@ -208,7 +208,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "私の方が聞きたいですよ\\nとほほ……",
-   "en": "",
+   "en": "I'd like to know\\nthat myself...\\nSigh...",
    "op": "0x62",
    "msg": "0x52fb"
   },
@@ -218,7 +218,7 @@
    "max": 108,
    "kind": "dialogue",
    "jp": "こうして\\n謎の男　誠仮面による\\n意味があるのかないのか\\n分からない特訓は　\\n果てしなく\\n続くのであった……",
-   "en": "",
+   "en": "And so the\\nmysterious man\\nMakoto Mask's\\nspecial training,\\nmeaningful or\\nnot, went on and\\non without end...",
    "op": "0x62",
    "msg": "0x52fc"
   }

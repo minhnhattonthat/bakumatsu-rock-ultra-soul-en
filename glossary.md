@@ -102,13 +102,21 @@ an `Avoid` spelling fails. Name + honorific (龍馬さん) must come out as `Ryo
 | 暗黒桜桃隊 | Dark Cherries | | the girls' unit, 暗黒桜桃隊（ダークチェリーズ） | Dark Cherry Corps |
 | 黄泉の歌姫 | Divas of the Underworld | | | |
 | スカシくん | Mr. Poser | | Okita's name for Takasugi | Dud-kun |
-| 苺慶喜 | cake | | ichigo keiki pun (慶喜 also reads Keiki): free adaptation, must say "cake" | |
+| 苺慶喜 | strawberry Yoshinobu cake | | ichigo keiki pun; a clipped 慶喜 (the cake) -> "Yoshinobu" | Keiki-cake |
+| (style) | | | Avoid list applies to every line: British forms (US English ruling) | Oi, you lot |
 | 姐さん | Sis | | お龍姐さん -> Sis Oryo | Big Sis |
 | ヨッシー | Yosshi | | Ryoma's nickname for Yoshinobu | |
 | ショウ | Show | | Shoin's stage name (Tengu, old rockers) | |
 | 御前試合 | Royal Concert | | 御前試合（ロイヤルコンサート） | |
 | 彦根 | Hikone | | Ii's domain | |
 | 見回り隊 | patrol | | 見回り隊探知機（レーダー） -> patrol radar | |
+| 龍子 | Ryoko | | drag-bar stage name (源氏名 -> stage name) | |
+| 歳子 | Toshiko | | drag-bar stage name | |
+| 桂子 | Keiko | | drag-bar stage name | |
+| 総美 | Somi | | drag-bar stage name | |
+| 晋子 | Shinko | | drag-bar stage name | |
+| 大江戸天歌祭 | Great Edo Heaven's Song Festival | | | |
+| 奇兵隊 | Strange Rockers | | 奇兵隊（ストレンジロッカーズ） | Kiheitai |
 
 ## Phrases
 - 京 -> Kyoto (京の都 -> "the capital, Kyoto" / "Kyoto"). 烈（レッツ）ロックンロォォル -> "Let's rock 'n' rooooll!".
@@ -137,6 +145,9 @@ an `Avoid` spelling fails. Name + honorific (龍馬さん) must come out as `Ryo
   スカシくん's スカ死 pun -> "From Poser to decomposer!". 愛獲三娘（ユニット） idol unit; 姐さん (to Oryo) Sis; ボウヤ
   (Oryo to Takasugi) boy; 痺れ玉 numbing bomb; 小柄 throwing knives; 合一（フュージョン） Fusion; ご家老様 (Oryo to Ii) my
   lord; ゲーベル銃 Geweer rifle; 茶店（カフェ） cafe. "Oi" is British: Takasugi says "Hey".
+- b076-b079: 色男 ladies' man; 『場亜　オカマちゃん』 'Bar Okama-chan'; オカマバー drag bar; オカマちゃん愛獲 drag idols;
+  オカマちゃん (generic) drag darlings; 隊名 band name; 乙女姉やん Sis Otome; 迅馬笛（ジンバブエ） the Zimbabwe;
+  (お)腹の虫 the hunger bug; 鼓舞鳥隊 (こぶとり pun) the Bold Eagles; Ｒ安堵Ｒ R&R.
   黄泉路の歌姫 the Diva of the Underworld; 幾松姐さん Sis Ikumatsu; 地下愛獲 underground idol; 看板娘 poster girls;
   一人雷舞（ソロライブ） solo live; お白州 the court; 総ちゃん (Otose) So-chan; カイ (Katsu's old stage name) Kai; 勝先生
   Katsu-sensei; ケツの穴の小せえ "chickenshit" (timid, not uptight).

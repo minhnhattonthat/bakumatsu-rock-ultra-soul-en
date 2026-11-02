@@ -8,7 +8,7 @@
    "max": 84,
    "kind": "dialogue",
    "jp": "意気揚々と土佐の地を\\n出発した龍馬は\\n京の都で\\n己の実力を試そうと\\n熱く燃えていた",
-   "en": "",
+   "en": "Having set out\\nfrom Tosa in high\\nspirits, Ryoma\\nwas burning to\\ntest his skills in\\nthe capital, Kyoto.",
    "op": "0x62",
    "msg": "0x2cc4"
   },
@@ -18,7 +18,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "まず\\n大舞台の会場に\\n行ってみないとなぁ",
-   "en": "",
+   "en": "First, I oughta go\\ntake a look at the\\naudition hall.",
    "op": "0x62",
    "msg": "0x2cc5"
   },
@@ -28,7 +28,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "…………",
-   "en": "",
+   "en": "............",
    "op": "0x62",
    "msg": "0x2cc6"
   },
@@ -38,7 +38,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "…………",
-   "en": "",
+   "en": "............",
    "op": "0x62",
    "msg": "0x2cc7"
   },
@@ -48,7 +48,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "ここはどこだああぁ～！",
-   "en": "",
+   "en": "Where am I-iiiii!?",
    "op": "0x62",
    "msg": "0x2cc8"
   },
@@ -58,7 +58,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "そして\\nさっそく迷っていた",
-   "en": "",
+   "en": "And he was lost\\nalready.",
    "op": "0x62",
    "msg": "0x2cc9"
   },
@@ -68,7 +68,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "そ　そもそも\\n道がまっすぐだらけで\\n店も似すぎぜよ！",
-   "en": "",
+   "en": "F-for starters, the\\nroads are all\\nstraight lines and\\nthe shops look\\nway too alike!",
    "op": "0x62",
    "msg": "0x2cca"
   },
@@ -78,7 +78,7 @@
    "max": 116,
    "kind": "dialogue",
    "jp": "碁盤の目になった\\n京の町並みは\\n土佐から出てきたばかりの\\n龍馬にとって\\nどこも同じに見え\\n難解な迷路となっていた",
-   "en": "",
+   "en": "To Ryoma, fresh\\nfrom Tosa,\\nKyoto's grid of\\nstreets looked the\\nsame everywhere,\\nmaking it a\\nbaffling maze.",
    "op": "0x62",
    "msg": "0x2ccb"
   },
@@ -88,7 +88,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "うう\\nこうしてる内にも\\n大舞台がはじまるぜよ",
-   "en": "",
+   "en": "Ugh... At this rate,\\nthe audition's\\ngonna start\\nwithout me!",
    "op": "0x62",
    "msg": "0x2ccc"
   },
@@ -98,7 +98,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "どうしたら\\nいいんだぁ～っ ",
-   "en": "",
+   "en": "What do I\\ndooooo!?",
    "op": "0x62",
    "msg": "0x2ccd"
   },
@@ -108,7 +108,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "急いで帰らねば\\n近藤さんとの約束の\\n時間に遅れてしまう",
-   "en": "",
+   "en": "I must hurry\\nback, or I'll be late\\nfor my\\nappointment with\\nKondo-san.",
    "op": "0x62",
    "msg": "0x2cce"
   },
@@ -118,7 +118,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "どうしたら\\nいいんだぁ～っ ",
-   "en": "",
+   "en": "What do I\\ndooooo!?",
    "op": "0x62",
    "msg": "0x2ccf"
   },
@@ -128,7 +128,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "なんだ……？\\n今の声は",
-   "en": "",
+   "en": "What...? That\\nvoice just now...",
    "op": "0x62",
    "msg": "0x2cd0"
   },
@@ -138,7 +138,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "おお\\nちょうどいいところに\\n人が来たぜよ！",
-   "en": "",
+   "en": "Oh! Somebody\\nshowed up at just\\nthe right time!",
    "op": "0x62",
    "msg": "0x2cd1"
   },
@@ -148,7 +148,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "なぁ　そこの人！\\nわしゃ\\nどうすればいいっ？",
-   "en": "",
+   "en": "Hey, you there!\\nWhat am I s'posed\\nto do?",
    "op": "0x62",
    "msg": "0x2cd2"
   },
@@ -158,7 +158,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "……ん？",
-   "en": "",
+   "en": "...Hm?",
    "op": "0x62",
    "msg": "0x2cd3"
   },
@@ -168,7 +168,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "突然なんだ\\nこの男は？",
-   "en": "",
+   "en": "What's with this\\nguy, out of\\nnowhere?",
    "op": "0x62",
    "msg": "0x2cd4"
   },
@@ -178,7 +178,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "わしは行くところが\\nあるぜよ！",
-   "en": "",
+   "en": "I got someplace I\\nneed to be!",
    "op": "0x62",
    "msg": "0x2cd5"
   },
@@ -188,7 +188,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "だけど道がわからん！\\nどうすればいいぃ～ ",
-   "en": "",
+   "en": "But I don't know\\nthe way! What do\\nI dooooo?",
    "op": "0x62",
    "msg": "0x2cd6"
   },
@@ -198,7 +198,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "……誰かに道を聞けば\\nいいだろう？",
-   "en": "",
+   "en": "...Just ask\\nsomeone for\\ndirections?",
    "op": "0x62",
    "msg": "0x2cd7"
   },
@@ -208,7 +208,7 @@
    "max": 4,
    "kind": "dialogue",
    "jp": " ",
-   "en": "",
+   "en": "...",
    "op": "0x62",
    "msg": "0x2cd8"
   },
@@ -218,7 +218,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "そ　そうか！\\n道を聞けばいいんじゃ！",
-   "en": "",
+   "en": "O-oh, right! I just\\ngotta ask for\\ndirections!",
    "op": "0x62",
    "msg": "0x2cd9"
   },
@@ -228,7 +228,7 @@
    "max": 8,
    "kind": "dialogue",
    "jp": "…… ",
-   "en": "",
+   "en": "...",
    "op": "0x62",
    "msg": "0x2cda"
   },
@@ -238,7 +238,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "誰に道を聞けば\\nいいんじゃぁぁ～っ ",
-   "en": "",
+   "en": "But who do I ask\\nfor\\ndirectiooooons!?",
    "op": "0x62",
    "msg": "0x2cdb"
   },
@@ -248,7 +248,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "頭を抱えて\\nわめき始めた……",
-   "en": "",
+   "en": "He's clutching his\\nhead and\\nwailing...",
    "op": "0x62",
    "msg": "0x2cdc"
   },
@@ -258,7 +258,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "……なんだこいつは\\n関わり合いに\\nなりたくないな",
-   "en": "",
+   "en": "...What is with\\nthis guy. I'd\\nrather not get\\ninvolved.",
    "op": "0x62",
    "msg": "0x2cdd"
   },
@@ -268,7 +268,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "あっ！\\nそうだ！",
-   "en": "",
+   "en": "Ah! I got it!",
    "op": "0x62",
    "msg": "0x2cde"
   },
@@ -278,7 +278,7 @@
    "max": 8,
    "kind": "dialogue",
    "jp": "うっ ",
-   "en": "",
+   "en": "Ngh.",
    "op": "0x62",
    "msg": "0x2cdf"
   },
@@ -288,7 +288,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "あんただ　あんた！\\nちょ～っと　いいかっ？",
-   "en": "",
+   "en": "You! Yeah, you!\\nGot a sec?",
    "op": "0x62",
    "msg": "0x2ce0"
   },
@@ -298,7 +298,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "着物の袖を\\n引っ張るな！",
-   "en": "",
+   "en": "Don't tug on my\\nsleeve!",
    "op": "0x62",
    "msg": "0x2ce1"
   },
@@ -308,7 +308,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "おお　すまんすまん\\nあんたがどこかに行って\\nしまいそうだったからな！",
-   "en": "",
+   "en": "Oh, sorry, sorry!\\nLooked like you\\nwere about to\\nwander off\\nsomewhere!",
    "op": "0x62",
    "msg": "0x2ce2"
   },
@@ -318,7 +318,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "逃げ遅れたな……\\n……仕方ない",
-   "en": "",
+   "en": "Too late to get\\naway... No choice.",
    "op": "0x62",
    "msg": "0x2ce3"
   },
@@ -328,7 +328,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "それで　何用だ",
-   "en": "",
+   "en": "So. What do you\\nwant?",
    "op": "0x62",
    "msg": "0x2ce4"
   },
@@ -338,7 +338,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "大舞台をやってる場所\\nまでの道を教えて\\n欲しいぜよ！",
-   "en": "",
+   "en": "I want you to tell\\nme how to get to\\nwhere they're\\nholdin' the\\naudition!",
    "op": "0x62",
    "msg": "0x2ce5"
   },
@@ -348,7 +348,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "大舞台だと？",
-   "en": "",
+   "en": "The audition?",
    "op": "0x62",
    "msg": "0x2ce6"
   },
@@ -358,7 +358,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "そうじゃ！\\nこっからどうやって\\n行けばいいか知ってるか？",
-   "en": "",
+   "en": "That's right!\\nKnow how I get\\nthere from here?",
    "op": "0x62",
    "msg": "0x2ce7"
   },
@@ -368,7 +368,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "大舞台を受けるつもりの\\n者か……",
-   "en": "",
+   "en": "So he means to\\ntry out at the\\naudition...",
    "op": "0x62",
    "msg": "0x2ce8"
   },
@@ -378,7 +378,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "だが　紹介状を\\n持っているようには\\n見えないな……",
-   "en": "",
+   "en": "But he doesn't\\nlook like he has a\\nletter of\\nintroduction...",
    "op": "0x62",
    "msg": "0x2ce9"
   },
@@ -388,7 +388,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "大舞台を受けるのではなく\\n雑用に呼ばれた者か？",
-   "en": "",
+   "en": "Maybe he isn't\\nhere to try out at\\nthe audition, but\\nwas called in to\\ndo odd jobs?",
    "op": "0x62",
    "msg": "0x2cea"
   },
@@ -398,7 +398,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "何にせよ　俺には\\n関わり合いのない\\n者だな",
-   "en": "",
+   "en": "Either way, he's\\nno concern of\\nmine.",
    "op": "0x62",
    "msg": "0x2ceb"
   },
@@ -408,7 +408,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "大舞台の会場ならば\\n知っている",
-   "en": "",
+   "en": "The audition hall?\\nI know where it\\nis.",
    "op": "0x62",
    "msg": "0x2cec"
   },
@@ -418,7 +418,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "おお　やった！\\n助かるぜよ！",
-   "en": "",
+   "en": "Oh, all right!\\nYou're a lifesaver!",
    "op": "0x62",
    "msg": "0x2ced"
   },
@@ -428,7 +428,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "この道をまっすぐ進め",
-   "en": "",
+   "en": "Go straight down\\nthis road.",
    "op": "0x62",
    "msg": "0x2cee"
   },
@@ -438,7 +438,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "ほうほう",
-   "en": "",
+   "en": "Uh-huh, uh-huh.",
    "op": "0x62",
    "msg": "0x2cef"
   },
@@ -448,7 +448,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "そうしたら団子屋がある",
-   "en": "",
+   "en": "Then there's a\\ndango shop.",
    "op": "0x62",
    "msg": "0x2cf0"
   },
@@ -458,7 +458,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "そうだ\\n帰りに団子屋で\\n近藤さんへの\\nお土産として\\n団子を買っていこう",
-   "en": "",
+   "en": "Right. On the way\\nback, I'll pick up\\nsome dango at\\nthat shop as a\\ngift for\\nKondo-san.",
    "op": "0x62",
    "msg": "0x2cf1"
   },
@@ -468,7 +468,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "それで　団子屋を見たら\\nどうしたらいいぜよ？",
-   "en": "",
+   "en": "So when I see the\\ndango shop, what\\ndo I do?",
    "op": "0x62",
    "msg": "0x2cf2"
   },
@@ -478,7 +478,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "近藤さんが好きな団子は\\nなんだったか……",
-   "en": "",
+   "en": "What was the\\ndango Kondo-san\\nlikes again...?",
    "op": "0x62",
    "msg": "0x2cf3"
   },
@@ -488,7 +488,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "おーい　団子屋で\\nわしゃどうすればいい？",
-   "en": "",
+   "en": "Hey, what am I\\ns'posed to do at\\nthe dango shop?",
    "op": "0x62",
    "msg": "0x2cf4"
   },
@@ -498,7 +498,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "あの菓子の名前は\\nたしか……",
-   "en": "",
+   "en": "The name of that\\nsweet was, I\\nbelieve...",
    "op": "0x62",
    "msg": "0x2cf5"
   },
@@ -508,7 +508,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "間借り団子だ！",
-   "en": "",
+   "en": "Turnover dango!",
    "op": "0x62",
    "msg": "0x2cf6"
   },
@@ -518,7 +518,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "ほうほう！　曲がる！\\n団子屋で曲がるんじゃな",
-   "en": "",
+   "en": "Uh-huh! Turn! So\\nI turn at the\\ndango shop!",
    "op": "0x62",
    "msg": "0x2cf7"
   },
@@ -528,7 +528,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "ああ　間借り団子を\\n買って帰らねば",
-   "en": "",
+   "en": "Yes. I must buy\\nturnover dango\\non the way back.",
    "op": "0x62",
    "msg": "0x2cf8"
   },
@@ -538,7 +538,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "……頷いてるから\\n曲がっていいんだな……？\\n",
-   "en": "",
+   "en": "...He's noddin', so\\nI guess I turn\\nthere...?",
    "op": "0x62",
    "msg": "0x2cf9"
   },
@@ -548,7 +548,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "そっから　どう行ったら\\nいいんじゃ？",
-   "en": "",
+   "en": "And where do I\\ngo from there?",
    "op": "0x62",
    "msg": "0x2cfa"
   },
@@ -558,7 +558,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "ん？\\nああ大舞台会場への\\n道順だったな",
-   "en": "",
+   "en": "Hm? Ah, the way\\nto the audition\\nhall.",
    "op": "0x62",
    "msg": "0x2cfb"
   },
@@ -568,7 +568,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "この道をまっすぐ行くと\\nいいのだから……",
-   "en": "",
+   "en": "It's just straight\\ndown this road,\\nso...",
    "op": "0x62",
    "msg": "0x2cfc"
   },
@@ -578,7 +578,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "その団子屋を目印にして\\nそこからはまっすぐ歩け\\nその後　突き当たりを右だ",
-   "en": "",
+   "en": "Use that dango\\nshop as a\\nlandmark and\\nwalk straight on\\nfrom there. Then\\nturn right at the\\nend.",
    "op": "0x62",
    "msg": "0x2cfd"
   },
@@ -588,7 +588,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "わかったぜよ！\\n助かった！",
-   "en": "",
+   "en": "Got it! Thanks a\\nbunch!",
    "op": "0x62",
    "msg": "0x2cfe"
   },
@@ -598,7 +598,7 @@
    "max": 8,
    "kind": "dialogue",
    "jp": "……",
-   "en": "",
+   "en": "...",
    "op": "0x62",
    "msg": "0x2cff"
   },
@@ -608,7 +608,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "男はそのまま去って行った",
-   "en": "",
+   "en": "The man went on\\nhis way.",
    "op": "0x62",
    "msg": "0x2d00"
   },
@@ -618,7 +618,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "口数は少ないが\\n親切な奴だったなあ！",
-   "en": "",
+   "en": "He didn't say\\nmuch, but he sure\\nwas a kind fella!",
    "op": "0x62",
    "msg": "0x2d01"
   },
@@ -628,7 +628,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "よぉし！\\nまずは団子屋ぜよ！",
-   "en": "",
+   "en": "All right! Dango\\nshop first!",
    "op": "0x62",
    "msg": "0x2d02"
   },
@@ -638,7 +638,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "龍馬は意気揚々と\\n歩き始めた",
-   "en": "",
+   "en": "Ryoma set off in\\nhigh spirits.",
    "op": "0x62",
    "msg": "0x2d03"
   },
@@ -648,7 +648,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "おかしい……\\n全然突き当たりに\\nたどり着かんぜよ……っ",
-   "en": "",
+   "en": "That's funny... I\\nain't reachin' the\\nend of the road at\\nall...!",
    "op": "0x62",
    "msg": "0x2d04"
   },
@@ -658,7 +658,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "ちゃんと団子屋の角で\\n曲がったはずなんだが……",
-   "en": "",
+   "en": "I'm sure I turned\\nat the corner of\\nthe dango shop...",
    "op": "0x62",
    "msg": "0x2d05"
   },
@@ -668,7 +668,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "うーん\\nわしは道を間違え\\nたか……？",
-   "en": "",
+   "en": "Hmm... Did I take\\na wrong turn...?",
    "op": "0x62",
    "msg": "0x2d06"
   },
@@ -678,7 +678,7 @@
    "max": 8,
    "kind": "dialogue",
    "jp": "わっ！",
-   "en": "",
+   "en": "Whoa!",
    "op": "0x62",
    "msg": "0x2d07"
   },
@@ -688,7 +688,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "うひゃっ！",
-   "en": "",
+   "en": "Yikes!",
    "op": "0x62",
    "msg": "0x2d08"
   },
@@ -698,7 +698,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "痛～～っ",
-   "en": "",
+   "en": "Owww...",
    "op": "0x62",
    "msg": "0x2d09"
   },
@@ -708,7 +708,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "おいこら　そこの奴\\nこの僕にぶつかるとか\\nどういうつもりだよ？",
-   "en": "",
+   "en": "Hey, you there.\\nWhat's the big\\nidea, bumping\\ninto ME?",
    "op": "0x62",
    "msg": "0x2d0a"
   },
@@ -718,7 +718,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "おおう　すまんぜよ！\\n周りを見てて\\n気づかなかった！",
-   "en": "",
+   "en": "Whoa, sorry 'bout\\nthat! I was lookin'\\naround and didn't\\nnotice ya!",
    "op": "0x62",
    "msg": "0x2d0b"
   },
@@ -728,7 +728,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "……なんか　こいつ……\\n間抜けな感じが\\nぷんぷんするなぁ",
-   "en": "",
+   "en": "...Something about\\nthis guy... he just\\nreeks of dimwit.",
    "op": "0x62",
    "msg": "0x2d0c"
   },
@@ -738,7 +738,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "ちょうどいい！\\n大舞台の場所を\\n教えてくれないか？",
-   "en": "",
+   "en": "Perfect timin'!\\nCould you tell me\\nwhere the\\naudition is?",
    "op": "0x62",
    "msg": "0x2d0d"
   },
@@ -748,7 +748,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "はぁ？　大舞台？",
-   "en": "",
+   "en": "Huh? The\\naudition?",
    "op": "0x62",
    "msg": "0x2d0e"
   },
@@ -758,7 +758,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "こいつ大舞台を受けるのに\\n僕のことを知らないの？",
-   "en": "",
+   "en": "He's taking the\\naudition and he\\ndoesn't know who\\nI am?",
    "op": "0x62",
    "msg": "0x2d0f"
   },
@@ -768,7 +768,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "悪いが頼むぜよ～",
-   "en": "",
+   "en": "Sorry to ask, but\\nplease~",
    "op": "0x62",
    "msg": "0x2d10"
   },
@@ -778,7 +778,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "そりゃあ　きゃーきゃー\\n言われたら\\n鬱陶しいけどさー",
-   "en": "",
+   "en": "Sure, getting\\nsquealed at all\\nthe time is a pain,\\nbut still...",
    "op": "0x62",
    "msg": "0x2d11"
   },
@@ -788,7 +788,7 @@
    "max": 8,
    "kind": "dialogue",
    "jp": "……",
-   "en": "",
+   "en": "...",
    "op": "0x62",
    "msg": "0x2d12"
   },
@@ -798,7 +798,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "どうした？",
-   "en": "",
+   "en": "What's the\\nmatter?",
    "op": "0x62",
    "msg": "0x2d13"
   },
@@ -808,7 +808,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "えっとねぇ～　大舞台は\\nこっちじゃなくて\\nあっちだよ～",
-   "en": "",
+   "en": "Let's seee~ The\\naudition isn't this\\nway, it's that way~",
    "op": "0x62",
    "msg": "0x2d14"
   },
@@ -818,7 +818,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "道を尋ねた相手は\\n龍馬の進行方向を\\n指さした",
-   "en": "",
+   "en": "The one he'd\\nasked for\\ndirections pointed\\nthe way Ryoma\\nhad been\\nheading.",
    "op": "0x62",
    "msg": "0x2d15"
   },
@@ -828,7 +828,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "おりゃ？\\nこっちであってたか？",
-   "en": "",
+   "en": "Huh? So I was\\ngoin' the right\\nway?",
    "op": "0x62",
    "msg": "0x2d16"
   },
@@ -838,7 +838,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "うんうん\\nそうそう",
-   "en": "",
+   "en": "Yep, yep. That's\\nright.",
    "op": "0x62",
    "msg": "0x2d17"
   },
@@ -848,7 +848,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "そうかー\\n助かったぜよ！",
-   "en": "",
+   "en": "I see! You're a\\nlifesaver!",
    "op": "0x62",
    "msg": "0x2d18"
   },
@@ -858,7 +858,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "それじゃ　わしは急ぐで\\nさらばぜよー",
-   "en": "",
+   "en": "Well, I'm in a\\nhurry, so so long!",
    "op": "0x62",
    "msg": "0x2d19"
   },
@@ -868,7 +868,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "はいはい\\nさようなら～",
-   "en": "",
+   "en": "Sure, sure.\\nBye-bye~",
    "op": "0x62",
    "msg": "0x2d1a"
   },
@@ -878,7 +878,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "…………",
-   "en": "",
+   "en": "............",
    "op": "0x62",
    "msg": "0x2d1b"
   },
@@ -888,7 +888,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "あっちにあるのは\\n新選組直轄の\\n専門小物（グッズ）屋\\nだ～け～ど～",
-   "en": "",
+   "en": "What's over there\\nis the\\nShinsengumi's\\nofficial goods\\nshop, thouuugh~",
    "op": "0x62",
    "msg": "0x2d1c"
   },
@@ -898,7 +898,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "でもお店でなら\\n大舞台会場への\\n行き方は聞けるし\\nいいんじゃないかな～？",
-   "en": "",
+   "en": "But he can ask at\\nthe shop how to\\nget to the\\naudition hall, so\\nit's fine, right~?",
    "op": "0x62",
    "msg": "0x2d1d"
   },
@@ -908,7 +908,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "ていうか大舞台を受ける\\nつもりなら大先輩の\\n顔くらい覚えてろっつーの",
-   "en": "",
+   "en": "I mean, if you're\\ngonna take the\\naudition, you\\ncould at least\\nremember your\\nsenior's face.",
    "op": "0x62",
    "msg": "0x2d1e"
   },
@@ -918,7 +918,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "新選組一番隊組長である\\nこの僕",
-   "en": "",
+   "en": "The face of the\\nCaptain of the\\nShinsengumi's\\nFirst Unit--me!",
    "op": "0x62",
    "msg": "0x2d1f"
   },
@@ -928,7 +928,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "――沖田総司の\\n顔くらいはね",
-   "en": "",
+   "en": "--Soji Okita. At\\nthe very least.",
    "op": "0x62",
    "msg": "0x2d20"
   },
@@ -938,7 +938,7 @@
    "max": 92,
    "kind": "dialogue",
    "jp": "美しい少年――沖田総司は\\n去っていった男を振り返る\\nこともなくどこぞへと\\n消えたのだった",
-   "en": "",
+   "en": "The beautiful\\nyouth, Soji Okita,\\nvanished off\\nsomewhere\\nwithout so much\\nas a glance back\\nat the man who\\nhad left.",
    "op": "0x62",
    "msg": "0x2d21"
   },
@@ -948,7 +948,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "また違うところに\\n着いた気がするぜよ……",
-   "en": "",
+   "en": "Feels like I ended\\nup someplace\\nwrong again...",
    "op": "0x62",
    "msg": "0x2d22"
   },
@@ -958,7 +958,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "新選組の専門小物を\\n売ってる店はあったが……",
-   "en": "",
+   "en": "There was a shop\\nsellin'\\nShinsengumi\\ngoods, sure, but...",
    "op": "0x62",
    "msg": "0x2d23"
   },
@@ -968,7 +968,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "わしが行きたいのは\\n大舞台会場ぜよーー！",
-   "en": "",
+   "en": "Where I wanna go\\nis the audition\\nhaaall!",
    "op": "0x62",
    "msg": "0x2d24"
   },
@@ -978,7 +978,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "……おや　どうかしたのか\\nそこの兄さん",
-   "en": "",
+   "en": "...Oh? Is\\nsomething the\\nmatter, young\\nman?",
    "op": "0x62",
    "msg": "0x2d25"
   },
@@ -988,7 +988,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "大舞台がどうとか\\n言っていた気がするが？",
-   "en": "",
+   "en": "I thought I heard\\nyou say\\nsomething about\\nan audition.",
    "op": "0x62",
    "msg": "0x2d26"
   },
@@ -998,7 +998,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "龍馬の前に\\nまた新たな男が現れた",
-   "en": "",
+   "en": "Yet another new\\nman appeared\\nbefore Ryoma.",
    "op": "0x62",
    "msg": "0x2d27"
   },
@@ -1008,7 +1008,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "いやぁ……\\n何度人に道を聞いても\\n迷子になってしまって……",
-   "en": "",
+   "en": "Well, uh... No\\nmatter how many\\nfolks I ask for\\ndirections, I keep\\ngettin' lost...",
    "op": "0x62",
    "msg": "0x2d28"
   },
@@ -1018,7 +1018,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "土佐の田舎者には\\n京の町は広すぎるぜよ……",
-   "en": "",
+   "en": "Kyoto's just too\\nbig for a country\\nbumpkin from\\nTosa...",
    "op": "0x62",
    "msg": "0x2d29"
   },
@@ -1028,7 +1028,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "はっはっは\\n気にすることはない",
-   "en": "",
+   "en": "Hahaha! Don't let\\nit bother you.",
    "op": "0x62",
    "msg": "0x2d2a"
   },
@@ -1038,7 +1038,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "俺もこちらに来た当初は\\nよく迷ったものだ",
-   "en": "",
+   "en": "I got lost all the\\ntime myself when\\nI first came here.",
    "op": "0x62",
    "msg": "0x2d2b"
   },
@@ -1048,7 +1048,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "そうか！",
-   "en": "",
+   "en": "Really!",
    "op": "0x62",
    "msg": "0x2d2c"
   },
@@ -1058,7 +1058,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "それに大舞台に\\n行きたいのなら\\n俺が連れて行ってあげよう",
-   "en": "",
+   "en": "And if you want\\nto go to the\\naudition, I'll take\\nyou there.",
    "op": "0x62",
    "msg": "0x2d2d"
   },
@@ -1068,7 +1068,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "なんだと！",
-   "en": "",
+   "en": "No kiddin'!",
    "op": "0x62",
    "msg": "0x2d2e"
   },
@@ -1078,7 +1078,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "そちらに俺も用が\\nあってね　ついでだ",
-   "en": "",
+   "en": "I have business\\nthat way too. It's\\non my way.",
    "op": "0x62",
    "msg": "0x2d2f"
   },
@@ -1088,7 +1088,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "ありがたい！\\n恩に着るぜよ！",
-   "en": "",
+   "en": "Much obliged! I\\nowe ya one!",
    "op": "0x62",
    "msg": "0x2d30"
   },
@@ -1098,7 +1098,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "袖すり合うも多生の縁だ",
-   "en": "",
+   "en": "Even brushing\\nsleeves with a\\nstranger is fate,\\nas they say.",
    "op": "0x62",
    "msg": "0x2d31"
   },
@@ -1108,7 +1108,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "助かったぜよー",
-   "en": "",
+   "en": "You're a lifesaver!",
    "op": "0x62",
    "msg": "0x2d32"
   },
@@ -1118,7 +1118,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "わしゃこのまま迷って\\nたどり着けないんじゃ\\nないかと思ったぜよ……",
-   "en": "",
+   "en": "I was startin' to\\nthink I'd stay lost\\nforever and never\\nget there...",
    "op": "0x62",
    "msg": "0x2d33"
   },
@@ -1128,7 +1128,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "では　行こうか",
-   "en": "",
+   "en": "Well then, shall\\nwe go?",
    "op": "0x62",
    "msg": "0x2d34"
   },
@@ -1138,7 +1138,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "おう！\\n頼むぜよ！",
-   "en": "",
+   "en": "Yeah! Lead the\\nway!",
    "op": "0x62",
    "msg": "0x2d35"
   },
@@ -1148,7 +1148,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "二人は並んで歩き\\n始めたのだった",
-   "en": "",
+   "en": "The two began\\nwalking side by\\nside.",
    "op": "0x62",
    "msg": "0x2d36"
   },
@@ -1158,7 +1158,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "ほら　もうすぐだ\\nこの道の向こうに……",
-   "en": "",
+   "en": "See, we're almost\\nthere. Just past\\nthis road...",
    "op": "0x62",
    "msg": "0x2d37"
   },
@@ -1168,7 +1168,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "おおう！　建物が\\n見えたぜよ！",
-   "en": "",
+   "en": "Whoa! I can see\\nthe building!",
    "op": "0x62",
    "msg": "0x2d38"
   },
@@ -1178,7 +1178,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "探しに探した大舞台会場が\\n龍馬の目に飛び込んでくる",
-   "en": "",
+   "en": "The audition hall\\nhe had searched\\nand searched for\\nleapt into Ryoma's\\nview.",
    "op": "0x62",
    "msg": "0x2d39"
   },
@@ -1188,7 +1188,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "何かお礼をしたいが\\nわしゃ　今は何も\\n持ってなくてなぁ……",
-   "en": "",
+   "en": "I'd like to thank\\nya somehow, but I\\nain't got a thing\\non me right now...",
    "op": "0x62",
    "msg": "0x2d3a"
   },
@@ -1198,7 +1198,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "よし！\\n次に会うた時に　あんたに\\n何か礼をするぜよ！",
-   "en": "",
+   "en": "All right! Next\\ntime we meet, I'll\\npay ya back\\nsomehow!",
    "op": "0x62",
    "msg": "0x2d3b"
   },
@@ -1208,7 +1208,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "それはそれは\\n楽しみなことだ",
-   "en": "",
+   "en": "Well, well. I look\\nforward to it.",
    "op": "0x62",
    "msg": "0x2d3c"
   },
@@ -1218,7 +1218,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "では　名乗っておくぜよ\\nわしは　坂も……",
-   "en": "",
+   "en": "Then lemme\\nintroduce myself.\\nI'm Saka...",
    "op": "0x62",
    "msg": "0x2d3d"
   },
@@ -1228,7 +1228,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "いや　名前は聞かないで\\nおこう",
-   "en": "",
+   "en": "No, I won't ask\\nyour name.",
    "op": "0x62",
    "msg": "0x2d3e"
   },
@@ -1238,7 +1238,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "ほえっ？",
-   "en": "",
+   "en": "Huh?",
    "op": "0x62",
    "msg": "0x2d3f"
   },
@@ -1248,7 +1248,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "君は大舞台を受けて\\n合格するつもり\\nなのだろう？",
-   "en": "",
+   "en": "You mean to take\\nthe audition and\\npass, don't you?",
    "op": "0x62",
    "msg": "0x2d40"
   },
@@ -1258,7 +1258,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "もちろん！",
-   "en": "",
+   "en": "You bet!",
    "op": "0x62",
    "msg": "0x2d41"
   },
@@ -1268,7 +1268,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "では会うべき時が来たら\\n我々は必ず再会するだろう",
-   "en": "",
+   "en": "Then when the\\ntime is right, we\\nare sure to meet\\nagain.",
    "op": "0x62",
    "msg": "0x2d42"
   },
@@ -1278,7 +1278,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "会うべき時……？",
-   "en": "",
+   "en": "When the time is\\nright...?",
    "op": "0x62",
    "msg": "0x2d43"
   },
@@ -1288,7 +1288,7 @@
    "max": 8,
    "kind": "dialogue",
    "jp": "ああ",
-   "en": "",
+   "en": "Yes.",
    "op": "0x62",
    "msg": "0x2d44"
   },
@@ -1298,7 +1298,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "そしてその時にこそ\\nお礼をもらうことにしよう",
-   "en": "",
+   "en": "And that's when\\nI'll accept your\\nthanks.",
    "op": "0x62",
    "msg": "0x2d45"
   },
@@ -1308,7 +1308,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "わしには　よく\\nわからないんだが　\\nそれでいいのか？",
-   "en": "",
+   "en": "I don't really get\\nit, but are you\\nsure that's all\\nright?",
    "op": "0x62",
    "msg": "0x2d46"
   },
@@ -1318,7 +1318,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "ああ　いいとも",
-   "en": "",
+   "en": "Yes, of course.",
    "op": "0x62",
    "msg": "0x2d47"
   },
@@ -1328,7 +1328,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "そのためには大舞台で\\n必ず合格してくるといい",
-   "en": "",
+   "en": "And for that,\\nyou'd best be sure\\nto pass the\\naudition.",
    "op": "0x62",
    "msg": "0x2d48"
   },
@@ -1338,7 +1338,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "君と再会できることを\\n楽しみにしている",
-   "en": "",
+   "en": "I look forward to\\nseeing you again.",
    "op": "0x62",
    "msg": "0x2d49"
   },
@@ -1348,7 +1348,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "わかったぜよ！\\nあんたはわしに　発破を\\nかけてくれたんじゃな！",
-   "en": "",
+   "en": "Got it! You're\\ngivin' me a kick in\\nthe pants, ain't\\nya!",
    "op": "0x62",
    "msg": "0x2d4a"
   },
@@ -1358,7 +1358,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "そんなところだ",
-   "en": "",
+   "en": "Something like\\nthat.",
    "op": "0x62",
    "msg": "0x2d4b"
   },
@@ -1368,7 +1368,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "さて　俺も用事があるから\\nここで",
-   "en": "",
+   "en": "Well, I have\\nbusiness to attend\\nto, so I'll leave\\nyou here.",
    "op": "0x62",
    "msg": "0x2d4c"
   },
@@ -1378,7 +1378,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "おう！\\nではどこかでまた会おう！\\n親切なおっさん！",
-   "en": "",
+   "en": "Right! Let's meet\\nagain someday,\\nkind old man!",
    "op": "0x62",
    "msg": "0x2d4d"
   },
@@ -1388,7 +1388,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "ではな\\n楽しい兄さん！",
-   "en": "",
+   "en": "Farewell, cheerful\\nyoung man!",
    "op": "0x62",
    "msg": "0x2d4e"
   },
@@ -1398,7 +1398,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "ふぅ……！\\nようやく着いたぜよ～",
-   "en": "",
+   "en": "Phew...! Finally\\nmade it~",
    "op": "0x62",
    "msg": "0x2d4f"
   },
@@ -1408,7 +1408,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "それにしても今日は\\n親切な人に三人も\\n出会ったなぁ",
-   "en": "",
+   "en": "Still, I met three\\nkind people\\ntoday, didn't I!",
    "op": "0x62",
    "msg": "0x2d50"
   },
@@ -1418,7 +1418,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "わしゃ\\n気分がいいぜよ！",
-   "en": "",
+   "en": "I'm in a mighty\\nfine mood!",
    "op": "0x62",
    "msg": "0x2d51"
   },
@@ -1428,7 +1428,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "うおおおおぉぉぉ～～！\\nがんばるぜよ～！",
-   "en": "",
+   "en": "Wooooaaaaahhh!\\nTime to give it my\\nall~!",
    "op": "0x62",
    "msg": "0x2d52"
   },
@@ -1438,7 +1438,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "大きく叫んだ龍馬は\\n意気揚々と大舞台会場へ\\n向かったのだった",
-   "en": "",
+   "en": "With a mighty\\nshout, Ryoma\\nheaded for the\\naudition hall in\\nhigh spirits.",
    "op": "0x62",
    "msg": "0x2d53"
   },
@@ -1448,7 +1448,7 @@
    "max": 112,
    "kind": "dialogue",
    "jp": "その後　紹介状のない者は\\n駄目だと　門前払いを\\n食らわされる龍馬であったが\\nこのときの彼は\\nまだそれを知らない",
-   "en": "",
+   "en": "Later, Ryoma\\nwould be turned\\naway at the gate\\nfor having no\\nletter of\\nintroduction, but\\nhe did not know\\nthat yet.",
    "op": "0x62",
    "msg": "0x2d54"
   },
@@ -1458,7 +1458,7 @@
    "max": 84,
    "kind": "dialogue",
    "jp": "そして\\n慌ただしい日々の中で\\n龍馬達が\\nこの一期の出会いを忘れた頃\\n四人は再会する",
-   "en": "",
+   "en": "And when, amid\\nhectic days,\\nRyoma and the\\nothers had\\nforgotten these\\nchance meetings,\\nthe four would\\nmeet again.",
    "op": "0x62",
    "msg": "0x2d55"
   },
@@ -1468,7 +1468,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "その日は\\nもう少し先だ――",
-   "en": "",
+   "en": "That day was still\\na little way off--",
    "op": "0x62",
    "msg": "0x2d56"
   }

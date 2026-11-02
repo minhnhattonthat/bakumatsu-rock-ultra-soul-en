@@ -8,7 +8,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "京都　某所",
-   "en": "",
+   "en": "Somewhere in\\nKyoto",
    "op": "0x62",
    "msg": "0x2a9e"
   },
@@ -18,7 +18,7 @@
    "max": 92,
    "kind": "dialogue",
    "jp": "数奇な運命により出会った\\nロックな魂を持つ男達は\\n数々の試練を乗り越え\\n強い絆で結ばれた",
-   "en": "",
+   "en": "Brought together\\nby a strange fate,\\nmen with rock in\\ntheir souls\\novercame trial\\nafter trial and\\nforged strong\\nbonds.",
    "op": "0x62",
    "msg": "0x2a9f"
   },
@@ -28,7 +28,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "そして今\\n彼らは互いに\\n切磋琢磨し合いながら\\n一つ屋根の下で\\n暮らしている",
-   "en": "",
+   "en": "And now, pushing\\none another to\\ngrow, they live\\ntogether under\\none roof.",
    "op": "0x62",
    "msg": "0x2aa0"
   },
@@ -38,7 +38,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "主に経済的な……",
-   "en": "",
+   "en": "Mainly for\\nfinancial...",
    "op": "0x62",
    "msg": "0x2aa1"
   },
@@ -48,7 +48,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "いや　熱き魂の\\n結びつきによって",
-   "en": "",
+   "en": "No, through the\\nbond of their\\nburning souls.",
    "op": "0x62",
    "msg": "0x2aa2"
   },
@@ -58,7 +58,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "ふぅ～\\nいい陽気ぜよ",
-   "en": "",
+   "en": "Phew~ Mighty\\nfine weather, I\\ntell ya.",
    "op": "0x62",
    "msg": "0x2aa3"
   },
@@ -68,7 +68,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "今日はテラーダの\\n仕事（バイト）も\\n終わったし\\nゆっくりするか～",
-   "en": "",
+   "en": "My shift at the\\nTerada's done for\\ntoday, so I reckon\\nI'll kick back~",
    "op": "0x62",
    "msg": "0x2aa4"
   },
@@ -78,7 +78,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "おい　龍馬",
-   "en": "",
+   "en": "Hey, Ryoma.",
    "op": "0x62",
    "msg": "0x2aa5"
   },
@@ -88,7 +88,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "ん～　どうした？\\nシンディ",
-   "en": "",
+   "en": "Hm~ What's up,\\nShindy?",
    "op": "0x62",
    "msg": "0x2aa6"
   },
@@ -98,7 +98,7 @@
    "max": 4,
    "kind": "dialogue",
    "jp": "",
-   "en": "",
+   "en": "...",
    "op": "0x62",
    "msg": "0x2aa7"
   },
@@ -108,7 +108,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "お　ま　え　ぇ……！",
-   "en": "",
+   "en": "Yoooou...!",
    "op": "0x62",
    "msg": "0x2aa8"
   },
@@ -118,7 +118,7 @@
    "max": 8,
    "kind": "dialogue",
    "jp": "ほえ？",
-   "en": "",
+   "en": "Huh?",
    "op": "0x62",
    "msg": "0x2aa9"
   },
@@ -128,7 +128,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "ちょっと来い！",
-   "en": "",
+   "en": "Come here!",
    "op": "0x62",
    "msg": "0x2aaa"
   },
@@ -138,7 +138,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "な　なんだぁ～～？",
-   "en": "",
+   "en": "Wh-whaaat?",
    "op": "0x62",
    "msg": "0x2aab"
   },
@@ -148,7 +148,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "なんでシンディの\\n部屋に連れてこられた\\nんじゃ……？",
-   "en": "",
+   "en": "How come ya\\ndragged me to\\nyour room,\\nShindy...?",
    "op": "0x62",
    "msg": "0x2aac"
   },
@@ -158,7 +158,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "わしゃ昼寝をするところ\\nだったぜよ～",
-   "en": "",
+   "en": "I was just about\\nto take a nap~",
    "op": "0x62",
    "msg": "0x2aad"
   },
@@ -168,7 +168,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "いいか　龍馬\\n隠さずに言え",
-   "en": "",
+   "en": "Listen, Ryoma.\\nDon't hide\\nanything.",
    "op": "0x62",
    "msg": "0x2aae"
   },
@@ -178,7 +178,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "だから　何ごとぜよ～",
-   "en": "",
+   "en": "I'm askin', what's\\nthis about~",
    "op": "0x62",
    "msg": "0x2aaf"
   },
@@ -188,7 +188,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "オレ様の机の上に\\nあったものを\\n触らなかったか？",
-   "en": "",
+   "en": "Did you touch\\nwhat was on\\nyours truly's\\ndesk?",
    "op": "0x62",
    "msg": "0x2ab0"
   },
@@ -198,7 +198,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "シンディの机の上の\\nもの？　わしゃ\\nそんなん知らんぜよ",
-   "en": "",
+   "en": "Somethin' on your\\ndesk, Shindy? I\\ndon't know nothin'\\nabout that.",
    "op": "0x62",
    "msg": "0x2ab1"
   },
@@ -208,7 +208,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "ほう……",
-   "en": "",
+   "en": "Oh...?",
    "op": "0x62",
    "msg": "0x2ab2"
   },
@@ -218,7 +218,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "じゃあ　お前の口の端に\\nついてるその白い粉は\\nなんだ？",
-   "en": "",
+   "en": "Then what's that\\nwhite powder at\\nthe corner of\\nyour mouth?",
    "op": "0x62",
    "msg": "0x2ab3"
   },
@@ -228,7 +228,7 @@
    "max": 8,
    "kind": "dialogue",
    "jp": "ほえ？",
-   "en": "",
+   "en": "Huh?",
    "op": "0x62",
    "msg": "0x2ab4"
   },
@@ -238,7 +238,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "お前　オレ様が\\n楽しみにしていた\\n大福を食っただろう！",
-   "en": "",
+   "en": "You ate the\\ndaifuku yours\\ntruly was looking\\nforward to!",
    "op": "0x62",
    "msg": "0x2ab5"
   },
@@ -248,7 +248,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "ええーっ\\n身に覚えがないぜよ～！",
-   "en": "",
+   "en": "Whaaat!? I don't\\nremember doin'\\nany such thing!",
    "op": "0x62",
    "msg": "0x2ab6"
   },
@@ -258,7 +258,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "じゃあ　なんで\\nオレ様の大福が\\n消えたんだ！",
-   "en": "",
+   "en": "Then why did\\nyours truly's\\ndaifuku vanish!?",
    "op": "0x62",
    "msg": "0x2ab7"
   },
@@ -268,7 +268,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "……もしや　大福が\\n散歩に行ったとか",
-   "en": "",
+   "en": "...Maybe the\\ndaifuku went out\\nfor a stroll?",
    "op": "0x62",
    "msg": "0x2ab8"
   },
@@ -278,7 +278,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "んなわけあるか！",
-   "en": "",
+   "en": "Like hell it did!",
    "op": "0x62",
    "msg": "0x2ab9"
   },
@@ -288,7 +288,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "オレ様もお前の顔を\\n見るまでは　疑っても\\nいなかったが……",
-   "en": "",
+   "en": "Yours truly didn't\\neven suspect you\\nuntil I saw your\\nface...",
    "op": "0x62",
    "msg": "0x2aba"
   },
@@ -298,7 +298,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "だが　お前の口の端に\\nついてる大福の粉が\\n動かぬ証拠だ！",
-   "en": "",
+   "en": "But that daifuku\\npowder at the\\ncorner of your\\nmouth is ironclad\\nproof!",
    "op": "0x62",
    "msg": "0x2abb"
   },
@@ -308,7 +308,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "さぁ　素直に吐け！",
-   "en": "",
+   "en": "Now cough it up!",
    "op": "0x62",
    "msg": "0x2abc"
   },
@@ -318,7 +318,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "よくわからんが\\n誤解ぜよ～！",
-   "en": "",
+   "en": "I dunno what's\\ngoin' on, but\\nyou've got it all\\nwrong~!",
    "op": "0x62",
    "msg": "0x2abd"
   },
@@ -328,7 +328,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "ちょっと二人とも\\nうるさいですよ",
-   "en": "",
+   "en": "Honestly, you\\ntwo, you're being\\nnoisy.",
    "op": "0x62",
    "msg": "0x2abe"
   },
@@ -338,7 +338,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "センセー\\nいいところに！",
-   "en": "",
+   "en": "Sensei! Perfect\\ntiming!",
    "op": "0x62",
    "msg": "0x2abf"
   },
@@ -348,7 +348,7 @@
    "max": 8,
    "kind": "dialogue",
    "jp": "え？",
-   "en": "",
+   "en": "Huh?",
    "op": "0x62",
    "msg": "0x2ac0"
   },
@@ -358,7 +358,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "ほうほう\\nなるほどね",
-   "en": "",
+   "en": "I see, I see. Hmm.",
    "op": "0x62",
    "msg": "0x2ac1"
   },
@@ -368,7 +368,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "高杉と龍馬が\\n事の次第を説明すると\\n桂は重苦しく頷いた",
-   "en": "",
+   "en": "When Takasugi\\nand Ryoma\\nexplained what\\nhad happened,\\nKatsura nodded\\ngravely.",
    "op": "0x62",
    "msg": "0x2ac2"
   },
@@ -378,7 +378,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "よし　それではこの\\n名探偵☆カツラ君！\\nが　事件の謎を解いて\\nあげましょう",
-   "en": "",
+   "en": "Very well! Then I,\\nGreat Detective\\nKatsura-kun,\\nshall solve the\\nmystery of this\\ncase!",
    "op": "0x62",
    "msg": "0x2ac3"
   },
@@ -388,7 +388,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "名探偵☆カツラ君",
-   "en": "",
+   "en": "Great Detective\\nKatsura-kun...",
    "op": "0x62",
    "msg": "0x2ac4"
   },
@@ -398,7 +398,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "私のこの優秀なる灰色の\\n頭脳を駆使すれば　難解な\\n事件もすぐに解決ですよ",
-   "en": "",
+   "en": "With these superb\\nlittle gray cells of\\nmine, even the\\nmost baffling\\ncase is solved in\\nno time.",
    "op": "0x62",
    "msg": "0x2ac5"
   },
@@ -408,7 +408,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "……シンディ\\nセンセーは\\nどうしたんじゃ？",
-   "en": "",
+   "en": "...Shindy, what's\\ngotten into\\nSensei?",
    "op": "0x62",
    "msg": "0x2ac6"
   },
@@ -418,7 +418,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "名探偵って\\nなんぜよ？",
-   "en": "",
+   "en": "What's a \"great\\ndetective\"?",
    "op": "0x62",
    "msg": "0x2ac7"
   },
@@ -428,7 +428,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "……おおかた　新しい\\nエゲレスの本でそういうの\\nを読んだんだろうよ……",
-   "en": "",
+   "en": "...Probably read\\nabout it in some\\nnew English\\nbook...",
    "op": "0x62",
    "msg": "0x2ac8"
   },
@@ -438,7 +438,7 @@
    "max": 92,
    "kind": "dialogue",
    "jp": "ちょうどここにあるのが\\n先日発明したばかりの\\n『微理鼻裏ましん』です！\\n（びりびりましん）",
-   "en": "",
+   "en": "And right here is\\nthe 'Zap-Zap\\nMachine' I\\ninvented just the\\nother day!",
    "op": "0x62",
    "msg": "0x2ac9"
   },
@@ -448,7 +448,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "微理鼻裏ましん",
-   "en": "",
+   "en": "Zap-Zap\\nMachine...",
    "op": "0x62",
    "msg": "0x2aca"
   },
@@ -458,7 +458,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "中にはデンキウナ……\\nいや　中身の説明は\\nよしましょう",
-   "en": "",
+   "en": "Inside it is an\\nelectric ee... No,\\nlet's not go into\\nwhat's inside.",
    "op": "0x62",
    "msg": "0x2acb"
   },
@@ -468,7 +468,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "すっごい気になる！",
-   "en": "",
+   "en": "Now I really\\nwanna know!",
    "op": "0x62",
    "msg": "0x2acc"
   },
@@ -478,7 +478,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "これはね　嘘をつけなく\\nなる機械なんですよ",
-   "en": "",
+   "en": "You see, this\\nmachine makes it\\nimpossible to lie.",
    "op": "0x62",
    "msg": "0x2acd"
   },
@@ -488,7 +488,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "さぁ　龍馬くん\\n安心してここにある穴に\\n腕を突っ込んで下さい♪",
-   "en": "",
+   "en": "Now, Ryoma-kun,\\njust relax and\\nstick your arm\\ninto this hole~",
    "op": "0x62",
    "msg": "0x2ace"
   },
@@ -498,7 +498,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "いや……　なんか\\n怪しい音がしてるし……",
-   "en": "",
+   "en": "Uh... It's makin'\\nsome real\\nsuspicious\\nnoises...",
    "op": "0x62",
    "msg": "0x2acf"
   },
@@ -508,7 +508,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "大丈夫ですよ　ちょっと\\nびりっとするだけだから",
-   "en": "",
+   "en": "It's fine. It'll only\\ntingle a little.",
    "op": "0x62",
    "msg": "0x2ad0"
   },
@@ -518,7 +518,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "いや！　いまのは\\nちょっとじゃない\\nぜよーっ！",
-   "en": "",
+   "en": "No way! That was\\nNOT a little!",
    "op": "0x62",
    "msg": "0x2ad1"
   },
@@ -528,7 +528,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "……桂さん\\nオレ様は　何も龍馬を\\n痛めつけろとは言ってない",
-   "en": "",
+   "en": "...Katsura-san,\\nyours truly never\\nasked you to\\ntorture Ryoma.",
    "op": "0x62",
    "msg": "0x2ad2"
   },
@@ -538,7 +538,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "痛くない　痛くない♪",
-   "en": "",
+   "en": "It doesn't hurt, it\\ndoesn't hurt~",
    "op": "0x62",
    "msg": "0x2ad3"
   },
@@ -548,7 +548,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "……多分",
-   "en": "",
+   "en": "...Probably.",
    "op": "0x62",
    "msg": "0x2ad4"
   },
@@ -558,7 +558,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "今　多分って言った！",
-   "en": "",
+   "en": "You just said\\n\"probably\"!",
    "op": "0x62",
    "msg": "0x2ad5"
   },
@@ -568,7 +568,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "さあさあ\\n君はロックな男です\\n頑張れます　龍馬くん♪",
-   "en": "",
+   "en": "Come now, you're\\na man of rock.\\nYou can do this,\\nRyoma-kun~",
    "op": "0x62",
    "msg": "0x2ad6"
   },
@@ -578,7 +578,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "い……\\nいやじゃああ～～！",
-   "en": "",
+   "en": "N... Noooo\\nwaaaay!",
    "op": "0x62",
    "msg": "0x2ad7"
   },
@@ -588,7 +588,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "『微理鼻裏ましん』が\\n試せなくて　本当に\\n残念ですよ……",
-   "en": "",
+   "en": "What a shame we\\ncouldn't try out\\nthe 'Zap-Zap\\nMachine'...",
    "op": "0x62",
    "msg": "0x2ad8"
   },
@@ -598,7 +598,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "ぜぇはぁ　なんとか\\n回避できたぜよ……",
-   "en": "",
+   "en": "Hah, hah...\\nSomehow dodged\\nthat one...",
    "op": "0x62",
    "msg": "0x2ad9"
   },
@@ -608,7 +608,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "しかたがないから　知的に\\n推理をして　龍馬くんの\\n潔白を証明してみましょう",
-   "en": "",
+   "en": "Since there's no\\nother way, let's\\nprove\\nRyoma-kun's\\ninnocence\\nthrough\\nintellectual\\ndeduction.",
    "op": "0x62",
    "msg": "0x2ada"
   },

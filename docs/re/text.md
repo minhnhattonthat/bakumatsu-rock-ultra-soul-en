@@ -162,12 +162,20 @@ toured boxes; `extract.py verify`'s mask-and-scan still covers the rest.
 
 So English dialogue needs the horizontal path, not a new font: ASCII/`[]`/digits already exist in font17 and render
 in every horizontal box. The ADV panel text is laid out by a different routine than the backlog; making dialogue
-horizontal (or re-laying out the panels) is EBOOT engine work, not data. Known anchors for the next pass: the font
-object is read at `0x088066a4` (font+4 width, +5 height, +6/+7 flags, from `0x0880543c`); the KFNT copy in RAM sits at
-0x96fdaec (font17) / 0x978445c (font24) after a script load; the map's per-frame work for a line change sits in
-0x089a0000-0x089b0000. Memory breakpoints work (`memory.breakpoint.add`, `reason == 'memory.breakpoint'`), but the
-**ADV script string is not read at display time** (the line is parsed once into a display structure) and the STB help
-text is not re-read on menu redraw, so read-watching the text is not a way in.
+horizontal (or re-laying out the panels) is EBOOT engine work, not data. Anchors found for the next pass:
+
+- the font object is read at `0x088066a4` (font+4 width, +5 height, +6/+7 flags) from `0x0880543c`; the KFNT copies in
+  RAM sit at 0x96fdaec (font17) / 0x978445c (font24) after a script load (stable within a run, same address across runs
+  from the cached MENU state);
+- a **write** breakpoint on the ADV column buffers works: `0x95ea410`, then +0x500 (four 0x500-byte blocks = the four
+  text columns) get ~115 writes per line change. The writers are `0x088f7040` (per-column copy loop, `jal 0x259e80` =
+  the `memcpy` stub) and `0x08945fb4-0x08946024` (u16 copy + `jal 0x259e80`), i.e. they *fill* a column buffer from a
+  computed source, so the layout that produces the glyph cells is upstream of them - follow their callers;
+- per-frame map work for a line change sits in 0x089a0000-0x089b0000; `memory.breakpoint.add` works (`reason ==
+  'memory.breakpoint'`, `relatedAddress` = range start), but the **ADV script string is not read at display time** (the
+  line is parsed once into a display structure) and the STB help text is not re-read on a menu redraw, so read-watching
+  the text itself is not a way in - diff RAM across a line change instead: `python -X utf8 tools/debug/textprobe.py diff`
+  (then `watch --addr`), which prints the changed blocks and the pcs that fill them.
 
 **Width gate (provisional: horizontal boxes measured, ADV pending the layout change).**
 

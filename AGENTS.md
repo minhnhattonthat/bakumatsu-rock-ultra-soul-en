@@ -12,6 +12,7 @@ Skill: translate-retro-game; `python tools/skill.py` prints its folder. Read its
             `.txt`/`.json` text lives in `script/`; format and layouts: `docs/re/text.md` §6.
 - Smoke:    `python -X utf8 "$(python tools/skill.py)/scripts/emu.py" build/bakumatsu_rock_us_en.iso --out work/qa/smoke --route tools/routes/boot.txt --smoke --sheet` (boot.txt reaches the main menu on a fresh memstick)
 - Warp:     `python -X utf8 tools/debug/warp.py SCENE.. [--iso build/bakumatsu_rock_us_en.iso] [--sheet] [--state]` (cold boot -> any scene in `tools/debug/scenes.tsv`: every script by file name, every menu, gallery, live, ADV dialog; all unlocked; shots in `work/qa/warp/<scene>/`; `--all` regenerates every state into `work/states/warp/`; `--list`; how: `docs/re/debug.md`. Never ask the user to play to a scene)
+- Text RE:  `python -X utf8 tools/debug/textprobe.py diff|watch` (RAM diff across an ADV line change -> write breakpoint on the text column buffers; the way into the dialogue layout, `docs/re/text.md` §7)
 - Release:  `python -X utf8 tools/release.py` (xdelta3 patch + verify; not written yet; never publish without the user)
 - Clean:    `python -X utf8 tools/clean.py` (published projects: lists rebuildable/downloadable files; `--yes` deletes)
 

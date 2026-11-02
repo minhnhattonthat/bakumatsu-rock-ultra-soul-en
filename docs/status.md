@@ -37,11 +37,12 @@ Updated at the end of every session. Keep it to what the next session needs; his
       **vertical rotated** text (ADV panels) with the same KFNT font. ASCII exists in the font, so English needs the
       horizontal path, i.e. ADV engine work in the EBOOT (D10).
     - `tools/measure.py`: text-extent measurement from shots (crop/zoom via sheet.py for the visual read).
-- **Next (finish phase 5):** make the ADV text horizontal. Anchors: font metric read at `0x088066a4` (from `0x0880543c`),
-  KFNT RAM copies 0x96fdaec / 0x978445c, per-line work in 0x089a0000-0x089b0000, menu/backlog horizontal path unlocated.
-  Look for the text object's direction/layout field and the panel rect source; the panel art is `msgBord*.gim`; the D2C
-  layout files may carry the rect. Then: widen/re-lay the box, re-measure the width gate per variant, boot a **glyph
-  torture line** (all printable ASCII + double spaces), and run `jp_left.py` on the marker build.
+- **Next (finish phase 5):** make the ADV text horizontal. `python -X utf8 tools/debug/textprobe.py diff` / `watch` is the
+  way in (RAM diff across a line change -> write breakpoint on the four 0x500-byte column buffers at 0x95ea410; writers
+  0x088f7040 and 0x08945fb4-0x08946024 copy from a computed source - follow their callers for the layout that produces
+  the glyph cells). Font metric read: `0x088066a4` from `0x0880543c`; KFNT RAM copies 0x96fdaec / 0x978445c. Then: widen
+  or re-lay the box (panel art `msgBord*.gim`, D2C layouts may carry the rect), re-measure the width gate per variant, boot
+  a **glyph torture line** (all printable ASCII + double spaces), and run `jp_left.py` on the marker build.
 - **Phase 4+ notes:** script insertion re-maps jump args (`text.md` §1/§7) when string lengths change; the marker build
   proves it in game. Debug addresses in `docs/re/debug.md` assume an unchanged EBOOT code segment (string-only edits are
   fine; the EBOOT is not patched at all by default now).

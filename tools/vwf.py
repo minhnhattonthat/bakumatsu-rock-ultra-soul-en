@@ -12,7 +12,7 @@ back log and dialogue space letters the same way).
 
 Font: fonts/PT_Serif-Web-Regular.ttf (OFL 1.1, docs/fonts.md), chosen to sit next to the game's Mincho kana/kanji.
 """
-import argparse, os, sys
+import argparse, functools, os, sys
 from PIL import Image, ImageDraw, ImageFont
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -64,8 +64,13 @@ def glyphs():
     return out
 
 
-def widths():
+@functools.lru_cache(maxsize=None)
+def _widths():
     return {ch: g[0] for ch, g in glyphs().items()}
+
+
+def widths():
+    return dict(_widths())   # cached: rendering the TTF per call made the batch check crawl
 
 
 # Width gate for ADV speech boxes (docs/re/text.md §8), measured in game on every panel variant with the engine's

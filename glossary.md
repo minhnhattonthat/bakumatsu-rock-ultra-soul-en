@@ -1,29 +1,84 @@
 # Glossary - Bakumatsu Rock: Ultra Soul
 
 Binding for every translator and reviewer. Agents propose additions in reports; only the controller edits this file.
+`tools/batches.py check` enforces the tables: when a JP term appears, its EN form must appear (case-insensitive), and
+an `Avoid` spelling fails. Name + honorific (龍馬さん) must come out as `Ryoma-san`.
 
 ## Rulings (asked of the user once; options and reasons in docs/decisions.md)
-- Honorifics: kept, hyphenated (Ryoma-san). Name order: Western (given name first).
-- Romanisation source: official English names where they exist, else an earlier fan patch, else Hepburn without macrons.
-- Credits: English.
-- Register / flavour: <set in phase 6>. Sound effects: <*Slam!*>.
-- Abbreviations: full names and terms everywhere, prefer engine changes over shortening.
+- Honorifics: kept, hyphenated (Ryoma-san, Hijikata-san, Okita-kun, Yoshinobu-sama). Name order: Western (given name first).
+- Romanisation: official English (the 2014 anime "Samurai Jam -Bakumatsu Rock-") where it exists, else Hepburn
+  without macrons (Ryoma, not Ryōma).
+- Credits: English. Abbreviations: never to fit; report `LONG:` instead.
+- Register: a rock-and-roll comedy set in an alternate Bakumatsu: modern, punchy, playful English with period names
+  and titles kept (shogun, shogunate, Shinsengumi). No archaic "thee/thou". Sound effects: *Slam!*, *Clang!*.
 
 ## Style rules
-- Punctuation map: 「」 -> "...", 『』 -> '...', ・・・ -> ..., ！？ -> !?, <more>.
-- <voice notes per character, or point to docs/style-reference.md>
+- Punctuation: 「」 -> "...", 『』 -> '...' (titles of songs in quotes), ……/・・・ -> `...`, ―― -> `--`, ！？ -> `!?`,
+  ～ / ー stretches -> a stretched word ("Heeey") or `~` dropped. No fullwidth characters.
+- Voices: `docs/style-reference.md` (per character JP markers -> English devices).
+- Song titles stay as the game gives them in English ("Rolling Thunder", "What's this?"); Japanese titles get a
+  translation in quotes the first time a batch needs one, reported as NEW TERM.
 
 ## Characters
 | JP | EN | max | notes | Avoid |
 |---|---|---|---|---|
+| 坂本龍馬 | Ryoma Sakamoto | | lead guitar/vocals, Tosa | Sakamoto Ryoma |
+| 龍馬 | Ryoma | | | Ryouma |
+| 高杉晋作 | Shinsaku Takasugi | | guitar, Choshu, self-styled "ore-sama" | Takasugi Shinsaku |
+| 高杉 | Takasugi | | | |
+| 桂小五郎 | Kogoro Katsura | | bass/keys, inventor | Katsura Kogoro |
+| 桂 | Katsura | | | |
+| 土方歳三 | Toshizo Hijikata | | Shinsengumi vice-commander | Toshizou |
+| 土方 | Hijikata | | | |
+| 沖田総司 | Soji Okita | | Shinsengumi idol | Souji |
+| 沖田 | Okita | | | |
+| 徳川慶喜 | Yoshinobu Tokugawa | | the shogun | |
+| 一橋慶喜 | Yoshinobu Hitotsubashi | | Yoshinobu before he became shogun | |
+| 慶喜 | Yoshinobu | | | |
+| 井伊直弼 | Naosuke Ii | | | |
+| 井伊 | Ii | | | |
+| 吉田松陰 | Shoin Yoshida | | | |
+| 松陰 | Shoin | | | |
+| 岩崎弥太郎 | Yataro Iwasaki | | Ryoma's childhood friend/manager | |
+| 弥太郎 | Yataro | | | |
+| 近藤勇 | Isami Kondo | | Shinsengumi commander | |
+| 近藤 | Kondo | | | |
+| 阿部正弘 | Masahiro Abe | | | |
+| 勝海舟 | Kaishu Katsu | | | |
+| お登勢 | Otose | | runs the Terada inn | |
+| お龍 | Oryo | | | |
+| 幾松 | Ikumatsu | | | |
+| おうの | Ouno | | | |
+| 乙女 | Otome | | Ryoma's sister | |
+| 天狗 | Tengu | | | |
+| 誠仮面 | Makoto Mask | | masked hero (Hijikata in disguise) | |
+| ジュニア | Junior | | | |
+| 老中 | Elder | | shogunate senior councillor (rōjū) | |
+| ト書き | Narration | | speaker label for narration | |
 
 ## Places
 | JP | EN | max | notes | Avoid |
 |---|---|---|---|---|
+| 土佐 | Tosa | | | |
+| 長州 | Choshu | | | Chōshū |
+| 江戸 | Edo | | | |
+| 富士 | Fuji | | | |
+| テラーダ | Terada | | Otose's inn (live house) | Teradaya |
 
 ## Items / skills / terms
 | JP | EN | max | notes | Avoid |
 |---|---|---|---|---|
+| 天歌 | Heaven's Song | | the shogunate's mandated songs (anime: ヘヴンズソング) | Tenka, Heavenly Song |
+| 天歌泰平 | Heaven's Song Peace | | chapter / slogan: peace under the Heaven's Song | |
+| 愛獲 | idol | | 愛獲 is read aidoru; the Shinsengumi are idols | |
+| 雷舞 | live | | read raibu = a live show; "Special Live" | |
+| 超魂團 | Ultra Soul | | the five-man band's name (團 = group) | Chokon |
+| 超魂 | Ultra Soul | | | |
+| 新選組 | Shinsengumi | | | Shinsen-gumi |
+| 幕府 | shogunate | | | bakufu |
+| 将軍 | shogun | | | |
+| 志士 | rebel | | 志士 = the loyalist activists; "three rebels" | shishi |
+| 大舞台 | audition | | when glossed （オーディション） | |
 
 ## Decisions from earlier batches
-- <batch> <JP> -> <EN> (reason)
+- (none yet)

@@ -50,7 +50,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
       `tools/adv_widths.tsv`), `tools/debug/mips.py` (EBOOT disassembly: `dis`, `func`, `callers`).
       `tools/mark.py --torture` puts ASCII/double-space/full-box torture lines in m_001001.
     - **`build/bakumatsu_rock_us_en.iso` = marker build** (`tools/mark.py --force --torture`, then `tools/build.py --texts
-      work/mark`), sha1 fb1f45606196f1ece1d32850fdcfdc264a2f0044 (smoke exit 0 on the previous, NUL-fix-only-different build).
+      work/mark`), sha1 fb1f45606196f1ece1d32850fdcfdc264a2f0044 ; smoke exit 0.
 - **Next (phase 6):** read `references/translation.md`; build the batch tooling (work/tl batches, translator/reviewer
   agents per `.claude/agents/`), and a width lint that enforces `vwf.ADV_LINE_PX`/`ADV_LINES` on dialogue with explicit
   `\n` breaks (engine char-wrap breaks centring) plus byte slots (NUL included) for fixed files. Notes: menus drawn

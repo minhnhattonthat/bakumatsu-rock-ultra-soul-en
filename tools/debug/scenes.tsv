@@ -17,6 +17,18 @@ story_ultra	menu	6 circle;300 -;6 down;60 -;6 circle	Adventure	900	Ultra Soul RO
 chapter_main	menu	6 down;40 -;6 down;60 -;6 circle	Chapter	400	CHAPTER select, MAIN tab
 chapter_bonus	menu	6 down;40 -;6 down;60 -;6 circle;400 -;6 right	Chapter	200	CHAPTER select, BONUS tab (left/right switch tabs)
 chapter_enter	menu	6 down;40 -;6 down;60 -;6 circle;400 -;6 down;60 -;6 circle	Adventure	700	chapter 1 entered from CHAPTER select (card)
+chapter_card_02	menu	6 down;40 -;6 down;60 -;6 circle;400 -;6 down;30 -;6 down;30 -;6 circle	Adventure	700	chapter 2 card (CHAPTER select, down x2)
+chapter_card_03	menu	6 down;40 -;6 down;60 -;6 circle;400 -;6 down;30 -;6 down;30 -;6 down;30 -;6 circle	Adventure	700	chapter 3 card (CHAPTER select, down x3)
+chapter_card_04	menu	6 down;40 -;6 down;60 -;6 circle;400 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 circle	Adventure	700	chapter 4 card (CHAPTER select, down x4)
+chapter_card_05	menu	6 down;40 -;6 down;60 -;6 circle;400 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 circle	Adventure	700	chapter 5 card (CHAPTER select, down x5)
+chapter_card_06	menu	6 down;40 -;6 down;60 -;6 circle;400 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 circle	Adventure	700	chapter 6 card (CHAPTER select, down x6)
+chapter_card_07	menu	6 down;40 -;6 down;60 -;6 circle;400 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 circle	Adventure	700	chapter 7 card (CHAPTER select, down x7)
+chapter_card_08	menu	6 down;40 -;6 down;60 -;6 circle;400 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 circle	Adventure	700	chapter 8 card (CHAPTER select, down x8)
+chapter_card_09	menu	6 down;40 -;6 down;60 -;6 circle;400 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 circle	Adventure	700	chapter 9 card (CHAPTER select, down x9)
+chapter_card_10	menu	6 down;40 -;6 down;60 -;6 circle;400 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 circle	Adventure	700	chapter 10 card (CHAPTER select, down x10)
+chapter_card_11	menu	6 down;40 -;6 down;60 -;6 circle;400 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 circle	Adventure	700	chapter 11 card (CHAPTER select, down x11)
+chapter_card_12	menu	6 down;40 -;6 down;60 -;6 circle;400 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 circle	Adventure	700	chapter 12 card (CHAPTER select, down x12)
+chapter_card_13	menu	6 down;40 -;6 down;60 -;6 circle;400 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 down;30 -;6 circle	Adventure	700	chapter 13 card (CHAPTER select, down x13)
 chapter_bonus_enter	menu	6 down;40 -;6 down;60 -;6 circle;400 -;6 right;200 -;6 circle	Adventure	700	first bonus story entered from CHAPTER select
 gallery_menu	menu	6 down;60 -;6 circle	TopMenuSpecial	300	GALLERY submenu
 gallery_skit	menu	6 down;60 -;6 circle;300 -;6 circle	SkitGallery	400	skit list
@@ -44,6 +56,7 @@ adv_menu	script	m_001001.bin;900 -;6 triangle	TopMenuAdvPause	200	ADV pause MENU
 adv_save	script	m_001001.bin;900 -;6 triangle;200 -;6 circle	TopMenuAdvPause	400	ADV save dialog
 adv_load	script	m_001001.bin;900 -;6 triangle;200 -;6 up;60 -;6 circle	TopMenuAdvPause	400	ADV load dialog
 adv_backlog	script	m_001001.bin;900 -;6 select	Adventure	120	ADV BACK LOG (select)
+adv_backlog_talk	script	m_001001.bin;900 -;6 circle;200 -;6 circle;200 -;6 circle;200 -;6 circle;200 -;6 circle;200 -;6 select	Adventure	120	BACK LOG after 5 more lines (speaker labels)
 adv_skip	script	m_001001.bin;900 -;6 square	Adventure	120	ADV SKIP (square)
 ED_001001	script	ED_001001.bin	Adventure	600	ending
 ED_002001	script	ED_002001.bin	Adventure	600	ending

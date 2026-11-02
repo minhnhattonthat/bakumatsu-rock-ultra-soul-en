@@ -20,6 +20,7 @@ ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 SCRIPT = os.path.join(ROOT, 'script')
 JP = re.compile(r'[぀-ヿ㐀-鿿！-｠]')
 STUB = 6
+CHAPTER_ROW_PX = 241   # measured: 241 fits, 249 clips (CHAPTER select, 2026-11-03)
 
 
 def keep_list(directory):
@@ -55,6 +56,9 @@ def entry_problems(rel, fmt, e, gl):
         n = len(en.encode('utf-8' if e.get('encoding') == 'utf-8' or fmt == 'utf-8-slots' else 'cp932', 'replace'))
         if n > e['max'] - 1:
             p.append(f'{n} bytes > {e["max"] - 1}')
+    # CHAPTER select rows clip at ~241 px (font17 units); cast lines (、) show elsewhere
+    if rel.endswith('ui_chapter.json') and '\n' not in jp and '、' not in jp and vwf.line_px(en) > CHAPTER_ROW_PX:
+        p.append(f'{vwf.line_px(en)} px > {CHAPTER_ROW_PX}: chapter list row clips')
     room = None if adv else e.get('max', 0) - 1
     # terms are matched on the text as read: a wrap break or a colour code may sit inside one ("Heaven's\nSong")
     p += term_problems(jp, CODE.sub('', en.replace('\\n', ' ').replace('\n', ' ')), gl, room)

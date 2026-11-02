@@ -16,12 +16,29 @@ Updated at the end of every session. Keep it to what the next session needs; his
     HOW TO PLAY panels + manual page (sys_021), hint bars, 88 soul-word tiles gam_605-692 (English ruby word split
     over the tiles). In game ok: option_text/sound/data, story_menu, chapter_enter (card "Chapter 1 / Destiny,
     Fate, / Rock of Passion").
-  - **Left in phase 8:** SFX (292 rows: adv_250-399/450/600-615 pieces = one word per file, letters animated; plan:
-    romaji per kana piece, dakuten pieces blank + voiced base, whole-word files get English SFX), adv_008 fan medals
-    (1万..5万 -> 10K..), ci_22 秘 seal, chr_18 眠り, signs/captions (adv_050/051 narration strips!, bg_* signs,
-    adv_220 name banner, adv_501/502), then the warp tour `--all` + visual-QA verdicts (`qa_gate.py`), jp_left.
-  - Text QA note: ch1_end shows "Besides, your playing got a real / Feel / to it" with "Feel" on its own indented
-    line (check the entry / emphasis code).
+    Also done: SFX (romaji per kana piece, whole words English, leftover stroke/dakuten pieces blank, ー/〜 kept),
+    fan medals 10K..50K, ending narration adv_050/051, Ryoma card adv_220, name cut-ins adv_009, Ikumatsu "Asleep".
+    Kept Japanese by D14 (scene-art signs, 誠 crests, 秘 seal, flyer props, logo); `bg_011` (dev caption) is unused.
+  - Fixes from QA: `\fnt1` big-font words were invisible in horizontal ADV -> `insert.load_texts` drops
+    `\fnt1/\fnt0` from scene `en` (73 entries render in font17). CHAPTER select rows clip at 241 px: 7 long
+    titles shortened, lint rule `CHAPTER_ROW_PX`.
+  - In game: chapter cards 1-10 English (`warp.py chapter_card_02..13`; list rows 11-13 are ending routes, no card
+    in the original either). Tour `--all` 123/123 ok on the English build and the original (`work/qa/tour`,
+    `work/qa/tour_jp`, `*_sheet.png`; menu_top uses final.png). Visual QA: `docs/visual-qa-brief.md`,
+    `qa_gate.py` manifest `work/qa/manifest.tsv`, chunks `work/qa/chunks/`, verdicts `work/qa/verdicts/`.
+  - Visual QA round 1 (5 read-only reviewers, 135 sheets) found, now fixed: UI-table text printed a literal `\n`
+    (boot/autosave/data-link notices: `insert.load_texts` turns `\n` into 0x0A for `ui/`, as the JP has); profile
+    box row 7 and the back log's 2nd line clipped (`vwf.DROP` 4 -> 0); ULTRA difficulty label went black when
+    tinted (no stroke); chapter cards off-centre (`gfx` title rows keep the canvas centre); b_017001 stub line,
+    b_006002 wording. Checked, not bugs: ADV card text behind the pause menu (the original does it too), the
+    "--Edo" dash (drawn), ui_system_text 0x5d80. font24 had blank ASCII: `vwf.font24()` now ships Latin glyphs.
+  - **Known issue (open):** the ADV back log shows no speaker labels in English (JP: 坂本龍馬 / ト書き left of each
+    entry). Not the names (Japanese names also vanish), not font24, not `ADV_CODE`'s centring pass (never called on
+    the back log): probably the back log keys the label on the speech box's mode, which the scripts now set to 0.
+    Next: find the back log's label printer (it doesn't use 0x08813c7c), e.g. a read watch on the op-0x19 table.
+    Warp row `adv_backlog_talk` shows it.
+  - jp_left: `tools/textscan.py` (every text record read back from the built ISO) + `jp_left.py` -> 0 runs.
+  - **Left in phase 8:** re-tour on the fixed build + visual-QA round 2.
 - **Phase 7 done** (2026-11-03): build green.
   - `tools/lint.py` over every `script/` entry (in `tools/check.py` via `tests/test_lint.py`): ADV px/lines, byte
     slots, control codes, non-ASCII/leftover JP, glossary (on the unwrapped text), ordinals, blanks, one-word last
@@ -124,6 +141,9 @@ Updated at the end of every session. Keep it to what the next session needs; his
     crash; the songs are sung in Japanese and the MVs keep Japanese lyrics anyway. Say so if you want romaji
     (needs the chart resize fix first).
   - 誠 on 誠仮面's mask / Shinsengumi crests: default keep (costume/crest art).
+  - D14: Japanese painted into scene art (shop signs, lanterns, banners, 秘 seal, flyer props, 幕末Rock logo) kept;
+    say so if you want any of it repainted. Chapter list titles shortened to fit (e.g. "Chapter 8: Guilty Rock,
+    Execution Idol"); the chapter cards keep the full titles.
   - **Plain-ELF EBOOT (D12, replaces D11)**: English dialogue needs a small EBOOT code patch, so the build ships the
     decrypted EBOOT.BIN (PPSSPP and CFW run it; a patched ISO can't run elsewhere anyway) and translates its 8 save
     titles too. Default in use; say so if you want a different trade-off.

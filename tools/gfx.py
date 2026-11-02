@@ -201,6 +201,9 @@ def render(key, style, en, opts, base=None):
     if align is None:   # follow the original: centred, or anchored to the nearer edge
         x0, _, x1, _ = orig.getbbox() or (0, 0, w, h)
         align = 'c' if 'box' in opts or rot or abs(x0 - (w - x1)) <= 6 else ('l' if x0 < w - x1 else 'r')
+    x0, _, x1, _ = orig.getbbox() or (0, 0, w, h)
+    if style == 'title' and align == 'c' and 'box' not in opts and not rot and x0 > 4 and abs(x0 - (w - x1)) <= 16:
+        box = (x0 // 2, box[1], w - x0, box[3])   # lettering centred on the canvas (chapter cards): stay centred
     valign = opts.get('valign', ['m'])[0]
     bx, by, bw, bh = box
     glow = opts.get('glow', [None])[0]

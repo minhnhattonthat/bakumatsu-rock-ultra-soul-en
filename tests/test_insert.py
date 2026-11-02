@@ -99,8 +99,8 @@ def test_marker_set_fits_every_slot():
     if not mark.exists():
         pytest.skip("no marker set (python tools/mark.py --force)")
     ed = insert.plan(str(mark))
-    # NOINST: 9 UI tables + font17 (VWF); iso: PARAM.SFO + the plain EBOOT with the ADV code patch (D12)
-    assert len(ed["INST"]) == 109 and len(ed["NOINST"]) == 10 and len(ed["iso"]) == 2
+    # NOINST: 9 UI tables + font17/font24 (VWF); iso: PARAM.SFO + the plain EBOOT with the ADV code patch (D12)
+    assert len(ed["INST"]) == 109 and len(ed["NOINST"]) == 11 and len(ed["iso"]) == 2
 
 
 def test_slot_keeps_a_nul():

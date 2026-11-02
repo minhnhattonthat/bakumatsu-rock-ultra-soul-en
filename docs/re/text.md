@@ -248,7 +248,8 @@ script lines must carry explicit `\n` breaks (the width lint, phase 7) or the bl
 **Font.** font17.fnt glyph header byte 0 is the advance, byte 4/5 the horizontal-mode x/y offsets (`tools/kfnt.py`
 for the format, byte-identical roundtrip). The engine read every printable ASCII glyph as 8 px wide
 (`tools/debug/widths.py` -> `tools/adv_widths.tsv`). `tools/vwf.py` replaces 0x20-0x7e with PT Serif 12 px (OFL,
-`docs/fonts.md`), proportional advances (~6 px lowercase), BEARING 2 / DROP 4; `insert.plan` ships it whenever any
+`docs/fonts.md`), proportional advances (~6 px lowercase), BEARING 2 / DROP 0 (4 clipped the profile box's row 7 and the back log's
+2nd line; ADV blocks are centred on the panel, so they don't need it); `insert.plan` ships it whenever any
 text is English. Op 0x4E pitch 24 -> 16 and gap -> 0 for boxes 0-2 (the VWF advance carries the gap).
 
 **Width gate (ADV speech boxes)**, measured with the gate build (every m_001001 line = the pangram wrapped by

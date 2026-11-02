@@ -255,6 +255,8 @@ def load_texts(directory=SCRIPT):
                 else:
                     if rel.startswith('scene/'):   # \fnt1 (font24) draws nothing in horizontal ADV (D12): plain font17
                         en = en.replace(r'\fnt1', '').replace(r'\fnt0', '')
+                    elif rel.startswith('ui/'):   # UI tables break lines with a real 0x0A, as the JP does
+                        en = en.replace(r'\n', '\n')
                     texts[e['off']] = en
             if texts:
                 out[rel] = texts
@@ -306,6 +308,7 @@ def plan(directory=SCRIPT, log=None, eboot=False):
     if any(ed[k] for k in ('INST', 'NOINST')):   # English somewhere: proportional ASCII in the game font
         import vwf
         ed['NOINST']['font/font17.fnt'] = vwf.font17()
+        ed['NOINST']['font/font24.fnt'] = vwf.font24()
     # horizontal ADV needs the code patch, so the EBOOT ships as a plain ELF and its save titles come along (D12)
     horizontal = any(k.startswith('scene/script/') for k in ed['INST'])
     chapters = 'ui/ui_chapter.json' in texts   # English chapter titles need TEXT_CODE's strstr fix

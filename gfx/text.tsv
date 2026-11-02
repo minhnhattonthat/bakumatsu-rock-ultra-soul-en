@@ -64,7 +64,7 @@ INST/play/graphics/gam_000_003.d2c_6490	small	Back
 INST/play/graphics/gam_100_033.d2c_bfc8	small	Resume
 INST/play/graphics/gam_100_033.d2c_cba8	small	Back to Top Menu
 INST/play/graphics/gam_100_034.d2c_cba8	small	Back to Live Select
-INST/play/graphics/gam_000_004.d2c_4794	small	ULTRA SOUL
+INST/play/graphics/gam_000_004.d2c_4794	title	ULTRA	stroke=0
 NOINST/ui/graphics/sys_444_006.d2c_73f68	small	Ultra Soul	keep clear=20,4,86,24 box=20,4,86,24
 # break screen atlas: NEXT / TITLE / BREAK art kept, the small Japanese beside them redrawn
 NOINST/ui/graphics/sys_022_000.d2c_85e0	small	Continue	keep clear=94,14,72,26 box=94,16,72,22

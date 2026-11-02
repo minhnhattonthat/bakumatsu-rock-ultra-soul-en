@@ -25,28 +25,27 @@ BASELINE = 13      # cell row of the baseline (descenders use rows 14-16)
 SPACE = 4          # advance of ' '
 GAP = 1            # px after each glyph, part of the advance
 BEARING = 2        # header byte 4 (horizontal x offset of the drawing, not the advance) = a 2 px left margin per line
-DROP = 4           # header byte 5 (horizontal y offset): line 1 clears the panel's top border
+DROP = 0           # header byte 5 (horizontal y offset); 4 pushed menu rows down (profile row 7, back log clipped)
 LEVELS = (40, 110, 190)   # 8-bit coverage thresholds for 2-bpp levels 1, 2, 3
 CHARS = [chr(c) for c in range(0x21, 0x7f)]
 
 
-def render(ch, f):
-    """-> (advance, rows[17][17] of 0..3)."""
-    W = 17
-    im = Image.new('L', (W * 2, 17), 0)
+def render(ch, f, W=17, baseline=BASELINE):
+    """-> (advance, rows[W][W] of 0..3)."""
+    im = Image.new('L', (W * 2, W), 0)
     d = ImageDraw.Draw(im)
     asc = f.getmetrics()[0]
     left = f.getbbox(ch)[0]
     x0 = max(0, -left)            # keep a negative left bearing inside the cell
-    d.text((x0, BASELINE - asc + 1), ch, font=f, fill=255)
+    d.text((x0, baseline - asc + 1), ch, font=f, fill=255)
     px = im.load()
-    cols = [x for x in range(W * 2) if any(px[x, y] >= LEVELS[0] for y in range(17))]
+    cols = [x for x in range(W * 2) if any(px[x, y] >= LEVELS[0] for y in range(W))]
     if not cols:
-        return SPACE, [[0] * W for _ in range(17)]
+        return SPACE, [[0] * W for _ in range(W)]
     x_first = cols[0]
     ink = cols[-1] - x_first + 1
     rows = []
-    for y in range(17):
+    for y in range(W):
         row = []
         for x in range(W):
             v = px[x + x_first, y] if x + x_first < W * 2 else 0
@@ -56,11 +55,11 @@ def render(ch, f):
     return adv, rows
 
 
-def glyphs():
-    f = ImageFont.truetype(TTF, SIZE)
-    out = {' ': (SPACE, [[0] * 17 for _ in range(17)])}
+def glyphs(size=SIZE, W=17, baseline=BASELINE, space=SPACE):
+    f = ImageFont.truetype(TTF, size)
+    out = {' ': (space, [[0] * W for _ in range(W)])}
     for ch in CHARS:
-        out[ch] = render(ch, f)
+        out[ch] = render(ch, f, W, baseline)
     return out
 
 
@@ -128,6 +127,18 @@ def font17(data=None):
         hd, _ = fnt.glyph(ord(ch))
         hd[0] = adv
         hd[4], hd[5] = BEARING, DROP
+        fnt.set_glyph(ord(ch), hd, rows)
+    return fnt.encode()
+
+
+def font24(data=None):
+    """-> font24.fnt bytes with ASCII glyphs: the original's are blank (back log speaker names drew nothing)."""
+    data = data or kfnt.load('font24.fnt')
+    fnt = kfnt.Font(data)
+    for ch, (adv, rows) in glyphs(size=16, W=24, baseline=18, space=5).items():
+        hd, _ = fnt.glyph(ord(ch))
+        hd[0] = adv
+        hd[4] = BEARING
         fnt.set_glyph(ord(ch), hd, rows)
     return fnt.encode()
 

@@ -3,7 +3,9 @@
 Skill: translate-retro-game; `python tools/skill.py` prints its folder. Read its SKILL.md (and `references/platform-psp.md`) before ROM, text or QA work. `"$(python tools/skill.py)"` works in bash and PowerShell; never paste a `plugins/cache/<hash>` path.
 
 ## Commands (run from repo root)
-- Build:    `python -X utf8 tools/build.py` -> build/bakumatsu_rock_us_en.iso (checks the dump against `rom.sha1` first; edits plug into `edits()`; no edits = byte-identical ISO, ~7 s)
+- Build:    `python -X utf8 tools/build.py` -> build/bakumatsu_rock_us_en.iso (checks the dump against `rom.sha1` first; `insert.py` feeds `edits()`; no `en` = byte-identical ISO, ~7 s). `--texts work/mark` builds the marker set
+- Insert:   `python -X utf8 tools/insert.py plan [--dir script] [--eboot]` (JSON -> CPK/ISO edits; MZ slots resize, jumps re-map; `check` = identity) and `python -X utf8 tools/mark.py --force` -> `work/mark` (marker text: every line `[id] ...`); how and the width table: `docs/re/text.md` §7
+- Measure:  `python -X utf8 tools/measure.py SHOT --rect X,Y,W,H [--dark]` (text extents in px; zoom/crop with `sheet.py`)
 - Check:    `python -X utf8 tools/check.py` (pytest over `tests/` + lint; the pre-commit hook runs this; hooks: `git config core.hooksPath tools/hooks`)
 - Text:     `python -X utf8 tools/extract.py dump` -> `script/*.json` (one file per source file, `jp`/`en` per string slot);
             `python -X utf8 tools/extract.py verify` checks the roundtrip, the slot coverage and the JSON against `work/cpk`.

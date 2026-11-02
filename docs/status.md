@@ -2,7 +2,9 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 4 (extract) done; next is phase 5 (engine spike + marker build). Build = identity (no edits yet).
+- **Phase:** 5 (engine spike + marker build) **in progress**. Done: insertion pipeline, marker build (boots, ids show in
+  every toured box), horizontal-vs-vertical renderer finding, provisional width table. Open: make ADV dialogue
+  horizontal in the EBOOT (the phase-5 blocker), then the real width gate and the glyph torture line.
 - **Done:**
   - Step 0: repo, hooks, check, `rom.sha1`, PPSSPPHeadless boot route (`tools/routes/boot.txt`; `menu.txt` = to top MENU).
   - Phase 1 (`docs/re/README.md` indexes it): no earlier patch exists. ISO/CPK layout, CRILAYLA, unpacker, GIM sweep, plain
@@ -17,27 +19,42 @@ Updated at the end of every session. Keep it to what the next session needs; his
     byte-identical ISO (`tests/test_identity.py`, plus an edited-CPK read-back test). Fixed 3 bugs in the skill's
     `cpk.rebuild` (untouched compressed files got ExtractSize = FileSize; last file unpadded; name-only keys hit INST's two
     `com_000.gim`). In-game proof that raw-stored replacements load: all 224 compressed NOINST files + all 80 scene scripts
-    stored decompressed -> 9 warps (title, menu, options, profile, live, ADV, backlog, ending) ok, shots match the original
-    apart from animation. Smoke passes on the build.
+    stored decompressed -> 9 warps ok. Smoke passes on the build.
   - Phase 4: `tools/textfmt.py` (cp932 codec + JSON writer), `tools/mzscript.py` (MZ bytecode parse/serialize), `tools/uitable.py`
     (the 9 UI tables + EBOOT/SFO slots), `tools/extract.py` (`dump`, `verify`). `script/`: 121 JSON files, 27,815 entries,
-    355k JP chars — 13,059 dialogue, 121 choices, 78 staff, 100 shared speaker names (+2 staffroll2 overrides), 11,439 lyric
-    fragments, 3,003 UI strings, 8 EBOOT save titles + XMB title. Every file reserializes byte-identically (`serialize(parse(b)) == b`),
-    every slot re-encodes exactly, and a mask-and-scan finds 0 Japanese runs outside extracted slots. UI record layouts
-    derived and documented in `text.md` §3; 46 system-text records are UTF-8 (kept per slot). `tests/test_extract.py` (8 tests).
-- **Next (phase 5, engine spike + marker build):** vertical ADV text + KFNT fonts (17/24 px). Decide the English layout
-  (horizontal? box metrics? VWF on KFNT), then marker build = every line `[id] ...` and the width gate per box variant.
-  Also: EBOOT patch renaming the install path (INST.DNS, below); marker build + `jp_left.py` will confirm nothing was missed.
-- **Phase 4+ notes:** script insertion must re-map jump args (`text.md` list) when string lengths change. Debug addresses in
-  `docs/re/debug.md` assume an unchanged EBOOT code segment (string-only edits are fine).
+    355k JP chars. Every file reserializes byte-identically, every slot re-encodes exactly, 0 Japanese runs outside slots.
+    `tests/test_extract.py` (8 tests).
+  - Phase 5 (this session):
+    - `tools/insert.py`: `script/` -> CPK edits. MZ scene/chart files are rebuilt with **resized string slots** and every
+      jump argument re-mapped (positions verified over all 80 scripts, re-checked after the rebuild); the shared op-0x19
+      speaker table is applied by index; UI tables are in-place with an overflow error; PARAM.SFO title too; the EBOOT save
+      titles are off by default (`--eboot`, D11). `insert.py check` = identity; `tests/test_insert.py` (8 tests).
+    - `tools/mark.py` -> `work/mark`: 27,808 markers (`[id] The quick brown fox...`). `tools/build.py --texts work/mark`
+      builds the marker ISO; it boots (`emu.py --smoke` exit 0) and warps ok. Every toured box shows its id: ADV dialogue
+      (vertical, `work/qa/warp/m_001001`), backlog (horizontal, `adv_backlog`), music list + help line (`gallery_music`,
+      `story_menu`), profile, option, chapter, skit, event.
+    - Engine finding (see `docs/re/text.md` §7): the engine draws **horizontal** text (menu rows, help line, backlog) and
+      **vertical rotated** text (ADV panels) with the same KFNT font. ASCII exists in the font, so English needs the
+      horizontal path, i.e. ADV engine work in the EBOOT (D10).
+    - `tools/measure.py`: text-extent measurement from shots (crop/zoom via sheet.py for the visual read).
+- **Next (finish phase 5):** make the ADV text horizontal. Anchors: font metric read at `0x088066a4` (from `0x0880543c`),
+  KFNT RAM copies 0x96fdaec / 0x978445c, per-line work in 0x089a0000-0x089b0000, menu/backlog horizontal path unlocated.
+  Look for the text object's direction/layout field and the panel rect source; the panel art is `msgBord*.gim`; the D2C
+  layout files may carry the rect. Then: widen/re-lay the box, re-measure the width gate per variant, boot a **glyph
+  torture line** (all printable ASCII + double spaces), and run `jp_left.py` on the marker build.
+- **Phase 4+ notes:** script insertion re-maps jump args (`text.md` §1/§7) when string lengths change; the marker build
+  proves it in game. Debug addresses in `docs/re/debug.md` assume an unchanged EBOOT code segment (string-only edits are
+  fine; the EBOOT is not patched at all by default now).
 - **Phase 5 (install data):** INST.DNS = PGD-encrypted INST.CPK; a player who used Options > data management would read the
   original Japanese INST from the memstick. Plan: EBOOT patch renaming the install path it probes (`containers.md`), so it
   always reads the UMD. Build leaves INST.DNS untouched.
-- **Phase 5 (big item):** ADV dialogue is vertical text in small manga panels; find the renderer's direction flag/box metrics in
-  the EBOOT, decide horizontal English layout + VWF on the KFNT fonts.
-- **Open bugs:** none.
+- **Open bugs:** `warp.py live_pause` dies with `JSONDecodeError` from the driver (psp.py's lenient JSON patch covers
+  `log` events but not this one): the scene itself was fine in phase 2, so it is a driver/timing regression to re-check.
 - **Waiting on the user** (non-blocking; defaults in use):
   - Song MVs (`mv_*.pmf`) have burned-in Japanese lyric typography: default leave as is (PSMF re-encode out of scope).
   - Rhythm-game lyric fragments (words on notes, timed to sung syllables): default romanized Hepburn, since English word order
     can't follow the syllable timing.
   - 誠 on 誠仮面's mask / Shinsengumi crests: default keep (costume/crest art).
+  - **PSP save-dialog titles (EBOOT)**: translating them means shipping a plain-ELF EBOOT.BIN (fine in PPSSPP/CFW, not
+    guaranteed on real hardware). Default: keep the encrypted EBOOT, those 8 titles stay Japanese (D11). Say the word and
+    the build switches to `insert.py --eboot`.

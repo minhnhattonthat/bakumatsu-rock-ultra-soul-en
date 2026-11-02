@@ -13,6 +13,6 @@ Addresses are for the dump in `rom.sha1` unless a note says otherwise.
 | File | Covers | State |
 |---|---|---|
 | `containers.md` | ISO layout, CPK + CRILAYLA, D2C, CANZ, KFNT font, PMF, EBOOT dump | CPK/CRILAYLA verified; D2C/CANZ/KFNT guess |
-| `text.md` | Shift-JIS (+UTF-8 system dialogs), script bytecode, op 0x62/0x51/0x4C/0x19 strings, control codes, jump word-offsets, UI tables, EBOOT strings, lyrics | encoding + framing verified; offset-arg list statistical (verify with resize test) |
+| `text.md` | Shift-JIS (+UTF-8 system dialogs), script bytecode, op 0x62/0x51/0x4C/0x19 strings, control codes, jump word-offsets, UI tables, EBOOT strings, lyrics, **§7 insertion + marker build + width gate** | encoding + framing verified; offset-arg list verified by the resize test; §7 engine finding verified by marker shots |
 | `debug.md` | debug tool: script manager + id table, sequence names, system-data unlock layout, button map, psp.py gotchas | verified by warps (`tools/debug/warp.py`) |
 | `graphics.md` + `graphics-survey.tsv` | graphics-text survey: 744 Japanese GIMs by kind, movies, XMB, vertical ADV box | static sweep complete; tour partial (mid-game screens need phase-2 warps) |

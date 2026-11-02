@@ -125,3 +125,59 @@ equal the source's. Counts above are asserted, so an extractor regression shows 
 Note for phase 5/6: op 0x62's last word is a 0/1 flag, not a speaker index; nothing in the instruction stream names the
 speaker of a line (the op-0x19 table is only the name list). Translators get the scene file and can infer speakers from
 the text; the dialogue `msg` id can be used for later voice/QA lookups.
+
+## 7. Insertion, marker build and width gate (phase 5)
+
+**insert.py** (`tools/insert.py plan [--dir script] [--eboot]`) turns the JSON back into the files `build.py` patches:
+
+- MZ scene/rhythm files are **rebuilt with resized string slots**. A slot keeps its original capacity when the English
+  fits (no shift); otherwise capacity = text + NUL rounded up to 4 bytes. Every jump argument is then re-mapped over the
+  old -> new instruction offsets. Jump positions (word index after the opcode word, verified over all 80 scene scripts:
+  every value landed on an instruction start) are `0x0B:0, 0x0D:0, 0x0E:0, 0x16:1, 0x18:0, 0x22:4, 0x2B:4, 0x2F:0,
+  0x35:0, 0x47:0, 0x4F:3, 0x54:0, 0x55:0-3, 0x5D:1, 0x89:1-2`, plus **every word after the choice string in op 0x51**
+  (the target count follows the string's capacity). Op 0x47's argument is only a jump when the instruction has one
+  (a bare `47` end marker has no args) and in `play/` charts 0x47's argument is not an offset at all (26 of 29 miss every
+  instruction start), so charts skip it. Values 0 and 1 are ambiguous and stay unchanged. After the rebuild the file is
+  re-parsed and every jump re-checked, so a bad map fails the build instead of the game (`tests/test_insert.py`).
+- The shared op-0x19 speaker table (`scene/_speaker_names.json`, ids `name:NNN`) is applied **by index** to all 80 scene
+  scripts; a file's own `name:NNN` entries (staffroll2's two) win for that file.
+- UI tables are fixed slots: `uitable.write_table` writes them in place and raises on overflow (`ui_event.evt` test).
+- `param_sfo.json` patches the XMB title. `eboot.json` is **off by default** (`--eboot`): patching the 8 save-dialog
+  titles means shipping a plain-ELF EBOOT.BIN, which PPSSPP and CFW run but real hardware may not (D11).
+- `python -X utf8 tools/insert.py check` asserts the untouched `script/` produces no edits; `build.py --texts DIR` builds
+  from any text directory (`work/mark` for the marker build).
+
+**Marker build** (`tools/mark.py --force` -> `work/mark`, then `tools/build.py --texts work/mark`): every entry gets
+`[<id>] The quick brown fox jumps over the lazy dog. 0123456789 abc...`, truncated to the slot for fixed files. Scene
+slots grow, so each dialogue line shows its id in full. Boots and warps clean: `work/qa/markboot/`, `work/qa/warp/
+{m_001001,adv_backlog,gallery_music}` (shots taken against the marker ISO). Nothing left Japanese was seen in the
+toured boxes; `extract.py verify`'s mask-and-scan still covers the rest.
+
+**Engine finding (the big one).** The game draws text two ways:
+
+- **horizontal** with the KFNT font: menu list rows, the bottom help line, and the ADV **back log** all render the same
+  English marker strings left to right with proportional widths and clipping at the box edge;
+- **vertical** (tategaki) in the ADV speech panels: each glyph is drawn **rotated 90°**, one per ~15 px down the column,
+  ~4 columns of ~13 characters in a panel about 140x210 px (`work/qa/warp/m_001001/final.png`).
+
+So English dialogue needs the horizontal path, not a new font: ASCII/`[]`/digits already exist in font17 and render
+in every horizontal box. The ADV panel text is laid out by a different routine than the backlog; making dialogue
+horizontal (or re-laying out the panels) is EBOOT engine work, not data. Known anchors for the next pass: the font
+object is read at `0x088066a4` (font+4 width, +5 height, +6/+7 flags, from `0x0880543c`); the KFNT copy in RAM sits at
+0x96fdaec (font17) / 0x978445c (font24) after a script load; the map's per-frame work for a line change sits in
+0x089a0000-0x089b0000. Memory breakpoints work (`memory.breakpoint.add`, `reason == 'memory.breakpoint'`), but the
+**ADV script string is not read at display time** (the line is parsed once into a display structure) and the STB help
+text is not re-read on menu redraw, so read-watching the text is not a way in.
+
+**Width gate (provisional: horizontal boxes measured, ADV pending the layout change).**
+
+| Variant | Where | Text area | Observed | Shot |
+|---|---|---|---|---|
+| Menu list row (sound/music, event, skit, movie) | `NEW [id] ...` row | x 205..444, ~240 px | ~30 marker chars before the clip | `work/qa/warp/gallery_music/final.png` |
+| Bottom help line | every menu | x 8..235, ~227 px | ~32 marker chars | `work/qa/warp/story_menu/final.png` |
+| ADV back log line | SELECT in ADV | x 47..458, ~412 px, 1 line | ~40 marker chars, scrolls | `work/qa/warp/adv_backlog/final.png` |
+| ADV speech panel (vertical) | dialogue | ~140x210 px panel, 4 columns x ~13 chars | ~15 px/char down a column | `work/qa/warp/m_001001/final.png` |
+| Chapter card / profile / system dialog | | not measured yet | | |
+
+These are read off the zoomed marker shots, not yet from a per-variant px budget; the ADV panel will be re-measured
+after the horizontal layout lands, and the font is proportional, so the budget is in px (chars are approximate).

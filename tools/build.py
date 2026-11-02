@@ -15,10 +15,11 @@ OUT = os.path.join(ROOT, 'build', 'bakumatsu_rock_us_en.iso')
 CPKS = ('INST', 'NOINST')
 
 
-def edits():
+def edits(texts=None):
     """-> {CPK name: {'dir/name': bytes}} for files inside the CPKs, plus {'/ISO/PATH': bytes} under key 'iso'.
-    Text, font and graphics insertion plug in here (phase 4+)."""
-    return {'INST': {}, 'NOINST': {}, 'iso': {}}
+    TEXTS is a text directory (script/ by default, work/mark for the marker build); insert.py does the patching."""
+    import insert
+    return insert.plan(texts or insert.SCRIPT)
 
 
 def extract_iso():
@@ -29,11 +30,11 @@ def extract_iso():
             with open(d, 'wb') as o: o.write(f.read(ln))
 
 
-def build(out=OUT, ed=None):
-    """ed: edits() by default; the identity test passes no edits."""
+def build(out=OUT, ed=None, texts=None):
+    """ed: edits() by default; the identity test passes no edits. texts: a text directory (default script/)."""
     check_rom.check()
     extract_iso()
-    ed = edits() if ed is None else ed
+    ed = edits(texts) if ed is None else ed
     os.makedirs(os.path.dirname(out), exist_ok=True)
     src = ROM
     for name in CPKS:   # one CPK in memory at a time (~0.5 GB each)
@@ -45,7 +46,9 @@ def build(out=OUT, ed=None):
 
 
 if __name__ == '__main__':
-    ap = argparse.ArgumentParser(); ap.add_argument('--out', default=OUT); a = ap.parse_args()
-    sha = build(a.out)
+    ap = argparse.ArgumentParser(); ap.add_argument('--out', default=OUT)
+    ap.add_argument('--texts', default=None, help='text directory (default script/, work/mark for the marker build)')
+    a = ap.parse_args()
+    sha = build(a.out, texts=a.texts)
     orig = next(l for l in open(os.path.join(ROOT, 'rom.sha1'), encoding='utf-8') if l.strip() and l[0] != '#').split()[0]
     print(f'{a.out}  sha1 {sha}' + ('  (identical to the original)' if sha == orig else ''))

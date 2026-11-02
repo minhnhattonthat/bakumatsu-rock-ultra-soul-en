@@ -253,6 +253,8 @@ def load_texts(directory=SCRIPT):
                 elif ':name:' in e['id']:
                     names[(rel.split('/')[1][:-5], int(e['id'].split(':')[2]))] = en
                 else:
+                    if rel.startswith('scene/'):   # \fnt1 (font24) draws nothing in horizontal ADV (D12): plain font17
+                        en = en.replace(r'\fnt1', '').replace(r'\fnt0', '')
                     texts[e['off']] = en
             if texts:
                 out[rel] = texts

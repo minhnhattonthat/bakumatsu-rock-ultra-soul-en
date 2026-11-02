@@ -604,3 +604,16 @@ INST/scene/graphics/adv_002_003.d2c_870	notice	Replay the Live	erase=8,110,112,3
 INST/scene/graphics/adv_002_004.d2c_870	notice	Next Chapter	keep erase=8,10,112,33 box=8,10,112,33 fill=000000
 INST/scene/graphics/adv_002_004.d2c_870	small	Next Chapter	erase=8,60,112,33 box=8,60,112,33
 INST/scene/graphics/adv_002_004.d2c_870	notice	Next Chapter	erase=8,110,112,33 box=8,110,112,33 fill=E0205A
+# SFX stroke pieces left after the romaji rows (kana fragments, dakuten): blank. ー and 〜 pieces stay (read as dashes)
+INST/scene/graphics/adv_340_000.d2c_40b8	sfx
+INST/scene/graphics/adv_340_000.d2c_49a8	sfx
+INST/scene/graphics/adv_340_000.d2c_6a98	sfx
+INST/scene/graphics/adv_360_000.d2c_2df0	sfx
+INST/scene/graphics/adv_367_000.d2c_cca0	sfx
+INST/scene/graphics/adv_371_000.d2c_7b34	sfx
+INST/scene/graphics/adv_371_000.d2c_1864	sfx
+INST/scene/graphics/adv_613_000.d2c_223c	sfx
+# Ikumatsu's 眠り (asleep) label over her portraits
+INST/scene/graphics/chr_18_ikumatu_011.gim_0	title	Asleep	keep inpaint=106,58,44,26 box=96,58,64,26
+INST/scene/graphics/chr_18_ikumatu_111.gim_0	title	Asleep	keep inpaint=97,66,48,30 box=86,66,70,30
+INST/scene/graphics/chr_18_ikumatu_211.gim_0	title	Asleep	keep inpaint=80,68,72,42 box=66,68,100,42

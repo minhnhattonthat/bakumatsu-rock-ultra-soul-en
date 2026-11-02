@@ -1,0 +1,2022 @@
+{
+ "source": "ui_profile.pfl",
+ "format": "ui-table",
+ "entries": [
+  {
+   "id": "ui_profile:0x14",
+   "off": 20,
+   "max": 16,
+   "kind": "name",
+   "jp": "坂本龍馬　",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x28",
+   "off": 40,
+   "max": 16,
+   "kind": "va",
+   "jp": "谷山紀章",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x3c",
+   "off": 60,
+   "max": 8,
+   "kind": "origin",
+   "jp": "土佐",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x48",
+   "off": 72,
+   "max": 16,
+   "kind": "birthday",
+   "jp": "１１月１５日",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x5c",
+   "off": 92,
+   "max": 16,
+   "kind": "height",
+   "jp": "１７９ｃｍ",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x70",
+   "off": 112,
+   "max": 16,
+   "kind": "weight",
+   "jp": "６３ｋｇ",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x84",
+   "off": 132,
+   "max": 8,
+   "kind": "blood",
+   "jp": "Ｏ型",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x90",
+   "off": 144,
+   "max": 8,
+   "kind": "sign",
+   "jp": "蠍座",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x9c",
+   "off": 156,
+   "max": 32,
+   "kind": "likes",
+   "jp": "歌うこと",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0xc0",
+   "off": 192,
+   "max": 32,
+   "kind": "food",
+   "jp": "ピッツァ",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0xe4",
+   "off": 228,
+   "max": 32,
+   "kind": "dislikes",
+   "jp": "特になし",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x108",
+   "off": 264,
+   "max": 32,
+   "kind": "bio-title",
+   "jp": "幼少期",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x12c",
+   "off": 300,
+   "max": 256,
+   "kind": "bio",
+   "jp": "■幼少期\n\n幼いころの記憶が無い。\n\n背中に大きなケガを負い、\n川岸でたおれているところを\n当時少女であった乙女に\n助けられる。\n数日生死の境を\nさまよったらしい。\n\nその後、坂本家の子として\n育てられる。",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x230",
+   "off": 560,
+   "max": 32,
+   "kind": "bio-title",
+   "jp": "幼少期",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x254",
+   "off": 596,
+   "max": 256,
+   "kind": "bio",
+   "jp": "しばらくし、父と母が\n亡くなる。\n龍馬の歌を喜んで\n聞いてくれていた\n記憶だけが強く残る。",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x358",
+   "off": 856,
+   "max": 32,
+   "kind": "bio-title",
+   "jp": "少年期",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x37c",
+   "off": 892,
+   "max": 256,
+   "kind": "bio",
+   "jp": "■少年期\n\n身分の差が激しい土佐で、\n自分を育ててくれた乙女を\n守れるように\n剣術を習い始める。\n\n自分の好きな歌をうたうと、\nへたくそとバカにされる\n毎日だったが、逆に歌も剣術も\n一番になってやると決意する。",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x7fc",
+   "off": 2044,
+   "max": 16,
+   "kind": "name",
+   "jp": "高杉晋作　",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x810",
+   "off": 2064,
+   "max": 16,
+   "kind": "va",
+   "jp": "鈴木達央",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x824",
+   "off": 2084,
+   "max": 8,
+   "kind": "origin",
+   "jp": "長州",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x830",
+   "off": 2096,
+   "max": 16,
+   "kind": "birthday",
+   "jp": "８月２０日",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x844",
+   "off": 2116,
+   "max": 16,
+   "kind": "height",
+   "jp": "１７８ｃｍ",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x858",
+   "off": 2136,
+   "max": 16,
+   "kind": "weight",
+   "jp": "６０ｋｇ",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x86c",
+   "off": 2156,
+   "max": 8,
+   "kind": "blood",
+   "jp": "Ｂ型",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x878",
+   "off": 2168,
+   "max": 8,
+   "kind": "sign",
+   "jp": "獅子座",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x884",
+   "off": 2180,
+   "max": 32,
+   "kind": "likes",
+   "jp": "拳銃集め",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x8a8",
+   "off": 2216,
+   "max": 32,
+   "kind": "food",
+   "jp": "とうがらし",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x8cc",
+   "off": 2252,
+   "max": 32,
+   "kind": "dislikes",
+   "jp": "豆腐",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x8f0",
+   "off": 2288,
+   "max": 32,
+   "kind": "bio-title",
+   "jp": "幼少期",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x914",
+   "off": 2324,
+   "max": 256,
+   "kind": "bio",
+   "jp": "■幼少期\n\n桂と出会う。\nしばらく女の子だと\nおもっていた。\n後に後悔することになる…。\n\n桂と祭りに行き、\n「きんぎょすくい」を\n「金魚救い」と勘違いして\n出店の店員と揉める。",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0xa18",
+   "off": 2584,
+   "max": 32,
+   "kind": "bio-title",
+   "jp": "少年期",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0xa3c",
+   "off": 2620,
+   "max": 256,
+   "kind": "bio",
+   "jp": "■少年期\n\n松下村塾に入塾。\n\n松陰と出会い、ロックを知る。\n『男とロック』の講義中、\n男ならいかなる時でも\nすずしい顔をせよ！\nと松陰に唐辛子を\n食べさせられた。\n\nそこから訓練を重ね、\n今では好物に。\n\nこの頃から\nロックへのめり込む。",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0xb40",
+   "off": 2880,
+   "max": 32,
+   "kind": "bio-title",
+   "jp": "青年期",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0xb64",
+   "off": 2916,
+   "max": 256,
+   "kind": "bio",
+   "jp": "■青年期\n\n幼い頃から\n面倒を見てくれていた\n家令をなくす。\n徳川派遣の視察と\n高杉が揉めた\n責任を負ったのが原因。\n\nこの頃から、幕府に対して\n嫌悪と警戒心を強める。",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0xc68",
+   "off": 3176,
+   "max": 32,
+   "kind": "bio-title",
+   "jp": "現在",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0xc8c",
+   "off": 3212,
+   "max": 256,
+   "kind": "bio",
+   "jp": "当時の流行病にかかり\nしばらく臥せる。\n家令がなくなった直後で、\n高杉の高齢の祖父母に\n伝染ると悪いと\n桂が看病する。\n\n■現在\n\n藩政にかかわることを\nのぞまれるも、\n幕府のやり方に反発し、\n松陰を捜す旅に出る。",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0xfe4",
+   "off": 4068,
+   "max": 16,
+   "kind": "name",
+   "jp": "桂小五郎　",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0xff8",
+   "off": 4088,
+   "max": 16,
+   "kind": "va",
+   "jp": "森久保祥太郎",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x100c",
+   "off": 4108,
+   "max": 8,
+   "kind": "origin",
+   "jp": "長州",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x1018",
+   "off": 4120,
+   "max": 16,
+   "kind": "birthday",
+   "jp": "６月２６日",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x102c",
+   "off": 4140,
+   "max": 16,
+   "kind": "height",
+   "jp": "１６９ｃｍ",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x1040",
+   "off": 4160,
+   "max": 16,
+   "kind": "weight",
+   "jp": "５４ｋｇ",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x1054",
+   "off": 4180,
+   "max": 8,
+   "kind": "blood",
+   "jp": "Ｏ型",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x1060",
+   "off": 4192,
+   "max": 8,
+   "kind": "sign",
+   "jp": "蟹座",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x106c",
+   "off": 4204,
+   "max": 32,
+   "kind": "likes",
+   "jp": "楽譜集め",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x1090",
+   "off": 4240,
+   "max": 32,
+   "kind": "food",
+   "jp": "どんぐり",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x10b4",
+   "off": 4276,
+   "max": 32,
+   "kind": "dislikes",
+   "jp": "黒いもの全般",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x10d8",
+   "off": 4312,
+   "max": 32,
+   "kind": "bio-title",
+   "jp": "幼少期",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x10fc",
+   "off": 4348,
+   "max": 256,
+   "kind": "bio",
+   "jp": "■幼少期\n\n高杉と出会う。\n\n祭りで見た海外の楽器が\nどういう仕組なのか気になり\n大人に聞いて回るが誰も\n答えられなかったところ、\n分解してみてみれば？と\n高杉にいわれたことから、\nモノの構造に興味を持つ。",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x1200",
+   "off": 4608,
+   "max": 32,
+   "kind": "bio-title",
+   "jp": "少年期",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x1224",
+   "off": 4644,
+   "max": 256,
+   "kind": "bio",
+   "jp": "この頃から発明にハマりだす。\n色々なものを拾っては\n合体する日々。\n\n楽器に興味を持ったことから、\n様々な楽器を習う。\n\n■少年期\n\n松下村塾に入塾。\n\n女の子に間違えられる\n容姿だったため\n自分を恥じ、家出する。",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x1328",
+   "off": 4904,
+   "max": 32,
+   "kind": "bio-title",
+   "jp": "青年期",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x134c",
+   "off": 4940,
+   "max": 256,
+   "kind": "bio",
+   "jp": "桂家では大騒ぎになったが、\n高杉により発見される。\n\n■青年期\n\n諸藩へ遊学。\n長崎へ遊学した際、\nエレキテルと出会い、\n発明に磨きがかかる。",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x1450",
+   "off": 5200,
+   "max": 32,
+   "kind": "bio-title",
+   "jp": "現在",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x1474",
+   "off": 5236,
+   "max": 256,
+   "kind": "bio",
+   "jp": "■現在\n\n藩政にかかわることを\nのぞまれるも、\n松陰が心配なため\n捜す旅に出る。",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x17cc",
+   "off": 6092,
+   "max": 16,
+   "kind": "name",
+   "jp": "土方歳三　",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x17e0",
+   "off": 6112,
+   "max": 16,
+   "kind": "va",
+   "jp": "森川智之",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x17f4",
+   "off": 6132,
+   "max": 8,
+   "kind": "origin",
+   "jp": "武蔵",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x1800",
+   "off": 6144,
+   "max": 16,
+   "kind": "birthday",
+   "jp": "５月５日",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x1814",
+   "off": 6164,
+   "max": 16,
+   "kind": "height",
+   "jp": "１８３ｃｍ",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x1828",
+   "off": 6184,
+   "max": 16,
+   "kind": "weight",
+   "jp": "６４ｋｇ",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x183c",
+   "off": 6204,
+   "max": 8,
+   "kind": "blood",
+   "jp": "Ａ型",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x1848",
+   "off": 6216,
+   "max": 8,
+   "kind": "sign",
+   "jp": "牡牛座",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x1854",
+   "off": 6228,
+   "max": 32,
+   "kind": "likes",
+   "jp": "作詞",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x1878",
+   "off": 6264,
+   "max": 32,
+   "kind": "food",
+   "jp": "肉",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x189c",
+   "off": 6300,
+   "max": 32,
+   "kind": "dislikes",
+   "jp": "なし\n（実はピーマンと\n人参が嫌い",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x18c0",
+   "off": 6336,
+   "max": 32,
+   "kind": "bio-title",
+   "jp": "幼少期",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x18e4",
+   "off": 6372,
+   "max": 256,
+   "kind": "bio",
+   "jp": "■幼少期\n\n豪農の子であったが、\n両親が侍に殺され\n孤児となってしまう。\n近藤の家の道場に\n引き取られて育つ。\n\nこの頃から近藤に隠れ\n親の仇を捜し始める。\n\n荒れていたため\nバラガキと呼ばれる。",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x19e8",
+   "off": 6632,
+   "max": 32,
+   "kind": "bio-title",
+   "jp": "少年期",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x1a0c",
+   "off": 6668,
+   "max": 256,
+   "kind": "bio",
+   "jp": "■少年期\n\n新選組の前身、\n壬生組が結成される。",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x1b10",
+   "off": 6928,
+   "max": 32,
+   "kind": "bio-title",
+   "jp": "青年期",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x1b34",
+   "off": 6964,
+   "max": 256,
+   "kind": "bio",
+   "jp": "■青年期\n\n新選組が愛獲として、\n正式デビューが決定。",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x1c38",
+   "off": 7224,
+   "max": 32,
+   "kind": "bio-title",
+   "jp": "現在",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x1c5c",
+   "off": 7260,
+   "max": 256,
+   "kind": "bio",
+   "jp": "■現在\n\n新選組の副長として、\n舞台に立つ日々を送っている。",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x1fb4",
+   "off": 8116,
+   "max": 16,
+   "kind": "name",
+   "jp": "沖田総司　",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x1fc8",
+   "off": 8136,
+   "max": 16,
+   "kind": "va",
+   "jp": "小野賢章",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x1fdc",
+   "off": 8156,
+   "max": 8,
+   "kind": "origin",
+   "jp": "不明",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x1fe8",
+   "off": 8168,
+   "max": 16,
+   "kind": "birthday",
+   "jp": "７月７日",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x1ffc",
+   "off": 8188,
+   "max": 16,
+   "kind": "height",
+   "jp": "１７５ｃｍ",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x2010",
+   "off": 8208,
+   "max": 16,
+   "kind": "weight",
+   "jp": "５８ｋｇ",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x2024",
+   "off": 8228,
+   "max": 8,
+   "kind": "blood",
+   "jp": "ＡＢ型",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x2030",
+   "off": 8240,
+   "max": 8,
+   "kind": "sign",
+   "jp": "蟹座",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x203c",
+   "off": 8252,
+   "max": 32,
+   "kind": "likes",
+   "jp": "お風呂",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x2060",
+   "off": 8288,
+   "max": 32,
+   "kind": "food",
+   "jp": "豆腐",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x2084",
+   "off": 8324,
+   "max": 32,
+   "kind": "dislikes",
+   "jp": "にんにく",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x20a8",
+   "off": 8360,
+   "max": 32,
+   "kind": "bio-title",
+   "jp": "幼少期",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x20cc",
+   "off": 8396,
+   "max": 256,
+   "kind": "bio",
+   "jp": "■幼少期\n\n生まれなど不明。\n生きるためいくつかの\n盗賊団などを\n転々としていたようである。",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x21d0",
+   "off": 8656,
+   "max": 32,
+   "kind": "bio-title",
+   "jp": "少年期",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x21f4",
+   "off": 8692,
+   "max": 256,
+   "kind": "bio",
+   "jp": "■少年期\n\n新選組の前身、\n壬生組が結成される。\n\n近藤にスタミナをつけるため、\nにんにくを食べろといわれるが\n全く受け付けない。\n影で吸血鬼と呼ばれていた。",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x22f8",
+   "off": 8952,
+   "max": 32,
+   "kind": "bio-title",
+   "jp": "青年期",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x231c",
+   "off": 8988,
+   "max": 256,
+   "kind": "bio",
+   "jp": "■青年期\n\nオーディションで選ばれた\n新選組１期生。\n\n新選組が愛獲として、\n正式デビューが決定。\n\n煌の間でも人気は急上昇。\n一番隊組長となる。",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x2420",
+   "off": 9248,
+   "max": 32,
+   "kind": "bio-title",
+   "jp": "現在",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x2444",
+   "off": 9284,
+   "max": 256,
+   "kind": "bio",
+   "jp": "■現在\n\n土方と人気を二分し、\nセンタートップを務めている。\n\nステージで各地を回る際、\n温泉めぐりを楽しみに\nしている。",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x279c",
+   "off": 10140,
+   "max": 16,
+   "kind": "name",
+   "jp": "ジュニア　",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x27b0",
+   "off": 10160,
+   "max": 16,
+   "kind": "va",
+   "jp": "諏訪部順一",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x27c4",
+   "off": 10180,
+   "max": 8,
+   "kind": "origin",
+   "jp": "アメリカ",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x27d0",
+   "off": 10192,
+   "max": 16,
+   "kind": "birthday",
+   "jp": "８月１０日",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x27e4",
+   "off": 10212,
+   "max": 16,
+   "kind": "height",
+   "jp": "１８９ｃｍ",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x27f8",
+   "off": 10232,
+   "max": 16,
+   "kind": "weight",
+   "jp": "７７ｋｇ",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x280c",
+   "off": 10252,
+   "max": 8,
+   "kind": "blood",
+   "jp": "Ｂ型",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x2818",
+   "off": 10264,
+   "max": 8,
+   "kind": "sign",
+   "jp": "獅子座",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x2824",
+   "off": 10276,
+   "max": 32,
+   "kind": "likes",
+   "jp": "記念写真を\n撮る事",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x2848",
+   "off": 10312,
+   "max": 32,
+   "kind": "food",
+   "jp": "酒",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x286c",
+   "off": 10348,
+   "max": 32,
+   "kind": "dislikes",
+   "jp": "梅干し",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x2890",
+   "off": 10384,
+   "max": 32,
+   "kind": "bio-title",
+   "jp": "幼少期",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x28b4",
+   "off": 10420,
+   "max": 256,
+   "kind": "bio",
+   "jp": "■幼少期\n\n全てができてしまう\n子供だった。\n\n母を亡くし、父の手で\n育つことになる。\nこの頃から女性がそばに\nいると機嫌が良い子であった。\n\n海軍提督である父の影響か、\nいつかは自分も世界へと\n思うようになる。",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x29b8",
+   "off": 10680,
+   "max": 32,
+   "kind": "bio-title",
+   "jp": "少年期",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x29dc",
+   "off": 10716,
+   "max": 256,
+   "kind": "bio",
+   "jp": "■少年期\n\n自分は世界にこそふさわしい。\n世界の女性を自分の物に\nするため、\n海軍に入る決意をする。\n\nかなりの数の女性と\n付き合っており、\n元彼から喧嘩を\nふっかけられる日々を過ごす。",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x2ae0",
+   "off": 10976,
+   "max": 32,
+   "kind": "bio-title",
+   "jp": "青年期",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x2b04",
+   "off": 11012,
+   "max": 256,
+   "kind": "bio",
+   "jp": "■青年期\n\n海軍に入隊。\n頭角を顕し、階級を上げていく。\nしばしば海外への遠征隊に\n出かけ、武勲を上げる。\n\nロックフェスにて、ある男から\n人生で初めての敗北を味わう。\n以来、本気でロックに\n取り組む。\n\n海外基地でのコンサートにて、\nセッションに入ったJと出会う。",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x2c08",
+   "off": 11272,
+   "max": 32,
+   "kind": "bio-title",
+   "jp": "現在",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x2c2c",
+   "off": 11308,
+   "max": 256,
+   "kind": "bio",
+   "jp": "■現在\n\n合衆国の政策、つまり\nワールドツアー中。\n\n各地で超魂を奪い、\n属国化している。",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x2f84",
+   "off": 12164,
+   "max": 16,
+   "kind": "name",
+   "jp": "Ｊ　　　　",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x2f98",
+   "off": 12184,
+   "max": 16,
+   "kind": "va",
+   "jp": "Yuh",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x2fac",
+   "off": 12204,
+   "max": 8,
+   "kind": "origin",
+   "jp": "不明",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x2fb8",
+   "off": 12216,
+   "max": 16,
+   "kind": "birthday",
+   "jp": "１月１１日",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x2fcc",
+   "off": 12236,
+   "max": 16,
+   "kind": "height",
+   "jp": "１７５ｃｍ",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x2fe0",
+   "off": 12256,
+   "max": 16,
+   "kind": "weight",
+   "jp": "５９ｋｇ",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x2ff4",
+   "off": 12276,
+   "max": 8,
+   "kind": "blood",
+   "jp": "Ｏ型",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x3000",
+   "off": 12288,
+   "max": 8,
+   "kind": "sign",
+   "jp": "山羊座",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x300c",
+   "off": 12300,
+   "max": 32,
+   "kind": "likes",
+   "jp": "動物を\nかわいがる事",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x3030",
+   "off": 12336,
+   "max": 32,
+   "kind": "food",
+   "jp": "甘いもの",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x3054",
+   "off": 12372,
+   "max": 32,
+   "kind": "dislikes",
+   "jp": "酒",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x3078",
+   "off": 12408,
+   "max": 32,
+   "kind": "bio-title",
+   "jp": "幼少期",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x309c",
+   "off": 12444,
+   "max": 256,
+   "kind": "bio",
+   "jp": "■幼少期\n\n謎",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x31a0",
+   "off": 12704,
+   "max": 32,
+   "kind": "bio-title",
+   "jp": "少年期",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x31c4",
+   "off": 12740,
+   "max": 256,
+   "kind": "bio",
+   "jp": "■少年期\n\n謎",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x32c8",
+   "off": 13000,
+   "max": 32,
+   "kind": "bio-title",
+   "jp": "青年期",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x32ec",
+   "off": 13036,
+   "max": 256,
+   "kind": "bio",
+   "jp": "■青年期\n\n分かっているのは、この頃から\n軍に記録官として配属され、\n各地を転々と\nしているという事。",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x33f0",
+   "off": 13296,
+   "max": 32,
+   "kind": "bio-title",
+   "jp": "現在",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x3414",
+   "off": 13332,
+   "max": 256,
+   "kind": "bio",
+   "jp": "■現在\n\nジュニアの片腕として\nワールドツアーに参加中。\nギターを弾く際は、\nトランプをピックとして\n使用する。",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x376c",
+   "off": 14188,
+   "max": 16,
+   "kind": "name",
+   "jp": "井伊直弼　",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x3780",
+   "off": 14208,
+   "max": 16,
+   "kind": "va",
+   "jp": "安元洋貴",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x3794",
+   "off": 14228,
+   "max": 8,
+   "kind": "origin",
+   "jp": "近江",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x37a0",
+   "off": 14240,
+   "max": 16,
+   "kind": "birthday",
+   "jp": "１０月２９日",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x37b4",
+   "off": 14260,
+   "max": 16,
+   "kind": "height",
+   "jp": "１８５ｃｍ",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x37c8",
+   "off": 14280,
+   "max": 16,
+   "kind": "weight",
+   "jp": "６８ｋｇ",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x37dc",
+   "off": 14300,
+   "max": 8,
+   "kind": "blood",
+   "jp": "Ａ型",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x37e8",
+   "off": 14312,
+   "max": 8,
+   "kind": "sign",
+   "jp": "蠍座",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x37f4",
+   "off": 14324,
+   "max": 32,
+   "kind": "likes",
+   "jp": "囲碁",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x3818",
+   "off": 14360,
+   "max": 32,
+   "kind": "food",
+   "jp": "精進料理",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x383c",
+   "off": 14396,
+   "max": 32,
+   "kind": "dislikes",
+   "jp": "肉",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x3f54",
+   "off": 16212,
+   "max": 16,
+   "kind": "name",
+   "jp": "徳川慶喜　",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x3f68",
+   "off": 16232,
+   "max": 16,
+   "kind": "va",
+   "jp": "斎賀みつき",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x3f7c",
+   "off": 16252,
+   "max": 8,
+   "kind": "origin",
+   "jp": "江戸",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x3f88",
+   "off": 16264,
+   "max": 16,
+   "kind": "birthday",
+   "jp": "９月２９日",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x3f9c",
+   "off": 16284,
+   "max": 16,
+   "kind": "height",
+   "jp": "１６５ｃｍ",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x3fb0",
+   "off": 16304,
+   "max": 16,
+   "kind": "weight",
+   "jp": "５０ｋｇ",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x3fc4",
+   "off": 16324,
+   "max": 8,
+   "kind": "blood",
+   "jp": "Ａ型",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x3fd0",
+   "off": 16336,
+   "max": 8,
+   "kind": "sign",
+   "jp": "天秤座",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x3fdc",
+   "off": 16348,
+   "max": 32,
+   "kind": "likes",
+   "jp": "将棋",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x4000",
+   "off": 16384,
+   "max": 32,
+   "kind": "food",
+   "jp": "和菓子",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x4024",
+   "off": 16420,
+   "max": 32,
+   "kind": "dislikes",
+   "jp": "苺",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x473c",
+   "off": 18236,
+   "max": 16,
+   "kind": "name",
+   "jp": "近藤勇　　",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x4750",
+   "off": 18256,
+   "max": 16,
+   "kind": "va",
+   "jp": "藤原啓治",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x4764",
+   "off": 18276,
+   "max": 8,
+   "kind": "origin",
+   "jp": "武蔵",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x4770",
+   "off": 18288,
+   "max": 16,
+   "kind": "birthday",
+   "jp": "１０月９日",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x4784",
+   "off": 18308,
+   "max": 16,
+   "kind": "height",
+   "jp": "１９０ｃｍ",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x4798",
+   "off": 18328,
+   "max": 16,
+   "kind": "weight",
+   "jp": "９３ｋｇ",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x47ac",
+   "off": 18348,
+   "max": 8,
+   "kind": "blood",
+   "jp": "Ａ型",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x47b8",
+   "off": 18360,
+   "max": 8,
+   "kind": "sign",
+   "jp": "天秤座",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x47c4",
+   "off": 18372,
+   "max": 32,
+   "kind": "likes",
+   "jp": "雷舞鑑賞",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x47e8",
+   "off": 18408,
+   "max": 32,
+   "kind": "food",
+   "jp": "おにぎり",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x480c",
+   "off": 18444,
+   "max": 32,
+   "kind": "dislikes",
+   "jp": "えび",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x4f24",
+   "off": 20260,
+   "max": 16,
+   "kind": "name",
+   "jp": "お登勢　　",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x4f38",
+   "off": 20280,
+   "max": 16,
+   "kind": "va",
+   "jp": "乃村健次",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x4f4c",
+   "off": 20300,
+   "max": 8,
+   "kind": "origin",
+   "jp": "大津",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x4f58",
+   "off": 20312,
+   "max": 16,
+   "kind": "birthday",
+   "jp": "４月２３日",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x4f6c",
+   "off": 20332,
+   "max": 16,
+   "kind": "height",
+   "jp": "１７８ｃｍ",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x4f80",
+   "off": 20352,
+   "max": 16,
+   "kind": "weight",
+   "jp": "ひみつ",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x4f94",
+   "off": 20372,
+   "max": 8,
+   "kind": "blood",
+   "jp": "Ａ型",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x4fa0",
+   "off": 20384,
+   "max": 8,
+   "kind": "sign",
+   "jp": "牡牛座",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x4fac",
+   "off": 20396,
+   "max": 32,
+   "kind": "likes",
+   "jp": "女子会",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x4fd0",
+   "off": 20432,
+   "max": 32,
+   "kind": "food",
+   "jp": "オリーブ",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x4ff4",
+   "off": 20468,
+   "max": 32,
+   "kind": "dislikes",
+   "jp": "うずらのたまご",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x570c",
+   "off": 22284,
+   "max": 16,
+   "kind": "name",
+   "jp": "吉田松陰　",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x5720",
+   "off": 22304,
+   "max": 16,
+   "kind": "va",
+   "jp": "中尾隆聖",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x5734",
+   "off": 22324,
+   "max": 8,
+   "kind": "origin",
+   "jp": "長州",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x5740",
+   "off": 22336,
+   "max": 16,
+   "kind": "birthday",
+   "jp": "８月４日",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x5754",
+   "off": 22356,
+   "max": 16,
+   "kind": "height",
+   "jp": "１４０ｃｍ",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x5768",
+   "off": 22376,
+   "max": 16,
+   "kind": "weight",
+   "jp": "４２ｋｇ",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x577c",
+   "off": 22396,
+   "max": 8,
+   "kind": "blood",
+   "jp": "Ｂ型",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x5788",
+   "off": 22408,
+   "max": 8,
+   "kind": "sign",
+   "jp": "獅子座",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x5794",
+   "off": 22420,
+   "max": 32,
+   "kind": "likes",
+   "jp": "旅",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x57b8",
+   "off": 22456,
+   "max": 32,
+   "kind": "food",
+   "jp": "ふぐ料理",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x57dc",
+   "off": 22492,
+   "max": 32,
+   "kind": "dislikes",
+   "jp": "こんにゃく",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x5ef4",
+   "off": 24308,
+   "max": 16,
+   "kind": "name",
+   "jp": "天狗　　　",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x5f08",
+   "off": 24328,
+   "max": 16,
+   "kind": "va",
+   "jp": "中尾隆聖",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x5f1c",
+   "off": 24348,
+   "max": 8,
+   "kind": "origin",
+   "jp": "長州",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x5f28",
+   "off": 24360,
+   "max": 16,
+   "kind": "birthday",
+   "jp": "８月４日",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x5f3c",
+   "off": 24380,
+   "max": 16,
+   "kind": "height",
+   "jp": "不明",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x5f50",
+   "off": 24400,
+   "max": 16,
+   "kind": "weight",
+   "jp": "不明",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x5f64",
+   "off": 24420,
+   "max": 8,
+   "kind": "blood",
+   "jp": "Ｂ型",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x5f70",
+   "off": 24432,
+   "max": 8,
+   "kind": "sign",
+   "jp": "獅子座",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x5f7c",
+   "off": 24444,
+   "max": 32,
+   "kind": "likes",
+   "jp": "旅",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x5fa0",
+   "off": 24480,
+   "max": 32,
+   "kind": "food",
+   "jp": "ふぐ料理",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x5fc4",
+   "off": 24516,
+   "max": 32,
+   "kind": "dislikes",
+   "jp": "こんにゃく",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x66dc",
+   "off": 26332,
+   "max": 16,
+   "kind": "name",
+   "jp": "勝海舟　　",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x66f0",
+   "off": 26352,
+   "max": 16,
+   "kind": "va",
+   "jp": "江原正士",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x6704",
+   "off": 26372,
+   "max": 8,
+   "kind": "origin",
+   "jp": "江戸",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x6710",
+   "off": 26384,
+   "max": 16,
+   "kind": "birthday",
+   "jp": "１月３０日",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x6724",
+   "off": 26404,
+   "max": 16,
+   "kind": "height",
+   "jp": "１８０ｃｍ",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x6738",
+   "off": 26424,
+   "max": 16,
+   "kind": "weight",
+   "jp": "７５ｋｇ",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x674c",
+   "off": 26444,
+   "max": 8,
+   "kind": "blood",
+   "jp": "ＡＢ型",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x6758",
+   "off": 26456,
+   "max": 8,
+   "kind": "sign",
+   "jp": "水瓶座",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x6764",
+   "off": 26468,
+   "max": 32,
+   "kind": "likes",
+   "jp": "観劇",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x6788",
+   "off": 26504,
+   "max": 32,
+   "kind": "food",
+   "jp": "うなぎ",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x67ac",
+   "off": 26540,
+   "max": 32,
+   "kind": "dislikes",
+   "jp": "らっきょ",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x6ec4",
+   "off": 28356,
+   "max": 16,
+   "kind": "name",
+   "jp": "お龍　　　",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x6ed8",
+   "off": 28376,
+   "max": 16,
+   "kind": "va",
+   "jp": "豊口めぐみ",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x6eec",
+   "off": 28396,
+   "max": 8,
+   "kind": "origin",
+   "jp": "京都",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x6ef8",
+   "off": 28408,
+   "max": 16,
+   "kind": "birthday",
+   "jp": "６月６日",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x6f0c",
+   "off": 28428,
+   "max": 16,
+   "kind": "height",
+   "jp": "１６２ｃｍ",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x6f20",
+   "off": 28448,
+   "max": 16,
+   "kind": "weight",
+   "jp": "ひみつ",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x6f34",
+   "off": 28468,
+   "max": 8,
+   "kind": "blood",
+   "jp": "Ａ型",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x6f40",
+   "off": 28480,
+   "max": 8,
+   "kind": "sign",
+   "jp": "双子座",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x6f4c",
+   "off": 28492,
+   "max": 32,
+   "kind": "likes",
+   "jp": "運動",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x6f70",
+   "off": 28528,
+   "max": 32,
+   "kind": "food",
+   "jp": "あんみつ",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x6f94",
+   "off": 28564,
+   "max": 32,
+   "kind": "dislikes",
+   "jp": "数の子",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x76ac",
+   "off": 30380,
+   "max": 16,
+   "kind": "name",
+   "jp": "幾松　　　",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x76c0",
+   "off": 30400,
+   "max": 16,
+   "kind": "va",
+   "jp": "三澤紗千香",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x76d4",
+   "off": 30420,
+   "max": 8,
+   "kind": "origin",
+   "jp": "若狭小浜",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x76e0",
+   "off": 30432,
+   "max": 16,
+   "kind": "birthday",
+   "jp": "６月８日",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x76f4",
+   "off": 30452,
+   "max": 16,
+   "kind": "height",
+   "jp": "１６５ｃｍ",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x7708",
+   "off": 30472,
+   "max": 16,
+   "kind": "weight",
+   "jp": "ひみつ",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x771c",
+   "off": 30492,
+   "max": 8,
+   "kind": "blood",
+   "jp": "Ｏ型",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x7728",
+   "off": 30504,
+   "max": 8,
+   "kind": "sign",
+   "jp": "双子座",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x7734",
+   "off": 30516,
+   "max": 32,
+   "kind": "likes",
+   "jp": "陶芸",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x7758",
+   "off": 30552,
+   "max": 32,
+   "kind": "food",
+   "jp": "おそば",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x777c",
+   "off": 30588,
+   "max": 32,
+   "kind": "dislikes",
+   "jp": "なす",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x7e94",
+   "off": 32404,
+   "max": 16,
+   "kind": "name",
+   "jp": "おうの　　",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x7ea8",
+   "off": 32424,
+   "max": 16,
+   "kind": "va",
+   "jp": "真堂圭",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x7ebc",
+   "off": 32444,
+   "max": 8,
+   "kind": "origin",
+   "jp": "長州",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x7ec8",
+   "off": 32456,
+   "max": 16,
+   "kind": "birthday",
+   "jp": "６月７日",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x7edc",
+   "off": 32476,
+   "max": 16,
+   "kind": "height",
+   "jp": "１５８ｃｍ",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x7ef0",
+   "off": 32496,
+   "max": 16,
+   "kind": "weight",
+   "jp": "ひみつ",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x7f04",
+   "off": 32516,
+   "max": 8,
+   "kind": "blood",
+   "jp": "Ｂ型",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x7f10",
+   "off": 32528,
+   "max": 8,
+   "kind": "sign",
+   "jp": "双子座",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x7f1c",
+   "off": 32540,
+   "max": 32,
+   "kind": "likes",
+   "jp": "甘味めぐり",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x7f40",
+   "off": 32576,
+   "max": 32,
+   "kind": "food",
+   "jp": "苺",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x7f64",
+   "off": 32612,
+   "max": 32,
+   "kind": "dislikes",
+   "jp": "わさび",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x867c",
+   "off": 34428,
+   "max": 16,
+   "kind": "name",
+   "jp": "岩崎弥太郎",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x8690",
+   "off": 34448,
+   "max": 16,
+   "kind": "va",
+   "jp": "杉山紀彰",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x86a4",
+   "off": 34468,
+   "max": 8,
+   "kind": "origin",
+   "jp": "土佐",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x86b0",
+   "off": 34480,
+   "max": 16,
+   "kind": "birthday",
+   "jp": "１２月１１日",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x86c4",
+   "off": 34500,
+   "max": 16,
+   "kind": "height",
+   "jp": "１７０ｃｍ",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x86d8",
+   "off": 34520,
+   "max": 16,
+   "kind": "weight",
+   "jp": "６２ｋｇ",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x86ec",
+   "off": 34540,
+   "max": 8,
+   "kind": "blood",
+   "jp": "Ａ型",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x86f8",
+   "off": 34552,
+   "max": 8,
+   "kind": "sign",
+   "jp": "射手座",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x8704",
+   "off": 34564,
+   "max": 32,
+   "kind": "likes",
+   "jp": "お金稼ぎ",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x8728",
+   "off": 34600,
+   "max": 32,
+   "kind": "food",
+   "jp": "すいか",
+   "en": ""
+  },
+  {
+   "id": "ui_profile:0x874c",
+   "off": 34636,
+   "max": 32,
+   "kind": "dislikes",
+   "jp": "生魚",
+   "en": ""
+  }
+ ]
+}

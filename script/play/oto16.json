@@ -1,0 +1,222 @@
+{
+ "source": "oto16.bin",
+ "format": "mz-play",
+ "entries": [
+  {
+   "id": "oto16:0x370",
+   "off": 880,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "嗚呼",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto16:0x398",
+   "off": 920,
+   "max": 16,
+   "kind": "lyric",
+   "jp": "目覚めてみれば",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto16:0x3c8",
+   "off": 968,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "なんだ",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto16:0x3f0",
+   "off": 1008,
+   "max": 16,
+   "kind": "lyric",
+   "jp": "この世界は",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto16:0x420",
+   "off": 1056,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "嗚呼",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto16:0x448",
+   "off": 1096,
+   "max": 20,
+   "kind": "lyric",
+   "jp": "どうしようもないな",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto16:0x47c",
+   "off": 1148,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "さぁ",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto16:0x4a4",
+   "off": 1188,
+   "max": 20,
+   "kind": "lyric",
+   "jp": "此れからどうしよう",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto16:0x4d8",
+   "off": 1240,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "もう",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto16:0x500",
+   "off": 1280,
+   "max": 12,
+   "kind": "lyric",
+   "jp": "引き返す",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto16:0x52c",
+   "off": 1324,
+   "max": 12,
+   "kind": "lyric",
+   "jp": "つもりは",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto16:0x558",
+   "off": 1368,
+   "max": 12,
+   "kind": "lyric",
+   "jp": "毛頭ない",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto16:0x5cc",
+   "off": 1484,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "もう",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto16:0x5f4",
+   "off": 1524,
+   "max": 12,
+   "kind": "lyric",
+   "jp": "立ち止まん",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto16:0x620",
+   "off": 1568,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "ない",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto16:0x648",
+   "off": 1608,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "こう",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto16:0x670",
+   "off": 1648,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "なった",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto16:0x698",
+   "off": 1688,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "以上は",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto16:0x6c0",
+   "off": 1728,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "何人",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto16:0x6e8",
+   "off": 1768,
+   "max": 12,
+   "kind": "lyric",
+   "jp": "たりとも",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto16:0x75c",
+   "off": 1884,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "絶",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto16:0x780",
+   "off": 1920,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "対",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto16:0x7a4",
+   "off": 1956,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "敵わ",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto16:0x7cc",
+   "off": 1996,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "ない",
+   "en": "",
+   "op": "0x2c"
+  }
+ ]
+}

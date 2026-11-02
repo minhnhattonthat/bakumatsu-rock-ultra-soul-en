@@ -1,0 +1,195 @@
+{
+ "source": "staffroll.bin",
+ "format": "mz-scene",
+ "entries": [
+  {
+   "id": "staffroll:0x970",
+   "off": 2416,
+   "max": 436,
+   "kind": "staff",
+   "jp": "出演\n　\n\\sbl8\n　　坂本 龍馬　　谷山 紀章　　\n\\sbl8\n　　高杉 晋作　　鈴木 達央　　\n\\sbl8\n　　桂 小五郎　　森久保 祥太郎\n\\sbl8\n　　土方 歳三　　森川 智之　　\n\\sbl8\n　　沖田 総司　　小野 賢章　　\n　\n\\sbl8\n　　徳川 慶喜　　斎賀 みつき　\n\\sbl8\n　　井伊 直弼　　安元 洋貴　　\n　\n　　近藤 勇　　　藤原 啓治　　\n　\n　　岩崎 弥太郎　杉山 紀彰　　\n　　お登勢　　　 乃村 健次　　\n　　乙女　　　　 恒松 あゆみ　\n　\n　　お龍　　　　 豊口 めぐみ　",
+   "en": "",
+   "op": "0x4c"
+  },
+  {
+   "id": "staffroll:0xc10",
+   "off": 3088,
+   "max": 408,
+   "kind": "staff",
+   "jp": "　　幾松　　　　 三澤 紗千香　\n　　おうの　　　 真堂 圭　　　\n　\n　　隊士　　　　 斉藤 壮馬    \n　　武士　　　　 中島 ヨシキ  \n　　町人　　　　 細谷 カズヨシ\n　　浪人　　　　 薮中 亮平    \n　　三太　　　　 水野 麻里絵  \n　　女の子　　　 高橋 李依　  \n　　町娘　　　　 田中 あいみ  \n　\n　　勝 海舟　　　江原 正士　　\n　\n吉田 松陰/天狗\n中尾 隆聖\n　\n　\n　\nキャラクターデザイン\n\\sbl8\n　Mistwalker Corporation　",
+   "en": "",
+   "op": "0x4c"
+  },
+  {
+   "id": "staffroll:0xe94",
+   "off": 3732,
+   "max": 224,
+   "kind": "staff",
+   "jp": "藤坂 公彦\n　\n　\n　\n株式会社マーベラス\n\\sbl8\nＡＤＶパートディレクター\n\\sbl8\n藤井 宙\n　\nリズムパートディレクター\n\\sbl8\n下間 雅朗\n　\nプログラムリード\n\\sbl8\n池田 早充\n　\nプログラム\n\\sbl8\n吉松 克典\n武田 信孝\n赤松 和禎\n中川 均",
+   "en": "",
+   "op": "0x4c"
+  },
+  {
+   "id": "staffroll:0x1060",
+   "off": 4192,
+   "max": 204,
+   "kind": "staff",
+   "jp": "二村 卓弥\n阿部 隼大\n高畠 遼\n大作 周平\n小島 裕史\n　\nデザインリード\n\\sbl8\n水戸 杏奈\n　\nデザイン\n\\sbl8\n野口 隆一\n新美 博章\n長谷川 太郎\n中村 葵\n方田 羽衣\n重吉 大悟\n佐藤 誠晃\nニルボル タリット\n竹井 洋子\n　",
+   "en": "",
+   "op": "0x4c"
+  },
+  {
+   "id": "staffroll:0x1218",
+   "off": 4632,
+   "max": 228,
+   "kind": "staff",
+   "jp": "プランナー\n\\sbl8\n渡辺 大樹\n橘 明日香\n　\nサウンドディレクター\n\\sbl8\nピコスタ株式会社\n井元 啓富\n　\nＡＤＶパートＢＧＭ\n井元 ともこ\n　\n企画原案\n水戸 杏奈\n　\nシナリオ構成\n\\sbl8\n佃 健一郎\n　\nシナリオ制作\n\\sbl8\n有限会社 Story Works",
+   "en": "",
+   "op": "0x4c"
+  },
+  {
+   "id": "staffroll:0x13e8",
+   "off": 5096,
+   "max": 236,
+   "kind": "staff",
+   "jp": "　\nシナリオ協力\n町田 松三\n　\n　\n音響制作\n\\sbl8\n株式会社HALF HP STUDIO\n録音ディレクター\n今泉 雄一\n　\n音響制作担当\n島崎 加奈子\n尾澤 美牧\n　\n　\n楽曲制作\n\\sbl8\n　TV ASAHI MUSIC CO., LTD.　\n　Sound produced & Directed　\n佐々木 恵里奈\n　",
+   "en": "",
+   "op": "0x4c"
+  },
+  {
+   "id": "staffroll:0x15c0",
+   "off": 5568,
+   "max": 388,
+   "kind": "staff",
+   "jp": "　All Lyrics produced　\nテルジ ヨシザワ\n　\n　All Directed & Mixed by　\n　tkr (studio tkr)　\n　\n　Recorded by　\n鈴木　彰\n　TV Asahi Music RoppongiStudio\n　\n『What's this?』\n作詞：テルジ ヨシザワ\n作曲：BACHI BLUE、NuTz\n編曲：大西省吾\n歌：坂本 龍馬(CV：谷山 紀章)\n高杉 晋作(CV：鈴木 達央)\n桂 小五郎(CV：森久保 祥太郎)\n土方 歳三(CV：森川 智之)\n沖田 総司(CV：小野 賢章)\n　\n『Rolling Thunder』",
+   "en": "",
+   "op": "0x4c"
+  },
+  {
+   "id": "staffroll:0x1830",
+   "off": 6192,
+   "max": 424,
+   "kind": "staff",
+   "jp": "作詞：テルジ ヨシザワ\n作曲：テルジ ヨシザワ\n編曲：BACHI BLUE\n歌：坂本 龍馬(CV：谷山 紀章)\n高杉 晋作(CV：鈴木 達央)\n桂 小五郎(CV：森久保 祥太郎)\n　\n『ハチノジディストーション』\n作詞：テルジ ヨシザワ\n作曲：Juvenile\n編曲：Juvenile\n歌：桂 小五郎　　　　　\n　　(CV：森久保 祥太郎)\n　\n『INTERSECT』\n作詞：テルジ ヨシザワ\n作曲：Juvenile\n編曲：Juvenile\n歌：坂本 龍馬(CV：谷山 紀章)\n土方 歳三(CV：森川 智之)\n沖田 総司(CV：小野 賢章)",
+   "en": "",
+   "op": "0x4c"
+  },
+  {
+   "id": "staffroll:0x1ac4",
+   "off": 6852,
+   "max": 384,
+   "kind": "staff",
+   "jp": "　\n『REACTION』\n作詞：テルジ ヨシザワ\n作曲：Juvenile\n編曲：Juvenile\n歌：高杉 晋作(CV：鈴木 達央)\n　\n『重力のない世界』\n作詞：テルジ ヨシザワ\n作曲：テルジ ヨシザワ\n編曲：テルジ ヨシザワ、tkr\n　歌：桂 小五郎　　　　   \n　　　 (CV：森久保 祥太郎)\n　\n『What's this? 坂本龍馬ver.』\n作詞：テルジ ヨシザワ\n作曲：BACHI BLUE、NuTz\n編曲：BACHI BLUE\n歌：坂本 龍馬(CV：谷山 紀章)\n　\n『共鳴進歌』",
+   "en": "",
+   "op": "0x4c"
+  },
+  {
+   "id": "staffroll:0x1d30",
+   "off": 7472,
+   "max": 424,
+   "kind": "staff",
+   "jp": "作詞：テルジ ヨシザワ\n作曲：テルジ ヨシザワ\n編曲：テルジ ヨシザワ、tkr\n歌：沖田 総司(CV：小野 賢章)\n　\n『生きてゆこう』\n作詞：テルジ ヨシザワ\n作曲：テルジ ヨシザワ\n編曲：Juvenile、テルジ ヨシザワ\n歌：高杉 晋作(CV：鈴木 達央)\n　\n『Crash My Head』\n作詞：テルジ ヨシザワ\n作曲：テルジ ヨシザワ\n編曲：テルジ ヨシザワ、tkr\n歌：坂本 龍馬(CV：谷山 紀章)\n　\n『RIDE ON THE WAVE』\n作詞：テルジ ヨシザワ\n作曲：Juvenile\n編曲：Juvenile",
+   "en": "",
+   "op": "0x4c"
+  },
+  {
+   "id": "staffroll:0x1fc4",
+   "off": 8132,
+   "max": 396,
+   "kind": "staff",
+   "jp": "歌：坂本 龍馬(CV：谷山 紀章)\n高杉 晋作(CV：鈴木 達央)\n桂 小五郎(CV：森久保 祥太郎)\n　\n『モット!!!』\n作詞：テルジ ヨシザワ\n作曲：Juvenile\n編曲：Juvenile\n歌：土方 歳三(CV：森川 智之)\n　\n『LAST SCREAM』\n作詞：テルジ ヨシザワ\n作曲：Leo\n編曲：Leo\n歌：坂本 龍馬(CV：谷山 紀章)\n　\n『非常幻想オーバーミラージュ』\n作詞：テルジ ヨシザワ\n作曲：テルジ ヨシザワ\n編曲：KAY、NAO\n歌：土方 歳三(CV：森川 智之)",
+   "en": "",
+   "op": "0x4c"
+  },
+  {
+   "id": "staffroll:0x223c",
+   "off": 8764,
+   "max": 392,
+   "kind": "staff",
+   "jp": "沖田 総司(CV：小野 賢章)\n　\n『光の原石』\n作詞：テルジ ヨシザワ\n作曲：83\n編曲：83\n歌：近藤 勇(CV：藤原 啓治)\n　\n『サークルサークル』\n作詞：テルジ ヨシザワ\n作曲：テルジ ヨシザワ\n編曲：テルジ ヨシザワ\n歌：お龍(CV：豊口 めぐみ)\n幾松(CV：三澤 紗千香)\nおうの(CV：真堂 圭)\n　\n『What's this? 徳川慶喜ver.』\n作詞：テルジ ヨシザワ\n作曲：BACHI BLUE、NuTz\n編曲：BACHI BLUE\n歌：徳川 慶喜(CV：斎賀 みつき)",
+   "en": "",
+   "op": "0x4c"
+  },
+  {
+   "id": "staffroll:0x24b0",
+   "off": 9392,
+   "max": 320,
+   "kind": "staff",
+   "jp": "　\n　TV ASAHI MUSIC CO., LTD.\n　Promotion  \n　  野口 智    \n　\n　Producer  \n高橋 裕一\n　\n　Supervisor  \n姫野 久美子\n　\n　Exective producer  \n吉田 真佐男\n　\n　OPアニメーション制作\n\\sbl8\n絵コンテ演出　　　川崎逸朗\n\\sbl8\n作画監督原画　　　阿蒜晃士\n\\sbl8\n楽器作画監督　　　　岡戸智凱\n\\sbl8\n動画検査　　　　　　澤村　亨",
+   "en": "",
+   "op": "0x4c"
+  },
+  {
+   "id": "staffroll:0x26dc",
+   "off": 9948,
+   "max": 308,
+   "kind": "staff",
+   "jp": "　　　　　　　　　　赤堀隆一\n\\sbl8\nプロデューサー　　　和田　薫\n\\sbl8\n制作進行　　　　　　宮腰　徹\n　\nアニメーション制作\n\\sbl8\nスタジオディーン\n　\n映像制作\n\\sbl8\nアリスフロムジャパン株式会社\n映像監督\n松根 マサト\n　\n株式会社KIZAWAstudio\n　\n背景イラスト制作\n\\sbl8\n株式会社クリープ\n吉野 新一\n稲見 敬輔\n林 竜太",
+   "en": "",
+   "op": "0x4c"
+  },
+  {
+   "id": "staffroll:0x28fc",
+   "off": 10492,
+   "max": 252,
+   "kind": "staff",
+   "jp": "野間 大雅\n　\nイラスト制作\n\\sbl8\nスタジオディーン\n　BlueStandToolsStudio　\n　\nグラフィック制作\n\\sbl8\n株式会社カラフル\n柳元 絵梨子\n　yanbe   \n近藤 茂木\n金子 菜月\n　SCH   \n高井 宏暢\n　\n株式会社\nレッドエンタテインメント\n\\sbl8\nプロデューサー\n倉田 慶\n　",
+   "en": "",
+   "op": "0x4c"
+  },
+  {
+   "id": "staffroll:0x2ae4",
+   "off": 10980,
+   "max": 228,
+   "kind": "staff",
+   "jp": "制作進行\n西野 弘純\n　\n株式会社アポロソフト\n　\nハイドロジェンスタジオ合同会社\n　\nハイドロニューマチック\n　\n幕末Rockプロジェクト\n\\sbl8\n松本 慶明\n古川 由隆\n丸山 創\n長谷川 朋子\n青木 美菜子\n岡田 麻結\n大渕 有紀\n霧生 瑶子\n飯干 紗妃\n　",
+   "en": "",
+   "op": "0x4c"
+  },
+  {
+   "id": "staffroll:0x2cb4",
+   "off": 11444,
+   "max": 220,
+   "kind": "staff",
+   "jp": "制作協力\nＮＡＳ\n　\nスペシャルサンクス\n平井 彩子\n白本 奈緒\n柳澤 昇\n矢田貝 顕二\n工藤 嵩大\n西川 貴紘\n山岸 裕始\n　\nセールス＆プロモーション\nゼネラルマネージャー\n小川 智章\n　\nシニアマネージャー\n佐藤 澄宣\n　\n営業\n赤坂 諒太",
+   "en": "",
+   "op": "0x4c"
+  },
+  {
+   "id": "staffroll:0x2e7c",
+   "off": 11900,
+   "max": 180,
+   "kind": "staff",
+   "jp": "千葉 智博\n広瀬 千代\n　\n宣伝\n森 由美\n入澤 喬史\n神谷 順子\n　\n広報\n塩田 誠\n安本 有作\n　\n販促ツール制作\n株式会社FANDS \n瀬戸口 剛\n長堀 久子\n　\n公式サイト制作\n株式会社FANDS\n古俣 悟\n　",
+   "en": "",
+   "op": "0x4c"
+  },
+  {
+   "id": "staffroll:0x301c",
+   "off": 12316,
+   "max": 228,
+   "kind": "staff",
+   "jp": "　PR協力　\n株式会社アサツー ディケイ\n　\nアートワーク\n山田 麻衣子\n　\n品質管理\n岡田 茂\n太田 裕之\n香取 孝夫\n　\nパッケージデザイン\n山田 麻衣子\n　\n解説書制作\n株式会社FIX\n永島 政男\n大塚 省吾\n大沢 肇\n　\nアシスタントプロデューサー",
+   "en": "",
+   "op": "0x4c"
+  },
+  {
+   "id": "staffroll:0x31ec",
+   "off": 12780,
+   "max": 156,
+   "kind": "staff",
+   "jp": "田中 幸一\n　\nプロデューサー\n石田 健博\n　\nゼネラルプロデューサー\nはしもとよしふみ\n　\nエグゼクティブプロデューサー\n青木 利則\n　\n　\n　\n　\n　\n　\n　\n　\n　\n　",
+   "en": "",
+   "op": "0x4c"
+  },
+  {
+   "id": "staffroll:0x3374",
+   "off": 13172,
+   "max": 24,
+   "kind": "staff",
+   "jp": "2014 Marvelous Inc.",
+   "en": "",
+   "op": "0x4c"
+  }
+ ]
+}

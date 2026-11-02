@@ -1,0 +1,240 @@
+{
+ "source": "oto00.bin",
+ "format": "mz-play",
+ "entries": [
+  {
+   "id": "oto00:0x274",
+   "off": 628,
+   "max": 12,
+   "kind": "lyric",
+   "jp": "ハッとして",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto00:0x2a0",
+   "off": 672,
+   "max": 12,
+   "kind": "lyric",
+   "jp": "しまうほど",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto00:0x2cc",
+   "off": 716,
+   "max": 12,
+   "kind": "lyric",
+   "jp": "興奮状態",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto00:0x2f8",
+   "off": 760,
+   "max": 12,
+   "kind": "lyric",
+   "jp": "絶対零度の",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto00:0x324",
+   "off": 804,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "氷も",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto00:0x34c",
+   "off": 844,
+   "max": 16,
+   "kind": "lyric",
+   "jp": "溶かすくらい",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto00:0x37c",
+   "off": 892,
+   "max": 12,
+   "kind": "lyric",
+   "jp": "パッと輝く",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto00:0x3a8",
+   "off": 936,
+   "max": 12,
+   "kind": "lyric",
+   "jp": "ステージを",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto00:0x3d4",
+   "off": 980,
+   "max": 12,
+   "kind": "lyric",
+   "jp": "飾るのは",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto00:0x400",
+   "off": 1024,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "誰？",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto00:0x428",
+   "off": 1064,
+   "max": 12,
+   "kind": "lyric",
+   "jp": "ここにいる",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto00:0x454",
+   "off": 1108,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "全ての",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto00:0x47c",
+   "off": 1148,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "人",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto00:0x4a0",
+   "off": 1184,
+   "max": 20,
+   "kind": "lyric",
+   "jp": "思い出して",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto00:0x4d4",
+   "off": 1236,
+   "max": 12,
+   "kind": "lyric",
+   "jp": "大切な記憶",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto00:0x500",
+   "off": 1280,
+   "max": 12,
+   "kind": "lyric",
+   "jp": "渇望した",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto00:0x52c",
+   "off": 1324,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "自由",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto00:0x554",
+   "off": 1364,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "空",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto00:0x578",
+   "off": 1400,
+   "max": 16,
+   "kind": "lyric",
+   "jp": "っぽになった",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto00:0x5a8",
+   "off": 1448,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "ままで",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto00:0x5d0",
+   "off": 1488,
+   "max": 12,
+   "kind": "lyric",
+   "jp": "いちゃいけ",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto00:0x5fc",
+   "off": 1532,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "ない",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto00:0x624",
+   "off": 1572,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "さぁ",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto00:0x64c",
+   "off": 1612,
+   "max": 12,
+   "kind": "lyric",
+   "jp": "ブチかませ",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto00:0x678",
+   "off": 1656,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "反骨の",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto00:0x6a0",
+   "off": 1696,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "ソウル",
+   "en": "",
+   "op": "0x2c"
+  }
+ ]
+}

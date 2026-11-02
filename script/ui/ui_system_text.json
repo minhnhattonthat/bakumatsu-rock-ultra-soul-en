@@ -1,0 +1,884 @@
+{
+ "source": "ui_system_text.stb",
+ "format": "ui-table",
+ "entries": [
+  {
+   "id": "ui_system_text:0x10",
+   "off": 16,
+   "max": 512,
+   "kind": "text",
+   "jp": "はい",
+   "en": ""
+  },
+  {
+   "id": "ui_system_text:0x218",
+   "off": 536,
+   "max": 512,
+   "kind": "text",
+   "jp": "いいえ",
+   "en": ""
+  },
+  {
+   "id": "ui_system_text:0x420",
+   "off": 1056,
+   "max": 512,
+   "kind": "text",
+   "jp": "OK",
+   "en": ""
+  },
+  {
+   "id": "ui_system_text:0x628",
+   "off": 1576,
+   "max": 512,
+   "kind": "text",
+   "jp": "○決定",
+   "en": ""
+  },
+  {
+   "id": "ui_system_text:0x830",
+   "off": 2096,
+   "max": 512,
+   "kind": "text",
+   "jp": "×戻る",
+   "en": ""
+  },
+  {
+   "id": "ui_system_text:0xa38",
+   "off": 2616,
+   "max": 512,
+   "kind": "text",
+   "jp": "×中止",
+   "en": ""
+  },
+  {
+   "id": "ui_system_text:0xc40",
+   "off": 3136,
+   "max": 512,
+   "kind": "text",
+   "jp": "残り**分",
+   "en": ""
+  },
+  {
+   "id": "ui_system_text:0xe48",
+   "off": 3656,
+   "max": 512,
+   "kind": "text",
+   "jp": "***％",
+   "en": ""
+  },
+  {
+   "id": "ui_system_text:0x1050",
+   "off": 4176,
+   "max": 512,
+   "kind": "text",
+   "jp": "セーブデータをロードしています。",
+   "en": ""
+  },
+  {
+   "id": "ui_system_text:0x1258",
+   "off": 4696,
+   "max": 512,
+   "kind": "text",
+   "jp": "システムデータが存在しません。",
+   "en": ""
+  },
+  {
+   "id": "ui_system_text:0x1460",
+   "off": 5216,
+   "max": 512,
+   "kind": "text",
+   "jp": "設定が変更されています。\nセーブしますか？",
+   "en": ""
+  },
+  {
+   "id": "ui_system_text:0x1668",
+   "off": 5736,
+   "max": 512,
+   "kind": "text",
+   "jp": "システムデータをセーブしています。",
+   "en": ""
+  },
+  {
+   "id": "ui_system_text:0x1870",
+   "off": 6256,
+   "max": 512,
+   "kind": "text",
+   "jp": "プレイデータをセーブしています。",
+   "en": ""
+  },
+  {
+   "id": "ui_system_text:0x1a78",
+   "off": 6776,
+   "max": 512,
+   "kind": "text",
+   "jp": "クイックセーブしますか？",
+   "en": ""
+  },
+  {
+   "id": "ui_system_text:0x1c80",
+   "off": 7296,
+   "max": 512,
+   "kind": "text",
+   "jp": "クイックセーブしますか？\n前回のクイックセーブデータは\n失われます。",
+   "en": ""
+  },
+  {
+   "id": "ui_system_text:0x1e88",
+   "off": 7816,
+   "max": 512,
+   "kind": "text",
+   "jp": "クイックロードしますか？",
+   "en": ""
+  },
+  {
+   "id": "ui_system_text:0x2090",
+   "off": 8336,
+   "max": 512,
+   "kind": "text",
+   "jp": "クイックセーブしたセーブデータが\nありません。",
+   "en": ""
+  },
+  {
+   "id": "ui_system_text:0x2298",
+   "off": 8856,
+   "max": 512,
+   "kind": "text",
+   "jp": "セーブしますか？",
+   "en": ""
+  },
+  {
+   "id": "ui_system_text:0x24a0",
+   "off": 9376,
+   "max": 512,
+   "kind": "text",
+   "jp": "ロードしますか？",
+   "en": ""
+  },
+  {
+   "id": "ui_system_text:0x26a8",
+   "off": 9896,
+   "max": 512,
+   "kind": "text",
+   "jp": "ロードしますか？\nクイックセーブデータは失われます。",
+   "en": ""
+  },
+  {
+   "id": "ui_system_text:0x28b0",
+   "off": 10416,
+   "max": 512,
+   "kind": "text",
+   "jp": "次の選択肢までスキップしますか？",
+   "en": ""
+  },
+  {
+   "id": "ui_system_text:0x2ab8",
+   "off": 10936,
+   "max": 512,
+   "kind": "text",
+   "jp": "トップメニューへ戻りますか？\nセーブしていないと\nこれまでの進行データが失われます。",
+   "en": ""
+  },
+  {
+   "id": "ui_system_text:0x2cc0",
+   "off": 11456,
+   "max": 512,
+   "kind": "text",
+   "jp": "チャプター選択に戻りますか？\nセーブしていないと\nこれまでの進行データが失われます。",
+   "en": ""
+  },
+  {
+   "id": "ui_system_text:0x2ec8",
+   "off": 11976,
+   "max": 512,
+   "kind": "text",
+   "jp": "＜インストールについて＞\n記録メディアにデータの一部を\n「インストールデータ」としてセーブし、\nインストールデータとUMD®からのロードを\n使用することで、ロード時間を短縮する機能を\n使用することができます。",
+   "en": "",
+   "encoding": "utf-8"
+  },
+  {
+   "id": "ui_system_text:0x30d0",
+   "off": 12496,
+   "max": 512,
+   "kind": "text",
+   "jp": "幕末Rockをインストールします。\nよろしいですか？",
+   "en": ""
+  },
+  {
+   "id": "ui_system_text:0x32d8",
+   "off": 13016,
+   "max": 512,
+   "kind": "text",
+   "jp": "インストール中です。\nしばらくお待ちください。",
+   "en": ""
+  },
+  {
+   "id": "ui_system_text:0x34e0",
+   "off": 13536,
+   "max": 512,
+   "kind": "text",
+   "jp": "インストールが完了しました。",
+   "en": ""
+  },
+  {
+   "id": "ui_system_text:0x36e8",
+   "off": 14056,
+   "max": 512,
+   "kind": "text",
+   "jp": "インストールデータのインストールに成功しました。\nインストールデータ使用をONに設定します。\nインストールメニューで、切り替えることができます。",
+   "en": "",
+   "encoding": "utf-8"
+  },
+  {
+   "id": "ui_system_text:0x38f0",
+   "off": 14576,
+   "max": 512,
+   "kind": "text",
+   "jp": "記録メディアの空き容量が足りません。\n幕末ロックのインストールには、\n***の空き容量が必要です。",
+   "en": ""
+  },
+  {
+   "id": "ui_system_text:0x3af8",
+   "off": 15096,
+   "max": 512,
+   "kind": "text",
+   "jp": "記録メディアが抜かれました。\nインストールに失敗しました。\n\nインストールを中断しますか？",
+   "en": ""
+  },
+  {
+   "id": "ui_system_text:0x3d00",
+   "off": 15616,
+   "max": 512,
+   "kind": "text",
+   "jp": "スリープモードに移行したため、\nインストールが中断されました。\nインストールデータの作成に失敗しました。",
+   "en": "",
+   "encoding": "utf-8"
+  },
+  {
+   "id": "ui_system_text:0x3f08",
+   "off": 16136,
+   "max": 512,
+   "kind": "text",
+   "jp": "記録メディアが差し込まれていません。\nUMD®からデータを読み込みます。\nデータ管理のインストールデータ使用をOFFにしました。",
+   "en": "",
+   "encoding": "utf-8"
+  },
+  {
+   "id": "ui_system_text:0x4110",
+   "off": 16656,
+   "max": 512,
+   "kind": "text",
+   "jp": "インストールデータが壊れている可能性があります。\nUMD®からデータを読み込みます。\nデータ管理のインストールデータ使用をOFFにしました。",
+   "en": "",
+   "encoding": "utf-8"
+  },
+  {
+   "id": "ui_system_text:0x4318",
+   "off": 17176,
+   "max": 512,
+   "kind": "text",
+   "jp": "セーブ処理が中断されたため\nセーブが完了できませんでした。\n\nセーブをリトライしますか？",
+   "en": "",
+   "encoding": "utf-8"
+  },
+  {
+   "id": "ui_system_text:0x4520",
+   "off": 17696,
+   "max": 512,
+   "kind": "text",
+   "jp": "記録メディアが差し込まれていません。\n\nセーブを中断しますか？",
+   "en": "",
+   "encoding": "utf-8"
+  },
+  {
+   "id": "ui_system_text:0x4728",
+   "off": 18216,
+   "max": 512,
+   "kind": "text",
+   "jp": "記録メディアの空き容量が不足しています。\n進行データのセーブをするには空き容量があと\n***KB以上必要です。\n\nセーブを中断しますか？",
+   "en": "",
+   "encoding": "utf-8"
+  },
+  {
+   "id": "ui_system_text:0x4930",
+   "off": 18736,
+   "max": 512,
+   "kind": "text",
+   "jp": "記録メディア内の他のデータを削除して\n空き容量を確保しますか？",
+   "en": "",
+   "encoding": "utf-8"
+  },
+  {
+   "id": "ui_system_text:0x4b38",
+   "off": 19256,
+   "max": 512,
+   "kind": "text",
+   "jp": "記録メディアが差し込まれていません。\n\nセーブ処理は中断されました。",
+   "en": "",
+   "encoding": "utf-8"
+  },
+  {
+   "id": "ui_system_text:0x4d40",
+   "off": 19776,
+   "max": 512,
+   "kind": "text",
+   "jp": "エラーが発生しました。\nオートセーブができませんでした。\n\nセーブを中断しますか？",
+   "en": "",
+   "encoding": "utf-8"
+  },
+  {
+   "id": "ui_system_text:0x4f48",
+   "off": 20296,
+   "max": 512,
+   "kind": "text",
+   "jp": "ロード処理が中断されたため\nロードが完了できませんでした。\n\nロードをリトライしますか？",
+   "en": "",
+   "encoding": "utf-8"
+  },
+  {
+   "id": "ui_system_text:0x5150",
+   "off": 20816,
+   "max": 512,
+   "kind": "text",
+   "jp": "記録メディアが差し込まれていません。\n\nロードを中断しますか？",
+   "en": "",
+   "encoding": "utf-8"
+  },
+  {
+   "id": "ui_system_text:0x5358",
+   "off": 21336,
+   "max": 512,
+   "kind": "text",
+   "jp": "ロードに失敗しました。\nセーブデータが壊れている可能性があります。\n\nロード処理は中断されました。",
+   "en": "",
+   "encoding": "utf-8"
+  },
+  {
+   "id": "ui_system_text:0x5560",
+   "off": 21856,
+   "max": 512,
+   "kind": "text",
+   "jp": "システムデータのオートロードを行いましたが\n       システムデータが存在しません。\n           ゲームを進める事で、\n    システムデータは自動的に作成されます。",
+   "en": "",
+   "encoding": "utf-8"
+  },
+  {
+   "id": "ui_system_text:0x5768",
+   "off": 22376,
+   "max": 512,
+   "kind": "text",
+   "jp": "設定を初期状態に戻します。\nよろしいですか？",
+   "en": ""
+  },
+  {
+   "id": "ui_system_text:0x5970",
+   "off": 22896,
+   "max": 512,
+   "kind": "text",
+   "jp": "インストール済みとなっています。\n再インストールのためにはインストールデータを\n削除する必要があります。\n\nインストールデータを削除しますか？",
+   "en": "",
+   "encoding": "utf-8"
+  },
+  {
+   "id": "ui_system_text:0x5b78",
+   "off": 23416,
+   "max": 512,
+   "kind": "text",
+   "jp": "本ゲームはオートセーブ機能に対応しています。\n　オートセーブ中には、メモリースティック™\n　　アクセスランプが点滅しますので、\n　　その間は記録メディアを抜いたり、\n　本体の電源を切ったりしないでください。",
+   "en": "",
+   "encoding": "utf-8"
+  },
+  {
+   "id": "ui_system_text:0x5d80",
+   "off": 23936,
+   "max": 512,
+   "kind": "text",
+   "jp": "スリープモードに移行したため、接続処理が\n中断されました。\n\n再接続しますか？",
+   "en": "",
+   "encoding": "utf-8"
+  },
+  {
+   "id": "ui_system_text:0x5f88",
+   "off": 24456,
+   "max": 512,
+   "kind": "text",
+   "jp": "ネットワーク接続処理の初期化に失敗しました。\n\n接続を終了します。",
+   "en": "",
+   "encoding": "utf-8"
+  },
+  {
+   "id": "ui_system_text:0x6190",
+   "off": 24976,
+   "max": 512,
+   "kind": "text",
+   "jp": "予期せぬエラーによって、処理が中断されました。\n\n接続を終了します",
+   "en": "",
+   "encoding": "utf-8"
+  },
+  {
+   "id": "ui_system_text:0x6398",
+   "off": 25496,
+   "max": 512,
+   "kind": "text",
+   "jp": "ダウンロードコンテンツの読み込みに失敗しました。\nデータの一部が破損している可能性があります。\n\n再読み込みを行いますか？",
+   "en": "",
+   "encoding": "utf-8"
+  },
+  {
+   "id": "ui_system_text:0x65a0",
+   "off": 26016,
+   "max": 512,
+   "kind": "text",
+   "jp": "ダウンロードコンテンツのロードを中断しました。\nこの現象が何度も発生する場合は、PlayStation®Storeにてこれまで入手したダウンロードコンテンツを再ダウンロードすると、解決する場合があります。\n\nダウンロードしたことのあるコンテンツは、\nPlayStation®Storeの「ダウンロードリスト」から再ダウンロードできます。 ",
+   "en": "",
+   "encoding": "utf-8"
+  },
+  {
+   "id": "ui_system_text:0x67a8",
+   "off": 26536,
+   "max": 512,
+   "kind": "text",
+   "jp": "　追加コンテンツが不足しています。\n　このセーブデータでプレイするには、\n　利用したことのある追加コンテンツを\n　　　全てインストールした状態で、\n　　　もう一度ロードしてください。\nダウンロードしたことのあるコンテンツは、\n　　　　PlayStation®Storeの\n　　「ダウンロードリスト」から\n　　　再ダウンロードできます。 ",
+   "en": "",
+   "encoding": "utf-8"
+  },
+  {
+   "id": "ui_system_text:0x69b0",
+   "off": 27056,
+   "max": 512,
+   "kind": "text",
+   "jp": "トップメニューへ戻りますか？\n",
+   "en": ""
+  },
+  {
+   "id": "ui_system_text:0x6bb8",
+   "off": 27576,
+   "max": 512,
+   "kind": "text",
+   "jp": "ライブ選択に戻りますか？\n",
+   "en": ""
+  },
+  {
+   "id": "ui_system_text:0x6dc0",
+   "off": 28096,
+   "max": 512,
+   "kind": "text",
+   "jp": "ダウンロードコンテンツの読み込みに失敗しました。\nエラーコード　：　0x%x\n\n再読み込みを行いますか？",
+   "en": "",
+   "encoding": "utf-8"
+  },
+  {
+   "id": "ui_system_text:0x6fc8",
+   "off": 28616,
+   "max": 512,
+   "kind": "text",
+   "jp": "ダウンロードコンテンツの読み込みに失敗しました。%s\n\n再読み込みを行いますか？",
+   "en": "",
+   "encoding": "utf-8"
+  },
+  {
+   "id": "ui_system_text:0x71d0",
+   "off": 29136,
+   "max": 512,
+   "kind": "text",
+   "jp": "接続処理が中断されました。\n\n再接続しますか？",
+   "en": "",
+   "encoding": "utf-8"
+  },
+  {
+   "id": "ui_system_text:0x73d8",
+   "off": 29656,
+   "max": 512,
+   "kind": "text",
+   "jp": "記録メディアにインストールデータが見つかりません。\nUMD®からデータを読み込みます。\nデータ管理のインストールデータ使用をOFFにしました。",
+   "en": "",
+   "encoding": "utf-8"
+  },
+  {
+   "id": "ui_system_text:0x75e0",
+   "off": 30176,
+   "max": 512,
+   "kind": "text",
+   "jp": "進行データが存在しません。",
+   "en": "",
+   "encoding": "utf-8"
+  },
+  {
+   "id": "ui_system_text:0x77e8",
+   "off": 30696,
+   "max": 512,
+   "kind": "text",
+   "jp": "記録メディアにインストールデータが見つかりません。\nインストールデータ使用をOFFに設定します。\nインストールメニューで、切り替えることができます。",
+   "en": "",
+   "encoding": "utf-8"
+  },
+  {
+   "id": "ui_system_text:0x79f0",
+   "off": 31216,
+   "max": 512,
+   "kind": "text",
+   "jp": "インストールデータが削除されました。\nインストールデータ使用をOFFに設定します。\nインストールメニューで、切り替えることができます。",
+   "en": "",
+   "encoding": "utf-8"
+  },
+  {
+   "id": "ui_system_text:0x7bf8",
+   "off": 31736,
+   "max": 512,
+   "kind": "text",
+   "jp": "システムデータの読み込みに失敗しました。\n再読み込みを行いますか？",
+   "en": "",
+   "encoding": "utf-8"
+  },
+  {
+   "id": "ui_system_text:0x7e00",
+   "off": 32256,
+   "max": 512,
+   "kind": "text",
+   "jp": "記録メディアの空き容量が不足しています。\nシステムデータのセーブをするには空き容量があと\n***KB以上必要です。\n\nセーブを中断しますか？",
+   "en": "",
+   "encoding": "utf-8"
+  },
+  {
+   "id": "ui_system_text:0x8008",
+   "off": 32776,
+   "max": 512,
+   "kind": "text",
+   "jp": "記録メディアの空き容量が不足しています。\nシステムデータのセーブをするには空き容量があと\n%dKB以上必要です。\n\nセーブを中断しますか？",
+   "en": "",
+   "encoding": "utf-8"
+  },
+  {
+   "id": "ui_system_text:0x8210",
+   "off": 33296,
+   "max": 512,
+   "kind": "text",
+   "jp": "記録メディアの空き容量が不足しています。\n進行データのセーブをするには空き容量があと\n%dKB以上必要です。\n\nセーブを中断しますか？",
+   "en": "",
+   "encoding": "utf-8"
+  },
+  {
+   "id": "ui_system_text:0x8418",
+   "off": 33816,
+   "max": 512,
+   "kind": "text",
+   "jp": "読み込み準備が出来るまで\nしばらくお待ちください。",
+   "en": "",
+   "encoding": "utf-8"
+  },
+  {
+   "id": "ui_system_text:0x8620",
+   "off": 34336,
+   "max": 512,
+   "kind": "text",
+   "jp": "エラーが発生しました。\nオートロードができませんでした。\n\nロードを中断しますか？",
+   "en": "",
+   "encoding": "utf-8"
+  },
+  {
+   "id": "ui_system_text:0x8828",
+   "off": 34856,
+   "max": 512,
+   "kind": "text",
+   "jp": "スリープモードに移行したため、\nインストールデータの削除が中断されました。\nインストールデータの削除に失敗しました。",
+   "en": "",
+   "encoding": "utf-8"
+  },
+  {
+   "id": "ui_system_text:0x8a30",
+   "off": 35376,
+   "max": 512,
+   "kind": "text",
+   "jp": "記録メディアが差し込まれていません。\nUMD®からデータを読み込みます。\nインストールデータ使用をOFFに設定します。\nインストールメニューで、切り替えることができます。",
+   "en": "",
+   "encoding": "utf-8"
+  },
+  {
+   "id": "ui_system_text:0x8c38",
+   "off": 35896,
+   "max": 512,
+   "kind": "text",
+   "jp": "＜幕末Rockとの連動について＞\n前作「幕末Rock」のシステムデータが\n記録メディアにある場合、特典データを\n受け取ることができます。",
+   "en": "",
+   "encoding": "utf-8"
+  },
+  {
+   "id": "ui_system_text:0x8e40",
+   "off": 36416,
+   "max": 512,
+   "kind": "text",
+   "jp": "特典データを記録メディアへセーブ\nしますか？",
+   "en": ""
+  },
+  {
+   "id": "ui_system_text:0x9048",
+   "off": 36936,
+   "max": 512,
+   "kind": "text",
+   "jp": "リトライしますか？",
+   "en": ""
+  },
+  {
+   "id": "ui_system_text:0x9250",
+   "off": 37456,
+   "max": 512,
+   "kind": "text",
+   "jp": "記録メディアが抜かれました。\n特典データのセーブに失敗しました。\n\nセーブを中断しますか？",
+   "en": "",
+   "encoding": "utf-8"
+  },
+  {
+   "id": "ui_system_text:0x9458",
+   "off": 37976,
+   "max": 512,
+   "kind": "text",
+   "jp": "スリープモードに移行したため、\n特典データのセーブが中断されました。\n\nセーブを中断しますか？",
+   "en": "",
+   "encoding": "utf-8"
+  },
+  {
+   "id": "ui_system_text:0x9660",
+   "off": 38496,
+   "max": 512,
+   "kind": "text",
+   "jp": "データの読み込みに失敗しました。\n\n前作「幕末Rock」のシステムデータが\n壊れている可能性があります。\n\n再読み込みを行いますか？",
+   "en": "",
+   "encoding": "utf-8"
+  },
+  {
+   "id": "ui_system_text:0x9868",
+   "off": 39016,
+   "max": 512,
+   "kind": "text",
+   "jp": "前作「幕末Rock」の\nシステムデータを探しています。\nしばらくお待ちください。",
+   "en": ""
+  },
+  {
+   "id": "ui_system_text:0x9a70",
+   "off": 39536,
+   "max": 512,
+   "kind": "text",
+   "jp": "前作「幕末Rock」のシステムデータが\n見つかりませんでした。\n\n再読み込みを行いますか？",
+   "en": "",
+   "encoding": "utf-8"
+  },
+  {
+   "id": "ui_system_text:0x9c78",
+   "off": 40056,
+   "max": 512,
+   "kind": "text",
+   "jp": "特典データを保存中です。\nしばらくお待ちください。",
+   "en": ""
+  },
+  {
+   "id": "ui_system_text:0x9e80",
+   "off": 40576,
+   "max": 512,
+   "kind": "text",
+   "jp": "特典データの保存が完了しました。",
+   "en": ""
+  },
+  {
+   "id": "ui_system_text:0xa088",
+   "off": 41096,
+   "max": 512,
+   "kind": "text",
+   "jp": "特典データは記録メディアに\n保存されています。",
+   "en": ""
+  },
+  {
+   "id": "ui_system_text:0xa290",
+   "off": 41616,
+   "max": 512,
+   "kind": "text",
+   "jp": "記録メディアの空き容量が不足しています。\n特典データをセーブするには空き容量があと",
+   "en": "",
+   "encoding": "utf-8"
+  },
+  {
+   "id": "ui_system_text:0xa498",
+   "off": 42136,
+   "max": 512,
+   "kind": "text",
+   "jp": "KB以上必要です。\n\nセーブを中断しますか？",
+   "en": "",
+   "encoding": "utf-8"
+  },
+  {
+   "id": "ui_system_text:0xa6a0",
+   "off": 42656,
+   "max": 512,
+   "kind": "text",
+   "jp": "ストーリーモードをプレイします",
+   "en": ""
+  },
+  {
+   "id": "ui_system_text:0xa8a8",
+   "off": 43176,
+   "max": 512,
+   "kind": "text",
+   "jp": "イベントやムービーを閲覧します",
+   "en": ""
+  },
+  {
+   "id": "ui_system_text:0xaab0",
+   "off": 43696,
+   "max": 512,
+   "kind": "text",
+   "jp": "ストーリーを選んでプレイします",
+   "en": ""
+  },
+  {
+   "id": "ui_system_text:0xacb8",
+   "off": 44216,
+   "max": 512,
+   "kind": "text",
+   "jp": "設定を変更します",
+   "en": ""
+  },
+  {
+   "id": "ui_system_text:0xaec0",
+   "off": 44736,
+   "max": 512,
+   "kind": "text",
+   "jp": "リズムゲームをプレイします",
+   "en": ""
+  },
+  {
+   "id": "ui_system_text:0xb0c8",
+   "off": 45256,
+   "max": 512,
+   "kind": "text",
+   "jp": "続きからプレイします",
+   "en": ""
+  },
+  {
+   "id": "ui_system_text:0xb2d0",
+   "off": 45776,
+   "max": 512,
+   "kind": "text",
+   "jp": "前作のストーリーを開始します",
+   "en": ""
+  },
+  {
+   "id": "ui_system_text:0xb4d8",
+   "off": 46296,
+   "max": 512,
+   "kind": "text",
+   "jp": "新作ストーリーを開始します",
+   "en": ""
+  },
+  {
+   "id": "ui_system_text:0xb6e0",
+   "off": 46816,
+   "max": 512,
+   "kind": "text",
+   "jp": "前作のデータを読み込みます",
+   "en": ""
+  },
+  {
+   "id": "ui_system_text:0xb8e8",
+   "off": 47336,
+   "max": 512,
+   "kind": "text",
+   "jp": "スキットを閲覧します",
+   "en": ""
+  },
+  {
+   "id": "ui_system_text:0xbaf0",
+   "off": 47856,
+   "max": 512,
+   "kind": "text",
+   "jp": "登場人物の情報を閲覧します",
+   "en": ""
+  },
+  {
+   "id": "ui_system_text:0xbcf8",
+   "off": 48376,
+   "max": 512,
+   "kind": "text",
+   "jp": "ゲーム中の楽曲を再生します",
+   "en": ""
+  },
+  {
+   "id": "ui_system_text:0xbf00",
+   "off": 48896,
+   "max": 512,
+   "kind": "text",
+   "jp": "解放したイベントを閲覧します",
+   "en": ""
+  },
+  {
+   "id": "ui_system_text:0xc108",
+   "off": 49416,
+   "max": 512,
+   "kind": "text",
+   "jp": "ゲーム中の動画を再生します",
+   "en": ""
+  },
+  {
+   "id": "ui_system_text:0xc310",
+   "off": 49936,
+   "max": 512,
+   "kind": "text",
+   "jp": "音量を変更します",
+   "en": ""
+  },
+  {
+   "id": "ui_system_text:0xc518",
+   "off": 50456,
+   "max": 512,
+   "kind": "text",
+   "jp": "インストール、削除を行います",
+   "en": ""
+  },
+  {
+   "id": "ui_system_text:0xc720",
+   "off": 50976,
+   "max": 512,
+   "kind": "text",
+   "jp": "ゲームの難易度を変更します",
+   "en": ""
+  },
+  {
+   "id": "ui_system_text:0xc928",
+   "off": 51496,
+   "max": 512,
+   "kind": "text",
+   "jp": "キーコンフィグを変更します",
+   "en": ""
+  },
+  {
+   "id": "ui_system_text:0xcb30",
+   "off": 52016,
+   "max": 512,
+   "kind": "text",
+   "jp": "テキストの設定を行います",
+   "en": ""
+  },
+  {
+   "id": "ui_system_text:0xcd38",
+   "off": 52536,
+   "max": 512,
+   "kind": "text",
+   "jp": "進行データをセーブします",
+   "en": ""
+  },
+  {
+   "id": "ui_system_text:0xcf40",
+   "off": 53056,
+   "max": 512,
+   "kind": "text",
+   "jp": "前作「幕末Rock」の要素を\n解放しますか？",
+   "en": ""
+  },
+  {
+   "id": "ui_system_text:0xd148",
+   "off": 53576,
+   "max": 512,
+   "kind": "text",
+   "jp": "予備のテキスト",
+   "en": "",
+   "encoding": "utf-8"
+  }
+ ]
+}

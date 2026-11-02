@@ -1,0 +1,1030 @@
+{
+ "source": "ui_chapter.cil",
+ "format": "ui-table",
+ "entries": [
+  {
+   "id": "ui_chapter:0x1c",
+   "off": 28,
+   "max": 128,
+   "kind": "chapter",
+   "jp": "オープニング",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x1c0",
+   "off": 448,
+   "max": 128,
+   "kind": "chapter",
+   "jp": "プロローグ",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x364",
+   "off": 868,
+   "max": 128,
+   "kind": "chapter",
+   "jp": "第一話 運命 宿命 熱情のロック",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x508",
+   "off": 1288,
+   "max": 128,
+   "kind": "chapter",
+   "jp": "第二話 共鳴！三人の志士！",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x6ac",
+   "off": 1708,
+   "max": 128,
+   "kind": "chapter",
+   "jp": "第三話 絶対愛獲　新選組",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x850",
+   "off": 2128,
+   "max": 128,
+   "kind": "chapter",
+   "jp": "第四話 激突！志士ＶＳ愛獲！",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x9f4",
+   "off": 2548,
+   "max": 128,
+   "kind": "chapter",
+   "jp": "第五話 覚醒！内に秘めた魂",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0xb98",
+   "off": 2968,
+   "max": 128,
+   "kind": "chapter",
+   "jp": "第六話 悪の華",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0xd3c",
+   "off": 3388,
+   "max": 128,
+   "kind": "chapter",
+   "jp": "第七話 魂の叫び！新たなる誓い！",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0xee0",
+   "off": 3808,
+   "max": 128,
+   "kind": "chapter",
+   "jp": "第八話 ロックは罪 処刑愛獲降臨",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x1084",
+   "off": 4228,
+   "max": 128,
+   "kind": "chapter",
+   "jp": "第九話 わしがロックじゃ！",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x1228",
+   "off": 4648,
+   "max": 128,
+   "kind": "chapter",
+   "jp": "第十話 新たなる夜明け！新たなる世界！",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x13cc",
+   "off": 5068,
+   "max": 128,
+   "kind": "chapter",
+   "jp": "天歌泰平",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x1570",
+   "off": 5488,
+   "max": 128,
+   "kind": "chapter",
+   "jp": "祭りの後",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x1714",
+   "off": 5908,
+   "max": 128,
+   "kind": "chapter",
+   "jp": "私の道 オレ様の道",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x18b8",
+   "off": 6328,
+   "max": 128,
+   "kind": "chapter",
+   "jp": "愛獲は永遠に",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x1a5c",
+   "off": 6748,
+   "max": 128,
+   "kind": "chapter",
+   "jp": "雷舞！雷舞！響け！世界に！",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x1c00",
+   "off": 7168,
+   "max": 128,
+   "kind": "chapter",
+   "jp": "徳川園",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x1da4",
+   "off": 7588,
+   "max": 128,
+   "kind": "chapter",
+   "jp": "祭りの後のそのまた後",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x1f48",
+   "off": 8008,
+   "max": 128,
+   "kind": "chapter",
+   "jp": "黒き船団　襲来！！",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x20ec",
+   "off": 8428,
+   "max": 128,
+   "kind": "chapter",
+   "jp": "超魂第一話 帝王 降臨！",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x2290",
+   "off": 8848,
+   "max": 128,
+   "kind": "chapter",
+   "jp": "超魂第二話 誠仮面参上！",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x2434",
+   "off": 9268,
+   "max": 128,
+   "kind": "chapter",
+   "jp": "超魂第三話 熱情！炎情！富士ＲＯＣＫ祭！",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x25d8",
+   "off": 9688,
+   "max": 128,
+   "kind": "chapter",
+   "jp": "アイルビーバック",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x277c",
+   "off": 10108,
+   "max": 128,
+   "kind": "chapter",
+   "jp": "特別雷舞",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x2920",
+   "off": 10528,
+   "max": 128,
+   "kind": "chapter",
+   "jp": "特別雷舞",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x2ac4",
+   "off": 10948,
+   "max": 128,
+   "kind": "title",
+   "jp": "土佐よさらば",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x2b48",
+   "off": 11080,
+   "max": 128,
+   "kind": "description",
+   "jp": "龍馬が土佐に居た頃の話。\n自分の歌を認めて貰えない\n龍馬だったが、ある日\n謎の男と出会う…",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x2bcc",
+   "off": 11212,
+   "max": 128,
+   "kind": "unlock",
+   "jp": "一話序盤に解放",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x2c68",
+   "off": 11368,
+   "max": 128,
+   "kind": "title",
+   "jp": "上京物語",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x2cec",
+   "off": 11500,
+   "max": 128,
+   "kind": "description",
+   "jp": "龍馬が京に来た頃の話。\n大舞台（オーディション）\n会場へ行くまでには\n知られざる苦労が\nあったのだった…",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x2d70",
+   "off": 11632,
+   "max": 128,
+   "kind": "unlock",
+   "jp": "三話クリア後\nファン数２０万人以上で\n解放",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x2e0c",
+   "off": 11788,
+   "max": 128,
+   "kind": "title",
+   "jp": "忠犬龍馬",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x2e90",
+   "off": 11920,
+   "max": 128,
+   "kind": "description",
+   "jp": "新選組と龍馬たちが\nまだ敵対していた頃の話。\n町の見回りをしていた\n土方と沖田だったが\nどこか様子のおかしい\n龍馬と出会う",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x2f14",
+   "off": 12052,
+   "max": 128,
+   "kind": "unlock",
+   "jp": "四話クリア後\nファン数４０万人以上で\n解放",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x2fb0",
+   "off": 12208,
+   "max": 128,
+   "kind": "title",
+   "jp": "新選組入隊！",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x3034",
+   "off": 12340,
+   "max": 128,
+   "kind": "description",
+   "jp": "新選組と龍馬たちが\nまだ敵対していた頃、\nもしかしたらあったかも\nしれない話。\n近藤に誘われ龍馬たちが\n新選組に入隊！？",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x30b8",
+   "off": 12472,
+   "max": 128,
+   "kind": "unlock",
+   "jp": "六話クリア後\nファン数８０万人以上で\n解放",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x3154",
+   "off": 12628,
+   "max": 128,
+   "kind": "title",
+   "jp": "隊名の無い音楽隊",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x31d8",
+   "off": 12760,
+   "max": 128,
+   "kind": "description",
+   "jp": "五人で活動する事になった\nものの、龍馬たちには\nまだ隊名が無かった。\n皆で案を持ち寄り隊名を\n決める事に",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x325c",
+   "off": 12892,
+   "max": 128,
+   "kind": "unlock",
+   "jp": "八話クリア後\nファン数１００万人以上で\n解放",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x32f8",
+   "off": 13048,
+   "max": 128,
+   "kind": "title",
+   "jp": "ちぇんじ！",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x337c",
+   "off": 13180,
+   "max": 128,
+   "kind": "description",
+   "jp": "桂の発明で作り出された\n人の中身を入れ替える装置\nその名も「ちぇんじ君」！\nふとした弾みで高杉と\n土方が入れ替わり…",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x3400",
+   "off": 13312,
+   "max": 128,
+   "kind": "unlock",
+   "jp": "本編クリア後\nファン数１５０万人以上で\n解放",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x349c",
+   "off": 13468,
+   "max": 128,
+   "kind": "title",
+   "jp": "桂小五郎の事件簿",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x3520",
+   "off": 13600,
+   "max": 128,
+   "kind": "description",
+   "jp": "ある日、高杉の大福が\n何者かに盗まれる。\n事件を解決する為に\n名探偵☆カツラ君が\n立ち上がる！！",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x35a4",
+   "off": 13732,
+   "max": 128,
+   "kind": "unlock",
+   "jp": "本編クリア後\nファン数１８０万人以上で\n解放",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x3640",
+   "off": 13888,
+   "max": 128,
+   "kind": "title",
+   "jp": "時をかける愛獲(アイドル)",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x36c4",
+   "off": 14020,
+   "max": 128,
+   "kind": "description",
+   "jp": "桂の部屋に忍び込んだ沖田\nそこで見つけたものは何と\n時をさかのぼる事が出来る\n装置だった…",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x3748",
+   "off": 14152,
+   "max": 128,
+   "kind": "unlock",
+   "jp": "本編クリア後\nファン数２２０万人以上で\n解放",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x37e4",
+   "off": 14308,
+   "max": 128,
+   "kind": "title",
+   "jp": "五人そろった夜は更けて",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x3868",
+   "off": 14440,
+   "max": 128,
+   "kind": "description",
+   "jp": "五人で共に過ごす事に\nなったある日。\n夜な夜な語り合う\n龍馬たちだったが話は\nいつしか怪談話となり…",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x38ec",
+   "off": 14572,
+   "max": 128,
+   "kind": "unlock",
+   "jp": "本編クリア後\nファン数２６０万人以上で\n解放",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x3988",
+   "off": 14728,
+   "max": 128,
+   "kind": "title",
+   "jp": "妖艶！暗黒桜桃隊",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x3a0c",
+   "off": 14860,
+   "max": 128,
+   "kind": "description",
+   "jp": "テラーダで働く事になった\nお龍、幾松、おうのの三人\n龍馬たちに負けた悔しさを\n忘れる事が出来ず、\nとある計画を実行する",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x3a90",
+   "off": 14992,
+   "max": 128,
+   "kind": "unlock",
+   "jp": "本編クリア後\nファン数３４０万人以上で\n解放",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x3b2c",
+   "off": 15148,
+   "max": 128,
+   "kind": "title",
+   "jp": "楽園(パラダイス)",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x3bb0",
+   "off": 15280,
+   "max": 128,
+   "kind": "description",
+   "jp": "龍馬たちに呼ばれて\n向かったお登勢だったが\nそこにはオカマに扮した\n五人の姿があった…",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x3c34",
+   "off": 15412,
+   "max": 128,
+   "kind": "unlock",
+   "jp": "本編クリア後\nファン数３７０万人以上で\n解放",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x3cd0",
+   "off": 15568,
+   "max": 128,
+   "kind": "title",
+   "jp": "沖田総司回顧録",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x3d54",
+   "off": 15700,
+   "max": 128,
+   "kind": "description",
+   "jp": "井伊の手に落ちる事に\nなった沖田に一体何が\n起きていたのか！？",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x3dd8",
+   "off": 15832,
+   "max": 128,
+   "kind": "unlock",
+   "jp": "最初から解放",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x3e74",
+   "off": 15988,
+   "max": 128,
+   "kind": "title",
+   "jp": "土方歳三回顧録",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x3ef8",
+   "off": 16120,
+   "max": 128,
+   "kind": "description",
+   "jp": "攫われた龍馬を捜して\nいた土方に起きた出来事。\n一人の少年と出会った\n土方は過去の沖田を\n思い出す",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x3f7c",
+   "off": 16252,
+   "max": 128,
+   "kind": "unlock",
+   "jp": "最初から解放",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x4018",
+   "off": 16408,
+   "max": 128,
+   "kind": "title",
+   "jp": "饅頭戦争",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x409c",
+   "off": 16540,
+   "max": 128,
+   "kind": "description",
+   "jp": "慶喜から受け取った\n紅白饅頭を巡って争う\n高杉、桂、土方、沖田\nの四人。\n超魂團、解散の危機！？",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x4120",
+   "off": 16672,
+   "max": 128,
+   "kind": "unlock",
+   "jp": "超魂第一話クリア後\n解放",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x41bc",
+   "off": 16828,
+   "max": 128,
+   "kind": "title",
+   "jp": "局長愛は天より高し",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x4240",
+   "off": 16960,
+   "max": 128,
+   "kind": "description",
+   "jp": "近藤の墓参りに来た\n土方と沖田。\n思い出話に花を\n咲かせるが、\n次第に雲行きが\n怪しくなり…",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x42c4",
+   "off": 17092,
+   "max": 128,
+   "kind": "unlock",
+   "jp": "超魂第二話クリア後\nファン数８０万人以上で\n解放",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x4360",
+   "off": 17248,
+   "max": 128,
+   "kind": "title",
+   "jp": "我が行くは暗きより闇き道",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x43e4",
+   "off": 17380,
+   "max": 128,
+   "kind": "description",
+   "jp": "京に上り一年。\n幕府の腐った政治体制に\n憤慨する井伊の前に、\n一人の少年が現れる。\n井伊と慶喜の出会いが、\n今明かされる――",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x4468",
+   "off": 17512,
+   "max": 128,
+   "kind": "unlock",
+   "jp": "超魂第三話クリア後\nファン数１５０万人以上で\n解放",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x4504",
+   "off": 17668,
+   "max": 64,
+   "kind": "song",
+   "jp": "Rolling Thunder",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x4548",
+   "off": 17736,
+   "max": 128,
+   "kind": "performer",
+   "jp": "龍馬、高杉、桂",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x45d0",
+   "off": 17872,
+   "max": 64,
+   "kind": "song",
+   "jp": "ハチノジディストーション",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x4614",
+   "off": 17940,
+   "max": 128,
+   "kind": "performer",
+   "jp": "桂小五郎",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x469c",
+   "off": 18076,
+   "max": 64,
+   "kind": "song",
+   "jp": "INTERSECT",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x46e0",
+   "off": 18144,
+   "max": 128,
+   "kind": "performer",
+   "jp": "龍馬、土方、沖田",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x4768",
+   "off": 18280,
+   "max": 64,
+   "kind": "song",
+   "jp": "REACTION",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x47ac",
+   "off": 18348,
+   "max": 128,
+   "kind": "performer",
+   "jp": "高杉晋作",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x4834",
+   "off": 18484,
+   "max": 64,
+   "kind": "song",
+   "jp": "重力のない世界",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x4878",
+   "off": 18552,
+   "max": 128,
+   "kind": "performer",
+   "jp": "桂小五郎",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x4900",
+   "off": 18688,
+   "max": 64,
+   "kind": "song",
+   "jp": "What's this? 坂本龍馬ver.",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x4944",
+   "off": 18756,
+   "max": 128,
+   "kind": "performer",
+   "jp": "坂本龍馬",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x49cc",
+   "off": 18892,
+   "max": 64,
+   "kind": "song",
+   "jp": "共鳴進歌",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x4a10",
+   "off": 18960,
+   "max": 128,
+   "kind": "performer",
+   "jp": "沖田総司",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x4a98",
+   "off": 19096,
+   "max": 64,
+   "kind": "song",
+   "jp": "生きてゆこう",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x4adc",
+   "off": 19164,
+   "max": 128,
+   "kind": "performer",
+   "jp": "高杉晋作",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x4b64",
+   "off": 19300,
+   "max": 64,
+   "kind": "song",
+   "jp": "Crash My Head",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x4ba8",
+   "off": 19368,
+   "max": 128,
+   "kind": "performer",
+   "jp": "坂本龍馬",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x4c30",
+   "off": 19504,
+   "max": 64,
+   "kind": "song",
+   "jp": "RIDE ON THE WAVE",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x4c74",
+   "off": 19572,
+   "max": 128,
+   "kind": "performer",
+   "jp": "龍馬、高杉、桂",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x4cfc",
+   "off": 19708,
+   "max": 64,
+   "kind": "song",
+   "jp": "モット!!!",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x4d40",
+   "off": 19776,
+   "max": 128,
+   "kind": "performer",
+   "jp": "土方歳三",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x4dc8",
+   "off": 19912,
+   "max": 64,
+   "kind": "song",
+   "jp": "LAST SCREAM",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x4e0c",
+   "off": 19980,
+   "max": 128,
+   "kind": "performer",
+   "jp": "坂本龍馬",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x4e94",
+   "off": 20116,
+   "max": 64,
+   "kind": "song",
+   "jp": "What's this?",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x4ed8",
+   "off": 20184,
+   "max": 128,
+   "kind": "performer",
+   "jp": "龍馬、高杉、桂、土方、沖田",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x4f60",
+   "off": 20320,
+   "max": 64,
+   "kind": "song",
+   "jp": "残響 -feedback-",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x4fa4",
+   "off": 20388,
+   "max": 128,
+   "kind": "performer",
+   "jp": "沖田総司",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x502c",
+   "off": 20524,
+   "max": 64,
+   "kind": "song",
+   "jp": "群青を射す光",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x5070",
+   "off": 20592,
+   "max": 128,
+   "kind": "performer",
+   "jp": "土方歳三",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x50f8",
+   "off": 20728,
+   "max": 64,
+   "kind": "song",
+   "jp": "Rolling Thunder USver.",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x513c",
+   "off": 20796,
+   "max": 128,
+   "kind": "performer",
+   "jp": "龍馬、高杉、桂",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x51c4",
+   "off": 20932,
+   "max": 64,
+   "kind": "song",
+   "jp": "GOD BREATH",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x5208",
+   "off": 21000,
+   "max": 128,
+   "kind": "performer",
+   "jp": "ジュニア",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x5290",
+   "off": 21136,
+   "max": 64,
+   "kind": "song",
+   "jp": "グラデーション",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x52d4",
+   "off": 21204,
+   "max": 128,
+   "kind": "performer",
+   "jp": "ジュニア、沖田",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x535c",
+   "off": 21340,
+   "max": 64,
+   "kind": "song",
+   "jp": "不完全パズル",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x53a0",
+   "off": 21408,
+   "max": 128,
+   "kind": "performer",
+   "jp": "高杉、桂、誠仮面 a.k.a. 土方",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x5428",
+   "off": 21544,
+   "max": 64,
+   "kind": "song",
+   "jp": "What's this? USver.",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x546c",
+   "off": 21612,
+   "max": 128,
+   "kind": "performer",
+   "jp": "龍馬、高杉、桂、土方、沖田",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x54f4",
+   "off": 21748,
+   "max": 64,
+   "kind": "song",
+   "jp": "WHITE",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x5538",
+   "off": 21816,
+   "max": 128,
+   "kind": "performer",
+   "jp": "龍馬、高杉、桂、土方、沖田",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x55c0",
+   "off": 21952,
+   "max": 64,
+   "kind": "song",
+   "jp": "GOD BREATH　-混色様式-",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x5604",
+   "off": 22020,
+   "max": 128,
+   "kind": "performer",
+   "jp": "龍馬、ジュニア",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x568c",
+   "off": 22156,
+   "max": 64,
+   "kind": "song",
+   "jp": "宙ノ翼",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x56d0",
+   "off": 22224,
+   "max": 128,
+   "kind": "performer",
+   "jp": "慶喜、井伊",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x5758",
+   "off": 22360,
+   "max": 64,
+   "kind": "song",
+   "jp": "Period",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x579c",
+   "off": 22428,
+   "max": 128,
+   "kind": "performer",
+   "jp": "vistlip",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x5824",
+   "off": 22564,
+   "max": 64,
+   "kind": "song",
+   "jp": "Jack　ミュージックビデオver.",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x5868",
+   "off": 22632,
+   "max": 128,
+   "kind": "performer",
+   "jp": "vistlip",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x58f0",
+   "off": 22768,
+   "max": 64,
+   "kind": "song",
+   "jp": "Jack　アニメOPver.",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x5934",
+   "off": 22836,
+   "max": 128,
+   "kind": "performer",
+   "jp": "vistlip",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x59bc",
+   "off": 22972,
+   "max": 64,
+   "kind": "song",
+   "jp": "絶頂DAYBREAK",
+   "en": ""
+  },
+  {
+   "id": "ui_chapter:0x5a00",
+   "off": 23040,
+   "max": 128,
+   "kind": "performer",
+   "jp": "龍馬、高杉、桂、土方、沖田",
+   "en": ""
+  }
+ ]
+}

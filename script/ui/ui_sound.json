@@ -1,0 +1,222 @@
+{
+ "source": "ui_sound.sud",
+ "format": "ui-table",
+ "entries": [
+  {
+   "id": "ui_sound:0x14",
+   "off": 20,
+   "max": 64,
+   "kind": "title",
+   "jp": "？？？？",
+   "en": ""
+  },
+  {
+   "id": "ui_sound:0x5c",
+   "off": 92,
+   "max": 64,
+   "kind": "title",
+   "jp": "Rolling Thunder",
+   "en": ""
+  },
+  {
+   "id": "ui_sound:0xa4",
+   "off": 164,
+   "max": 64,
+   "kind": "title",
+   "jp": "ハチノジディストーション",
+   "en": ""
+  },
+  {
+   "id": "ui_sound:0xec",
+   "off": 236,
+   "max": 64,
+   "kind": "title",
+   "jp": "INTERSECT",
+   "en": ""
+  },
+  {
+   "id": "ui_sound:0x134",
+   "off": 308,
+   "max": 64,
+   "kind": "title",
+   "jp": "REACTION",
+   "en": ""
+  },
+  {
+   "id": "ui_sound:0x17c",
+   "off": 380,
+   "max": 64,
+   "kind": "title",
+   "jp": "重力のない世界",
+   "en": ""
+  },
+  {
+   "id": "ui_sound:0x1c4",
+   "off": 452,
+   "max": 64,
+   "kind": "title",
+   "jp": "What's this? 坂本龍馬ver.",
+   "en": ""
+  },
+  {
+   "id": "ui_sound:0x20c",
+   "off": 524,
+   "max": 64,
+   "kind": "title",
+   "jp": "共鳴進歌",
+   "en": ""
+  },
+  {
+   "id": "ui_sound:0x254",
+   "off": 596,
+   "max": 64,
+   "kind": "title",
+   "jp": "生きてゆこう",
+   "en": ""
+  },
+  {
+   "id": "ui_sound:0x29c",
+   "off": 668,
+   "max": 64,
+   "kind": "title",
+   "jp": "Crash My Head",
+   "en": ""
+  },
+  {
+   "id": "ui_sound:0x2e4",
+   "off": 740,
+   "max": 64,
+   "kind": "title",
+   "jp": "RIDE ON THE WAVE",
+   "en": ""
+  },
+  {
+   "id": "ui_sound:0x32c",
+   "off": 812,
+   "max": 64,
+   "kind": "title",
+   "jp": "モット!!!",
+   "en": ""
+  },
+  {
+   "id": "ui_sound:0x374",
+   "off": 884,
+   "max": 64,
+   "kind": "title",
+   "jp": "LAST SCREAM",
+   "en": ""
+  },
+  {
+   "id": "ui_sound:0x3bc",
+   "off": 956,
+   "max": 64,
+   "kind": "title",
+   "jp": "What's this?",
+   "en": ""
+  },
+  {
+   "id": "ui_sound:0x404",
+   "off": 1028,
+   "max": 64,
+   "kind": "title",
+   "jp": "残響 -feedback-",
+   "en": ""
+  },
+  {
+   "id": "ui_sound:0x44c",
+   "off": 1100,
+   "max": 64,
+   "kind": "title",
+   "jp": "群青を射す光",
+   "en": ""
+  },
+  {
+   "id": "ui_sound:0x494",
+   "off": 1172,
+   "max": 64,
+   "kind": "title",
+   "jp": "GOD BREATH",
+   "en": ""
+  },
+  {
+   "id": "ui_sound:0x4dc",
+   "off": 1244,
+   "max": 64,
+   "kind": "title",
+   "jp": "グラデーション",
+   "en": ""
+  },
+  {
+   "id": "ui_sound:0x524",
+   "off": 1316,
+   "max": 64,
+   "kind": "title",
+   "jp": "不完全パズル",
+   "en": ""
+  },
+  {
+   "id": "ui_sound:0x56c",
+   "off": 1388,
+   "max": 64,
+   "kind": "title",
+   "jp": "WHITE",
+   "en": ""
+  },
+  {
+   "id": "ui_sound:0x5b4",
+   "off": 1460,
+   "max": 64,
+   "kind": "title",
+   "jp": "GOD BREATH -混色様式-",
+   "en": ""
+  },
+  {
+   "id": "ui_sound:0x5fc",
+   "off": 1532,
+   "max": 64,
+   "kind": "title",
+   "jp": "宙ノ翼",
+   "en": ""
+  },
+  {
+   "id": "ui_sound:0x644",
+   "off": 1604,
+   "max": 64,
+   "kind": "title",
+   "jp": "Period",
+   "en": ""
+  },
+  {
+   "id": "ui_sound:0x68c",
+   "off": 1676,
+   "max": 64,
+   "kind": "title",
+   "jp": "Jack",
+   "en": ""
+  },
+  {
+   "id": "ui_sound:0x6d4",
+   "off": 1748,
+   "max": 64,
+   "kind": "title",
+   "jp": "絶頂DAYBREAK",
+   "en": ""
+  },
+  {
+   "id": "ui_sound:0x784",
+   "off": 1924,
+   "max": 64,
+   "kind": "title",
+   "jp": "残響－ｆｅｅｄｂａｃｋ－",
+   "en": ""
+  },
+  {
+   "id": "ui_sound:0x80c",
+   "off": 2060,
+   "max": 64,
+   "kind": "title",
+   "jp": "＃１５",
+   "en": ""
+  }
+ ]
+}

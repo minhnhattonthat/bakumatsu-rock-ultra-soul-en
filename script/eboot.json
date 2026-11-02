@@ -1,0 +1,78 @@
+{
+ "source": "EBOOT.ELF",
+ "format": "utf-8-slots",
+ "entries": [
+  {
+   "id": "eboot:0x26925c",
+   "off": 2527836,
+   "max": 20,
+   "kind": "save-title",
+   "jp": "幕末Rock 超魂",
+   "en": "",
+   "encoding": "utf-8"
+  },
+  {
+   "id": "eboot:0x269270",
+   "off": 2527856,
+   "max": 48,
+   "kind": "save-title",
+   "jp": "幕末Rock 超魂 インストールデータ",
+   "en": "",
+   "encoding": "utf-8"
+  },
+  {
+   "id": "eboot:0x2692a0",
+   "off": 2527904,
+   "max": 40,
+   "kind": "save-title",
+   "jp": "インストールデータぜよ",
+   "en": "",
+   "encoding": "utf-8"
+  },
+  {
+   "id": "eboot:0x269458",
+   "off": 2528344,
+   "max": 20,
+   "kind": "save-title",
+   "jp": "幕末Rock 超魂",
+   "en": "",
+   "encoding": "utf-8"
+  },
+  {
+   "id": "eboot:0x26946c",
+   "off": 2528364,
+   "max": 40,
+   "kind": "save-title",
+   "jp": "幕末Rock 超魂 システムデータ",
+   "en": "",
+   "encoding": "utf-8"
+  },
+  {
+   "id": "eboot:0x269494",
+   "off": 2528404,
+   "max": 28,
+   "kind": "save-title",
+   "jp": "システムデータぜよ",
+   "en": "",
+   "encoding": "utf-8"
+  },
+  {
+   "id": "eboot:0x2694bc",
+   "off": 2528444,
+   "max": 36,
+   "kind": "save-title",
+   "jp": "幕末Rock 超魂 進行データ",
+   "en": "",
+   "encoding": "utf-8"
+  },
+  {
+   "id": "eboot:0x2694e0",
+   "off": 2528480,
+   "max": 24,
+   "kind": "save-title",
+   "jp": "進行データぜよ",
+   "en": "",
+   "encoding": "utf-8"
+  }
+ ]
+}

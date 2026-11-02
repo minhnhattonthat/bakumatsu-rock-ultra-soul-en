@@ -1,0 +1,15 @@
+{
+ "source": "PARAM.SFO",
+ "format": "utf-8-slots",
+ "entries": [
+  {
+   "id": "param_sfo:title",
+   "off": 472,
+   "max": 128,
+   "kind": "title",
+   "jp": "幕末Rock 超魂",
+   "en": "",
+   "encoding": "utf-8"
+  }
+ ]
+}

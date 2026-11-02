@@ -1,0 +1,222 @@
+{
+ "source": "ui_event.evt",
+ "format": "ui-table",
+ "entries": [
+  {
+   "id": "ui_event:0x14",
+   "off": 20,
+   "max": 64,
+   "kind": "title",
+   "jp": "？？？？",
+   "en": ""
+  },
+  {
+   "id": "ui_event:0x5c",
+   "off": 92,
+   "max": 64,
+   "kind": "title",
+   "jp": "龍馬覚醒",
+   "en": ""
+  },
+  {
+   "id": "ui_event:0xa4",
+   "off": 164,
+   "max": 64,
+   "kind": "title",
+   "jp": "出会い",
+   "en": ""
+  },
+  {
+   "id": "ui_event:0xec",
+   "off": 236,
+   "max": 64,
+   "kind": "title",
+   "jp": "慶喜と直弼",
+   "en": ""
+  },
+  {
+   "id": "ui_event:0x134",
+   "off": 308,
+   "max": 64,
+   "kind": "title",
+   "jp": "新選組雷舞",
+   "en": ""
+  },
+  {
+   "id": "ui_event:0x17c",
+   "off": 380,
+   "max": 64,
+   "kind": "title",
+   "jp": "三人の雷舞",
+   "en": ""
+  },
+  {
+   "id": "ui_event:0x1c4",
+   "off": 452,
+   "max": 64,
+   "kind": "title",
+   "jp": "大立ち回り！",
+   "en": ""
+  },
+  {
+   "id": "ui_event:0x20c",
+   "off": 524,
+   "max": 64,
+   "kind": "title",
+   "jp": "踏みつけ沖田",
+   "en": ""
+  },
+  {
+   "id": "ui_event:0x254",
+   "off": 596,
+   "max": 64,
+   "kind": "title",
+   "jp": "鳳舞合奏！",
+   "en": ""
+  },
+  {
+   "id": "ui_event:0x29c",
+   "off": 668,
+   "max": 64,
+   "kind": "title",
+   "jp": "龍馬ＶＳ沖田",
+   "en": ""
+  },
+  {
+   "id": "ui_event:0x2e4",
+   "off": 740,
+   "max": 64,
+   "kind": "title",
+   "jp": "近藤と沖田",
+   "en": ""
+  },
+  {
+   "id": "ui_event:0x32c",
+   "off": 812,
+   "max": 64,
+   "kind": "title",
+   "jp": "別れ",
+   "en": ""
+  },
+  {
+   "id": "ui_event:0x374",
+   "off": 884,
+   "max": 64,
+   "kind": "title",
+   "jp": "高杉乱入！",
+   "en": ""
+  },
+  {
+   "id": "ui_event:0x3bc",
+   "off": 956,
+   "max": 64,
+   "kind": "title",
+   "jp": "松陰と天狗",
+   "en": ""
+  },
+  {
+   "id": "ui_event:0x404",
+   "off": 1028,
+   "max": 64,
+   "kind": "title",
+   "jp": "龍馬復活！",
+   "en": ""
+  },
+  {
+   "id": "ui_event:0x44c",
+   "off": 1100,
+   "max": 64,
+   "kind": "title",
+   "jp": "大江戸天歌祭！",
+   "en": ""
+  },
+  {
+   "id": "ui_event:0x494",
+   "off": 1172,
+   "max": 64,
+   "kind": "title",
+   "jp": "激闘！桜田門外！",
+   "en": ""
+  },
+  {
+   "id": "ui_event:0x4dc",
+   "off": 1244,
+   "max": 64,
+   "kind": "title",
+   "jp": "井伊の最期",
+   "en": ""
+  },
+  {
+   "id": "ui_event:0x524",
+   "off": 1316,
+   "max": 64,
+   "kind": "title",
+   "jp": "慶喜の異変！",
+   "en": ""
+  },
+  {
+   "id": "ui_event:0x56c",
+   "off": 1388,
+   "max": 64,
+   "kind": "title",
+   "jp": "五人の海外雷舞",
+   "en": ""
+  },
+  {
+   "id": "ui_event:0x5b4",
+   "off": 1460,
+   "max": 64,
+   "kind": "title",
+   "jp": "夢",
+   "en": ""
+  },
+  {
+   "id": "ui_event:0x5fc",
+   "off": 1532,
+   "max": 64,
+   "kind": "title",
+   "jp": "ジュニア降臨",
+   "en": ""
+  },
+  {
+   "id": "ui_event:0x644",
+   "off": 1604,
+   "max": 64,
+   "kind": "title",
+   "jp": "誠仮面登場",
+   "en": ""
+  },
+  {
+   "id": "ui_event:0x68c",
+   "off": 1676,
+   "max": 64,
+   "kind": "title",
+   "jp": "特訓",
+   "en": ""
+  },
+  {
+   "id": "ui_event:0x6d4",
+   "off": 1748,
+   "max": 64,
+   "kind": "title",
+   "jp": "乱入ぜよ！",
+   "en": ""
+  },
+  {
+   "id": "ui_event:0x71c",
+   "off": 1820,
+   "max": 64,
+   "kind": "title",
+   "jp": "超魂團VSジュニア",
+   "en": ""
+  },
+  {
+   "id": "ui_event:0x764",
+   "off": 1892,
+   "max": 64,
+   "kind": "title",
+   "jp": "超魂解放",
+   "en": ""
+  }
+ ]
+}

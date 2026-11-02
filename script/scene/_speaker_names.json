@@ -1,0 +1,806 @@
+{
+ "source": "speaker names",
+ "format": "mz-scene",
+ "entries": [
+  {
+   "id": "name:000",
+   "off": 82752,
+   "max": 8,
+   "kind": "speaker",
+   "jp": "ト書き",
+   "en": ""
+  },
+  {
+   "id": "name:001",
+   "off": 82764,
+   "max": 12,
+   "kind": "speaker",
+   "jp": "坂本龍馬",
+   "en": ""
+  },
+  {
+   "id": "name:002",
+   "off": 82780,
+   "max": 12,
+   "kind": "speaker",
+   "jp": "高杉晋作",
+   "en": ""
+  },
+  {
+   "id": "name:003",
+   "off": 82796,
+   "max": 12,
+   "kind": "speaker",
+   "jp": "桂小五郎",
+   "en": ""
+  },
+  {
+   "id": "name:004",
+   "off": 82812,
+   "max": 12,
+   "kind": "speaker",
+   "jp": "土方歳三",
+   "en": ""
+  },
+  {
+   "id": "name:005",
+   "off": 82828,
+   "max": 12,
+   "kind": "speaker",
+   "jp": "沖田総司",
+   "en": ""
+  },
+  {
+   "id": "name:006",
+   "off": 82844,
+   "max": 12,
+   "kind": "speaker",
+   "jp": "徳川慶喜",
+   "en": ""
+  },
+  {
+   "id": "name:007",
+   "off": 82860,
+   "max": 12,
+   "kind": "speaker",
+   "jp": "井伊直弼",
+   "en": ""
+  },
+  {
+   "id": "name:008",
+   "off": 82876,
+   "max": 8,
+   "kind": "speaker",
+   "jp": "老中",
+   "en": ""
+  },
+  {
+   "id": "name:009",
+   "off": 82888,
+   "max": 8,
+   "kind": "speaker",
+   "jp": "老中",
+   "en": ""
+  },
+  {
+   "id": "name:010",
+   "off": 82900,
+   "max": 12,
+   "kind": "speaker",
+   "jp": "吉田松陰",
+   "en": ""
+  },
+  {
+   "id": "name:011",
+   "off": 82916,
+   "max": 12,
+   "kind": "speaker",
+   "jp": "岩崎弥太郎",
+   "en": ""
+  },
+  {
+   "id": "name:012",
+   "off": 82932,
+   "max": 8,
+   "kind": "speaker",
+   "jp": "ト書き",
+   "en": ""
+  },
+  {
+   "id": "name:013",
+   "off": 82944,
+   "max": 8,
+   "kind": "speaker",
+   "jp": "天狗",
+   "en": ""
+  },
+  {
+   "id": "name:014",
+   "off": 82956,
+   "max": 8,
+   "kind": "speaker",
+   "jp": "近藤勇",
+   "en": ""
+  },
+  {
+   "id": "name:015",
+   "off": 82968,
+   "max": 12,
+   "kind": "speaker",
+   "jp": "阿部正弘",
+   "en": ""
+  },
+  {
+   "id": "name:016",
+   "off": 82984,
+   "max": 8,
+   "kind": "speaker",
+   "jp": "お登勢",
+   "en": ""
+  },
+  {
+   "id": "name:017",
+   "off": 82996,
+   "max": 8,
+   "kind": "speaker",
+   "jp": "お龍",
+   "en": ""
+  },
+  {
+   "id": "name:018",
+   "off": 83008,
+   "max": 8,
+   "kind": "speaker",
+   "jp": "おうの",
+   "en": ""
+  },
+  {
+   "id": "name:019",
+   "off": 83020,
+   "max": 8,
+   "kind": "speaker",
+   "jp": "幾松",
+   "en": ""
+  },
+  {
+   "id": "name:020",
+   "off": 83032,
+   "max": 8,
+   "kind": "speaker",
+   "jp": "勝海舟",
+   "en": ""
+  },
+  {
+   "id": "name:021",
+   "off": 83044,
+   "max": 8,
+   "kind": "speaker",
+   "jp": "乙女",
+   "en": ""
+  },
+  {
+   "id": "name:022",
+   "off": 83056,
+   "max": 8,
+   "kind": "speaker",
+   "jp": "お発勢",
+   "en": ""
+  },
+  {
+   "id": "name:023",
+   "off": 83068,
+   "max": 8,
+   "kind": "speaker",
+   "jp": "三太",
+   "en": ""
+  },
+  {
+   "id": "name:024",
+   "off": 83080,
+   "max": 8,
+   "kind": "speaker",
+   "jp": "？？？",
+   "en": ""
+  },
+  {
+   "id": "name:025",
+   "off": 83092,
+   "max": 12,
+   "kind": "speaker",
+   "jp": "一橋慶喜",
+   "en": ""
+  },
+  {
+   "id": "name:026",
+   "off": 83108,
+   "max": 12,
+   "kind": "speaker",
+   "jp": "井伊直弼",
+   "en": ""
+  },
+  {
+   "id": "name:027",
+   "off": 83124,
+   "max": 8,
+   "kind": "speaker",
+   "jp": "五郎",
+   "en": ""
+  },
+  {
+   "id": "name:028",
+   "off": 83136,
+   "max": 8,
+   "kind": "speaker",
+   "jp": "英助",
+   "en": ""
+  },
+  {
+   "id": "name:029",
+   "off": 83148,
+   "max": 8,
+   "kind": "speaker",
+   "jp": "田沢",
+   "en": ""
+  },
+  {
+   "id": "name:030",
+   "off": 83160,
+   "max": 8,
+   "kind": "speaker",
+   "jp": "松尾",
+   "en": ""
+  },
+  {
+   "id": "name:031",
+   "off": 83172,
+   "max": 12,
+   "kind": "speaker",
+   "jp": "町人男Ｃ",
+   "en": ""
+  },
+  {
+   "id": "name:032",
+   "off": 83188,
+   "max": 8,
+   "kind": "speaker",
+   "jp": "鈴美",
+   "en": ""
+  },
+  {
+   "id": "name:033",
+   "off": 83200,
+   "max": 8,
+   "kind": "speaker",
+   "jp": "朋子",
+   "en": ""
+  },
+  {
+   "id": "name:034",
+   "off": 83212,
+   "max": 8,
+   "kind": "speaker",
+   "jp": "綾那",
+   "en": ""
+  },
+  {
+   "id": "name:035",
+   "off": 83224,
+   "max": 8,
+   "kind": "speaker",
+   "jp": "農民男",
+   "en": ""
+  },
+  {
+   "id": "name:036",
+   "off": 83236,
+   "max": 8,
+   "kind": "speaker",
+   "jp": "安十郎",
+   "en": ""
+  },
+  {
+   "id": "name:037",
+   "off": 83248,
+   "max": 8,
+   "kind": "speaker",
+   "jp": "松崎",
+   "en": ""
+  },
+  {
+   "id": "name:038",
+   "off": 83260,
+   "max": 8,
+   "kind": "speaker",
+   "jp": "九条",
+   "en": ""
+  },
+  {
+   "id": "name:039",
+   "off": 83272,
+   "max": 16,
+   "kind": "speaker",
+   "jp": "新選組隊士Ｃ",
+   "en": ""
+  },
+  {
+   "id": "name:040",
+   "off": 83292,
+   "max": 8,
+   "kind": "speaker",
+   "jp": "本部",
+   "en": ""
+  },
+  {
+   "id": "name:041",
+   "off": 83304,
+   "max": 8,
+   "kind": "speaker",
+   "jp": "町田",
+   "en": ""
+  },
+  {
+   "id": "name:042",
+   "off": 83316,
+   "max": 8,
+   "kind": "speaker",
+   "jp": "花田",
+   "en": ""
+  },
+  {
+   "id": "name:043",
+   "off": 83328,
+   "max": 12,
+   "kind": "speaker",
+   "jp": "幕府軍Ｄ",
+   "en": ""
+  },
+  {
+   "id": "name:044",
+   "off": 83344,
+   "max": 8,
+   "kind": "speaker",
+   "jp": "池永",
+   "en": ""
+  },
+  {
+   "id": "name:045",
+   "off": 83356,
+   "max": 8,
+   "kind": "speaker",
+   "jp": "蔵前",
+   "en": ""
+  },
+  {
+   "id": "name:046",
+   "off": 83368,
+   "max": 8,
+   "kind": "speaker",
+   "jp": "浪人Ｃ",
+   "en": ""
+  },
+  {
+   "id": "name:047",
+   "off": 83380,
+   "max": 12,
+   "kind": "speaker",
+   "jp": "場内案内",
+   "en": ""
+  },
+  {
+   "id": "name:048",
+   "off": 83396,
+   "max": 12,
+   "kind": "speaker",
+   "jp": "残党武士",
+   "en": ""
+  },
+  {
+   "id": "name:049",
+   "off": 83412,
+   "max": 8,
+   "kind": "speaker",
+   "jp": "江戸川",
+   "en": ""
+  },
+  {
+   "id": "name:050",
+   "off": 83424,
+   "max": 8,
+   "kind": "speaker",
+   "jp": "丸山",
+   "en": ""
+  },
+  {
+   "id": "name:051",
+   "off": 83436,
+   "max": 8,
+   "kind": "speaker",
+   "jp": "由花子",
+   "en": ""
+  },
+  {
+   "id": "name:052",
+   "off": 83448,
+   "max": 4,
+   "kind": "speaker",
+   "jp": "彩",
+   "en": ""
+  },
+  {
+   "id": "name:053",
+   "off": 83456,
+   "max": 8,
+   "kind": "speaker",
+   "jp": "しのぶ",
+   "en": ""
+  },
+  {
+   "id": "name:054",
+   "off": 83468,
+   "max": 8,
+   "kind": "speaker",
+   "jp": "永石",
+   "en": ""
+  },
+  {
+   "id": "name:055",
+   "off": 83480,
+   "max": 4,
+   "kind": "speaker",
+   "jp": "王",
+   "en": ""
+  },
+  {
+   "id": "name:056",
+   "off": 83488,
+   "max": 8,
+   "kind": "speaker",
+   "jp": "石井",
+   "en": ""
+  },
+  {
+   "id": "name:057",
+   "off": 83500,
+   "max": 8,
+   "kind": "speaker",
+   "jp": "戸越",
+   "en": ""
+  },
+  {
+   "id": "name:058",
+   "off": 83512,
+   "max": 8,
+   "kind": "speaker",
+   "jp": "宮本",
+   "en": ""
+  },
+  {
+   "id": "name:059",
+   "off": 83524,
+   "max": 8,
+   "kind": "speaker",
+   "jp": "大宮",
+   "en": ""
+  },
+  {
+   "id": "name:060",
+   "off": 83536,
+   "max": 12,
+   "kind": "speaker",
+   "jp": "龍馬/高杉",
+   "en": ""
+  },
+  {
+   "id": "name:061",
+   "off": 83552,
+   "max": 8,
+   "kind": "speaker",
+   "jp": "龍馬/桂",
+   "en": ""
+  },
+  {
+   "id": "name:062",
+   "off": 83564,
+   "max": 8,
+   "kind": "speaker",
+   "jp": "桂/高杉",
+   "en": ""
+  },
+  {
+   "id": "name:063",
+   "off": 83576,
+   "max": 12,
+   "kind": "speaker",
+   "jp": "龍馬たち",
+   "en": ""
+  },
+  {
+   "id": "name:064",
+   "off": 83592,
+   "max": 12,
+   "kind": "speaker",
+   "jp": "土方/沖田",
+   "en": ""
+  },
+  {
+   "id": "name:065",
+   "off": 83608,
+   "max": 12,
+   "kind": "speaker",
+   "jp": "天狗/松陰",
+   "en": ""
+  },
+  {
+   "id": "name:066",
+   "off": 83624,
+   "max": 12,
+   "kind": "speaker",
+   "jp": "お龍たち",
+   "en": ""
+  },
+  {
+   "id": "name:067",
+   "off": 83640,
+   "max": 8,
+   "kind": "speaker",
+   "jp": "桂たち",
+   "en": ""
+  },
+  {
+   "id": "name:068",
+   "off": 83652,
+   "max": 12,
+   "kind": "speaker",
+   "jp": "幾松/おうの",
+   "en": ""
+  },
+  {
+   "id": "name:069",
+   "off": 83668,
+   "max": 12,
+   "kind": "speaker",
+   "jp": "土方たち",
+   "en": ""
+  },
+  {
+   "id": "name:070",
+   "off": 83684,
+   "max": 8,
+   "kind": "speaker",
+   "jp": "桂/沖田",
+   "en": ""
+  },
+  {
+   "id": "name:071",
+   "off": 83696,
+   "max": 12,
+   "kind": "speaker",
+   "jp": "龍子たち",
+   "en": ""
+  },
+  {
+   "id": "name:072",
+   "off": 83712,
+   "max": 12,
+   "kind": "speaker",
+   "jp": "高杉/土方",
+   "en": ""
+  },
+  {
+   "id": "name:073",
+   "off": 83728,
+   "max": 12,
+   "kind": "speaker",
+   "jp": "隊士たち",
+   "en": ""
+  },
+  {
+   "id": "name:074",
+   "off": 83744,
+   "max": 12,
+   "kind": "speaker",
+   "jp": "池永/蔵前",
+   "en": ""
+  },
+  {
+   "id": "name:075",
+   "off": 83760,
+   "max": 12,
+   "kind": "speaker",
+   "jp": "龍馬たち",
+   "en": ""
+  },
+  {
+   "id": "name:076",
+   "off": 83776,
+   "max": 4,
+   "kind": "speaker",
+   "jp": "猫",
+   "en": ""
+  },
+  {
+   "id": "name:077",
+   "off": 83784,
+   "max": 12,
+   "kind": "speaker",
+   "jp": "龍馬たち",
+   "en": ""
+  },
+  {
+   "id": "name:078",
+   "off": 83800,
+   "max": 12,
+   "kind": "speaker",
+   "jp": "龍馬たち",
+   "en": ""
+  },
+  {
+   "id": "name:079",
+   "off": 83816,
+   "max": 8,
+   "kind": "speaker",
+   "jp": "全員",
+   "en": ""
+  },
+  {
+   "id": "name:080",
+   "off": 83828,
+   "max": 8,
+   "kind": "speaker",
+   "jp": "？？？",
+   "en": ""
+  },
+  {
+   "id": "name:081",
+   "off": 83840,
+   "max": 8,
+   "kind": "speaker",
+   "jp": "龍子",
+   "en": ""
+  },
+  {
+   "id": "name:082",
+   "off": 83852,
+   "max": 8,
+   "kind": "speaker",
+   "jp": "桂子",
+   "en": ""
+  },
+  {
+   "id": "name:083",
+   "off": 83864,
+   "max": 8,
+   "kind": "speaker",
+   "jp": "晋子",
+   "en": ""
+  },
+  {
+   "id": "name:084",
+   "off": 83876,
+   "max": 8,
+   "kind": "speaker",
+   "jp": "歳子",
+   "en": ""
+  },
+  {
+   "id": "name:085",
+   "off": 83888,
+   "max": 8,
+   "kind": "speaker",
+   "jp": "総美",
+   "en": ""
+  },
+  {
+   "id": "name:086",
+   "off": 83900,
+   "max": 8,
+   "kind": "speaker",
+   "jp": "赤石",
+   "en": ""
+  },
+  {
+   "id": "name:087",
+   "off": 83912,
+   "max": 8,
+   "kind": "speaker",
+   "jp": "根津",
+   "en": ""
+  },
+  {
+   "id": "name:088",
+   "off": 83924,
+   "max": 8,
+   "kind": "speaker",
+   "jp": "乃木坂",
+   "en": ""
+  },
+  {
+   "id": "name:089",
+   "off": 83936,
+   "max": 8,
+   "kind": "speaker",
+   "jp": "末堂",
+   "en": ""
+  },
+  {
+   "id": "name:090",
+   "off": 83948,
+   "max": 8,
+   "kind": "speaker",
+   "jp": "猪狩",
+   "en": ""
+  },
+  {
+   "id": "name:091",
+   "off": 83960,
+   "max": 8,
+   "kind": "speaker",
+   "jp": "安藤",
+   "en": ""
+  },
+  {
+   "id": "name:092",
+   "off": 83972,
+   "max": 8,
+   "kind": "speaker",
+   "jp": "怨霊",
+   "en": ""
+  },
+  {
+   "id": "name:093",
+   "off": 83984,
+   "max": 8,
+   "kind": "speaker",
+   "jp": "観客",
+   "en": ""
+  },
+  {
+   "id": "name:094",
+   "off": 83996,
+   "max": 12,
+   "kind": "speaker",
+   "jp": "町田/花田",
+   "en": ""
+  },
+  {
+   "id": "name:095",
+   "off": 84012,
+   "max": 12,
+   "kind": "speaker",
+   "jp": "ジュニア",
+   "en": ""
+  },
+  {
+   "id": "name:096",
+   "off": 84028,
+   "max": 4,
+   "kind": "speaker",
+   "jp": "J",
+   "en": ""
+  },
+  {
+   "id": "name:097",
+   "off": 84036,
+   "max": 8,
+   "kind": "speaker",
+   "jp": "？？？",
+   "en": ""
+  },
+  {
+   "id": "name:098",
+   "off": 84048,
+   "max": 8,
+   "kind": "speaker",
+   "jp": "誠仮面",
+   "en": ""
+  },
+  {
+   "id": "name:099",
+   "off": 84060,
+   "max": 8,
+   "kind": "speaker",
+   "jp": "？？？",
+   "en": ""
+  }
+ ]
+}

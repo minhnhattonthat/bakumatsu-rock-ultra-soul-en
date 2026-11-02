@@ -1,0 +1,3066 @@
+{
+ "source": "oto14.bin",
+ "format": "mz-play",
+ "entries": [
+  {
+   "id": "oto14:0x424",
+   "off": 1060,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "君の",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x44c",
+   "off": 1100,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "中に",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x498",
+   "off": 1176,
+   "max": 12,
+   "kind": "lyric",
+   "jp": "絶えず雨が",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x4c4",
+   "off": 1220,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "降る",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x4ec",
+   "off": 1260,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "なら",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x538",
+   "off": 1336,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "僕が",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x560",
+   "off": 1376,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "雲を",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x5ac",
+   "off": 1452,
+   "max": 12,
+   "kind": "lyric",
+   "jp": "斬ってあげ",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x5d8",
+   "off": 1496,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "よう",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x600",
+   "off": 1536,
+   "max": 12,
+   "kind": "lyric",
+   "jp": "遠くまで",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x650",
+   "off": 1616,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "続く",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x69c",
+   "off": 1692,
+   "max": 16,
+   "kind": "lyric",
+   "jp": "かすかに残る",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x6cc",
+   "off": 1740,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "響き",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x760",
+   "off": 1888,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "感じ",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x788",
+   "off": 1928,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "てよ",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x7d4",
+   "off": 2004,
+   "max": 16,
+   "kind": "lyric",
+   "jp": "カラダ全てで",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x828",
+   "off": 2088,
+   "max": 20,
+   "kind": "lyric",
+   "jp": "憶えているかな？",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x958",
+   "off": 2392,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "暗闇に",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x9ec",
+   "off": 2540,
+   "max": 12,
+   "kind": "lyric",
+   "jp": "閉ざされた",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0xaa8",
+   "off": 2728,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "光",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0xaf0",
+   "off": 2800,
+   "max": 12,
+   "kind": "lyric",
+   "jp": "・",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0xb1c",
+   "off": 2844,
+   "max": 16,
+   "kind": "lyric",
+   "jp": "・・",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0xb4c",
+   "off": 2892,
+   "max": 16,
+   "kind": "lyric",
+   "jp": "・",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0xb7c",
+   "off": 2940,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "君に",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0xbc8",
+   "off": 3016,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "届く",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0xc14",
+   "off": 3092,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "まで",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0xc3c",
+   "off": 3132,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "耳",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0xc60",
+   "off": 3168,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "鳴りの",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0xcac",
+   "off": 3244,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "方向",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0xcd4",
+   "off": 3284,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "垣間",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0xcfc",
+   "off": 3324,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "見る",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0xd48",
+   "off": 3400,
+   "max": 12,
+   "kind": "lyric",
+   "jp": "",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0xd74",
+   "off": 3444,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0xd9c",
+   "off": 3484,
+   "max": 12,
+   "kind": "lyric",
+   "jp": "",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0xdc8",
+   "off": 3528,
+   "max": 12,
+   "kind": "lyric",
+   "jp": "",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0xe3c",
+   "off": 3644,
+   "max": 12,
+   "kind": "lyric",
+   "jp": "・",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0xe8c",
+   "off": 3724,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "虹",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0xeb0",
+   "off": 3760,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "架ける",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0xf20",
+   "off": 3872,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "かの",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0xf6c",
+   "off": 3948,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "ごとく",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0xf94",
+   "off": 3988,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "想像",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0xfe0",
+   "off": 4064,
+   "max": 12,
+   "kind": "lyric",
+   "jp": "飛び越え",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x1030",
+   "off": 4144,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "残響",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x18c8",
+   "off": 6344,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "君",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x1910",
+   "off": 6416,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "の",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x1934",
+   "off": 6452,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "中",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x197c",
+   "off": 6524,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "に",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x19a0",
+   "off": 6560,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "絶",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x19c4",
+   "off": 6596,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "え",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x19e8",
+   "off": 6632,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "ず",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x1a0c",
+   "off": 6668,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "雨",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x1a54",
+   "off": 6740,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "が",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x1a78",
+   "off": 6776,
+   "max": 12,
+   "kind": "lyric",
+   "jp": "降るなら",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x1aa4",
+   "off": 6820,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "僕",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x1aec",
+   "off": 6892,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "が",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x1b10",
+   "off": 6928,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "雲",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x1b58",
+   "off": 7000,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "を",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x1b7c",
+   "off": 7036,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "斬",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x1ba0",
+   "off": 7072,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "っ",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x1bc4",
+   "off": 7108,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "て",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x1be8",
+   "off": 7144,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "あ",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x1c0c",
+   "off": 7180,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "げ",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x1c30",
+   "off": 7216,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "よ",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x1c54",
+   "off": 7252,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "う",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x1c78",
+   "off": 7288,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "遠",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x1cc0",
+   "off": 7360,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "く",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x1ce4",
+   "off": 7396,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "ま",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x1d08",
+   "off": 7432,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "で",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x1d2c",
+   "off": 7468,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "続",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x1d74",
+   "off": 7540,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "く",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x1d98",
+   "off": 7576,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "か",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x1dbc",
+   "off": 7612,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "す",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x1de0",
+   "off": 7648,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "か",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x1e04",
+   "off": 7684,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "に",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x1e28",
+   "off": 7720,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "残",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x1e4c",
+   "off": 7756,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "る",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x1e70",
+   "off": 7792,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "響き",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x1ebc",
+   "off": 7868,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "感",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x1f04",
+   "off": 7940,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "じ",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x1f28",
+   "off": 7976,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "て",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x1f4c",
+   "off": 8012,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "よ",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x1f70",
+   "off": 8048,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "カ",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x1f94",
+   "off": 8084,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "ラ",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x1fb8",
+   "off": 8120,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "ダ",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x1fdc",
+   "off": 8156,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "全",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x2024",
+   "off": 8228,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "て",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x2048",
+   "off": 8264,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "で",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x206c",
+   "off": 8300,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "憶",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x20b4",
+   "off": 8372,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "え",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x20d8",
+   "off": 8408,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "て",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x20fc",
+   "off": 8444,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "いる",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x2124",
+   "off": 8484,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "か",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x2148",
+   "off": 8520,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "な？",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x2170",
+   "off": 8560,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "暗",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x21b8",
+   "off": 8632,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "闇",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x2200",
+   "off": 8704,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "に",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x2224",
+   "off": 8740,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "閉",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x2248",
+   "off": 8776,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "ざ",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x226c",
+   "off": 8812,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "さ",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x2290",
+   "off": 8848,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "れ",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x22b4",
+   "off": 8884,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "た",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x22d8",
+   "off": 8920,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "光",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x2344",
+   "off": 9028,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x236c",
+   "off": 9068,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x2394",
+   "off": 9108,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x23b8",
+   "off": 9144,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x23e0",
+   "off": 9184,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x2404",
+   "off": 9220,
+   "max": 12,
+   "kind": "lyric",
+   "jp": "",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x2430",
+   "off": 9264,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x2458",
+   "off": 9304,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "君",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x24a0",
+   "off": 9376,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "に",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x24c4",
+   "off": 9412,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "届",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x24e8",
+   "off": 9448,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "く",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x250c",
+   "off": 9484,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "ま",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x2530",
+   "off": 9520,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "で",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x2554",
+   "off": 9556,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "耳",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x259c",
+   "off": 9628,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "鳴",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x25c0",
+   "off": 9664,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "り",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x25e4",
+   "off": 9700,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "の",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x2608",
+   "off": 9736,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "方",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x262c",
+   "off": 9772,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "向",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x2650",
+   "off": 9808,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "垣",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x2698",
+   "off": 9880,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "間",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x26bc",
+   "off": 9916,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "見",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x26e0",
+   "off": 9952,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "る",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x2704",
+   "off": 9988,
+   "max": 12,
+   "kind": "lyric",
+   "jp": "",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x2754",
+   "off": 10068,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x27a0",
+   "off": 10144,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x27c8",
+   "off": 10184,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x27f0",
+   "off": 10224,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x2818",
+   "off": 10264,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x283c",
+   "off": 10300,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x2864",
+   "off": 10340,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x2888",
+   "off": 10376,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "虹",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x28d0",
+   "off": 10448,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "架",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x28f4",
+   "off": 10484,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "け",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x2918",
+   "off": 10520,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "る",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x293c",
+   "off": 10556,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "か",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x2960",
+   "off": 10592,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "の",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x2984",
+   "off": 10628,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "ご",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x29a8",
+   "off": 10664,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "と",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x29cc",
+   "off": 10700,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "く",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x29f0",
+   "off": 10736,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "想像",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x2a3c",
+   "off": 10812,
+   "max": 12,
+   "kind": "lyric",
+   "jp": "飛び越え",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x2ad4",
+   "off": 10964,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "残響",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x351c",
+   "off": 13596,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "君の",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x358c",
+   "off": 13708,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "中に",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x35fc",
+   "off": 13820,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "絶",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x3620",
+   "off": 13856,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "え",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x3644",
+   "off": 13892,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "ず",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x3668",
+   "off": 13928,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "雨",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x36b0",
+   "off": 14000,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "が",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x36d4",
+   "off": 14036,
+   "max": 12,
+   "kind": "lyric",
+   "jp": "降るなら",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x3748",
+   "off": 14152,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "僕が",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x37b8",
+   "off": 14264,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "雲を",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x3828",
+   "off": 14376,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "斬",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x384c",
+   "off": 14412,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "っ",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x3870",
+   "off": 14448,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "て",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x3894",
+   "off": 14484,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "あ",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x38b8",
+   "off": 14520,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "げ",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x38dc",
+   "off": 14556,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "よ",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x3900",
+   "off": 14592,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "う",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x3924",
+   "off": 14628,
+   "max": 12,
+   "kind": "lyric",
+   "jp": "遠くまで",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x39e0",
+   "off": 14816,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "続く",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x3a50",
+   "off": 14928,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "か",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x3a74",
+   "off": 14964,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "す",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x3a98",
+   "off": 15000,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "か",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x3abc",
+   "off": 15036,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "に",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x3ae0",
+   "off": 15072,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "残",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x3b04",
+   "off": 15108,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "る",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x3b28",
+   "off": 15144,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "響き",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x3bbc",
+   "off": 15292,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "感",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x3c04",
+   "off": 15364,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "じ",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x3c28",
+   "off": 15400,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "て",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x3c4c",
+   "off": 15436,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "よ",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x3c70",
+   "off": 15472,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "カ",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x3c94",
+   "off": 15508,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "ラ",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x3cb8",
+   "off": 15544,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "ダ",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x3cdc",
+   "off": 15580,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "全",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x3d24",
+   "off": 15652,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "て",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x3d48",
+   "off": 15688,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "で",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x3d6c",
+   "off": 15724,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "憶",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x3dd8",
+   "off": 15832,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "え",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x3dfc",
+   "off": 15868,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "て",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x3e20",
+   "off": 15904,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "いる",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x3e48",
+   "off": 15944,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "か",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x3e6c",
+   "off": 15980,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "な？",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x3e94",
+   "off": 16020,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "暗闇に",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x4024",
+   "off": 16420,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "閉",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x406c",
+   "off": 16492,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "ざ",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x40b4",
+   "off": 16564,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "さ",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x40fc",
+   "off": 16636,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "れ",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x4144",
+   "off": 16708,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "た",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x4168",
+   "off": 16744,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "光",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x41d4",
+   "off": 16852,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x41fc",
+   "off": 16892,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x4224",
+   "off": 16932,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x4248",
+   "off": 16968,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x42b8",
+   "off": 17080,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x4324",
+   "off": 17188,
+   "max": 12,
+   "kind": "lyric",
+   "jp": "",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x4374",
+   "off": 17268,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x439c",
+   "off": 17308,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "君",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x43e4",
+   "off": 17380,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "に",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x4408",
+   "off": 17416,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "届",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x4474",
+   "off": 17524,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "く",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x44e0",
+   "off": 17632,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "ま",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x4528",
+   "off": 17704,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "で",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x454c",
+   "off": 17740,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "耳",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x4594",
+   "off": 17812,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "鳴",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x45b8",
+   "off": 17848,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "り",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x4624",
+   "off": 17956,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "の",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x4690",
+   "off": 18064,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "方",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x46d8",
+   "off": 18136,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "向",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x46fc",
+   "off": 18172,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "垣",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x4744",
+   "off": 18244,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "間",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x4768",
+   "off": 18280,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "見",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x47d4",
+   "off": 18388,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "る",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x4840",
+   "off": 18496,
+   "max": 12,
+   "kind": "lyric",
+   "jp": "",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x48b4",
+   "off": 18612,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x4900",
+   "off": 18688,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x4928",
+   "off": 18728,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x4950",
+   "off": 18768,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x49c0",
+   "off": 18880,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x4a2c",
+   "off": 18988,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x4a78",
+   "off": 19064,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x4a9c",
+   "off": 19100,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "虹",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x4ae4",
+   "off": 19172,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "架",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x4b08",
+   "off": 19208,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "け",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x4b74",
+   "off": 19316,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "る",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x4be0",
+   "off": 19424,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "か",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x4c28",
+   "off": 19496,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "の",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x4c70",
+   "off": 19568,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "ご",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x4cb8",
+   "off": 19640,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "と",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x4d00",
+   "off": 19712,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "く",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x4d24",
+   "off": 19748,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "想像",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x4d70",
+   "off": 19824,
+   "max": 12,
+   "kind": "lyric",
+   "jp": "飛び越え",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x4e98",
+   "off": 20120,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "残響",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x5b20",
+   "off": 23328,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "君",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x5b8c",
+   "off": 23436,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "の",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x5bb0",
+   "off": 23472,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "中",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x5c1c",
+   "off": 23580,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "に",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x5c40",
+   "off": 23616,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "絶",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x5c64",
+   "off": 23652,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "え",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x5c88",
+   "off": 23688,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "ず",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x5cac",
+   "off": 23724,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "雨",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x5cf4",
+   "off": 23796,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "が",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x5d18",
+   "off": 23832,
+   "max": 12,
+   "kind": "lyric",
+   "jp": "降るなら",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x5dd4",
+   "off": 24020,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "僕",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x5e1c",
+   "off": 24092,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "が",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x5e40",
+   "off": 24128,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "雲",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x5eac",
+   "off": 24236,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "を",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x5ed0",
+   "off": 24272,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "斬",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x5ef4",
+   "off": 24308,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "っ",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x5f18",
+   "off": 24344,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "て",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x5f3c",
+   "off": 24380,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "あ",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x5f60",
+   "off": 24416,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "げ",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x5f84",
+   "off": 24452,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "よ",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x5fa8",
+   "off": 24488,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "う",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x5fcc",
+   "off": 24524,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "遠く",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x6060",
+   "off": 24672,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "ま",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x60a8",
+   "off": 24744,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "で",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x60cc",
+   "off": 24780,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "続く",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x6160",
+   "off": 24928,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "か",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x6184",
+   "off": 24964,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "す",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x61a8",
+   "off": 25000,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "か",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x61cc",
+   "off": 25036,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "に",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x61f0",
+   "off": 25072,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "残",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x625c",
+   "off": 25180,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "る",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x6280",
+   "off": 25216,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "響き",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x635c",
+   "off": 25436,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "感",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x6380",
+   "off": 25472,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "じ",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x63c8",
+   "off": 25544,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "て",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x63ec",
+   "off": 25580,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "よ",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x6410",
+   "off": 25616,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "カ",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x6434",
+   "off": 25652,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "ラ",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x6458",
+   "off": 25688,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "ダ",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x647c",
+   "off": 25724,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "全",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x64c4",
+   "off": 25796,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "て",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x64e8",
+   "off": 25832,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "で",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x650c",
+   "off": 25868,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "憶",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x6578",
+   "off": 25976,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "え",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x659c",
+   "off": 26012,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "て",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x65c0",
+   "off": 26048,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "いる",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x65e8",
+   "off": 26088,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "か",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x660c",
+   "off": 26124,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "な？",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x6634",
+   "off": 26164,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "暗",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x66a0",
+   "off": 26272,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "闇",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x6778",
+   "off": 26488,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "に",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x67c0",
+   "off": 26560,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "閉",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x6808",
+   "off": 26632,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "ざ",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x6850",
+   "off": 26704,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "さ",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x6898",
+   "off": 26776,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "れ",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x68e0",
+   "off": 26848,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "た",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x6904",
+   "off": 26884,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "光",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x6994",
+   "off": 27028,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x69bc",
+   "off": 27068,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x6a2c",
+   "off": 27180,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x6a74",
+   "off": 27252,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x6ae4",
+   "off": 27364,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x6b08",
+   "off": 27400,
+   "max": 12,
+   "kind": "lyric",
+   "jp": "",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x6b7c",
+   "off": 27516,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x6ba4",
+   "off": 27556,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "君に",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x6c38",
+   "off": 27704,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "届",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x6ca4",
+   "off": 27812,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "く",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x6d10",
+   "off": 27920,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "ま",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x6d34",
+   "off": 27956,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "で",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x6d58",
+   "off": 27992,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "耳",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x6da0",
+   "off": 28064,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "鳴",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x6dc4",
+   "off": 28100,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "り",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x6e30",
+   "off": 28208,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "の",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x6e9c",
+   "off": 28316,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "方",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x6f08",
+   "off": 28424,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "向",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x6f2c",
+   "off": 28460,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "垣",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x6f98",
+   "off": 28568,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "間",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x6fbc",
+   "off": 28604,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "見",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x7028",
+   "off": 28712,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "る",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x7094",
+   "off": 28820,
+   "max": 12,
+   "kind": "lyric",
+   "jp": "",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x712c",
+   "off": 28972,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x719c",
+   "off": 29084,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x71c4",
+   "off": 29124,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x71ec",
+   "off": 29164,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x725c",
+   "off": 29276,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x72c8",
+   "off": 29384,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x7338",
+   "off": 29496,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x735c",
+   "off": 29532,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "虹",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x73c8",
+   "off": 29640,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "架",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x73ec",
+   "off": 29676,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "け",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x7458",
+   "off": 29784,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "る",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x74c4",
+   "off": 29892,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "か",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x7530",
+   "off": 30000,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "の",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x7578",
+   "off": 30072,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "ご",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x75e4",
+   "off": 30180,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "と",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x7650",
+   "off": 30288,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "く",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x7674",
+   "off": 30324,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "想",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x7698",
+   "off": 30360,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "像",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x76e0",
+   "off": 30432,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "飛",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x7728",
+   "off": 30504,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "び",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x7770",
+   "off": 30576,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "越",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x77b8",
+   "off": 30648,
+   "max": 4,
+   "kind": "lyric",
+   "jp": "え",
+   "en": "",
+   "op": "0x2c"
+  },
+  {
+   "id": "oto14:0x7800",
+   "off": 30720,
+   "max": 8,
+   "kind": "lyric",
+   "jp": "残響",
+   "en": "",
+   "op": "0x2c"
+  }
+ ]
+}

@@ -9,8 +9,8 @@ parts), `b_*` (bonus/side episodes), `ED_*` (endings), `staffroll*`.
 
 ## Who is who
 - **Ryoma Sakamoto** (Tosa): wannabe rock star, optimist, speaks Tosa dialect. Came to Kyoto to make his songs heard.
-- **Shinsaku Takasugi** (Choshu): arrogant guitarist ("ore-sama"), loves daifuku. **Kogoro Katsura**: polite genius
-  inventor (gadgets like "Change-kun", a time machine). With Ryoma they form the rebel band.
+- **Shinsaku Takasugi** (Choshu): arrogant bassist ("ore-sama"), loves daifuku. **Kogoro Katsura**: polite genius
+  drummer and inventor (gadgets like "Change-kun", a time machine). With Ryoma they form the rebel band.
 - **Shinsengumi**: the shogunate's idol unit. **Toshizo Hijikata** (vice-commander, devoted to Commander **Isami
   Kondo**) and **Soji Okita** (top idol). Enemies at first; they later join Ryoma: the five become the band
   **Ultra Soul** (超魂團).

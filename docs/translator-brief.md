@@ -53,6 +53,9 @@ copy `%d`, `%s`, `%x` exactly.
 - Old men (the Tengu, elders: ワシ/じゃ/のう) keep an elder register ("lad", "eh?"); keeping only "Ho ho ho" is flat.
 - 『』 -> single quotes. ！ lines don't end in "?". Giggles (んふふ) are "Hehe"/"Tee hee", not "Mmhm".
 - When \fnt1 spans the whole JP box, the big text spans the whole English too.
+- The speaker column (`ryoma?`) is the last sprite loaded and is often wrong; take the speaker from the content.
+- Ruby words: translate the reading (glossary "Decisions from earlier batches"). Takasugi plays bass, Katsura drums.
+- A wordplay you adapt (a pun on 龍 = dragon, etc.): keep it short and report it as UNSURE.
 
 ## Consistency
 Never edit `glossary.md`. For a recurring name or term not in it, pick a form, use it consistently, and report it.

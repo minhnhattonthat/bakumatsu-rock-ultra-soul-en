@@ -24,7 +24,7 @@ SCRIPT = os.path.join(ROOT, 'script')
 TL = os.path.join(ROOT, 'work', 'tl')
 GLOSSARY = os.path.join(ROOT, 'glossary.md')
 CODE = re.compile(r'\\(?:fnt|col|sbl)\d+|%[0-9]*[dsx]')
-HONORIFICS = {'さん': '-san', 'くん': '-kun', '君': '-kun', 'ちゃん': '-chan', '様': '-sama', 'さま': '-sama', '殿': '-dono'}
+HONORIFICS = {'さん': '-san', 'くん': '-kun', '君': '-kun', 'ちゃん': '-chan', '様': '-sama', 'さま': '-sama', '殿': '-dono', '先生': '-sensei'}
 FORMS = {'dialogue': 'dlg', 'choice': 'choice', 'line': 'dlg'}
 
 
@@ -164,6 +164,27 @@ def wrap_dialogue(en):
     return lines
 
 
+def term_problems(jp, en, gl):
+    """Glossary problems for one JP/EN pair."""
+    probs, masked = [], jp  # longest term first; a term inside a longer matched one (慶喜 in 徳川慶喜) is not asked again
+    for tjp, ten, avoid in sorted(gl, key=lambda t: -len(t[0])):
+        for a in avoid:
+            if re.search(r'\b%s\b' % re.escape(a), en):
+                probs.append(f'"{a}" is in the glossary Avoid column for {tjp}')
+        if not ten or not has_term(masked, tjp):
+            continue
+        # name + honorific -> "Given-san" replaces the full name; lowercase EN = common noun, no honorific form
+        hon = [h for h in HONORIFICS if ten[0].isupper() and tjp + h in masked]
+        for h in hon:
+            need = ten.split()[0] + HONORIFICS[h]
+            if need.lower() not in en.lower():
+                probs.append(f'{tjp}{h} needs "{need}" (honorifics kept, D1)')
+        if not hon and ten.lower() not in en.lower():
+            probs.append(f'glossary {tjp} -> "{ten}" missing')
+        masked = masked.replace(tjp, '\0' * len(tjp))
+    return probs
+
+
 def check(b, ents=None, gl=None):
     """-> list of problems for batch b (empty = OK)."""
     ents = ents or entries()
@@ -208,15 +229,7 @@ def check(b, ents=None, gl=None):
             n = len(en.replace('\\n', '\n').encode('cp932' if e.get('encoding', 'cp932') != 'utf-8' else 'utf-8'))
             if n > e['max'] - 1:
                 probs.append(f'{i}: {n} bytes, max {e["max"] - 1}')
-        for tjp, ten, avoid in gl:
-            if has_term(jp, tjp) and ten and ten.lower() not in en.lower():
-                probs.append(f'{i}: glossary {tjp} -> "{ten}" missing')
-            for a in avoid:
-                if re.search(r'\b%s\b' % re.escape(a), en):
-                    probs.append(f'{i}: "{a}" is in the glossary Avoid column for {tjp}')
-            for h, eh in HONORIFICS.items():
-                if ten and tjp + h in jp and (ten.split()[0] + eh).lower() not in en.lower():
-                    probs.append(f'{i}: {tjp}{h} needs "{ten.split()[0]}{eh}" (honorifics kept, D1)')
+        probs += [f'{i}: {p}' for p in term_problems(jp, en, gl)]
         if re.search(r'\]\s?(st|nd|rd|th)\b', en):
             probs.append(f'{i}: ordinal suffix glued to a code')
     return probs

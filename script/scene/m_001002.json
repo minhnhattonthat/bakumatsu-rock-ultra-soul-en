@@ -8,7 +8,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "龍さん\\n歌はほどほどにして\\nおいた方がいいぜよ",
-   "en": "",
+   "en": "Ryo-san, you'd\\nbetter go easy on\\nthe singin'.",
    "op": "0x62",
    "msg": "0x01e5"
   },
@@ -18,7 +18,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "なんでじゃ？",
-   "en": "",
+   "en": "Why's that?",
    "op": "0x62",
    "msg": "0x01e6"
   },
@@ -28,7 +28,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "って　弥太郎　\\nお前  今までどこへ\\n行ってたんだ",
-   "en": "",
+   "en": "Hey, wait, Yataro!\\nWhere've you\\nbeen all this time?",
    "op": "0x62",
    "msg": "0x01e7"
   },
@@ -38,7 +38,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "どこって　大舞台の会場で\\n龍さんが武士と揉めてた\\nから　身を隠しとったぜよ",
-   "en": "",
+   "en": "Where? Back at\\nthe audition hall\\nyou were scufflin'\\nwith a samurai,\\nRyo-san, so I\\nwent and hid.",
    "op": "0x62",
    "msg": "0x01e8"
   },
@@ -48,7 +48,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "お　お前なぁ\\n親友なら助けるのが\\n筋ってもんだろうが！",
-   "en": "",
+   "en": "W-why, you... A\\nbest friend's\\ns'posed to help\\nout, ain't he!?",
    "op": "0x62",
    "msg": "0x01e9"
   },
@@ -58,7 +58,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "揉め事は範囲外\\nオレのような色男は\\n金と力はないのが相場ぜよ",
-   "en": "",
+   "en": "Brawls ain't my\\ndepartment. A\\nhandsome fella\\nlike me's got no\\nmoney or\\nmuscle--that's just\\nhow it goes.",
    "op": "0x62",
    "msg": "0x01ea"
   },
@@ -68,7 +68,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "お　おう……",
-   "en": "",
+   "en": "R-right...",
    "op": "0x62",
    "msg": "0x01eb"
   },
@@ -78,7 +78,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "で　話の続きじゃが",
-   "en": "",
+   "en": "So, back to what I\\nwas sayin'.",
    "op": "0x62",
    "msg": "0x01ec"
   },
@@ -88,7 +88,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "どうやら　ここ京では\\n免状のないモンが\\n勝手に歌うと――",
-   "en": "",
+   "en": "Seems here in\\nKyoto, if anybody\\nwithout a license\\ngoes and sings--",
    "op": "0x62",
    "msg": "0x01ed"
   },
@@ -98,7 +98,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "歌うと？",
-   "en": "",
+   "en": "If they sing?",
    "op": "0x62",
    "msg": "0x01ee"
   },
@@ -108,7 +108,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "\\fnt1\\col1死罪\\fnt0\\col0らしいぜよ",
-   "en": "",
+   "en": "It's \\fnt1\\col1the death\\npenalty\\fnt0\\col0,\\napparently.",
    "op": "0x62",
    "msg": "0x01ef"
   },
@@ -118,7 +118,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "なるほどなぁ……\\nって\\fnt1\\col1死罪\\fnt0\\col0",
-   "en": "",
+   "en": "I see... Wait,\\n\\fnt1\\col1DEATH\\fnt0\\col0!?",
    "op": "0x62",
    "msg": "0x01f0"
   },
@@ -128,7 +128,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "それじゃ土佐と\\n同じじゃねえか……",
-   "en": "",
+   "en": "Then it's no\\ndifferent from\\nTosa...",
    "op": "0x62",
    "msg": "0x01f1"
   },
@@ -138,7 +138,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "勝手に歌ったらいかん\\nってのはちらほらと\\n聞いておったが",
-   "en": "",
+   "en": "I'd heard here\\nand there that\\nyou ain't allowed\\nto sing as you\\nplease, but...",
    "op": "0x62",
    "msg": "0x01f2"
   },
@@ -148,7 +148,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "どうも　日本中が\\nそういうことに\\nなっているらしい",
-   "en": "",
+   "en": "Seems it's like\\nthat all over\\nJapan.",
    "op": "0x62",
    "msg": "0x01f3"
   },
@@ -158,7 +158,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "ただ　大舞台で認められて\\n免状さえ持っちょれば\\n問題ないようじゃ",
-   "en": "",
+   "en": "But if you pass\\nthe audition and\\nget a license,\\nthere's no\\nproblem, it seems.",
    "op": "0x62",
    "msg": "0x01f4"
   },
@@ -168,7 +168,7 @@
    "max": 80,
    "kind": "dialogue",
    "jp": "となると　まずは偉い\\n先生に認めてもらって\\n免状をもらわなくちゃ\\nいかんのか",
-   "en": "",
+   "en": "So first I gotta\\nget some big-shot\\nteacher to vouch\\nfor me, and get a\\nlicense?",
    "op": "0x62",
    "msg": "0x01f5"
   },
@@ -178,7 +178,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "しかし\\nそんなモンにアテはないし\\n困ったなぁ……",
-   "en": "",
+   "en": "But I don't know\\nanybody like\\nthat... What a fix...",
    "op": "0x62",
    "msg": "0x01f6"
   },
@@ -188,7 +188,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "紹介状なら\\nアテがあるぜよ",
-   "en": "",
+   "en": "If it's a letter of\\nintroduction you\\nneed, I got an\\nidea.",
    "op": "0x62",
    "msg": "0x01f7"
   },
@@ -198,7 +198,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "お前　京に\\nそんな知り合いが\\nおるんか",
-   "en": "",
+   "en": "You know\\nsomebody like\\nthat in Kyoto?",
    "op": "0x62",
    "msg": "0x01f8"
   },
@@ -208,7 +208,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "ほら　龍さんにギターを\\nくれた　モジャモジャの\\nおっさんぜよ",
-   "en": "",
+   "en": "Y'know, that\\nshaggy old fella\\nwho gave you\\nyour guitar,\\nRyo-san.",
    "op": "0x62",
    "msg": "0x01f9"
   },
@@ -218,7 +218,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "自称　偉い先生なんじゃろ\\n大舞台への紹介状ぐらい\\n書いてくれるかもしれん",
-   "en": "",
+   "en": "Calls himself a\\nbig-shot teacher,\\nright? He might\\nwrite you a letter\\nfor the audition.",
    "op": "0x62",
    "msg": "0x01fa"
   },
@@ -228,7 +228,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "それだ！\\n今まで　思いつきも\\nしなかった！",
-   "en": "",
+   "en": "That's it! It never\\neven crossed my\\nmind!",
    "op": "0x62",
    "msg": "0x01fb"
   },
@@ -238,7 +238,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "わしに京へ行け\\n言うたんはあの先生だ\\nきっと書いてくれる！",
-   "en": "",
+   "en": "He's the one who\\ntold me to go to\\nKyoto! He'll write\\nit for sure!",
    "op": "0x62",
    "msg": "0x01fc"
   },
@@ -248,7 +248,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "よし　その先生とやらの\\n似顔絵を描いてくれれば\\nオレも捜してみる",
-   "en": "",
+   "en": "Alright, if you\\ndraw me a picture\\nof this teacher,\\nI'll look for him\\ntoo.",
    "op": "0x62",
    "msg": "0x01fd"
   },
@@ -258,7 +258,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "おう！　ちょっと待てよ\\nこうモジャモジャで……\\nこんな感じの……できた！",
-   "en": "",
+   "en": "Sure! Hang on...\\nAll shaggy like\\nthis... kinda like...\\ndone!",
    "op": "0x62",
    "msg": "0x01fe"
   },
@@ -268,7 +268,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "我ながら　そっくりに\\n描けたと思うんだが",
-   "en": "",
+   "en": "If I do say so\\nmyself, it's a dead\\nringer.",
    "op": "0x62",
    "msg": "0x01ff"
   },
@@ -278,7 +278,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "こ　これは人か？\\nモジャモジャすぎる気が\\nするぜよ……",
-   "en": "",
+   "en": "I-is this even a\\nperson? Seems a\\nbit too shaggy...",
    "op": "0x62",
    "msg": "0x0200"
   },
@@ -288,7 +288,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "わしの記憶は確かだ\\nこんくらいモジャモジャで\\nかっこよかった！",
-   "en": "",
+   "en": "My memory's rock\\nsolid! He was this\\nshaggy, and real\\ncool!",
    "op": "0x62",
    "msg": "0x0201"
   },
@@ -298,7 +298,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "これ\\nかっこええか？",
-   "en": "",
+   "en": "This... is cool?",
    "op": "0x62",
    "msg": "0x0202"
   },
@@ -308,7 +308,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "かっこええだろ？\\nとにかく　偉い先生だと\\n言うておった",
-   "en": "",
+   "en": "Cool, right?\\nAnyway, he said\\nhe was a big-shot\\nteacher.",
    "op": "0x62",
    "msg": "0x0203"
   },
@@ -318,7 +318,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "まあ　龍さんが\\n偉い先生や言うなら\\n問題ないか",
-   "en": "",
+   "en": "Well, if you say\\nhe's a big-shot\\nteacher, Ryo-san,\\nguess it's fine.",
    "op": "0x62",
    "msg": "0x0204"
   },
@@ -328,7 +328,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "よーし　明日から\\nこの人を捜しに\\n行くぜよ！",
-   "en": "",
+   "en": "Alright! Startin'\\ntomorrow, I'm\\ngoin' lookin' for\\nthis guy!",
    "op": "0x62",
    "msg": "0x0205"
   },
@@ -338,7 +338,7 @@
    "max": 92,
    "kind": "dialogue",
    "jp": "翌日から龍馬はテラーダの\\n仕事の合間を縫っては\\n土佐で会った謎の旅人\\n捜しを始めたのだった",
-   "en": "",
+   "en": "From the next\\nday, between jobs\\nat the Terada,\\nRyoma began\\nsearching for the\\nmysterious\\ntraveler he had\\nmet in Tosa.",
    "op": "0x62",
    "msg": "0x0206"
   },
@@ -348,7 +348,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "すまんが　\\nこん紙に描いてあるような\\n人を知らんか？",
-   "en": "",
+   "en": "Sorry to bother\\nya, but d'you\\nknow anybody\\nwho looks like the\\nfella on this\\npaper?",
    "op": "0x62",
    "msg": "0x0207"
   },
@@ -358,7 +358,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "いやぁ\\n知らないなぁ",
-   "en": "",
+   "en": "Nope, can't say I\\ndo.",
    "op": "0x62",
    "msg": "0x0208"
   },
@@ -368,7 +368,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "そっちのあんたは\\n知らんか？",
-   "en": "",
+   "en": "How 'bout you\\nthere?",
    "op": "0x62",
    "msg": "0x0209"
   },
@@ -378,7 +378,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "って言ってもこの絵だけで\\n名前もわからんのじゃねえ",
-   "en": "",
+   "en": "Even so, with just\\nthis picture and\\nno name...",
    "op": "0x62",
    "msg": "0x020a"
   },
@@ -388,7 +388,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "そうか……",
-   "en": "",
+   "en": "I see...",
    "op": "0x62",
    "msg": "0x020b"
   },
@@ -398,7 +398,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "しかし　京の都は広い\\n名前も知らぬ男を\\n捜すのは簡単なこと\\nではなかった",
-   "en": "",
+   "en": "But the capital,\\nKyoto, was vast.\\nFinding a man\\nwhose name he\\ndidn't know was\\nno easy task.",
    "op": "0x62",
    "msg": "0x020c"
   },
@@ -408,7 +408,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "いや　ここで簡単に\\n諦めるわけにはいかんぜよ",
-   "en": "",
+   "en": "No, I can't give up\\nthat easy!",
    "op": "0x62",
    "msg": "0x020d"
   },
@@ -418,7 +418,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "わしの歌を\\n認めてもらうためにも\\n捜しださんと！",
-   "en": "",
+   "en": "I gotta find him,\\nso my songs can\\nget recognized!",
    "op": "0x62",
    "msg": "0x020e"
   },
@@ -428,7 +428,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "しかし\\n龍馬は諦めない",
-   "en": "",
+   "en": "Still, Ryoma did\\nnot give up.",
    "op": "0x62",
    "msg": "0x020f"
   },
@@ -438,7 +438,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "それにあれから練習した\\n歌をモジャの先生に\\n聴いて欲しいぜよ",
-   "en": "",
+   "en": "Besides, I want\\nShaggy Sensei to\\nhear the songs\\nI've practiced\\nsince then.",
    "op": "0x62",
    "msg": "0x0210"
   },
@@ -448,7 +448,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "元気だといいなあ\\nモジャモジャの先生",
-   "en": "",
+   "en": "Hope he's doin'\\nwell, the Shaggy\\nSensei.",
    "op": "0x62",
    "msg": "0x0211"
   },
@@ -458,7 +458,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "よっしゃ！　明日は\\nあっちの方を捜すぜよ！",
-   "en": "",
+   "en": "Alright!\\nTomorrow I'll\\nsearch over that\\nway!",
    "op": "0x62",
    "msg": "0x0212"
   },
@@ -468,7 +468,7 @@
    "max": 116,
    "kind": "dialogue",
    "jp": "テラーダでの仕事に精を\\n出しながらも　毎日毎日\\nモジャモジャの先生捜しに\\nそして歌の練習にと\\n奔走するのであった",
-   "en": "",
+   "en": "Working hard at\\nthe Terada, he\\nran around every\\nsingle day,\\nhunting for the\\nShaggy Sensei\\nand practicing his\\nsongs.",
    "op": "0x62",
    "msg": "0x0213"
   },
@@ -478,7 +478,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "龍ちゃん　ちょっと！\\n出前の配達は",
-   "en": "",
+   "en": "Ryo-chan, hold\\non! What about\\nthe delivery?",
    "op": "0x62",
    "msg": "0x0214"
   },
@@ -488,7 +488,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "すまんがやっといてくれ\\n大事な用があるんだ！",
-   "en": "",
+   "en": "Sorry, can you\\nhandle it? I got\\nsomethin'\\nimportant to do!",
    "op": "0x62",
    "msg": "0x0215"
   },
@@ -498,7 +498,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "もう！　最近はすーぐ\\nどっか行くんだから！",
-   "en": "",
+   "en": "Honestly! Lately\\nyou're always\\nrunning off\\nsomewhere!",
    "op": "0x62",
    "msg": "0x0216"
   },

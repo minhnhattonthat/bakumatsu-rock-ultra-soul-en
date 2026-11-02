@@ -8,7 +8,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "貴様達に真の平等を\\n与えるのが　我の使命",
-   "en": "",
+   "en": "It is my mission to\\ngrant you true\\nequality.",
    "op": "0x62",
    "msg": "0x2274"
   },
@@ -18,7 +18,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "人々が自分の都合で\\n好き放題していては\\n泰平の世など望めない",
-   "en": "",
+   "en": "So long as people\\ndo whatever they\\nplease for their\\nown convenience,\\na world of peace\\nis beyond hope.",
    "op": "0x62",
    "msg": "0x2275"
   },
@@ -28,7 +28,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "井伊\\nそれは違う！",
-   "en": "",
+   "en": "Ii, you got it all\\nwrong!",
    "op": "0x62",
    "msg": "0x2276"
   },
@@ -38,7 +38,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "好き勝手にワガママを\\n言うのと自由にするのは\\n違う！",
-   "en": "",
+   "en": "Throwin' selfish\\ntantrums and\\nbein' free ain't the\\nsame thing!",
    "op": "0x62",
    "msg": "0x2277"
   },
@@ -48,7 +48,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "喜びだけじゃない\\n苦しみ　悲しみ\\nそれすら分かち合って",
-   "en": "",
+   "en": "Not just the\\njoy--the pain, the\\nsorrow, sharin'\\neven that...",
    "op": "0x62",
    "msg": "0x2278"
   },
@@ -58,7 +58,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "みんなで前に進むのが\\n真の泰平だろう！",
-   "en": "",
+   "en": "...and movin'\\nforward\\ntogether--that's\\ntrue peace, ain't\\nit!?",
    "op": "0x62",
    "msg": "0x2279"
   },
@@ -68,7 +68,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "そんな綺麗事を認める\\nわけにはいかんのだよ",
-   "en": "",
+   "en": "I'm afraid I\\ncannot accept\\nsuch pretty\\nideals.",
    "op": "0x62",
    "msg": "0x227a"
   },
@@ -78,7 +78,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "解き放たれた人々が\\n暴徒と化して　いずれは\\n戦になるだろう",
-   "en": "",
+   "en": "Unleashed, the\\npeople will turn\\ninto a mob, and\\nsooner or later,\\nthere will be war.",
    "op": "0x62",
    "msg": "0x227b"
   },
@@ -88,7 +88,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "そんなことはない！",
-   "en": "",
+   "en": "That ain't true!",
    "op": "0x62",
    "msg": "0x227c"
   },
@@ -98,7 +98,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "楽しく歌って過ごす方が\\n泰平だって　みんな\\nわかってるはずじゃ！",
-   "en": "",
+   "en": "Everybody oughta\\nknow that singin'\\nand havin' fun\\ntogether is what\\npeace really is!",
    "op": "0x62",
    "msg": "0x227d"
   },
@@ -108,7 +108,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "思い上がるな！\\n下郎が",
-   "en": "",
+   "en": "Do not flatter\\nyourself, you\\npeasant!",
    "op": "0x62",
    "msg": "0x227e"
   },
@@ -118,7 +118,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "我の天歌で\\n真の泰平の意味を\\n理解させてやろう！",
-   "en": "",
+   "en": "With my Heaven's\\nSong, I shall make\\nyou understand\\nwhat true peace\\nmeans!",
    "op": "0x62",
    "msg": "0x227f"
   },
@@ -128,7 +128,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "ヒジゾーさん\\nソウちん\\n援護を頼むぜよ",
-   "en": "",
+   "en": "Hijizo-san!\\nSo-chin! Back me\\nup, I'm countin'\\non ya!",
    "op": "0x62",
    "msg": "0x2280"
   },
@@ -138,7 +138,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "任せろ\\n坂本",
-   "en": "",
+   "en": "Leave it to me,\\nSakamoto.",
    "op": "0x62",
    "msg": "0x2281"
   },
@@ -148,7 +148,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "存分に歌って！\\nトサカくん！",
-   "en": "",
+   "en": "Sing your heart\\nout, Tosaka-kun!",
    "op": "0x62",
    "msg": "0x2282"
   },
@@ -158,7 +158,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "シンディ！\\nセンセーも！\\n頼んだぜよ！",
-   "en": "",
+   "en": "Shindy! You too,\\nSensei! I'm\\ncountin' on ya!",
    "op": "0x62",
    "msg": "0x2283"
   },
@@ -168,7 +168,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "オレ様を差し置いて\\n頼んだもクソもあるかよ！\\n死ぬ気で歌え！",
-   "en": "",
+   "en": "\"Counting on\"\\nthem, and you\\nskip the great\\nTakasugi!? Just\\nsing like your life\\ndepends on it!",
    "op": "0x62",
    "msg": "0x2284"
   },
@@ -178,7 +178,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "準備万端だよ！\\nさあ　はじめよう",
-   "en": "",
+   "en": "Everything is\\nready! Now, let us\\nbegin.",
    "op": "0x62",
    "msg": "0x2285"
   },
@@ -188,7 +188,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "その時\\n五つに分かたれていた\\n片魂（ピースソウル）が\\n光を放ち始めた",
-   "en": "",
+   "en": "At that moment,\\nthe Piece Souls,\\nwhich had been\\nsplit into five,\\nbegan to glow.",
    "op": "0x62",
    "msg": "0x2286"
   },
@@ -198,7 +198,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "その光は\\n踊るように近づいて\\nひとつの大きな\\n光に変わる",
-   "en": "",
+   "en": "The lights drew\\ncloser as if\\ndancing, and\\nturned into one\\ngreat light.",
    "op": "0x62",
    "msg": "0x2287"
   },
@@ -208,7 +208,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "……これはっ！\\n超魂の輝き",
-   "en": "",
+   "en": "...This is...! The\\nradiance of the\\nUltra Soul!",
    "op": "0x62",
    "msg": "0x2288"
   },
@@ -218,7 +218,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "今こそ\\n魂をひとつにして\\n歌おう",
-   "en": "",
+   "en": "Now's the time to\\nmake our souls\\none and sing!",
    "op": "0x62",
    "msg": "0x2290"
   },
@@ -228,7 +228,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "キタキタキタぁぁぁ！\\nこのリズムぜよ！\\nこの音色ぜよぉぉぉおお！",
-   "en": "",
+   "en": "Here it comes,\\nhere it comes,\\nhere it COMES!\\nThis rhythm! This\\nsoooound!",
    "op": "0x62",
    "msg": "0x2289"
   },
@@ -238,7 +238,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "無限の熱情がわき上がる！\\n魂が震えるぜよ！\\nもう止められない！",
-   "en": "",
+   "en": "Endless passion's\\nwelling up! My\\nsoul's shakin'!\\nThere's no\\nstoppin' it now!",
    "op": "0x62",
    "msg": "0x228a"
   },
@@ -248,7 +248,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "井伊！\\nわしらのロックを聴け！\\nわしらの歌を受けとめろ！",
-   "en": "",
+   "en": "Ii! Listen to our\\nrock! Take our\\nsong head-on!",
    "op": "0x62",
    "msg": "0x228b"
   },
@@ -258,7 +258,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "うぉぉおおおおお！",
-   "en": "",
+   "en": "Wooooaaahhh!",
    "op": "0x62",
    "msg": "0x228c"
   },
@@ -268,7 +268,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "これが――\\nわしが――",
-   "en": "",
+   "en": "This is-- I am--",
    "op": "0x62",
    "msg": "0x228d"
   },
@@ -278,7 +278,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "ロックじゃぁぁぁぁあああ",
-   "en": "",
+   "en": "ROOOOOCK,\\ny'hear!",
    "op": "0x62",
    "msg": "0x228e"
   },
@@ -288,7 +288,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "\\fnt1烈（レッツ）\\nロックンロォォル\\fnt0",
-   "en": "",
+   "en": "\\fnt1Let's rock 'n'\\nrooooll!\\fnt0",
    "op": "0x62",
    "msg": "0x228f"
   }

@@ -25,9 +25,9 @@ an `Avoid` spelling fails. Name + honorific (龍馬さん) must come out as `Ryo
 |---|---|---|---|---|
 | 坂本龍馬 | Ryoma Sakamoto | | lead guitar/vocals, Tosa | Sakamoto Ryoma |
 | 龍馬 | Ryoma | | | Ryouma |
-| 高杉晋作 | Shinsaku Takasugi | | guitar, Choshu, self-styled "ore-sama" | Takasugi Shinsaku |
+| 高杉晋作 | Shinsaku Takasugi | | bass (ベース), Choshu, self-styled "ore-sama" | Takasugi Shinsaku |
 | 高杉 | Takasugi | | | |
-| 桂小五郎 | Kogoro Katsura | | bass/keys, inventor | Katsura Kogoro |
+| 桂小五郎 | Kogoro Katsura | | drums (ドラム), inventor | Katsura Kogoro |
 | 桂 | Katsura | | | |
 | 土方歳三 | Toshizo Hijikata | | Shinsengumi vice-commander | Toshizou |
 | 土方 | Hijikata | | | |
@@ -64,7 +64,7 @@ an `Avoid` spelling fails. Name + honorific (龍馬さん) must come out as `Ryo
 | センセー | Sensei | | Ryoma's name for Katsura | |
 | テンちゃん | Ten-chan | | the Tengu | |
 | 龍ちゃん | Ryo-chan | | Otose's name for Ryoma | |
-| 女将 | Landlady | | Otose | |
+| 女将 | landlady | | Otose; 女将さん -> plain "landlady" (lowercase = no "-san" form) | |
 
 ## Places
 | JP | EN | max | notes | Avoid |
@@ -94,6 +94,12 @@ an `Avoid` spelling fails. Name + honorific (龍馬さん) must come out as `Ryo
 | 天歌師範 | Heaven's Song master | | | |
 | 黒船 | Black Ships | | 黒船来航 -> the arrival of the Black Ships | |
 | 六絃琴 | six-string | | Ryoma's guitar | |
+| 千塵万華 | Alter Soul | | Ii's curse technique, 千塵万華（オルターソウル） | |
+| 雷舞券 | ticket | | 雷舞券（チケット） -> live ticket | |
+| 局長 | Commander | | Kondo (Shinsengumi) | |
+| 副長 | Vice-Commander | | Hijikata | |
+| 一番隊組長 | First Unit | | Okita: "Captain of the (Shinsengumi's) First Unit" | |
+| 見回り隊 | patrol | | 見回り隊探知機（レーダー） -> patrol radar | |
 
 ## Phrases
 - 京 -> Kyoto (京の都 -> "the capital, Kyoto" / "Kyoto"). 烈（レッツ）ロックンロォォル -> "Let's rock 'n' rooooll!".
@@ -102,4 +108,23 @@ an `Avoid` spelling fails. Name + honorific (龍馬さん) must come out as `Ryo
 - モジャモジャの先生 -> the Shaggy Sensei. 龍さん (Yataro) -> Ryo-san. お登勢やん -> Otose-yan. ♪ -> ~.
 
 ## Decisions from earlier batches
-- (none yet)
+- Ruby words (JP（English reading）): use the reading. 火威斗（ビート） beat, 仲間（メンバー） member/bandmate, 志士（ロッカー）
+  rebel rocker, 煌（ファン） fan, 喩似尊（ユニゾン） unison, 旋律（メロディ） melody, 入魂（ソウルフル） soulful, 合奏（セッション）
+  session. Plain 仲間 -> comrade(s)/friends; 同志 -> "share the same cause"; 腐れ縁 -> "stuck with each other".
+- Nicknames: 晋作 (Katsura) Shinsaku; トシ (Kondo) Toshi; 晋ちゃん / 五郎ちゃん (Otose) Shin-chan / Goro-chan;
+  総司様 / 総司くん (fans) Soji-sama / Soji-kun. 御神祖様 -> our divine founder (Ieyasu). 選抜隊士 / 選抜雷舞 -> select
+  members / select live.
+- お発勢 -> Ohase (Otose's cousin; Ohase-yan / Ohase-san). 大老 -> Great Elder (Ii). 泰平化 -> pacification/pacified.
+  突風雷舞 -> guerrilla live (巡回突風雷舞 touring guerrilla lives). イケダヤン -> Ikedayan. 鳳舞合奏（フェニックスライジング）
+  Phoenix Rising; 鳳舞（フェニックスダンス） Phoenix Dance; 囚須（トランス） trance; 天使の双璧（ユニット） the Angelic Duo;
+  瓦落多（ガラクタ） junk; 蓄音機 phonograph; メガネくん Glasses-kun; 若年寄 (teasing Katsura) young fogey.
+  雷ロックンロール (Takasugi) -> "Thunder rock 'n' roll!". 烈シンギング -> "Let's SING!".
+- 雷舞屋（ライブハウス） live house; 最高雷舞屋（メジャーライブハウス） major live house; 愛獲笑顔（アイドルスマイル） idol smile;
+  癒声（ヒーリングボイス） healing voice; 雷光（スパーク） spark; 稽古（リハーサル） rehearsal; 稽古場（スタジオ） studio;
+  エレキテル elekiter (エレキ electricity); 平賀源内 Gennai Hiraga; 超スベールＸ Super Slipperoo X; 隊士 troopers;
+  スカシくん (Okita to Takasugi) Mr. Poser; 天然 natural-born airhead; 敵（ライバル） rival; 団主（ダンス） dance;
+  大伝聞（ニュース） big news; 御用改めである "This is an official inspection!"; 未来来る（ミラクル） MIRACLE;
+  解散 (Takasugi's catchphrase) "We're breaking up!"; お兄ちゃん (a child, to Ryoma) mister.
+- Food/props: ハリセン paper fan; 鰹のたたき seared bonito; おはぎ ohagi.
+- Running gag バカボケナス野郎 -> "stupid, bonehead, turnip-brained jackass" (same wording every time).
+- Speaker tags in the batch TSVs (`ryoma?`) are the last sprite loaded, often wrong: read the speaker from content.

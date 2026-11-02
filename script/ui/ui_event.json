@@ -8,7 +8,7 @@
    "max": 64,
    "kind": "title",
    "jp": "？？？？",
-   "en": ""
+   "en": "????"
   },
   {
    "id": "ui_event:0x5c",
@@ -16,7 +16,7 @@
    "max": 64,
    "kind": "title",
    "jp": "龍馬覚醒",
-   "en": ""
+   "en": "Ryoma Awakens"
   },
   {
    "id": "ui_event:0xa4",
@@ -24,7 +24,7 @@
    "max": 64,
    "kind": "title",
    "jp": "出会い",
-   "en": ""
+   "en": "Encounter"
   },
   {
    "id": "ui_event:0xec",
@@ -32,7 +32,7 @@
    "max": 64,
    "kind": "title",
    "jp": "慶喜と直弼",
-   "en": ""
+   "en": "Yoshinobu and Naosuke"
   },
   {
    "id": "ui_event:0x134",
@@ -40,7 +40,7 @@
    "max": 64,
    "kind": "title",
    "jp": "新選組雷舞",
-   "en": ""
+   "en": "Shinsengumi Live"
   },
   {
    "id": "ui_event:0x17c",
@@ -48,7 +48,7 @@
    "max": 64,
    "kind": "title",
    "jp": "三人の雷舞",
-   "en": ""
+   "en": "The Three's Live"
   },
   {
    "id": "ui_event:0x1c4",
@@ -56,7 +56,7 @@
    "max": 64,
    "kind": "title",
    "jp": "大立ち回り！",
-   "en": ""
+   "en": "Big Brawl!"
   },
   {
    "id": "ui_event:0x20c",
@@ -64,7 +64,7 @@
    "max": 64,
    "kind": "title",
    "jp": "踏みつけ沖田",
-   "en": ""
+   "en": "Stomping Okita"
   },
   {
    "id": "ui_event:0x254",
@@ -72,7 +72,7 @@
    "max": 64,
    "kind": "title",
    "jp": "鳳舞合奏！",
-   "en": ""
+   "en": "Phoenix Rising!"
   },
   {
    "id": "ui_event:0x29c",
@@ -80,7 +80,7 @@
    "max": 64,
    "kind": "title",
    "jp": "龍馬ＶＳ沖田",
-   "en": ""
+   "en": "Ryoma vs. Okita"
   },
   {
    "id": "ui_event:0x2e4",
@@ -88,7 +88,7 @@
    "max": 64,
    "kind": "title",
    "jp": "近藤と沖田",
-   "en": ""
+   "en": "Kondo and Okita"
   },
   {
    "id": "ui_event:0x32c",
@@ -96,7 +96,7 @@
    "max": 64,
    "kind": "title",
    "jp": "別れ",
-   "en": ""
+   "en": "Farewell"
   },
   {
    "id": "ui_event:0x374",
@@ -104,7 +104,7 @@
    "max": 64,
    "kind": "title",
    "jp": "高杉乱入！",
-   "en": ""
+   "en": "Takasugi Crashes In!"
   },
   {
    "id": "ui_event:0x3bc",
@@ -112,7 +112,7 @@
    "max": 64,
    "kind": "title",
    "jp": "松陰と天狗",
-   "en": ""
+   "en": "Shoin and the Tengu"
   },
   {
    "id": "ui_event:0x404",
@@ -120,7 +120,7 @@
    "max": 64,
    "kind": "title",
    "jp": "龍馬復活！",
-   "en": ""
+   "en": "Ryoma's Revival!"
   },
   {
    "id": "ui_event:0x44c",
@@ -128,7 +128,7 @@
    "max": 64,
    "kind": "title",
    "jp": "大江戸天歌祭！",
-   "en": ""
+   "en": "Great Edo Heaven's Song Festival!"
   },
   {
    "id": "ui_event:0x494",
@@ -136,7 +136,7 @@
    "max": 64,
    "kind": "title",
    "jp": "激闘！桜田門外！",
-   "en": ""
+   "en": "Fierce Battle! Outside Sakurada Gate!"
   },
   {
    "id": "ui_event:0x4dc",
@@ -144,7 +144,7 @@
    "max": 64,
    "kind": "title",
    "jp": "井伊の最期",
-   "en": ""
+   "en": "Ii's Final Moments"
   },
   {
    "id": "ui_event:0x524",
@@ -152,7 +152,7 @@
    "max": 64,
    "kind": "title",
    "jp": "慶喜の異変！",
-   "en": ""
+   "en": "Something's Wrong with Yoshinobu!"
   },
   {
    "id": "ui_event:0x56c",
@@ -160,7 +160,7 @@
    "max": 64,
    "kind": "title",
    "jp": "五人の海外雷舞",
-   "en": ""
+   "en": "The Five's Overseas Live"
   },
   {
    "id": "ui_event:0x5b4",
@@ -168,7 +168,7 @@
    "max": 64,
    "kind": "title",
    "jp": "夢",
-   "en": ""
+   "en": "Dream"
   },
   {
    "id": "ui_event:0x5fc",
@@ -176,7 +176,7 @@
    "max": 64,
    "kind": "title",
    "jp": "ジュニア降臨",
-   "en": ""
+   "en": "Junior Descends"
   },
   {
    "id": "ui_event:0x644",
@@ -184,7 +184,7 @@
    "max": 64,
    "kind": "title",
    "jp": "誠仮面登場",
-   "en": ""
+   "en": "Makoto Mask Appears"
   },
   {
    "id": "ui_event:0x68c",
@@ -192,7 +192,7 @@
    "max": 64,
    "kind": "title",
    "jp": "特訓",
-   "en": ""
+   "en": "Special Training"
   },
   {
    "id": "ui_event:0x6d4",
@@ -200,7 +200,7 @@
    "max": 64,
    "kind": "title",
    "jp": "乱入ぜよ！",
-   "en": ""
+   "en": "Crashin' In!"
   },
   {
    "id": "ui_event:0x71c",
@@ -208,7 +208,7 @@
    "max": 64,
    "kind": "title",
    "jp": "超魂團VSジュニア",
-   "en": ""
+   "en": "Ultra Soul vs. Junior"
   },
   {
    "id": "ui_event:0x764",
@@ -216,7 +216,7 @@
    "max": 64,
    "kind": "title",
    "jp": "超魂解放",
-   "en": ""
+   "en": "Ultra Soul Unleashed"
   }
  ]
 }

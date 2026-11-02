@@ -8,7 +8,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "はあ　歌った　歌った\\n今日の雷舞は\\n最高だったぜよ！",
-   "en": "",
+   "en": "Whew, we sang\\nour hearts out!\\nToday's live was\\nthe best, I tell ya!",
    "op": "0x62",
    "msg": "0x218b"
   },
@@ -18,7 +18,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "オレ様の熱い演奏に\\nみんな釘付けだった\\nからな",
-   "en": "",
+   "en": "Everyone was\\nglued to the great\\nTakasugi's\\nred-hot playing,\\nafter all.",
    "op": "0x62",
    "msg": "0x218c"
   },
@@ -28,7 +28,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "みんな喜んでましたね\\n新しいお客さんも\\nずいぶんと増えましたし",
-   "en": "",
+   "en": "Everyone was\\ndelighted. And\\nwe've gained\\nquite a lot of new\\nlisteners, too.",
    "op": "0x62",
    "msg": "0x218d"
   },
@@ -38,7 +38,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "龍馬達の奮闘で\\n徳川の怨霊も鎮まり\\n世は真の泰平を\\n取り戻しつつあった",
-   "en": "",
+   "en": "Through the\\nefforts of Ryoma\\nand friends, the\\nTokugawa spirits\\nwere laid to rest,\\nand true peace\\nwas returning to\\nthe world.",
    "op": "0x62",
    "msg": "0x218e"
   },
@@ -48,7 +48,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "天歌による洗脳も\\n徐々に解け\\nロックが人々に\\n受け入れられはじめたのだ",
-   "en": "",
+   "en": "The Heaven's\\nSong\\nbrainwashing was\\ngradually fading,\\nand people had\\nbegun to accept\\nrock.",
    "op": "0x62",
    "msg": "0x218f"
   },
@@ -58,7 +58,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "ロックを堂々と歌えるまで\\n平和になったのは\\n素晴らしいことじゃなー",
-   "en": "",
+   "en": "Things are so\\npeaceful now we\\ncan sing rock\\nright out in the\\nopen. Ain't that\\nwonderful!",
    "op": "0x62",
    "msg": "0x2190"
   },
@@ -68,7 +68,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "なあ　シンディ\\nセンセー",
-   "en": "",
+   "en": "Right, Shindy?\\nSensei?",
    "op": "0x62",
    "msg": "0x2191"
   },
@@ -78,7 +78,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "なにを他人事みたいに\\n言ってやがるんだ\\nのんきな野郎だな",
-   "en": "",
+   "en": "Talking like it's\\nsomebody else's\\nbusiness. What a\\ncarefree idiot.",
    "op": "0x62",
    "msg": "0x2192"
   },
@@ -88,7 +88,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "龍馬くんには\\n自分のお手柄だなんて\\n意識はないんですって",
-   "en": "",
+   "en": "Apparently\\nRyoma-kun has\\nno idea any of it\\nwas his own\\ndoing.",
    "op": "0x62",
    "msg": "0x2193"
   },
@@ -98,7 +98,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "だからムカつくんだよ",
-   "en": "",
+   "en": "That's exactly\\nwhat ticks me off.",
    "op": "0x62",
    "msg": "0x2194"
   },
@@ -108,7 +108,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "おおっ　坂本龍馬さんと\\nその一味だ",
-   "en": "",
+   "en": "Ooh! It's Ryoma\\nSakamoto-san and\\nhis gang!",
    "op": "0x62",
    "msg": "0x2195"
   },
@@ -118,7 +118,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "誰が一味だ　誰が！",
-   "en": "",
+   "en": "Who're you\\ncalling his gang!?",
    "op": "0x62",
    "msg": "0x2196"
   },
@@ -128,7 +128,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "新選組の土方さんと\\n沖田さんとの五人の雷舞\\nめちゃめちゃ良かった！",
-   "en": "",
+   "en": "That five-man\\nlive with\\nHijikata-san and\\nOkita-san of the\\nShinsengumi was\\ntotally awesome!",
    "op": "0x62",
    "msg": "0x2197"
   },
@@ -138,7 +138,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "わはは　気に入って\\nもらえたなら\\nわしもうれしいぜよ！",
-   "en": "",
+   "en": "Wahaha! If ya\\nliked it, that\\nmakes me happy\\ntoo!",
    "op": "0x62",
    "msg": "0x2198"
   },
@@ -148,7 +148,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "次の雷舞も楽しみに\\nしてますよ！\\n頑張って下さい！",
-   "en": "",
+   "en": "We're looking\\nforward to the\\nnext live! Keep it\\nup!",
    "op": "0x62",
    "msg": "0x2199"
   },
@@ -158,7 +158,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "おう　わしはいつだって\\n全力で歌ってるぜよ\\nわはははは！",
-   "en": "",
+   "en": "You bet! I always\\nsing with\\neverything I've\\ngot! Wahahaha!",
    "op": "0x62",
    "msg": "0x219a"
   },
@@ -168,7 +168,7 @@
    "max": 8,
    "kind": "dialogue",
    "jp": "……",
-   "en": "",
+   "en": "...",
    "op": "0x62",
    "msg": "0x219b"
   },
@@ -178,7 +178,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "どうかしましたか　晋作",
-   "en": "",
+   "en": "Is something the\\nmatter, Shinsaku?",
    "op": "0x62",
    "msg": "0x219c"
   },
@@ -188,7 +188,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "いや　なんでもねえ",
-   "en": "",
+   "en": "Nah, it's nothing.",
    "op": "0x62",
    "msg": "0x219d"
   },
@@ -198,7 +198,7 @@
    "max": 116,
    "kind": "dialogue",
    "jp": "町をゆく人々に歓迎されて\\n手放しで喜ぶ龍馬と\\n今ひとつ顔色が優れない\\n高杉の顔を　桂は不安な\\n面持ちで見比べていた",
-   "en": "",
+   "en": "Katsura looked\\nanxiously from\\nRyoma, overjoyed\\nat the townsfolk's\\nwelcome, to\\nTakasugi, whose\\nface seemed\\nsomewhat gloomy.",
    "op": "0x62",
    "msg": "0x219e"
   },
@@ -208,7 +208,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "だからー！\\n何でそこでつっ走るんだよ",
-   "en": "",
+   "en": "I'm telling you!\\nWhy do you rush\\nahead right\\nthere!?",
    "op": "0x62",
    "msg": "0x219f"
   },
@@ -218,7 +218,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "いやあ　夢中になると\\nつい走ってしまうぜよ",
-   "en": "",
+   "en": "Aw, when I get\\ninto it, I just can't\\nhelp runnin'\\nahead.",
    "op": "0x62",
    "msg": "0x21a0"
   },
@@ -228,7 +228,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "バカか\\n少しは落ち着いて\\n周りの音を聴け！",
-   "en": "",
+   "en": "Idiot! Calm down\\na little and listen\\nto the sound\\naround you!",
    "op": "0x62",
    "msg": "0x21a1"
   },
@@ -238,7 +238,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "晋作は　龍馬くんに\\n合わせる気は\\nないんですか",
-   "en": "",
+   "en": "Shinsaku, don't\\nyou intend to\\nmatch\\nRyoma-kun?",
    "op": "0x62",
    "msg": "0x21a2"
   },
@@ -248,7 +248,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "あのなあ　桂さん\\n龍馬がオレ様に合わせる\\n気がねえんだよ",
-   "en": "",
+   "en": "Look,\\nKatsura-san, it's\\nRyoma who has\\nno intention of\\nmatching the\\ngreat Takasugi.",
    "op": "0x62",
    "msg": "0x21a3"
   },
@@ -258,7 +258,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "晋作なら龍馬くんに\\n合わせることが出来ると\\n思いますよ？",
-   "en": "",
+   "en": "I think you could\\nmatch\\nRyoma-kun,\\nShinsaku.",
    "op": "0x62",
    "msg": "0x21a4"
   },
@@ -268,7 +268,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "オレ様の技術なら\\n合わせることは出来る\\nただ合わせるだけならな",
-   "en": "",
+   "en": "With skills like\\nmine, sure, I can\\nmatch him. If all\\nit took was\\nmatching.",
    "op": "0x62",
    "msg": "0x21a5"
   },
@@ -278,7 +278,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "不本意なんですか？",
-   "en": "",
+   "en": "You're not happy\\nwith that?",
    "op": "0x62",
    "msg": "0x21a6"
   },
@@ -288,7 +288,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "オレ様は龍馬に合わせる\\nことがロックだとは\\n思わないんだ",
-   "en": "",
+   "en": "I just don't think\\nmatching Ryoma\\nis rock.",
    "op": "0x62",
    "msg": "0x21a7"
   },
@@ -298,7 +298,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "それに桂さんに合わせる\\nことだって　オレ様は\\nロックと思っちゃいねえ",
-   "en": "",
+   "en": "And matching you\\nisn't rock either,\\nKatsura-san, not\\nto yours truly.",
    "op": "0x62",
    "msg": "0x21a8"
   },
@@ -308,7 +308,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "私もですか？\\n晋作はご機嫌斜め\\nなんですねぇ",
-   "en": "",
+   "en": "Me too? You're in\\nquite a mood,\\nShinsaku.",
    "op": "0x62",
    "msg": "0x21a9"
   },
@@ -318,7 +318,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "そんなんじゃねぇ！\\nだいたい桂さんは……",
-   "en": "",
+   "en": "That's not it!\\nBesides,\\nKatsura-san,\\nyou...",
    "op": "0x62",
    "msg": "0x21aa"
   },
@@ -328,7 +328,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "わわっ　ケンカは\\nよくないぜよー",
-   "en": "",
+   "en": "Whoa whoa,\\nfightin' ain't good!",
    "op": "0x62",
    "msg": "0x21ab"
   },
@@ -338,7 +338,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "龍馬くん\\nケンカじゃないから\\n気にしないで下さい",
-   "en": "",
+   "en": "Ryoma-kun, it's\\nnot a fight, so\\nplease don't\\nworry.",
    "op": "0x62",
    "msg": "0x21ac"
   },
@@ -348,7 +348,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "いや　しかし\\n言い争いしていると\\n気が気じゃないぜよ～",
-   "en": "",
+   "en": "Well, but... you\\ntwo arguin' sets\\nmy nerves on\\nedge!",
    "op": "0x62",
    "msg": "0x21ad"
   },
@@ -358,7 +358,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "優しいですね　龍馬くん\\nでも　これは私と晋作の\\n問題のようですから",
-   "en": "",
+   "en": "You're so kind,\\nRyoma-kun. But\\nthis seems to be\\nbetween Shinsaku\\nand me.",
    "op": "0x62",
    "msg": "0x21ae"
   },
@@ -368,7 +368,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "ここは　二人だけで話を\\nさせてもらえませんか？",
-   "en": "",
+   "en": "Would you let the\\ntwo of us talk\\nalone?",
    "op": "0x62",
    "msg": "0x21af"
   },
@@ -378,7 +378,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "わかったぜよ\\nセンセーがそう言うなら\\nでもケンカはダメぜよ",
-   "en": "",
+   "en": "Got it. If Sensei\\nsays so. But no\\nfightin', y'hear?",
    "op": "0x62",
    "msg": "0x21b0"
   },
@@ -388,7 +388,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "龍馬は桂と高杉の\\n肩を軽く叩くと\\n部屋から出て行った",
-   "en": "",
+   "en": "Ryoma patted\\nKatsura and\\nTakasugi lightly\\non the shoulder\\nand left the room.",
    "op": "0x62",
    "msg": "0x21b1"
   },
@@ -398,7 +398,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "晋作は　私や龍馬くんに\\n合わせるのは\\n嫌だと言うのですか？",
-   "en": "",
+   "en": "Shinsaku, are you\\nsaying you don't\\nwant to match me\\nor Ryoma-kun?",
    "op": "0x62",
    "msg": "0x21b2"
   },
@@ -408,7 +408,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "嫌だとは言ってねえ\\nただ　ずっとこのままで\\nいいのか　桂さん？",
-   "en": "",
+   "en": "I never said I\\ndon't want to. But\\nis it okay for\\nthings to stay like\\nthis forever,\\nKatsura-san?",
    "op": "0x62",
    "msg": "0x21b3"
   },
@@ -418,7 +418,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "どういうことかな？",
-   "en": "",
+   "en": "What do you\\nmean?",
    "op": "0x62",
    "msg": "0x21b4"
   },
@@ -428,7 +428,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "龍馬と組んで雷舞をやって\\n俺達の人気はうなぎ登りだ",
-   "en": "",
+   "en": "Since we teamed\\nup with Ryoma\\nfor lives, our\\npopularity's been\\nskyrocketing.",
    "op": "0x62",
    "msg": "0x21b5"
   },
@@ -438,7 +438,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "それに京では新選組と\\n人気を二分したって噂だ",
-   "en": "",
+   "en": "And word is, in\\nKyoto we're\\nsplitting the\\ncrowd fifty-fifty\\nwith the\\nShinsengumi.",
    "op": "0x62",
    "msg": "0x21b6"
   },
@@ -448,7 +448,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "江戸での人気は新選組以上\\nだとも聞いていますね",
-   "en": "",
+   "en": "I've also heard\\nthat in Edo we're\\neven more\\npopular than the\\nShinsengumi.",
    "op": "0x62",
    "msg": "0x21b7"
   },
@@ -458,7 +458,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "オレ様は　その人気が\\nつまらねえんだ",
-   "en": "",
+   "en": "All that\\npopularity... it\\nbores me.",
    "op": "0x62",
    "msg": "0x21b8"
   },
@@ -468,7 +468,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "人気が出ているのに？",
-   "en": "",
+   "en": "Even though\\nwe're popular?",
    "op": "0x62",
    "msg": "0x21b9"
   },
@@ -478,7 +478,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "なぜだろうな　桂さん\\nオレ様が求めているもの\\nとは　何かが違うんだ",
-   "en": "",
+   "en": "Why is that,\\nKatsura-san? It's\\njust not what I'm\\nafter, somehow.",
    "op": "0x62",
    "msg": "0x21ba"
   },
@@ -488,7 +488,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "オレ様はもっとこう……\\nもっと……なにか",
-   "en": "",
+   "en": "I want something\\nmore... more...\\nsomething.",
    "op": "0x62",
    "msg": "0x21bb"
   },
@@ -498,7 +498,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "晋作の贔屓だという若者が\\n寺子屋で組（バンド）を\\n作った話を聞いても？",
-   "en": "",
+   "en": "Even when you\\nhear about the\\nyoungsters who\\ncall themselves\\nyour fans\\nforming a band at\\nthe temple\\nschool?",
    "op": "0x62",
    "msg": "0x21bc"
   },
@@ -508,7 +508,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "そりゃ　いやな気分じゃ\\nねえけど　でも\\nオレ様には実感がねえんだ",
-   "en": "",
+   "en": "Sure, that doesn't\\nfeel bad, but... it\\njust doesn't feel\\nreal to me.",
    "op": "0x62",
    "msg": "0x21bd"
   },
@@ -518,7 +518,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "桂さんは今の状況に\\n満足してるのか？",
-   "en": "",
+   "en": "Are you satisfied\\nwith how things\\nare now,\\nKatsura-san?",
    "op": "0x62",
    "msg": "0x21be"
   },
@@ -528,7 +528,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "正直に告白すると\\n人気のおかげで顔が\\nバレてしまっていて",
-   "en": "",
+   "en": "To be honest,\\nthanks to our\\npopularity,\\npeople recognize\\nmy face now...",
    "op": "0x62",
    "msg": "0x21bf"
   },
@@ -538,7 +538,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "発明の材料集め中に\\n人が寄ってきてしまって\\n拾うことができないんです",
-   "en": "",
+   "en": "...so when I'm\\ngathering\\nmaterials for my\\ninventions,\\npeople crowd\\naround and I can't\\npick anything up.",
    "op": "0x62",
    "msg": "0x21c0"
   },
@@ -548,7 +548,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "……ゴミ拾いは\\nやめてもいいと思う",
-   "en": "",
+   "en": "...Maybe you could\\nquit picking up\\ngarbage.",
    "op": "0x62",
    "msg": "0x21c1"
   },
@@ -558,7 +558,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "ゴミじゃなく宝です！",
-   "en": "",
+   "en": "It's not garbage,\\nit's treasure!",
    "op": "0x62",
    "msg": "0x21c2"
   },
@@ -568,7 +568,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "ま　そういう点では\\nちょっぴり窮屈ですね",
-   "en": "",
+   "en": "Well, in that\\nsense, it's a little\\nstifling.",
    "op": "0x62",
    "msg": "0x21c3"
   },
@@ -578,7 +578,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "晋作も窮屈だと\\n思っているのかな？",
-   "en": "",
+   "en": "Do you find it\\nstifling too,\\nShinsaku?",
    "op": "0x62",
    "msg": "0x21c4"
   },
@@ -588,7 +588,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "窮屈ってよりつまらねえ",
-   "en": "",
+   "en": "Not stifling so\\nmuch as boring.",
    "op": "0x62",
    "msg": "0x21c5"
   },
@@ -598,7 +598,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "でも……\\nなんでつまらないのか\\n自分でもわからねえんだ",
-   "en": "",
+   "en": "But... I don't even\\nknow myself why\\nit's boring.",
    "op": "0x62",
    "msg": "0x21c6"
   },
@@ -608,7 +608,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "龍馬くんと三人で始めた\\n時は　大変だったけれど\\n楽しかったですね",
-   "en": "",
+   "en": "When the three\\nof us started out\\nwith Ryoma-kun,\\nit was hard, but it\\nwas fun, wasn't\\nit?",
    "op": "0x62",
    "msg": "0x21c7"
   },
@@ -618,7 +618,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "ああ　命懸けのことも\\nあったが　だからこそ\\nやり甲斐もあったな",
-   "en": "",
+   "en": "Yeah. Our lives\\nwere on the line\\nsometimes, but\\nthat's what made\\nit worth it.",
    "op": "0x62",
    "msg": "0x21c8"
   },
@@ -628,7 +628,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "障害が多かったからこそ\\nやり甲斐もありましたね",
-   "en": "",
+   "en": "It was worth it\\nprecisely because\\nthere were so\\nmany obstacles.",
    "op": "0x62",
    "msg": "0x21c9"
   },
@@ -638,7 +638,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "ああ　やり遂げた時の\\n達成感はハンパないし\\n今でも忘れちゃいねえ",
-   "en": "",
+   "en": "Yeah. The rush\\nwhen we pulled it\\noff was insane. I\\nstill haven't\\nforgotten it.",
    "op": "0x62",
    "msg": "0x21ca"
   },
@@ -648,7 +648,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "忘れられないですか",
-   "en": "",
+   "en": "You can't forget\\nit?",
    "op": "0x62",
    "msg": "0x21cb"
   },
@@ -658,7 +658,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "当たり前だ\\n忘れるもんかよ",
-   "en": "",
+   "en": "Obviously. Like I'd\\never forget.",
    "op": "0x62",
    "msg": "0x21cc"
   },
@@ -668,7 +668,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "ふふ　晋作　ロックと\\n恋はちょっと似てますね",
-   "en": "",
+   "en": "Hehe. Shinsaku,\\nrock and love are\\na little alike,\\naren't they?",
    "op": "0x62",
    "msg": "0x21cd"
   },
@@ -678,7 +678,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "なんだよ　桂さん\\n藪から棒に",
-   "en": "",
+   "en": "What's that,\\nKatsura-san? Out\\nof nowhere.",
    "op": "0x62",
    "msg": "0x21ce"
   },
@@ -688,7 +688,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "恋をした時の気持ちって\\n忘れられないでしょう？",
-   "en": "",
+   "en": "You can never\\nforget how it\\nfeels to fall in\\nlove, can you?",
    "op": "0x62",
    "msg": "0x21cf"
   },
@@ -698,7 +698,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "まあ……な\\nたぶん　そうだろう",
-   "en": "",
+   "en": "Well... yeah.\\nProbably.",
    "op": "0x62",
    "msg": "0x21d0"
   },
@@ -708,7 +708,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "それに障害が多いほど\\n燃えるところも\\n恋とロックは似ています",
-   "en": "",
+   "en": "And love and rock\\nare alike in\\nburning hotter\\nthe more\\nobstacles there\\nare.",
    "op": "0x62",
    "msg": "0x21d1"
   },
@@ -718,7 +718,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "……そうか！",
-   "en": "",
+   "en": "...That's it!",
    "op": "0x62",
    "msg": "0x21d2"
   },
@@ -728,7 +728,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "オレ様のロックに必要\\nなのはそれだったのか！",
-   "en": "",
+   "en": "So THAT's what\\nmy rock needs!",
    "op": "0x62",
    "msg": "0x21d3"
   },
@@ -738,7 +738,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "うん？　つまらない\\n理由がわかりましたか？",
-   "en": "",
+   "en": "Hm? Have you\\nfigured out why\\nit's boring?",
    "op": "0x62",
    "msg": "0x21d4"
   },
@@ -748,7 +748,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "ああ　桂さん\\nやっとわかったぜ\\nこれでスッキリしそうだ",
-   "en": "",
+   "en": "Yeah,\\nKatsura-san. I\\nfinally get it. This\\noughta clear my\\nhead.",
    "op": "0x62",
    "msg": "0x21d5"
   },
@@ -758,7 +758,7 @@
    "max": 88,
    "kind": "dialogue",
    "jp": "高杉はベースの弦を\\n調整（チューニング）しつつ\\n晴れ晴れとした表情を\\n浮かべたのだった",
-   "en": "",
+   "en": "Tuning the\\nstrings of his\\nbass, Takasugi\\nwore a clear,\\nbright look on his\\nface.",
    "op": "0x62",
    "msg": "0x21d6"
   },
@@ -768,7 +768,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "わしらの歌を\\n最後まで聴いてくれて\\nありがとう！",
-   "en": "",
+   "en": "Thanks for\\nlistenin' to our\\nsongs all the way\\nto the end!",
    "op": "0x62",
    "msg": "0x21d7"
   },
@@ -778,7 +778,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "きゃーっ！\\n龍馬さーん　ステキー！",
-   "en": "",
+   "en": "Kyaaa!\\nRyoma-saaan!\\nYou're amazing!",
    "op": "0x62",
    "msg": "0x21d8"
   },
@@ -788,7 +788,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "シンディ！　カッコイイ！\\n次も絶対来るからーっ！",
-   "en": "",
+   "en": "Shindy! So cool!\\nI'm totally coming\\nnext time!",
    "op": "0x62",
    "msg": "0x21d9"
   },
@@ -798,7 +798,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "ありがとうなーっ！\\n次の雷舞も頼むぜよーっ",
-   "en": "",
+   "en": "Thanks a bunch!\\nCome out to our\\nnext live too!",
    "op": "0x62",
    "msg": "0x21da"
   },
@@ -808,7 +808,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "龍馬が観客の歓声に\\n応えた　その時――\\n高杉は言う",
-   "en": "",
+   "en": "Just as Ryoma\\nanswered the\\ncheers of the\\naudience...\\nTakasugi spoke.",
    "op": "0x62",
    "msg": "0x21db"
   },
@@ -818,7 +818,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "すまねえ\\n次はねえんだ",
-   "en": "",
+   "en": "Sorry. There's no\\nnext time.",
    "op": "0x62",
    "msg": "0x21dc"
   },
@@ -828,7 +828,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "え？　ええっ？\\n次はないって……",
-   "en": "",
+   "en": "Huh? Whaaat? No\\nnext time...?",
    "op": "0x62",
    "msg": "0x21dd"
   },
@@ -838,7 +838,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "オレ様は今日限りで\\n組から抜ける",
-   "en": "",
+   "en": "As of today, I'm\\nleaving the band.",
    "op": "0x62",
    "msg": "0x21de"
   },
@@ -848,7 +848,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "えええっ\\nシンディ　抜けるって\\nなんじゃ",
-   "en": "",
+   "en": "Whaaat!? Shindy,\\nwhat d'ya mean,\\nleavin'?",
    "op": "0x62",
    "msg": "0x21df"
   },
@@ -858,7 +858,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "まさか　こんなに早く\\n言い出すとは\\n思いませんでしたね……",
-   "en": "",
+   "en": "I didn't think he'd\\nbring it up this\\nsoon...",
    "op": "0x62",
    "msg": "0x21e0"
   },
@@ -868,7 +868,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "高杉が抜けると聞いて\\n騒然とする観客に向かって\\n高杉は語りかける",
-   "en": "",
+   "en": "To the audience\\nin an uproar at\\nthe news,\\nTakasugi spoke.",
    "op": "0x62",
    "msg": "0x21e1"
   },
@@ -878,7 +878,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "オレ様は龍馬や桂さんと\\n組んで今日までロックを\\nやって来た",
-   "en": "",
+   "en": "I've played rock\\nwith Ryoma and\\nKatsura-san all\\nthis time.",
    "op": "0x62",
    "msg": "0x21e2"
   },
@@ -888,7 +888,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "命懸けだったが\\n楽しかったって\\n桂さんとも話したんだ",
-   "en": "",
+   "en": "We risked our\\nlives, but it was\\nfun. Katsura-san\\nand I talked about\\nthat, too.",
    "op": "0x62",
    "msg": "0x21e3"
   },
@@ -898,7 +898,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "だったら\\nなぜ抜けるなんて\\n言い出すんじゃ？",
-   "en": "",
+   "en": "Then why're ya\\nsayin' you'll leave?",
    "op": "0x62",
    "msg": "0x21e4"
   },
@@ -908,7 +908,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "今のまま安穏と過ごすのは\\nオレ様の性にあって\\nねえんだよ　龍馬",
-   "en": "",
+   "en": "Coasting along\\nlike this just isn't\\nmy style, Ryoma.",
    "op": "0x62",
    "msg": "0x21e5"
   },
@@ -918,7 +918,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "オレ様はオレ様の\\nロックを\\n見つけてぇ",
-   "en": "",
+   "en": "The great\\nTakasugi wants to\\nfind his own rock.",
    "op": "0x62",
    "msg": "0x21e6"
   },
@@ -928,7 +928,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "寂しいこと言うなよ\\nシンディ\\nこれからも一緒にやろう",
-   "en": "",
+   "en": "Don't say\\nsomethin' so\\nlonesome, Shindy.\\nLet's keep playin'\\ntogether!",
    "op": "0x62",
    "msg": "0x21e7"
   },
@@ -938,7 +938,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "いや　オレ様は決めた！\\n新しい　オレ様のロックを\\n探しに行く",
-   "en": "",
+   "en": "No, my mind's\\nmade up! I'm\\ngoing to go find a\\nnew rock all my\\nown.",
    "op": "0x62",
    "msg": "0x21e8"
   },
@@ -948,7 +948,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "本気ですか　晋作",
-   "en": "",
+   "en": "Are you serious,\\nShinsaku?",
    "op": "0x62",
    "msg": "0x21e9"
   },
@@ -958,7 +958,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "ああ　オレ様は本気だぜ",
-   "en": "",
+   "en": "Yeah. Dead\\nserious.",
    "op": "0x62",
    "msg": "0x21ea"
   },
@@ -968,7 +968,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "考え直してくれんか\\nシンディ　わしらは\\n三人でひとつなんじゃ",
-   "en": "",
+   "en": "Won't ya\\nreconsider,\\nShindy? The\\nthree of us are\\none!",
    "op": "0x62",
    "msg": "0x21eb"
   },
@@ -978,7 +978,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "すまねえな　龍馬",
-   "en": "",
+   "en": "Sorry, Ryoma.",
    "op": "0x62",
    "msg": "0x21ec"
   },
@@ -988,7 +988,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "そこをなんとか！",
-   "en": "",
+   "en": "C'mon, please!",
    "op": "0x62",
    "msg": "0x21ed"
   },
@@ -998,7 +998,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "龍馬くん　止めても無駄\\nのようですよ",
-   "en": "",
+   "en": "Ryoma-kun, it\\nlooks like there's\\nno stopping him.",
    "op": "0x62",
    "msg": "0x21ee"
   },
@@ -1008,7 +1008,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "そこまで言うのなら\\n覚悟は出来ていますね\\n晋作？",
-   "en": "",
+   "en": "If you've gone\\nthis far, you're\\nprepared, aren't\\nyou, Shinsaku?",
    "op": "0x62",
    "msg": "0x21ef"
   },
@@ -1018,7 +1018,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "当然だ　桂さん\\n男に二言はねえよ",
-   "en": "",
+   "en": "Of course,\\nKatsura-san. A\\nman doesn't take\\nback his word.",
    "op": "0x62",
    "msg": "0x21f0"
   },
@@ -1028,7 +1028,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "次に会う時はお互いに\\n好敵手（ライバル）に\\nなりますよ？",
-   "en": "",
+   "en": "The next time we\\nmeet, we'll be\\nrivals, you know?",
    "op": "0x62",
    "msg": "0x21f1"
   },
@@ -1038,7 +1038,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "願ってもねえことだ\\nそうならねえと\\n抜ける意味がねえからな",
-   "en": "",
+   "en": "Couldn't ask for\\nmore. Otherwise,\\nthere's no point in\\nleaving.",
    "op": "0x62",
    "msg": "0x21f2"
   },
@@ -1048,7 +1048,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "上等です　晋作\\n龍馬くん　私達の組は\\n解散しましょう",
-   "en": "",
+   "en": "Very well,\\nShinsaku.\\nRyoma-kun, let's\\nbreak up our\\nband.",
    "op": "0x62",
    "msg": "0x21f3"
   },
@@ -1058,7 +1058,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "えええええっ\\nセンセーまで　何を\\n言い出すぜよ～～！",
-   "en": "",
+   "en": "Whaaaaat!?\\nSensei, you too!?\\nWhat're ya sayin'!?",
    "op": "0x62",
    "msg": "0x21f4"
   },
@@ -1068,7 +1068,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "解散か……さんざん　\\n言ってきたけどな",
-   "en": "",
+   "en": "Breaking up,\\nhuh... I've said it\\nplenty of times.",
    "op": "0x62",
    "msg": "0x21f5"
   },
@@ -1078,7 +1078,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "そうじゃ！　シンディは\\n一日三回は解散だと\\n言うとったぜよ",
-   "en": "",
+   "en": "That's right!\\nShindy said\\n\"We're breaking\\nup!\" three times a\\nday!",
    "op": "0x62",
    "msg": "0x21f6"
   },
@@ -1088,7 +1088,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "だから　今度だって……",
-   "en": "",
+   "en": "So this time too...",
    "op": "0x62",
    "msg": "0x21f7"
   },
@@ -1098,7 +1098,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "今度こそ本当に解散だ\\n理由は音楽性の違いだ！",
-   "en": "",
+   "en": "This time we're\\nbreaking up for\\nreal! Reason:\\nmusical\\ndifferences!",
    "op": "0x62",
    "msg": "0x21f8"
   },
@@ -1108,7 +1108,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "シンディ……",
-   "en": "",
+   "en": "Shindy...",
    "op": "0x62",
    "msg": "0x21f9"
   },
@@ -1118,7 +1118,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "そんな泣きそうな顔を\\nするな　龍馬",
-   "en": "",
+   "en": "Don't make that\\nface like you're\\nabout to cry,\\nRyoma.",
    "op": "0x62",
    "msg": "0x21fa"
   },
@@ -1128,7 +1128,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "お前はもう　\\n一人（ソロ）で十分\\nやっていける！",
-   "en": "",
+   "en": "You can make it\\njust fine solo now!",
    "op": "0x62",
    "msg": "0x21fb"
   },
@@ -1138,7 +1138,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "そうですよ　龍馬くん\\nそれに　解散を言い出した\\nのは　晋作でなく私です",
-   "en": "",
+   "en": "That's right,\\nRyoma-kun.\\nBesides, I'm the\\none who proposed\\nbreaking up, not\\nShinsaku.",
    "op": "0x62",
    "msg": "0x21fc"
   },
@@ -1148,7 +1148,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "センセー……\\nじゃ　ホントに解散か？",
-   "en": "",
+   "en": "Sensei... so we're\\nreally breakin'\\nup?",
    "op": "0x62",
    "msg": "0x21fd"
   },
@@ -1158,7 +1158,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "はい　私達はそれぞれの\\nロックを　これから\\n目指しましょうね",
-   "en": "",
+   "en": "Yes. From now on,\\nlet's each pursue\\nour own rock.",
    "op": "0x62",
    "msg": "0x21fe"
   },
@@ -1168,7 +1168,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "センセー……\\n止めても無駄か？",
-   "en": "",
+   "en": "Sensei... no use\\ntryin' to stop ya?",
    "op": "0x62",
    "msg": "0x21ff"
   },
@@ -1178,7 +1178,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "わがままでごめんね\\n龍馬くん",
-   "en": "",
+   "en": "Sorry for being so\\nselfish,\\nRyoma-kun.",
    "op": "0x62",
    "msg": "0x2200"
   },
@@ -1188,7 +1188,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "いや　わがままとは\\n思ってないんじゃ\\nセンセー",
-   "en": "",
+   "en": "Nah, I don't think\\nyou're bein'\\nselfish, Sensei.",
    "op": "0x62",
    "msg": "0x2201"
   },
@@ -1198,7 +1198,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "でも　わしは寂しいぜよ\\nうおおおーっ",
-   "en": "",
+   "en": "But I'm gonna\\nmiss ya! Waaaaah!",
    "op": "0x62",
    "msg": "0x2202"
   },
@@ -1208,7 +1208,7 @@
    "max": 88,
    "kind": "dialogue",
    "jp": "観客の上げる悲鳴の中\\n高杉と桂は　観客達に\\n眩しい笑顔で一礼して\\n舞台を降りたのだった",
-   "en": "",
+   "en": "Amid the screams\\nof the audience,\\nTakasugi and\\nKatsura bowed to\\nthe crowd with\\ndazzling smiles\\nand left the\\nstage.",
    "op": "0x62",
    "msg": "0x2203"
   },
@@ -1218,7 +1218,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "そして　龍馬も　寂しげに\\n振り返りながら　舞台を　\\n去った……",
-   "en": "",
+   "en": "And Ryoma, too,\\nleft the stage,\\nlooking back\\nwistfully...",
    "op": "0x62",
    "msg": "0x2204"
   },
@@ -1228,7 +1228,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "徳川の泰平化を阻止した\\n伝説の組はこうして\\n解散したのだった",
-   "en": "",
+   "en": "And so the\\nlegendary band\\nthat had thwarted\\nthe Tokugawa\\npacification broke\\nup.",
    "op": "0x62",
    "msg": "0x2205"
   },
@@ -1238,7 +1238,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "おー　いたいた！\\nシンディ！",
-   "en": "",
+   "en": "Hey, there ya are!\\nShindy!",
    "op": "0x62",
    "msg": "0x2206"
   },
@@ -1248,7 +1248,7 @@
    "max": 8,
    "kind": "dialogue",
    "jp": "晋作！",
-   "en": "",
+   "en": "Shinsaku!",
    "op": "0x62",
    "msg": "0x2207"
   },
@@ -1258,7 +1258,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "龍馬　桂さん！\\nなんでいるんだ",
-   "en": "",
+   "en": "Ryoma,\\nKatsura-san!\\nWhat are you\\ndoing here?",
    "op": "0x62",
    "msg": "0x2208"
   },
@@ -1268,7 +1268,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "センセーが教えて\\nくれたんじゃ！",
-   "en": "",
+   "en": "Sensei told me!",
    "op": "0x62",
    "msg": "0x2209"
   },
@@ -1278,7 +1278,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "桂さん？",
-   "en": "",
+   "en": "Katsura-san?",
    "op": "0x62",
    "msg": "0x220a"
   },
@@ -1288,7 +1288,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "晋作がどうするかなんて\\n幼馴染みの私には\\nお見通しですよ　ふふ",
-   "en": "",
+   "en": "As your childhood\\nfriend, I can see\\nright through\\nanything you'll\\ndo, Shinsaku.\\nHehe.",
    "op": "0x62",
    "msg": "0x220b"
   },
@@ -1298,7 +1298,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "……そうかよ",
-   "en": "",
+   "en": "...Is that so.",
    "op": "0x62",
    "msg": "0x220c"
   },
@@ -1308,7 +1308,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "本当にもう\\n行ってしまうんじゃな\\nシンディ",
-   "en": "",
+   "en": "So you're really\\nleavin' already,\\nhuh, Shindy.",
    "op": "0x62",
    "msg": "0x220d"
   },
@@ -1318,7 +1318,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "止めても無駄だぞ！",
-   "en": "",
+   "en": "Don't bother\\ntrying to stop me!",
    "op": "0x62",
    "msg": "0x220e"
   },
@@ -1328,7 +1328,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "ええ　知っています\\n晋作は松陰先生の後を\\n継いで",
-   "en": "",
+   "en": "Yes, I know. You\\nmean to follow in\\nShoin-sensei's\\nfootsteps...",
    "op": "0x62",
    "msg": "0x220f"
   },
@@ -1338,7 +1338,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "未開の地にロックを\\n伝えていくつもり\\nなのでしょう",
-   "en": "",
+   "en": "...and carry rock\\nto uncharted\\nlands, don't you?",
    "op": "0x62",
    "msg": "0x2210"
   },
@@ -1348,7 +1348,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "ええっ\\nな　なんで……",
-   "en": "",
+   "en": "Wha--? H-how...",
    "op": "0x62",
    "msg": "0x2211"
   },
@@ -1358,7 +1358,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "だから　幼馴染みを\\n舐めたらいけませんよ",
-   "en": "",
+   "en": "As I said, never\\nunderestimate a\\nchildhood friend.",
    "op": "0x62",
    "msg": "0x2212"
   },
@@ -1368,7 +1368,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "晋作は人気に満足する\\nのが嫌だった……",
-   "en": "",
+   "en": "You didn't want\\nto settle for\\npopularity...",
    "op": "0x62",
    "msg": "0x2213"
   },
@@ -1378,7 +1378,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "都で安穏とロックを\\nするのは　性に合わない\\nのですよね？",
-   "en": "",
+   "en": "Playing rock\\ncomfortably in\\nthe capital just\\nisn't your style, is\\nit?",
    "op": "0x62",
    "msg": "0x2214"
   },
@@ -1388,7 +1388,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "障害もなくつまらない\\nそんなのは　ロック\\nじゃない……",
-   "en": "",
+   "en": "No obstacles,\\nnothing but\\nboredom... that\\nisn't rock...",
    "op": "0x62",
    "msg": "0x2215"
   },
@@ -1398,7 +1398,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "いやっ　オレ様は\\nオレ様のロックを\\n探しに行くんだ！",
-   "en": "",
+   "en": "N-no! The great\\nTakasugi is going\\nto find his own\\nrock!",
    "op": "0x62",
    "msg": "0x2216"
   },
@@ -1408,7 +1408,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "はいはい　\\n好きに言ってなさい",
-   "en": "",
+   "en": "Yes, yes. Say\\nwhatever you like.",
    "op": "0x62",
    "msg": "0x2217"
   },
@@ -1418,7 +1418,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "シンディは素直じゃ\\nないからなぁ",
-   "en": "",
+   "en": "Shindy just can't\\nbe honest, can\\nhe?",
    "op": "0x62",
    "msg": "0x2218"
   },
@@ -1428,7 +1428,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "うっ　うるさいっ！\\n黙れバカ！",
-   "en": "",
+   "en": "Sh-shut up! Pipe\\ndown, idiot!",
    "op": "0x62",
    "msg": "0x2219"
   },
@@ -1438,7 +1438,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "私も松陰先生の弟子です\\nだから　旅に出ることに\\nしました",
-   "en": "",
+   "en": "I'm Shoin-sensei's\\ndisciple too. So\\nI've decided to go\\non a journey.",
    "op": "0x62",
    "msg": "0x221a"
   },
@@ -1448,7 +1448,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "晋作と同じようにね",
-   "en": "",
+   "en": "Just like Shinsaku.",
    "op": "0x62",
    "msg": "0x221b"
   },
@@ -1458,7 +1458,7 @@
    "max": 8,
    "kind": "dialogue",
    "jp": "桂さん",
-   "en": "",
+   "en": "Katsura-san...",
    "op": "0x62",
    "msg": "0x221c"
   },
@@ -1468,7 +1468,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "センセーも旅立つのか……\\nわしも行こうかのう",
-   "en": "",
+   "en": "Sensei's headin'\\noff too... Maybe I\\noughta tag along.",
    "op": "0x62",
    "msg": "0x221d"
   },
@@ -1478,7 +1478,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "龍馬くんには　龍馬くんの\\n使命があるでしょう？",
-   "en": "",
+   "en": "Ryoma-kun, you\\nhave a mission of\\nyour own, don't\\nyou?",
    "op": "0x62",
    "msg": "0x221e"
   },
@@ -1488,7 +1488,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "龍馬くんは　都でロックを\\n広めてください",
-   "en": "",
+   "en": "Ryoma-kun,\\nplease spread\\nrock here in the\\ncapital.",
    "op": "0x62",
    "msg": "0x221f"
   },
@@ -1498,7 +1498,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "龍馬まで旅立ったら\\n贔屓が気の毒だろが",
-   "en": "",
+   "en": "If you leave too,\\nRyoma, your\\nfans'll be\\nmiserable.",
    "op": "0x62",
    "msg": "0x2220"
   },
@@ -1508,7 +1508,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "……わし一人は\\n寂しいぜよ……",
-   "en": "",
+   "en": "...Bein' all by\\nmyself is\\nlonesome...",
    "op": "0x62",
    "msg": "0x2221"
   },
@@ -1518,7 +1518,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "一人じゃないでしょう",
-   "en": "",
+   "en": "You're not alone,\\nare you?",
    "op": "0x62",
    "msg": "0x2222"
   },
@@ -1528,7 +1528,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "お迎えが来てるぞ",
-   "en": "",
+   "en": "Your welcoming\\nparty's here.",
    "op": "0x62",
    "msg": "0x2223"
   },
@@ -1538,7 +1538,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "お迎え？",
-   "en": "",
+   "en": "Welcomin' party?",
    "op": "0x62",
    "msg": "0x2224"
   },
@@ -1548,7 +1548,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "迎えではなく　見送りだ\\n高杉のな",
-   "en": "",
+   "en": "Not to welcome\\nyou. To see\\nTakasugi off.",
    "op": "0x62",
    "msg": "0x2225"
   },
@@ -1558,7 +1558,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "そうそう　スカシくんの\\n見送りだよー",
-   "en": "",
+   "en": "Yep, yep, to see\\nMr. Poser off~",
    "op": "0x62",
    "msg": "0x2226"
   },
@@ -1568,7 +1568,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "一度は組んだ相手だし\\n見送りくらいはね～",
-   "en": "",
+   "en": "We did team up\\nonce, so seeing\\nyou off is the\\nleast we can do~",
    "op": "0x62",
    "msg": "0x2227"
   },
@@ -1578,7 +1578,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "それと\\n新選組と合同雷舞が\\nあるのに　トサカくんが",
-   "en": "",
+   "en": "And also, with a\\njoint live with the\\nShinsengumi\\ncoming up, we\\ncan't have\\nTosaka-kun...",
    "op": "0x62",
    "msg": "0x2228"
   },
@@ -1588,7 +1588,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "うっかり船に\\n乗ったりしないように\\n見張りかなぁ",
-   "en": "",
+   "en": "...accidentally\\nhopping on a\\nboat. So we're\\nkeeping watch, I\\nguess?",
    "op": "0x62",
    "msg": "0x2229"
   },
@@ -1598,7 +1598,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "……ギクッ",
-   "en": "",
+   "en": "...*Gulp*",
    "op": "0x62",
    "msg": "0x222a"
   },
@@ -1608,7 +1608,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "あ　トサカくん\\nぎくってした！",
-   "en": "",
+   "en": "Ah, Tosaka-kun\\njust flinched!",
    "op": "0x62",
    "msg": "0x222b"
   },
@@ -1618,7 +1618,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "あ……わははは",
-   "en": "",
+   "en": "Ah... wahahaha.",
    "op": "0x62",
    "msg": "0x222c"
   },
@@ -1628,7 +1628,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "坂本　無責任な真似は\\n許さんぞ",
-   "en": "",
+   "en": "Sakamoto, I won't\\ntolerate anything\\nirresponsible.",
    "op": "0x62",
    "msg": "0x222d"
   },
@@ -1638,7 +1638,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "させませんよ　私が",
-   "en": "",
+   "en": "And I won't let\\nhim.",
    "op": "0x62",
    "msg": "0x222e"
   },
@@ -1648,7 +1648,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "晋作　元気で\\n頑張ってくださいね",
-   "en": "",
+   "en": "Shinsaku, take\\ncare of yourself,\\nand do your best.",
    "op": "0x62",
    "msg": "0x222f"
   },
@@ -1658,7 +1658,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "私もすぐ旅立ちます\\nどこかで　会うかも\\nしれませんね",
-   "en": "",
+   "en": "I'll be setting out\\nsoon too. Perhaps\\nwe'll meet\\nsomewhere along\\nthe way.",
    "op": "0x62",
    "msg": "0x2230"
   },
@@ -1668,7 +1668,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "お　おお\\n桂さんもそれまで\\n元気で……",
-   "en": "",
+   "en": "Y-yeah. You take\\ncare too until\\nthen,\\nKatsura-san...",
    "op": "0x62",
    "msg": "0x2231"
   },
@@ -1678,7 +1678,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "龍馬も……\\n土方と沖田もな",
-   "en": "",
+   "en": "Ryoma too... and\\nHijikata and\\nOkita.",
    "op": "0x62",
    "msg": "0x2232"
   },
@@ -1688,7 +1688,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "あんた達とやれた\\nロックは\\n最高だったよ",
-   "en": "",
+   "en": "The rock I got to\\nplay with you\\nguys... it was the\\nbest.",
    "op": "0x62",
    "msg": "0x2233"
   },
@@ -1698,7 +1698,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "わぁ　スカシくんが\\n素直なんて\\n気持ち悪～！",
-   "en": "",
+   "en": "Whoa, Mr. Poser\\nbeing honest?\\nThat's creepy~!",
    "op": "0x62",
    "msg": "0x2234"
   },
@@ -1708,7 +1708,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "なんだとっ！\\nオレ様だって\\n最後くらいは……",
-   "en": "",
+   "en": "What!? Even\\nyours truly can\\nmanage it at the\\nvery end...",
    "op": "0x62",
    "msg": "0x2235"
   },
@@ -1718,7 +1718,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "お前のベースも\\n最高だったぞ",
-   "en": "",
+   "en": "Your bass was the\\nbest too.",
    "op": "0x62",
    "msg": "0x2236"
   },
@@ -1728,7 +1728,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "土方さんまで！",
-   "en": "",
+   "en": "Hijikata-san, you\\ntoo!?",
    "op": "0x62",
    "msg": "0x2237"
   },
@@ -1738,7 +1738,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "うぉぉぉぉぉぉんっ！\\nシンディもヒジゾーさんも\\n泣かすな～～～っ",
-   "en": "",
+   "en": "Waaaaaaah!\\nShindy,\\nHijizo-san, quit\\nmakin' me cryyyy!",
    "op": "0x62",
    "msg": "0x2238"
   },
@@ -1748,7 +1748,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "元気でな　シンディ！\\nまた一緒に最高の\\nロックをするぜよ～～！",
-   "en": "",
+   "en": "Take care,\\nShindy! Let's play\\nthe best rock\\ntogether again\\nsometime!",
    "op": "0x62",
    "msg": "0x2239"
   },
@@ -1758,7 +1758,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "スカシくん　またね！\\n僕がすっごい歌を\\n聴かせるから",
-   "en": "",
+   "en": "See ya, Mr. Poser!\\nI'll sing you\\nsomething\\namazing next\\ntime.",
    "op": "0x62",
    "msg": "0x223a"
   },
@@ -1768,7 +1768,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "勝手に死んだり\\nしないでね～",
-   "en": "",
+   "en": "Don't go dying on\\nus or anything~",
    "op": "0x62",
    "msg": "0x223b"
   },
@@ -1778,7 +1778,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "不吉なことを言うな！\\nあばよっ！",
-   "en": "",
+   "en": "Don't jinx me like\\nthat! So long!",
    "op": "0x62",
    "msg": "0x223c"
   },
@@ -1788,7 +1788,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "晋作　どこかで\\nまた会いましょう！",
-   "en": "",
+   "en": "Shinsaku! Let's\\nmeet again\\nsomewhere!",
    "op": "0x62",
    "msg": "0x223d"
   },
@@ -1798,7 +1798,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "そうして高杉は\\n旅立って行った\\nそれからまもなくして\\n桂も旅に出たのだった",
-   "en": "",
+   "en": "And so Takasugi\\nset out on his\\njourney. Soon\\nafter, Katsura set\\nout on his own.",
    "op": "0x62",
    "msg": "0x223e"
   },
@@ -1808,7 +1808,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "それから　\\nしばらくの時間が過ぎた",
-   "en": "",
+   "en": "Then some time\\npassed.",
    "op": "0x62",
    "msg": "0x223f"
   },
@@ -1818,7 +1818,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "で　何で　ここに\\n桂さんがいるんだ",
-   "en": "",
+   "en": "So why are you\\nhere,\\nKatsura-san?",
    "op": "0x62",
    "msg": "0x2240"
   },
@@ -1828,7 +1828,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "おや　晋作\\n短い別れでしたねぇ",
-   "en": "",
+   "en": "Oh my, Shinsaku.\\nThat was a short\\nparting.",
    "op": "0x62",
    "msg": "0x2241"
   },
@@ -1838,7 +1838,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "とある田舎の街道で\\n高杉と桂はバッタリ\\n出会ってしまった",
-   "en": "",
+   "en": "On a country\\nhighway\\nsomewhere,\\nTakasugi and\\nKatsura had run\\nright into each\\nother.",
    "op": "0x62",
    "msg": "0x2242"
   },
@@ -1848,7 +1848,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "これも幼馴染みだからって\\n言うんじゃないだろうなっ",
-   "en": "",
+   "en": "Don't you dare\\ntell me this is\\n'cause we're\\nchildhood friends\\ntoo.",
    "op": "0x62",
    "msg": "0x2243"
   },
@@ -1858,7 +1858,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "偶然に決まっているじゃ\\nないですか\\n嫌ですねぇ",
-   "en": "",
+   "en": "Of course it's a\\ncoincidence.\\nHonestly,\\nShinsaku.",
    "op": "0x62",
    "msg": "0x2244"
   },
@@ -1868,7 +1868,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "いくら幼馴染みだって\\n旅先で出会ったり\\nしませんよ",
-   "en": "",
+   "en": "Even childhood\\nfriends don't just\\nrun into each\\nother on the road.",
    "op": "0x62",
    "msg": "0x2245"
   },
@@ -1878,7 +1878,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "どうだか……",
-   "en": "",
+   "en": "Who knows...",
    "op": "0x62",
    "msg": "0x2246"
   },
@@ -1888,7 +1888,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "松陰先生のお導きかも\\nしれませんね……",
-   "en": "",
+   "en": "Perhaps it's\\nShoin-sensei's\\nguidance...",
    "op": "0x62",
    "msg": "0x2247"
   },
@@ -1898,7 +1898,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "松陰先生の……",
-   "en": "",
+   "en": "Shoin-sensei's...",
    "op": "0x62",
    "msg": "0x2248"
   },
@@ -1908,7 +1908,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "互いに　松陰先生の\\n後を継ごうと\\n旅立ったのですからね",
-   "en": "",
+   "en": "After all, we both\\nset out to carry\\non Shoin-sensei's\\nlegacy.",
    "op": "0x62",
    "msg": "0x2249"
   },
@@ -1918,7 +1918,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "そうかもしれねぇな",
-   "en": "",
+   "en": "Maybe you're\\nright.",
    "op": "0x62",
    "msg": "0x224a"
   },
@@ -1928,7 +1928,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "では　松陰先生の\\nロックをこの日本中に\\n広めていきましょうか",
-   "en": "",
+   "en": "Then shall we\\nspread\\nShoin-sensei's\\nrock all across\\nJapan?",
    "op": "0x62",
    "msg": "0x224b"
   },
@@ -1938,7 +1938,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "二人で……",
-   "en": "",
+   "en": "The two of us...",
    "op": "0x62",
    "msg": "0x224c"
   },
@@ -1948,7 +1948,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "二人で　かぁ\\nま　出会っちまった\\nもんはしょうがねぇ",
-   "en": "",
+   "en": "The two of us,\\nhuh. Well, we ran\\ninto each other,\\nso I guess it can't\\nbe helped.",
    "op": "0x62",
    "msg": "0x224d"
   },
@@ -1958,7 +1958,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "晋作のご飯が\\n恋しかったので\\n丁度いいですね～",
-   "en": "",
+   "en": "I was missing\\nyour cooking,\\nShinsaku, so this\\nworks out\\nperfectly.",
    "op": "0x62",
    "msg": "0x224e"
   },
@@ -1968,7 +1968,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "そういう理由かよ！",
-   "en": "",
+   "en": "THAT's your\\nreason!?",
    "op": "0x62",
    "msg": "0x224f"
   },
@@ -1978,7 +1978,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "ふふっ　行きましょう\\n晋作",
-   "en": "",
+   "en": "Hehe. Let's go,\\nShinsaku.",
    "op": "0x62",
    "msg": "0x2250"
   },
@@ -1988,7 +1988,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "ロックを聴いたことがない\\n人たちがたくさん\\n待っていますよ",
-   "en": "",
+   "en": "Lots of people\\nwho've never\\nheard rock are\\nwaiting for us.",
    "op": "0x62",
    "msg": "0x2251"
   },
@@ -1998,7 +1998,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "おう　待ってやがれよ\\nオレ様がみんなに\\nロックを教えてやる！",
-   "en": "",
+   "en": "Yeah! Just you\\nwait! The great\\nTakasugi will\\nteach you all what\\nrock is!",
    "op": "0x62",
    "msg": "0x2252"
   },
@@ -2008,7 +2008,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "私達が　ですよ",
-   "en": "",
+   "en": "WE will, you\\nmean.",
    "op": "0x62",
    "msg": "0x2253"
   },
@@ -2018,7 +2018,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "だな……\\nオレ様のベースと――",
-   "en": "",
+   "en": "Right... With my\\nbass--",
    "op": "0x62",
    "msg": "0x2254"
   },
@@ -2028,7 +2028,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "私のドラムで――",
-   "en": "",
+   "en": "And my drums--",
    "op": "0x62",
    "msg": "0x2255"
   },
@@ -2038,7 +2038,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "最高のロックを\\n聴かせてやるぜ！",
-   "en": "",
+   "en": "We'll make you\\nhear the best rock\\nthere is!",
    "op": "0x62",
    "msg": "0x2256"
   }

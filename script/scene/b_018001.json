@@ -8,7 +8,7 @@
    "max": 88,
    "kind": "dialogue",
    "jp": "徳川家康が幕府を築き\\n世を平定してから\\n二百余年――\\n長きに渡る安寧の世が\\n続いている",
-   "en": "",
+   "en": "Over two\\ncenturies after\\nIeyasu Tokugawa\\nfounded the\\nshogunate and\\nbrought peace, a\\nlong era of calm\\nwent on.",
    "op": "0x62",
    "msg": "0x575b"
   },
@@ -18,7 +18,7 @@
    "max": 100,
    "kind": "dialogue",
    "jp": "若くして彦根藩の家督を\\n継いだその男は　有り余る\\n才覚を以て頭角を現し\\n大志を抱いて江戸へと上った",
-   "en": "",
+   "en": "A man who\\nbecame lord of\\nHikone while\\nyoung rose on his\\nabundant talent,\\nand went up to\\nEdo with great\\nambitions.",
    "op": "0x62",
    "msg": "0x575c"
   },
@@ -28,7 +28,7 @@
    "max": 80,
    "kind": "dialogue",
    "jp": "江戸へと上り――\\nそして\\n僅か一年ばかりの間に\\n絶望の淵へと\\n追いやられていた",
-   "en": "",
+   "en": "He went up to\\nEdo-- and then, in\\nbarely a year, he\\nhad been driven\\nto the brink of\\ndespair.",
    "op": "0x62",
    "msg": "0x575d"
   },
@@ -38,7 +38,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "どうして私の案が\\n取り入れられない\\nのですか！",
-   "en": "",
+   "en": "Why is my\\nproposal not\\nbeing adopted!?",
    "op": "0x62",
    "msg": "0x575e"
   },
@@ -48,7 +48,7 @@
    "max": 84,
    "kind": "dialogue",
    "jp": "江戸幕府の溜詰筆頭である侍\\n井伊直弼は　物怖じもせずに\\n目の前の老人たちへと迫った",
-   "en": "",
+   "en": "Naosuke Ii, head\\nof the Edo\\nshogunate's Inner\\nCouncil lords,\\nfearlessly pressed\\nthe old men\\nbefore him.",
    "op": "0x62",
    "msg": "0x575f"
   },
@@ -58,7 +58,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "井伊殿の案？\\nさて　何だったか……",
-   "en": "",
+   "en": "Ii-dono's\\nproposal? Now,\\nwhat was it\\nagain...",
    "op": "0x62",
    "msg": "0x5760"
   },
@@ -68,7 +68,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "とぼけるのは\\nやめていただきたい",
-   "en": "",
+   "en": "Kindly stop\\nplaying dumb.",
    "op": "0x62",
    "msg": "0x5761"
   },
@@ -78,7 +78,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "先日提案した\\n治水工事の提案書です",
-   "en": "",
+   "en": "The flood-control\\nproposal I\\nsubmitted the\\nother day.",
    "op": "0x62",
    "msg": "0x5762"
   },
@@ -88,7 +88,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "おお　その件か\\nもちろん　老中の間で\\n検討したぞ",
-   "en": "",
+   "en": "Ah, that matter.\\nOf course we\\nElders gave it our\\nconsideration.",
    "op": "0x62",
    "msg": "0x5763"
   },
@@ -98,7 +98,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "さすがは天才と\\n呼ばれることはある",
-   "en": "",
+   "en": "Truly worthy of\\none they call a\\ngenius.",
    "op": "0x62",
    "msg": "0x5764"
   },
@@ -108,7 +108,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "まさに水も漏らさぬ\\n完璧な提案書であった",
-   "en": "",
+   "en": "It was a perfect\\nproposal.\\nWatertight, one\\nmight say.",
    "op": "0x62",
    "msg": "0x5765"
   },
@@ -118,7 +118,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "そうです\\nあの計画書は完璧\\nだったはず",
-   "en": "",
+   "en": "Exactly. That plan\\nshould have been\\nflawless.",
    "op": "0x62",
    "msg": "0x5766"
   },
@@ -128,7 +128,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "ならばどうして――",
-   "en": "",
+   "en": "Then why--",
    "op": "0x62",
    "msg": "0x5767"
   },
@@ -138,7 +138,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "老中たちが　口元を隠して\\n漏らす笑いには　明らかな\\n嘲りの色が含まれている",
-   "en": "",
+   "en": "The laughter the\\nElders let slip\\nbehind their\\nhands was plainly\\ntinged with scorn.",
    "op": "0x62",
    "msg": "0x5768"
   },
@@ -148,7 +148,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "笑い声が聞こえた方に\\n井伊が視線を向けると\\n老中たちはぴたりと黙った",
-   "en": "",
+   "en": "When Ii turned\\nhis gaze toward\\nthe laughter, the\\nElders fell\\nabruptly silent.",
    "op": "0x62",
    "msg": "0x5769"
   },
@@ -158,7 +158,7 @@
    "max": 8,
    "kind": "dialogue",
    "jp": "首座殿",
-   "en": "",
+   "en": "Lord Chief Elder.",
    "op": "0x62",
    "msg": "0x576a"
   },
@@ -168,7 +168,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "老中筆頭の貴殿から\\n納得のいく理由を\\nお聞かせ願いたい",
-   "en": "",
+   "en": "As head of the\\nElders, I would\\nask you to give\\nme a reason I can\\naccept.",
    "op": "0x62",
    "msg": "0x576b"
   },
@@ -178,7 +178,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "やれやれ……\\n面倒なことだ",
-   "en": "",
+   "en": "Good grief... What\\na bother.",
    "op": "0x62",
    "msg": "0x576c"
   },
@@ -188,7 +188,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "よく聞け\\n一度しか言わぬ",
-   "en": "",
+   "en": "Listen well. I shall\\nsay this only once.",
    "op": "0x62",
    "msg": "0x576d"
   },
@@ -198,7 +198,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "完璧だったから\\n却下されたのだ",
-   "en": "",
+   "en": "It was rejected\\nbecause it was\\nperfect.",
    "op": "0x62",
    "msg": "0x576e"
   },
@@ -208,7 +208,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "そんな説明では\\n納得できません！",
-   "en": "",
+   "en": "I cannot accept an\\nexplanation like\\nthat!",
    "op": "0x62",
    "msg": "0x576f"
   },
@@ -218,7 +218,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "井伊殿\\n徳川の世は安定しておる\\nわしらのおかげでな",
-   "en": "",
+   "en": "Ii-dono, the\\nTokugawa realm\\nis stable. Thanks\\nto us old men,\\nmind you.",
    "op": "0x62",
    "msg": "0x5770"
   },
@@ -228,7 +228,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "何も変える必要はない\\n何も変えてはいけない\\nそれがわからんか？",
-   "en": "",
+   "en": "Nothing needs to\\nchange. Nothing\\nmust change. Can\\nyou not\\nunderstand that?",
    "op": "0x62",
    "msg": "0x5771"
   },
@@ -238,7 +238,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "それは違います\\nご老中",
-   "en": "",
+   "en": "That is wrong, my\\nlord Elder.",
    "op": "0x62",
    "msg": "0x5772"
   },
@@ -248,7 +248,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "違わぬのだよ\\n分からぬのなら\\n仕方あるまい",
-   "en": "",
+   "en": "It is not wrong. If\\nyou cannot\\nunderstand, it\\ncannot be helped.",
    "op": "0x62",
    "msg": "0x5773"
   },
@@ -258,7 +258,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "井伊直弼\\n貴殿の任を解く",
-   "en": "",
+   "en": "Naosuke Ii. You\\nare relieved of\\nyour post.",
    "op": "0x62",
    "msg": "0x5774"
   },
@@ -268,7 +268,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "……なんですと？",
-   "en": "",
+   "en": "...I beg your\\npardon?",
    "op": "0x62",
    "msg": "0x5775"
   },
@@ -278,7 +278,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "今後　幕府の政策に\\n口を挟むこと\\n一切　罷りならん",
-   "en": "",
+   "en": "Henceforth, you\\nare forbidden to\\nmeddle in\\nshogunate policy\\nin any way\\nwhatsoever.",
    "op": "0x62",
    "msg": "0x5776"
   },
@@ -288,7 +288,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "しばらく登城する\\n必要もないぞ",
-   "en": "",
+   "en": "Nor is there any\\nneed for you to\\nattend the castle\\nfor some time.",
    "op": "0x62",
    "msg": "0x5777"
   },
@@ -298,7 +298,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "話はそれだけだ",
-   "en": "",
+   "en": "That is all.",
    "op": "0x62",
    "msg": "0x5778"
   },
@@ -308,7 +308,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "ご老中！",
-   "en": "",
+   "en": "My lord Elder!",
    "op": "0x62",
    "msg": "0x5779"
   },
@@ -318,7 +318,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "老中たちが去っていった\\nふすまの向こうから\\n嘲笑の声が響いて聞こえた",
-   "en": "",
+   "en": "From beyond the\\nsliding doors the\\nElders had left\\nthrough, mocking\\nlaughter echoed\\nback.",
    "op": "0x62",
    "msg": "0x577a"
   },
@@ -328,7 +328,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "…………",
-   "en": "",
+   "en": "......",
    "op": "0x62",
    "msg": "0x577b"
   },
@@ -338,7 +338,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "変化を恐れ　利権に\\nしがみつく老害どもめ",
-   "en": "",
+   "en": "Senile old fools,\\nafraid of change\\nand clinging to\\ntheir privileges.",
    "op": "0x62",
    "msg": "0x577c"
   },
@@ -348,7 +348,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "進歩と改善の余地は\\nいくらでもあると\\n言うのに……",
-   "en": "",
+   "en": "When there is\\nendless room for\\nprogress and\\nimprovement...",
    "op": "0x62",
    "msg": "0x577d"
   },
@@ -358,7 +358,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "いずれ正しいのは\\n私だということを\\n世の中が思い知る",
-   "en": "",
+   "en": "One day the\\nworld will learn\\nthat I was right.",
    "op": "0x62",
    "msg": "0x577e"
   },
@@ -368,7 +368,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "しかし――",
-   "en": "",
+   "en": "However--",
    "op": "0x62",
    "msg": "0x577f"
   },
@@ -378,7 +378,7 @@
    "max": 92,
    "kind": "dialogue",
    "jp": "それは　あの老人たちが\\n死に絶えるまで　井伊に\\n順番が回ってこないという\\n意味でもあった",
-   "en": "",
+   "en": "That also meant\\nIi's turn would\\nnot come until\\nthose old men\\nhad all died off.",
    "op": "0x62",
    "msg": "0x5780"
   },
@@ -388,7 +388,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "胸中の想いを吐き出すと\\n井伊は空を見上げた",
-   "en": "",
+   "en": "Having vented\\nthe feelings in his\\nheart, Ii looked\\nup at the sky.",
    "op": "0x62",
    "msg": "0x5781"
   },
@@ -398,7 +398,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "その瞬間　奇妙な光景が\\n視界に飛び込んできた",
-   "en": "",
+   "en": "At that moment, a\\nstrange sight\\nleapt into view.",
    "op": "0x62",
    "msg": "0x5782"
   },
@@ -408,7 +408,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "あわわっ！",
-   "en": "",
+   "en": "Waaah!",
    "op": "0x62",
    "msg": "0x5783"
   },
@@ -418,7 +418,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "なにっ",
-   "en": "",
+   "en": "What!?",
    "op": "0x62",
    "msg": "0x5784"
   },
@@ -428,7 +428,7 @@
    "max": 80,
    "kind": "dialogue",
    "jp": "内郭の庭に建てられた御殿の\\n三階の窓縁から　今まさに\\n人影が落ちようとしていた",
-   "en": "",
+   "en": "From the\\nthird-floor\\nwindow ledge of\\na palace built in\\nthe inner garden,\\na figure was\\nabout to fall.",
    "op": "0x62",
    "msg": "0x5785"
   },
@@ -438,7 +438,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "いかんっ",
-   "en": "",
+   "en": "No!",
    "op": "0x62",
    "msg": "0x5786"
   },
@@ -448,7 +448,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "井伊が地を蹴って\\n落下地点へと走り込む",
-   "en": "",
+   "en": "Ii kicked off the\\nground and\\ndashed to where\\nthe figure would\\nland.",
    "op": "0x62",
    "msg": "0x5787"
   },
@@ -458,7 +458,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "あの高さからだ\\n受け止めきれるか？\\nいや――",
-   "en": "",
+   "en": "From that\\nheight... can I\\ncatch it? No--",
    "op": "0x62",
    "msg": "0x5788"
   },
@@ -468,7 +468,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "冷静な思考よりも\\n体が先に動いていた",
-   "en": "",
+   "en": "His body moved\\nbefore cool\\nthought could.",
    "op": "0x62",
    "msg": "0x5789"
   },
@@ -478,7 +478,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "井伊が衝撃に備えて\\n腰を落とし全身に力を\\n込める",
-   "en": "",
+   "en": "Ii braced for the\\nimpact, lowering\\nhis stance and\\ntensing every\\nmuscle in his\\nbody.",
    "op": "0x62",
    "msg": "0x578a"
   },
@@ -488,7 +488,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "むうっ",
-   "en": "",
+   "en": "Nngh!",
    "op": "0x62",
    "msg": "0x578b"
   },
@@ -498,7 +498,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "しかし\\n予想していた\\n衝撃は伝わって\\nこなかった",
-   "en": "",
+   "en": "But the impact he\\nhad expected\\nnever came.",
    "op": "0x62",
    "msg": "0x578c"
   },
@@ -508,7 +508,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "な　なんだ\\nこれは……？",
-   "en": "",
+   "en": "Wh-what... is\\nthis...?",
    "op": "0x62",
    "msg": "0x578d"
   },
@@ -518,7 +518,7 @@
    "max": 80,
    "kind": "dialogue",
    "jp": "落ちてきた人物は\\n井伊の腕の中で\\n淡い光に包まれながら\\nふわふわと浮いている",
-   "en": "",
+   "en": "The falling figure\\nfloated softly in\\nIi's arms,\\nwrapped in a\\nfaint light.",
    "op": "0x62",
    "msg": "0x578e"
   },
@@ -528,7 +528,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "子供？\\n男の子……か？\\nおっと！",
-   "en": "",
+   "en": "A child? A boy...?\\nWhoa!",
    "op": "0x62",
    "msg": "0x578f"
   },
@@ -538,7 +538,7 @@
    "max": 84,
    "kind": "dialogue",
    "jp": "不意に少年の身体を\\n包んでいた淡い光が消え\\n井伊の腕にずしりと\\n重みが伝わってきた",
-   "en": "",
+   "en": "Suddenly the\\nfaint light around\\nthe boy's body\\nvanished, and his\\nfull weight\\nsettled heavily\\ninto Ii's arms.",
    "op": "0x62",
    "msg": "0x5790"
   },
@@ -548,7 +548,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "またか……",
-   "en": "",
+   "en": "Not again...",
    "op": "0x62",
    "msg": "0x5791"
   },
@@ -558,7 +558,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "大丈夫か？\\n怪我はないか？",
-   "en": "",
+   "en": "Are you all right?\\nAre you hurt?",
    "op": "0x62",
    "msg": "0x5792"
   },
@@ -568,7 +568,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "あ　うん\\n予は大丈夫だよ\\nどこも痛くない",
-   "en": "",
+   "en": "Oh, yeah. I'm fine.\\nNothing hurts.",
    "op": "0x62",
    "msg": "0x5793"
   },
@@ -578,7 +578,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "そうか\\n良かった",
-   "en": "",
+   "en": "I see. Good.",
    "op": "0x62",
    "msg": "0x5794"
   },
@@ -588,7 +588,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "お前が助けてくれたの？",
-   "en": "",
+   "en": "Did you save me?",
    "op": "0x62",
    "msg": "0x5795"
   },
@@ -598,7 +598,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "そうだ\\nいや　どうだろう",
-   "en": "",
+   "en": "I did. Well...\\nperhaps not.",
    "op": "0x62",
    "msg": "0x5796"
   },
@@ -608,7 +608,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "私が助けなくても\\n地面に激突することは\\nなかったかも――",
-   "en": "",
+   "en": "Even if I hadn't\\ncaught you, you\\nmight never have\\nhit the ground--",
    "op": "0x62",
    "msg": "0x5797"
   },
@@ -618,7 +618,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "ねえ\\n名前を教えてよ",
-   "en": "",
+   "en": "Hey, tell me your\\nname.",
    "op": "0x62",
    "msg": "0x5798"
   },
@@ -628,7 +628,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "私の名前か？\\n井伊直弼という",
-   "en": "",
+   "en": "My name? It is\\nNaosuke Ii.",
    "op": "0x62",
    "msg": "0x5799"
   },
@@ -638,7 +638,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "そうか\\nありがとう直弼",
-   "en": "",
+   "en": "I see. Thank you,\\nNaosuke.",
    "op": "0x62",
    "msg": "0x579a"
   },
@@ -648,7 +648,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "う　いや　その\\n無事でよかった",
-   "en": "",
+   "en": "Ah, well, er... I'm\\nglad you're safe.",
    "op": "0x62",
    "msg": "0x579b"
   },
@@ -658,7 +658,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "少年が浮かべている\\n春の陽ざしのような笑顔に\\n井伊は目を細めて笑い返す",
-   "en": "",
+   "en": "At the boy's smile,\\nlike warm spring\\nsunshine, Ii\\nnarrowed his eyes\\nand smiled back.",
    "op": "0x62",
    "msg": "0x579c"
   },
@@ -668,7 +668,7 @@
    "max": 112,
    "kind": "dialogue",
    "jp": "張り詰めた江戸での生活の\\n中で　思い返せば\\n前に笑ったのがいつだった\\nのかすら　井伊は\\n思い出せなくなっていた",
-   "en": "",
+   "en": "In his tense life\\nin Edo, Ii could no\\nlonger even\\nremember the last\\ntime he had\\nsmiled.",
    "op": "0x62",
    "msg": "0x579d"
   },
@@ -678,7 +678,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "あっ　そうだ\\n人に名前を尋ねる時は\\n自分から名乗るんだった",
-   "en": "",
+   "en": "Oh, right! When\\nyou ask someone's\\nname, you're\\nsupposed to give\\nyour own first.",
    "op": "0x62",
    "msg": "0x579e"
   },
@@ -688,7 +688,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "予は一橋慶喜という\\nよろしくね　直弼",
-   "en": "",
+   "en": "I'm Yoshinobu\\nHitotsubashi. Nice\\nto meet you,\\nNaosuke.",
    "op": "0x62",
    "msg": "0x579f"
   },
@@ -698,7 +698,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "井伊の腕の中で\\n少年がにっこりと微笑んだ",
-   "en": "",
+   "en": "In Ii's arms, the\\nboy beamed at\\nhim.",
    "op": "0x62",
    "msg": "0x57a0"
   },
@@ -708,7 +708,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "それが一橋慶喜――",
-   "en": "",
+   "en": "That was how\\nYoshinobu\\nHitotsubashi--",
    "op": "0x62",
    "msg": "0x57a1"
   },
@@ -718,7 +718,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "後の第十五代将軍\\n徳川慶喜と井伊直弼の\\n出会いであった",
-   "en": "",
+   "en": "--the future\\nfifteenth shogun,\\nYoshinobu\\nTokugawa--first\\nmet Naosuke Ii.",
    "op": "0x62",
    "msg": "0x57a2"
   },
@@ -728,7 +728,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "その日を境に　井伊は\\nたびたび慶喜の下へ\\n訪れるようになった",
-   "en": "",
+   "en": "From that day on,\\nIi began to visit\\nYoshinobu often.",
    "op": "0x62",
    "msg": "0x57a3"
   },
@@ -738,7 +738,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "それは　江戸城内にある\\n薄暗い一室だった",
-   "en": "",
+   "en": "It was a dim room\\ninside Edo Castle.",
    "op": "0x62",
    "msg": "0x57a4"
   },
@@ -748,7 +748,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "ここにずっと\\nおられるのですか\\nおひとりで……",
-   "en": "",
+   "en": "You have been\\nhere all this time?\\nAll by yourself...",
    "op": "0x62",
    "msg": "0x57a5"
   },
@@ -758,7 +758,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "ごはんはきちんと\\nもらえるからね",
-   "en": "",
+   "en": "They make sure I\\nget my meals.",
    "op": "0x62",
    "msg": "0x57a6"
   },
@@ -768,7 +768,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "不便はないよ\\n皆には感謝している",
-   "en": "",
+   "en": "So I don't want\\nfor anything. I'm\\ngrateful to\\neveryone.",
    "op": "0x62",
    "msg": "0x57a7"
   },
@@ -778,7 +778,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "それに　最近は\\n直弼が来てくれるから\\n寂しくないんだ",
-   "en": "",
+   "en": "Besides, lately\\nyou've been\\ncoming to see me,\\nNaosuke, so I'm\\nnot lonely.",
    "op": "0x62",
    "msg": "0x57a8"
   },
@@ -788,7 +788,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "…………",
-   "en": "",
+   "en": "......",
    "op": "0x62",
    "msg": "0x57a9"
   },
@@ -798,7 +798,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "慶喜様\\nひとつお聞きしても\\nよろしいですか？",
-   "en": "",
+   "en": "Yoshinobu-sama,\\nmay I ask you\\nsomething?",
    "op": "0x62",
    "msg": "0x57aa"
   },
@@ -808,7 +808,7 @@
    "max": 8,
    "kind": "dialogue",
    "jp": "なに？",
-   "en": "",
+   "en": "What is it?",
    "op": "0x62",
    "msg": "0x57ab"
   },
@@ -818,7 +818,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "私が慶喜様を助けた時\\nまたか　と申されました\\nどういう意味でしょう",
-   "en": "",
+   "en": "When I saved\\nyou,\\nYoshinobu-sama,\\nyou said \"not\\nagain.\" What did\\nyou mean?",
    "op": "0x62",
    "msg": "0x57ac"
   },
@@ -828,7 +828,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "ああ\\n予はよくああいう目に\\n遭うんだ　だから",
-   "en": "",
+   "en": "Oh, that. Things\\nlike that happen\\nto me a lot. So...",
    "op": "0x62",
    "msg": "0x57ad"
   },
@@ -838,7 +838,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "ああいう目\\nとは？",
-   "en": "",
+   "en": "Things like that?",
    "op": "0x62",
    "msg": "0x57ae"
   },
@@ -848,7 +848,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "高いところから落ちたり\\n重いものが落ちてきたり\\n階段を踏み外したり",
-   "en": "",
+   "en": "Falling from high\\nplaces, heavy\\nthings falling on\\nme, missing a\\nstep on the\\nstairs...",
    "op": "0x62",
    "msg": "0x57af"
   },
@@ -858,7 +858,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "この間は\\n露台（バルコニー）が\\nたまたま腐っていたみたい",
-   "en": "",
+   "en": "The other day, it\\nseems the balcony\\njust happened to\\nbe rotten.",
    "op": "0x62",
    "msg": "0x57b0"
   },
@@ -868,7 +868,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "たまたま？",
-   "en": "",
+   "en": "Happened to be?",
    "op": "0x62",
    "msg": "0x57b1"
   },
@@ -878,7 +878,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "そう　たまたま\\n予は運が悪いのかな\\nあはは",
-   "en": "",
+   "en": "Yeah, it just\\nhappened. I guess\\nI'm unlucky.\\nAhaha.",
    "op": "0x62",
    "msg": "0x57b2"
   },
@@ -888,7 +888,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "露台には　よく\\n行かれるのですか？",
-   "en": "",
+   "en": "Do you go out on\\nthe balcony\\noften?",
    "op": "0x62",
    "msg": "0x57b3"
   },
@@ -898,7 +898,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "うん\\n歌を歌おうと思って",
-   "en": "",
+   "en": "Yeah. To sing\\nsongs.",
    "op": "0x62",
    "msg": "0x57b4"
   },
@@ -908,7 +908,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "歌\\nですか",
-   "en": "",
+   "en": "To sing... you say.",
    "op": "0x62",
    "msg": "0x57b5"
   },
@@ -918,7 +918,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "青空の下で歌うと\\nとても気持ちがいいんだ",
-   "en": "",
+   "en": "Singing under the\\nblue sky feels\\nreally nice.",
    "op": "0x62",
    "msg": "0x57b6"
   },
@@ -928,7 +928,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "そうだ！\\n直弼にも聴かせてあげる！",
-   "en": "",
+   "en": "I know! I'll sing\\nfor you too,\\nNaosuke!",
    "op": "0x62",
    "msg": "0x57b7"
   },
@@ -938,7 +938,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "慶喜はすっくと\\n立ち上がると\\n胸に手を当てて\\n静かに歌い始めた",
-   "en": "",
+   "en": "Yoshinobu stood\\nup straight, laid a\\nhand on his chest,\\nand quietly began\\nto sing.",
    "op": "0x62",
    "msg": "0x57b8"
   },
@@ -948,7 +948,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "慶喜の歌声が響き\\n仄暗い部屋の中を\\n満たしていく",
-   "en": "",
+   "en": "Yoshinobu's voice\\nrang out, filling\\nthe dim room.",
    "op": "0x62",
    "msg": "0x57b9"
   },
@@ -958,7 +958,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "それは慶喜の笑顔と同じ\\nやわらかな陽の光のように\\n井伊を優しく包んだ",
-   "en": "",
+   "en": "Like soft\\nsunlight, just like\\nYoshinobu's smile,\\nit wrapped gently\\naround Ii.",
    "op": "0x62",
    "msg": "0x57ba"
   },
@@ -968,7 +968,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "なんと……\\n素晴らしい……",
-   "en": "",
+   "en": "How...\\nwonderful...",
    "op": "0x62",
    "msg": "0x57bb"
   },
@@ -978,7 +978,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "そう呟きながら\\n井伊は自分の頬に伝う\\n涙に気付く",
-   "en": "",
+   "en": "Murmuring this,\\nIi noticed the\\ntears running\\ndown his cheeks.",
    "op": "0x62",
    "msg": "0x57bc"
   },
@@ -988,7 +988,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "私は　まだこのような\\n暖かい涙を流すことが\\nできたのか……",
-   "en": "",
+   "en": "Can I still shed\\ntears as warm as\\nthese...?",
    "op": "0x62",
    "msg": "0x57bd"
   },
@@ -998,7 +998,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "この時　井伊は\\nはっきりと自覚した",
-   "en": "",
+   "en": "In that moment, Ii\\nknew it clearly:",
    "op": "0x62",
    "msg": "0x57be"
   },
@@ -1008,7 +1008,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "暇潰しや同情などではなく\\n自分は慶喜という存在に\\n惹かれているのだと",
-   "en": "",
+   "en": "not to pass the\\ntime, nor out of\\npity--he was\\ndrawn to\\nYoshinobu\\nhimself.",
    "op": "0x62",
    "msg": "0x57bf"
   },
@@ -1018,7 +1018,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "どうだった？",
-   "en": "",
+   "en": "How was it?",
    "op": "0x62",
    "msg": "0x57c0"
   },
@@ -1028,7 +1028,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "あんまり上手じゃないけど\\n直弼のことを思って\\n歌ったんだ",
-   "en": "",
+   "en": "I'm not very good,\\nbut I sang it\\nthinking of you,\\nNaosuke.",
    "op": "0x62",
    "msg": "0x57c1"
   },
@@ -1038,7 +1038,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "ありがとうございます\\nこの直弼\\n感服いたしました",
-   "en": "",
+   "en": "Thank you. I,\\nNaosuke, am\\ndeeply moved.",
    "op": "0x62",
    "msg": "0x57c2"
   },
@@ -1048,7 +1048,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "えっ　そんな\\nほめ過ぎだよ\\n照れくさいな",
-   "en": "",
+   "en": "Huh? Oh, come\\non, you're\\npraising me too\\nmuch. It's\\nembarrassing.",
    "op": "0x62",
    "msg": "0x57c3"
   },
@@ -1058,7 +1058,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "いえ\\nそんなことはありません\\n心に染み入りました",
-   "en": "",
+   "en": "No, not at all. It\\ntouched my very\\nheart.",
    "op": "0x62",
    "msg": "0x57c4"
   },
@@ -1068,7 +1068,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "それは本心からの\\n言葉だった",
-   "en": "",
+   "en": "Those words\\ncame from the\\nbottom of his\\nheart.",
    "op": "0x62",
    "msg": "0x57c5"
   },
@@ -1078,7 +1078,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "井伊は見つけたのだ\\n己が信じられる存在を――",
-   "en": "",
+   "en": "Ii had found it:\\nsomeone he could\\nbelieve in--",
    "op": "0x62",
    "msg": "0x57c6"
   },
@@ -1088,7 +1088,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "翌日　井伊は再び\\n老中たちの下を訪れた",
-   "en": "",
+   "en": "The next day, Ii\\nonce again called\\non the Elders.",
    "op": "0x62",
    "msg": "0x57c7"
   },
@@ -1098,7 +1098,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "登城の必要はないと\\n申し付けたはずだが",
-   "en": "",
+   "en": "I believe I told\\nyou there was no\\nneed to attend\\nthe castle.",
    "op": "0x62",
    "msg": "0x57c8"
   },
@@ -1108,7 +1108,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "そのことでお願いがあり\\n参上仕りました",
-   "en": "",
+   "en": "I have come\\nbecause I have a\\nrequest\\nregarding that\\nvery matter.",
    "op": "0x62",
    "msg": "0x57c9"
   },
@@ -1118,7 +1118,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "願い？\\n溜詰への復職か？\\n話にもならん",
-   "en": "",
+   "en": "A request? To be\\nreinstated on the\\nInner Council?\\nOut of the\\nquestion.",
    "op": "0x62",
    "msg": "0x57ca"
   },
@@ -1128,7 +1128,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "いえ　一橋慶喜様の\\n世話役を賜りたく",
-   "en": "",
+   "en": "No. I wish to be\\nappointed\\ncaretaker to\\nYoshinobu-sama\\nof the\\nHitotsubashi\\nhouse.",
    "op": "0x62",
    "msg": "0x57cb"
   },
@@ -1138,7 +1138,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "一橋慶喜だと？",
-   "en": "",
+   "en": "Yoshinobu\\nHitotsubashi, you\\nsay?",
    "op": "0x62",
    "msg": "0x57cc"
   },
@@ -1148,7 +1148,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "老中は　ねっとりとした\\n視線で　頭を垂れている\\n井伊を眺めまわす",
-   "en": "",
+   "en": "The Elder looked\\nthe bowing Ii up\\nand down with a\\nslimy gaze.",
    "op": "0x62",
    "msg": "0x57cd"
   },
@@ -1158,7 +1158,7 @@
    "max": 104,
    "kind": "dialogue",
    "jp": "しばらく\\n重い沈黙が続いたが\\n畳に頭を擦り付け続ける\\n井伊の姿に見飽きたのか\\nやがて首座が口を開いた",
-   "en": "",
+   "en": "A heavy silence\\nwent on for some\\ntime, but at last--\\nperhaps tired of\\nwatching Ii keep\\nhis head pressed\\nto the tatami--the\\nChief Elder spoke.",
    "op": "0x62",
    "msg": "0x57ce"
   },
@@ -1168,7 +1168,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "……よかろう",
-   "en": "",
+   "en": "...Very well.",
    "op": "0x62",
    "msg": "0x57cf"
   },
@@ -1178,7 +1178,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "ありがとうございます",
-   "en": "",
+   "en": "Thank you.",
    "op": "0x62",
    "msg": "0x57d0"
   },
@@ -1188,7 +1188,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "井伊は手短に\\nそう答えると\\n踵を返して\\n部屋を出ていった",
-   "en": "",
+   "en": "Ii answered\\nbriefly, turned on\\nhis heel, and left\\nthe room.",
    "op": "0x62",
    "msg": "0x57d1"
   },
@@ -1198,7 +1198,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "あの若造\\n何を考えているのやら……",
-   "en": "",
+   "en": "That whelp. What\\ncould he be\\nthinking...",
    "op": "0x62",
    "msg": "0x57d2"
   },
@@ -1208,7 +1208,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "役目を取り上げられて\\n日和ったか　ほほほほ",
-   "en": "",
+   "en": "Stripped of his\\npost, he's lost his\\nnerve. Ohohoho.",
    "op": "0x62",
    "msg": "0x57d3"
   },
@@ -1218,7 +1218,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "私は　正直安堵しておる\\n井伊が私たちを見る目は\\nぞっとしなかった",
-   "en": "",
+   "en": "Frankly, I am\\nrelieved. The way\\nIi looked at us\\ngave me chills.",
    "op": "0x62",
    "msg": "0x57d4"
   },
@@ -1228,7 +1228,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "確かに慶喜は将軍家の\\n直系だが　あのガキに\\nついても得はあるまい",
-   "en": "",
+   "en": "True, Yoshinobu\\nis of the shogun's\\ndirect line, but\\nthere's nothing to\\ngain by siding\\nwith that brat.",
    "op": "0x62",
    "msg": "0x57d5"
   },
@@ -1238,7 +1238,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "すでに一橋派には何の\\n力もないのは　誰の目\\nにも明白であろうに",
-   "en": "",
+   "en": "It is plain to\\nanyone that the\\nHitotsubashi\\nfaction has no\\npower left at all.",
    "op": "0x62",
    "msg": "0x57d6"
   },
@@ -1248,7 +1248,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "首座殿の\\nおっしゃる通りです",
-   "en": "",
+   "en": "Just as you say,\\nChief Elder.",
    "op": "0x62",
    "msg": "0x57d7"
   },
@@ -1258,7 +1258,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "何にせよ　慶喜に世話役が\\n必要なのも　あとわずかで\\nしかないがな",
-   "en": "",
+   "en": "In any case,\\nYoshinobu won't\\nbe needing a\\ncaretaker for\\nmuch longer.",
    "op": "0x62",
    "msg": "0x57d8"
   },
@@ -1268,7 +1268,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "それまで　落ちぶれた者\\n同士で　傷のなめ合いでも\\nしているがいいわ",
-   "en": "",
+   "en": "Until then, let the\\ntwo has-beens lick\\neach other's\\nwounds.",
    "op": "0x62",
    "msg": "0x57d9"
   },
@@ -1278,7 +1278,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "くっくっくっ……",
-   "en": "",
+   "en": "Heh heh heh...",
    "op": "0x62",
    "msg": "0x57da"
   },
@@ -1288,7 +1288,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "慶喜の世話役に就いた\\n井伊は　日々その役目を\\n不足なくこなした",
-   "en": "",
+   "en": "Appointed\\nYoshinobu's\\ncaretaker, Ii\\ncarried out his\\nduties without\\nfault day after\\nday.",
    "op": "0x62",
    "msg": "0x57db"
   },
@@ -1298,7 +1298,7 @@
    "max": 108,
    "kind": "dialogue",
    "jp": "慶喜との穏やかな暮らしに\\nかつて抱いていた\\n野心は消え　いつしか\\n井伊も笑みを浮かべる\\nようになっていた",
-   "en": "",
+   "en": "In his peaceful\\nlife with\\nYoshinobu, the\\nambition he once\\nheld faded away,\\nand before he\\nknew it, Ii too had\\nbegun to smile.",
    "op": "0x62",
    "msg": "0x57dc"
   },
@@ -1308,7 +1308,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "全ての権限を\\n取り上げられた慶喜に\\n浮かぶ目はないだろう",
-   "en": "",
+   "en": "Stripped of all\\nauthority,\\nYoshinobu had no\\nhope of ever\\nrising.",
    "op": "0x62",
    "msg": "0x57dd"
   },
@@ -1318,7 +1318,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "それでもいいと\\n井伊は思った\\n慶喜といられるのなら",
-   "en": "",
+   "en": "Even so, Ii\\nthought that was\\nfine--as long as\\nhe could be with\\nYoshinobu.",
    "op": "0x62",
    "msg": "0x57de"
   },
@@ -1328,7 +1328,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "そんな\\nある日のことだった",
-   "en": "",
+   "en": "And then, one\\nday...",
    "op": "0x62",
    "msg": "0x57df"
   },
@@ -1338,7 +1338,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "おはよう　直弼\\nねえ　この箱\\n開けてもいいかな？",
-   "en": "",
+   "en": "Good morning,\\nNaosuke! Hey, can\\nI open this box?",
    "op": "0x62",
    "msg": "0x57e0"
   },
@@ -1348,7 +1348,7 @@
    "max": 88,
    "kind": "dialogue",
    "jp": "慶喜は　漆塗りの箱を\\n抱えながら　井伊の下へ\\n駆け寄ると　嬉しそうな\\n声で　そう訊いた",
-   "en": "",
+   "en": "Clutching a\\nlacquered box,\\nYoshinobu ran up\\nto Ii and asked\\nhim happily.",
    "op": "0x62",
    "msg": "0x57e1"
   },
@@ -1358,7 +1358,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "箱？\\nなんですか？\\nそれは",
-   "en": "",
+   "en": "A box? What is\\nthat?",
    "op": "0x62",
    "msg": "0x57e2"
   },
@@ -1368,7 +1368,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "えっ\\n直弼からの贈り物じゃ\\nないの？",
-   "en": "",
+   "en": "Huh? Isn't it a\\npresent from you,\\nNaosuke?",
    "op": "0x62",
    "msg": "0x57e3"
   },
@@ -1378,7 +1378,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "届けてくれた者が\\nそう言っていたけど……",
-   "en": "",
+   "en": "That's what the\\nperson who\\nbrought it said...",
    "op": "0x62",
    "msg": "0x57e4"
   },
@@ -1388,7 +1388,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "いえ　私はそのような\\n物など　贈った覚えは――",
-   "en": "",
+   "en": "No, I don't recall\\nsending anything\\nof the sort--",
    "op": "0x62",
    "msg": "0x57e5"
   },
@@ -1398,7 +1398,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "井伊の言葉を待たずに\\n慶喜が箱に掛けられた\\n紐を解こうとした",
-   "en": "",
+   "en": "Before Ii could\\nfinish, Yoshinobu\\nbegan to untie\\nthe cord around\\nthe box.",
    "op": "0x62",
    "msg": "0x57e6"
   },
@@ -1408,7 +1408,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "その瞬間　井伊の鼻を\\n焦げ臭い空気が掠めた",
-   "en": "",
+   "en": "At that instant, a\\nburning smell\\nbrushed Ii's nose.",
    "op": "0x62",
    "msg": "0x57e7"
   },
@@ -1418,7 +1418,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "慶喜様\\n離れて",
-   "en": "",
+   "en": "Yoshinobu-sama,\\nget back!",
    "op": "0x62",
    "msg": "0x57e8"
   },
@@ -1428,7 +1428,7 @@
    "max": 8,
    "kind": "dialogue",
    "jp": "あっ！",
-   "en": "",
+   "en": "Ah!",
    "op": "0x62",
    "msg": "0x57e9"
   },
@@ -1438,7 +1438,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "井伊は\\n漆塗りの箱を奪うと\\n慶喜から距離を取るように\\n部屋の端へと走った",
-   "en": "",
+   "en": "Ii snatched the\\nlacquered box\\nand ran to the far\\ncorner of the\\nroom, away from\\nYoshinobu.",
    "op": "0x62",
    "msg": "0x57ea"
   },
@@ -1448,7 +1448,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "その瞬間――",
-   "en": "",
+   "en": "At that moment--",
    "op": "0x62",
    "msg": "0x57eb"
   },
@@ -1458,7 +1458,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "強烈な衝撃と共に\\n箱がはじけ灼熱の炎が\\n井伊の全身を包む",
-   "en": "",
+   "en": "With a\\ntremendous blast,\\nthe box burst\\nopen, and searing\\nflames engulfed\\nIi's whole body.",
    "op": "0x62",
    "msg": "0x57ec"
   },
@@ -1468,7 +1468,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "ぐぉぉおおおっ",
-   "en": "",
+   "en": "Gwaaaaaagh!",
    "op": "0x62",
    "msg": "0x57ed"
   },
@@ -1478,7 +1478,7 @@
    "max": 8,
    "kind": "dialogue",
    "jp": "直弼",
-   "en": "",
+   "en": "Naosuke!",
    "op": "0x62",
    "msg": "0x57ee"
   },
@@ -1488,7 +1488,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "近づいてはなりません",
-   "en": "",
+   "en": "Do not come near!",
    "op": "0x62",
    "msg": "0x57ef"
   },
@@ -1498,7 +1498,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "でも\\nでも",
-   "en": "",
+   "en": "But... but...",
    "op": "0x62",
    "msg": "0x57f0"
   },
@@ -1508,7 +1508,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "井伊は壁に体を叩きつけ\\n着物に移った炎を消す",
-   "en": "",
+   "en": "Ii threw himself\\nagainst the wall\\nto smother the\\nflames on his\\nkimono.",
    "op": "0x62",
    "msg": "0x57f1"
   },
@@ -1518,7 +1518,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "火は……消えました\\n直弼はこの通り\\n平気です……ぐうっ",
-   "en": "",
+   "en": "The fire... is out.\\nAs you can see,\\nNaosuke is quite\\nall right... ngh!",
    "op": "0x62",
    "msg": "0x57f2"
   },
@@ -1528,7 +1528,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "焼け焦げた半身のまま\\n慶喜に向かって両手を広げ\\n井伊は微笑んで見せる",
-   "en": "",
+   "en": "Half his body\\nscorched, Ii\\nspread his arms\\ntoward Yoshinobu\\nand smiled for\\nhim.",
    "op": "0x62",
    "msg": "0x57f3"
   },
@@ -1538,7 +1538,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "それより　ごふっ……\\n慶喜様にお怪我は\\nありませんでしたか？",
-   "en": "",
+   "en": "More\\nimportantly--\\n*cough*... Are you\\nhurt,\\nYoshinobu-sama?",
    "op": "0x62",
    "msg": "0x57f4"
   },
@@ -1548,7 +1548,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "予は平気だよ！\\nでも　直弼が　直弼が",
-   "en": "",
+   "en": "I'm fine! But\\nNaosuke, you're...",
    "op": "0x62",
    "msg": "0x57f5"
   },
@@ -1558,7 +1558,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "そうですか……\\nご無事でよかった\\n本当に……良かった……",
-   "en": "",
+   "en": "I see... I'm glad\\nyou're safe.\\nTruly... so glad...",
    "op": "0x62",
    "msg": "0x57f6"
   },
@@ -1568,7 +1568,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "直弼ーっ",
-   "en": "",
+   "en": "Naosukeee!",
    "op": "0x62",
    "msg": "0x57f7"
   },
@@ -1578,7 +1578,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "薄れ行く意識の中\\n悲痛な慶喜の声だけが\\nどこか遠くで響いていた",
-   "en": "",
+   "en": "As his\\nconsciousness\\nfaded, only\\nYoshinobu's\\nanguished voice\\nechoed\\nsomewhere far\\naway.",
    "op": "0x62",
    "msg": "0x57f8"
   },
@@ -1588,7 +1588,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "気が付けば　井伊は\\n見渡す限りの闇の中にいた",
-   "en": "",
+   "en": "When he came to,\\nIi was surrounded\\nby darkness as\\nfar as the eye\\ncould see.",
    "op": "0x62",
    "msg": "0x57f9"
   },
@@ -1598,7 +1598,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "ここはどこだ？",
-   "en": "",
+   "en": "Where am I?",
    "op": "0x62",
    "msg": "0x57fa"
   },
@@ -1608,7 +1608,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "私は――そうだ\\n慶喜様をかばって\\n倒れたのか",
-   "en": "",
+   "en": "I... Yes. I\\ncollapsed\\nshielding\\nYoshinobu-sama.",
    "op": "0x62",
    "msg": "0x57fb"
   },
@@ -1618,7 +1618,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "我は死んだのか？",
-   "en": "",
+   "en": "Am I dead?",
    "op": "0x62",
    "msg": "0x57fc"
   },
@@ -1628,7 +1628,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "……命が惜しいか？",
-   "en": "",
+   "en": "...Do you cling to\\nyour life?",
    "op": "0x62",
    "msg": "0x57fd"
   },
@@ -1638,7 +1638,7 @@
    "max": 8,
    "kind": "dialogue",
    "jp": "誰だ",
-   "en": "",
+   "en": "Who's there?",
    "op": "0x62",
    "msg": "0x57fe"
   },
@@ -1648,7 +1648,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "命が惜しいか？",
-   "en": "",
+   "en": "Do you cling to\\nyour life?",
    "op": "0x62",
    "msg": "0x57ff"
   },
@@ -1658,7 +1658,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "己の命など\\n惜しくはない",
-   "en": "",
+   "en": "My own life\\nmeans nothing to\\nme.",
    "op": "0x62",
    "msg": "0x5800"
   },
@@ -1668,7 +1668,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "ほう……",
-   "en": "",
+   "en": "Oh...?",
    "op": "0x62",
    "msg": "0x5801"
   },
@@ -1678,7 +1678,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "ただ　ひとつだけ\\n慶喜様のことが\\n気がかりだ",
-   "en": "",
+   "en": "There is only one\\nthing that weighs\\non me:\\nYoshinobu-sama.",
    "op": "0x62",
    "msg": "0x5802"
   },
@@ -1688,7 +1688,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "あの方は　これまでも\\n命を狙われ続けてきた",
-   "en": "",
+   "en": "His life has been\\ntargeted again\\nand again.",
    "op": "0x62",
    "msg": "0x5803"
   },
@@ -1698,7 +1698,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "ただ将軍家の血筋に\\n生まれたというだけで",
-   "en": "",
+   "en": "Simply for being\\nborn into the\\nshogun's\\nbloodline.",
    "op": "0x62",
    "msg": "0x5804"
   },
@@ -1708,7 +1708,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "そんなつまらない理由で\\n殺されるのか",
-   "en": "",
+   "en": "Is he to be killed\\nfor so petty a\\nreason?",
    "op": "0x62",
    "msg": "0x5805"
   },
@@ -1718,7 +1718,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "それが　あの者の宿命よ",
-   "en": "",
+   "en": "Such is his fate.",
    "op": "0x62",
    "msg": "0x5806"
   },
@@ -1728,7 +1728,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "将軍に選ばれなければ\\n存在そのものが\\n世を乱す",
-   "en": "",
+   "en": "Unless he is\\nchosen as shogun,\\nhis very existence\\nthrows the world\\ninto disorder.",
    "op": "0x62",
    "msg": "0x5807"
   },
@@ -1738,7 +1738,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "宿命など知るか！",
-   "en": "",
+   "en": "To hell with fate!",
    "op": "0x62",
    "msg": "0x5808"
   },
@@ -1748,7 +1748,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "誰から疎まれようと\\nどんな仕打ちを受けても\\nあの方は微笑んでいた",
-   "en": "",
+   "en": "No matter who\\nshunned him, no\\nmatter how he\\nwas treated, he\\nkept on smiling.",
    "op": "0x62",
    "msg": "0x5809"
   },
@@ -1758,7 +1758,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "ただ　それだけだ！",
-   "en": "",
+   "en": "That is all he ever\\ndid!",
    "op": "0x62",
    "msg": "0x580b"
   },
@@ -1768,7 +1768,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "誰も　誰一人として\\nあの方の想いを汚す\\n権利などないのに！",
-   "en": "",
+   "en": "No one--not a\\nsingle soul--has\\nthe right to sully\\nhis heart!",
    "op": "0x62",
    "msg": "0x580c"
   },
@@ -1778,7 +1778,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "あの者が生きるには\\n将軍となる他\\n道はない",
-   "en": "",
+   "en": "For him to live,\\nthere is no path\\nbut to become\\nshogun.",
    "op": "0x62",
    "msg": "0x580d"
   },
@@ -1788,7 +1788,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "そして　あの者には\\nそれに適う力がない",
-   "en": "",
+   "en": "And he lacks the\\npower for it.",
    "op": "0x62",
    "msg": "0x580e"
   },
@@ -1798,7 +1798,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "死すべきは宿命――",
-   "en": "",
+   "en": "His fate is to die--",
    "op": "0x62",
    "msg": "0x580f"
   },
@@ -1808,7 +1808,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "黙れ\\nそれが天意であっても\\n我は認めない！",
-   "en": "",
+   "en": "Silence! Even if it\\nis the will of\\nHeaven, I will not\\naccept it!",
    "op": "0x62",
    "msg": "0x5810"
   },
@@ -1818,7 +1818,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "我だけはっ……",
-   "en": "",
+   "en": "I alone will not...!",
    "op": "0x62",
    "msg": "0x5811"
   },
@@ -1828,7 +1828,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "そうか　ならば\\n試させてもらおう",
-   "en": "",
+   "en": "I see. Then let me\\nput it to the test--",
    "op": "0x62",
    "msg": "0x5812"
   },
@@ -1838,7 +1838,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "お前の信じる\\n想いとやらを",
-   "en": "",
+   "en": "--these feelings\\nyou believe in.",
    "op": "0x62",
    "msg": "0x5813"
   },
@@ -1848,7 +1848,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "な　なんだ？\\nぬうっ……！",
-   "en": "",
+   "en": "Wh-what...?\\nNngh...!",
    "op": "0x62",
    "msg": "0x5814"
   },
@@ -1858,7 +1858,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "突然　体が重くなり\\n耐え切れずに井伊は\\n地に膝をつく",
-   "en": "",
+   "en": "Suddenly his body\\ngrew heavy, and\\nunable to bear it,\\nIi sank to his\\nknees.",
    "op": "0x62",
    "msg": "0x5815"
   },
@@ -1868,7 +1868,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "視界を覆う闇が渦巻き\\n身体の端々から井伊の\\n中へと染み込んできた",
-   "en": "",
+   "en": "The darkness\\nfilling his vision\\nswirled and\\nseeped into Ii\\nfrom every part\\nof his body.",
    "op": "0x62",
    "msg": "0x5816"
   },
@@ -1878,7 +1878,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "やめろ……！\\n我は　まだ死ぬわけには\\nいかないのだ！",
-   "en": "",
+   "en": "Stop...! I cannot\\ndie yet!",
    "op": "0x62",
    "msg": "0x5817"
   },
@@ -1888,7 +1888,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "あの方を　慶喜様を\\nお護りしなければ……",
-   "en": "",
+   "en": "I must protect\\nhim...\\nYoshinobu-sama...",
    "op": "0x62",
    "msg": "0x5818"
   },
@@ -1898,7 +1898,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "混濁する意識の中\\nどこからか　慶喜の\\n歌声が聴こえる気がした",
-   "en": "",
+   "en": "Through the haze\\nin his mind, he\\nthought he heard\\nYoshinobu\\nsinging from\\nsomewhere.",
    "op": "0x62",
    "msg": "0x5819"
   },
@@ -1908,7 +1908,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "慶喜様……",
-   "en": "",
+   "en": "Yoshinobu-sama...",
    "op": "0x62",
    "msg": "0x581a"
   },
@@ -1918,7 +1918,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "そうして井伊直弼は\\n闇に呑み込まれた",
-   "en": "",
+   "en": "And so Naosuke Ii\\nwas swallowed by\\nthe darkness.",
    "op": "0x62",
    "msg": "0x581b"
   },
@@ -1928,7 +1928,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "よしのぶ……さま……",
-   "en": "",
+   "en": "Yoshi... nobu...\\nsama...",
    "op": "0x62",
    "msg": "0x581c"
   },
@@ -1938,7 +1938,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "直弼\\n意識が戻ったんだね！",
-   "en": "",
+   "en": "Naosuke! You're\\nawake!",
    "op": "0x62",
    "msg": "0x581d"
   },
@@ -1948,7 +1948,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "慶喜様……\\nここは？\\n私はどうして",
-   "en": "",
+   "en": "Yoshinobu-sama...\\nWhere am I? Why\\nam I...",
    "op": "0x62",
    "msg": "0x581e"
   },
@@ -1958,7 +1958,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "直弼は　あれから三日も\\n眠ったままだったんだ",
-   "en": "",
+   "en": "You've been\\nasleep for three\\nwhole days since\\nthen, Naosuke.",
    "op": "0x62",
    "msg": "0x581f"
   },
@@ -1968,7 +1968,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "医者も　このまま意識が\\n戻らなければ\\n助からないだろうって",
-   "en": "",
+   "en": "The doctor said\\nthat if you didn't\\nwake up soon,\\nyou wouldn't\\nmake it.",
    "op": "0x62",
    "msg": "0x5820"
   },
@@ -1978,7 +1978,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "でも良かった\\n予の歌が天に届いたのかも\\n知れない",
-   "en": "",
+   "en": "But I'm so glad.\\nMaybe my song\\nreached the\\nheavens.",
    "op": "0x62",
    "msg": "0x5821"
   },
@@ -1988,7 +1988,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "慶喜様の歌……",
-   "en": "",
+   "en": "Your song,\\nYoshinobu-sama...",
    "op": "0x62",
    "msg": "0x5822"
   },
@@ -1998,7 +1998,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "気付けば\\n井伊の身体が\\n淡い光に包まれていた",
-   "en": "",
+   "en": "Only then did Ii\\nnotice his body\\nwas wrapped in a\\nfaint light.",
    "op": "0x62",
    "msg": "0x5823"
   },
@@ -2008,7 +2008,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "私のために　歌い続けて\\nくださったのですか……\\n三日三晩も……",
-   "en": "",
+   "en": "You kept singing\\nfor me...? For\\nthree days and\\nthree nights...",
    "op": "0x62",
    "msg": "0x5824"
   },
@@ -2018,7 +2018,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "直弼のためなら\\n一か月だって　一年だって\\n歌い続けるつもりだった",
-   "en": "",
+   "en": "For you, Naosuke,\\nI'd have kept\\nsinging for a\\nmonth, even a\\nyear.",
    "op": "0x62",
    "msg": "0x5825"
   },
@@ -2028,7 +2028,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "でも　よかった",
-   "en": "",
+   "en": "But I'm so glad.",
    "op": "0x62",
    "msg": "0x5826"
   },
@@ -2038,7 +2038,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "予が生きていてもいいと\\n言ってくれるのは\\n直弼だけだもの……",
-   "en": "",
+   "en": "You're the only\\none who tells me\\nit's all right for\\nme to be alive,\\nNaosuke...",
    "op": "0x62",
    "msg": "0x5827"
   },
@@ -2048,7 +2048,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "慶喜の目から\\n大粒の涙が零れ落ちる",
-   "en": "",
+   "en": "Big tears spilled\\nfrom Yoshinobu's\\neyes.",
    "op": "0x62",
    "msg": "0x5828"
   },
@@ -2058,7 +2058,7 @@
    "max": 8,
    "kind": "dialogue",
    "jp": "慶喜様",
-   "en": "",
+   "en": "Yoshinobu-sama...",
    "op": "0x62",
    "msg": "0x5829"
   },
@@ -2068,7 +2068,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "井伊は　そんな慶喜を\\nそっと　しかし力強く\\n抱き締めた",
-   "en": "",
+   "en": "Ii held Yoshinobu\\nclose, gently, yet\\nwith all his\\nstrength.",
    "op": "0x62",
    "msg": "0x582a"
   },
@@ -2078,7 +2078,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "直弼\\nずっと予のそばに\\nいてくれるよね？",
-   "en": "",
+   "en": "Naosuke... You'll\\nstay by my side\\nforever, won't\\nyou?",
    "op": "0x62",
    "msg": "0x582b"
   },
@@ -2088,7 +2088,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "約束しましょう\\nこの命に代えて　直弼は\\n慶喜様をお護りします",
-   "en": "",
+   "en": "I promise. On my\\nlife, Naosuke will\\nprotect you,\\nYoshinobu-sama.",
    "op": "0x62",
    "msg": "0x582c"
   },
@@ -2098,7 +2098,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "どんなことをしてでも\\nどんな代償を支払って\\nでも――",
-   "en": "",
+   "en": "Whatever I must\\ndo, whatever\\nprice I must pay--",
    "op": "0x62",
    "msg": "0x582d"
   },
@@ -2108,7 +2108,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "慶喜の暗殺未遂事件から\\n数週間後――",
-   "en": "",
+   "en": "A few weeks after\\nthe attempt on\\nYoshinobu's life--",
    "op": "0x62",
    "msg": "0x582e"
   },
@@ -2118,7 +2118,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "井伊は　老中たちを集め\\n会議の場を用意した",
-   "en": "",
+   "en": "Ii gathered the\\nElders and\\narranged a\\nmeeting.",
    "op": "0x62",
    "msg": "0x582f"
   },
@@ -2128,7 +2128,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "一橋慶喜が継承権を\\n放棄するという話\\n真であろうな？",
-   "en": "",
+   "en": "This talk of\\nYoshinobu\\nHitotsubashi\\ngiving up his\\nright of\\nsuccession. It is\\ntrue, I trust?",
    "op": "0x62",
    "msg": "0x5830"
   },
@@ -2138,7 +2138,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "そのために　皆様に\\nお集まりいただいたのです",
-   "en": "",
+   "en": "That is why I\\nhave asked you\\nall to gather here.",
    "op": "0x62",
    "msg": "0x5831"
   },
@@ -2148,7 +2148,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "ふむ……",
-   "en": "",
+   "en": "Hmm...",
    "op": "0x62",
    "msg": "0x5832"
   },
@@ -2158,7 +2158,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "老中首座は\\n片方の眉を歪めて\\n井伊の顔を仰ぎ見た",
-   "en": "",
+   "en": "The Chief Elder\\nraised one\\neyebrow and\\nlooked up into Ii's\\nface.",
    "op": "0x62",
    "msg": "0x5833"
   },
@@ -2168,7 +2168,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "その眼帯はどうしたのだ\\n先の爆弾騒ぎの時に\\n傷を負ったか？",
-   "en": "",
+   "en": "What happened\\nwith that\\neyepatch? Were\\nyou hurt in that\\nbusiness with the\\nbomb?",
    "op": "0x62",
    "msg": "0x5834"
   },
@@ -2178,7 +2178,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "代償……\\nでございますよ",
-   "en": "",
+   "en": "It is... the price I\\npaid.",
    "op": "0x62",
    "msg": "0x5835"
   },
@@ -2188,7 +2188,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "代償？\\nまったくその通り",
-   "en": "",
+   "en": "The price? Quite\\nso.",
    "op": "0x62",
    "msg": "0x5836"
   },
@@ -2198,7 +2198,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "若造めが\\nようやく身の程を\\n思い知ったようだ",
-   "en": "",
+   "en": "The whelp has\\nfinally learned\\nhis place, it\\nseems.",
    "op": "0x62",
    "msg": "0x5837"
   },
@@ -2208,7 +2208,7 @@
    "max": 104,
    "kind": "dialogue",
    "jp": "老中たちが全員\\n集まったのを確認すると\\n井伊は立ち上がり\\n広間の端まで通る声で\\n儀式の開始を宣言した",
-   "en": "",
+   "en": "Once he saw that\\nall the Elders had\\ngathered, Ii rose\\nand, in a voice\\nthat carried to\\nthe far end of the\\nhall, declared the\\nceremony begun.",
    "op": "0x62",
    "msg": "0x5838"
   },
@@ -2218,7 +2218,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "まずは　慶喜様から皆様に\\nひとつ歌をご披露したいと\\n仰られております",
-   "en": "",
+   "en": "First,\\nYoshinobu-sama\\nwishes to perform\\na song for you all.",
    "op": "0x62",
    "msg": "0x5839"
   },
@@ -2228,7 +2228,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "歌？\\n歌などと……",
-   "en": "",
+   "en": "A song? Of all the\\nfrivolous...",
    "op": "0x62",
    "msg": "0x583a"
   },
@@ -2238,7 +2238,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "何事にも段取りが\\nあるのですよ",
-   "en": "",
+   "en": "Everything has its\\nproper order.",
    "op": "0x62",
    "msg": "0x583b"
   },
@@ -2248,7 +2248,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "まずは慶喜様の歌を\\n聴いて頂かなければ",
-   "en": "",
+   "en": "First, you must\\nlisten to\\nYoshinobu-sama's\\nsong.",
    "op": "0x62",
    "msg": "0x583c"
   },
@@ -2258,7 +2258,7 @@
    "max": 84,
    "kind": "dialogue",
    "jp": "有無を言わさぬ井伊の\\n圧力に　老中は歌くらい\\nならと浮かせかけた腰を\\n落ち着けた",
-   "en": "",
+   "en": "The Elders had\\nhalf risen, but\\nunder Ii's\\nunyielding\\npressure they sat\\nback down. Surely\\na song could do\\nno harm.",
    "op": "0x62",
    "msg": "0x583d"
   },
@@ -2268,7 +2268,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "命惜しさに　名目でしか\\nなかった継承権まで\\n差し出すとは　哀れな",
-   "en": "",
+   "en": "Handing over\\neven his claim to\\nsuccession, empty\\nas it was, to save\\nhis own skin. How\\npitiful.",
    "op": "0x62",
    "msg": "0x583e"
   },
@@ -2278,7 +2278,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "形だけとはいえ継承権は\\n慶喜が生かされる唯一の\\n理由であった",
-   "en": "",
+   "en": "Though a mere\\nformality, that\\nclaim to\\nsuccession had\\nbeen the only\\nreason Yoshinobu\\nwas kept alive.",
    "op": "0x62",
    "msg": "0x583f"
   },
@@ -2288,7 +2288,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "あの　直弼\\n予は……",
-   "en": "",
+   "en": "Um, Naosuke... I...",
    "op": "0x62",
    "msg": "0x5840"
   },
@@ -2298,7 +2298,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "慶喜は　井伊の袴の裾を\\n掴んだまま　不安げに\\n広間を見渡した",
-   "en": "",
+   "en": "Still clutching the\\nhem of Ii's\\nhakama,\\nYoshinobu looked\\nanxiously around\\nthe hall.",
    "op": "0x62",
    "msg": "0x5841"
   },
@@ -2308,7 +2308,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "何の心配も\\nいりません",
-   "en": "",
+   "en": "There is nothing\\nto worry about.",
    "op": "0x62",
    "msg": "0x5842"
   },
@@ -2318,7 +2318,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "私が教えた歌を\\nただ歌いさえすれば\\n良いのです",
-   "en": "",
+   "en": "You need only\\nsing the song I\\ntaught you.",
    "op": "0x62",
    "msg": "0x5843"
   },
@@ -2328,7 +2328,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "できますね？",
-   "en": "",
+   "en": "You can do that,\\ncan't you?",
    "op": "0x62",
    "msg": "0x5844"
   },
@@ -2338,7 +2338,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "う　うん……\\nじゃあ――",
-   "en": "",
+   "en": "O-okay... Then--",
    "op": "0x62",
    "msg": "0x5845"
   },
@@ -2348,7 +2348,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "心して聴くがよい",
-   "en": "",
+   "en": "Listen, and take\\nheed.",
    "op": "0x62",
    "msg": "0x5846"
   },
@@ -2358,7 +2358,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "これこそが\\n神君より受け継ぎし力！",
-   "en": "",
+   "en": "This is the power\\nhanded down\\nfrom our divine\\nfounder!",
    "op": "0x62",
    "msg": "0x5847"
   },
@@ -2368,7 +2368,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "真の泰平へと導く歌！\\n天歌",
-   "en": "",
+   "en": "The song that\\nleads to true\\npeace! Heaven's\\nSong!",
    "op": "0x62",
    "msg": "0x5848"
   }

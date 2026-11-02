@@ -2932,7 +2932,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "うるさい連中だ\\n――死ね",
-   "en": "Noisy rabble...\\n--Die.",
+   "en": "Noisy rabble... --\\nDie.",
    "op": "0x62",
    "msg": "0x060f"
   },

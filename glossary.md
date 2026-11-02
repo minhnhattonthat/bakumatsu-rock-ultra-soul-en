@@ -116,6 +116,22 @@ an `Avoid` spelling fails. Name + honorific (龍馬さん) must come out as `Ryo
 | 総美 | Somi | | drag-bar stage name | |
 | 晋子 | Shinko | | drag-bar stage name | |
 | 大江戸天歌祭 | Great Edo Heaven's Song Festival | | | |
+| ハチノジディストーション | Figure-Eight Distortion | | song | |
+| 共鳴進歌 | Resonant Evolution | | song (進化 pun) | |
+| 生きてゆこう | Let's Live On | | song | |
+| モット!!! | MORE!!! | | song | |
+| 群青を射す光 | Light Piercing the Ultramarine | | song | |
+| 不完全パズル | Incomplete Puzzle | | song | |
+| 混色様式 | Mixed Color Style | | song: GOD BREATH -Mixed Color Style- | |
+| 宙ノ翼 | Wings of the Sky | | song | |
+| 絶頂DAYBREAK | Zenith DAYBREAK | | song | Climax DAYBREAK |
+| 松下村塾 | Shoka Sonjuku | | Shoin's school | |
+| 壬生組 | Mibu-gumi | | | |
+| 記録メディア | Memory Stick | | system text | |
+| 溜詰 | Inner Council | | Ii's seat (溜間詰 lords) | Tamarizume |
+| 老中首座 | Chief Elder | | 老中 = Elder; 老中筆頭 head of the Elders | |
+| 五大ツアー | Big Five Tour | | | |
+| 宴の松原 | En no Matsubara | | first mention: "the En no Matsubara, the Banquet Pines" | |
 | 奇兵隊 | Strange Rockers | | 奇兵隊（ストレンジロッカーズ） | Kiheitai |
 
 ## Phrases
@@ -147,7 +163,9 @@ an `Avoid` spelling fails. Name + honorific (龍馬さん) must come out as `Ryo
   lord; ゲーベル銃 Geweer rifle; 茶店（カフェ） cafe. "Oi" is British: Takasugi says "Hey".
 - b076-b079: 色男 ladies' man; 『場亜　オカマちゃん』 'Bar Okama-chan'; オカマバー drag bar; オカマちゃん愛獲 drag idols;
   オカマちゃん (generic) drag darlings; 隊名 band name; 乙女姉やん Sis Otome; 迅馬笛（ジンバブエ） the Zimbabwe;
-  (お)腹の虫 the hunger bug; 鼓舞鳥隊 (こぶとり pun) the Bold Eagles; Ｒ安堵Ｒ R&R.
+  (お)腹の虫 the hunger bug; 鼓舞鳥隊 (こぶとり pun) the Bold Eagles; Ｒ安堵Ｒ R&R. 色男 lady-killer (with ruby イケメン:
+  hunk); 戻るんるん Rewinderoo; skit end card 『X』　おわり -> 'X' -- The End; Heaven's Song never takes "the" unless
+  it modifies a noun (the Heaven's Song Festival); 一件落着 "this matter is settled" (not "Case closed" where Ryoma's quip follows).
   黄泉路の歌姫 the Diva of the Underworld; 幾松姐さん Sis Ikumatsu; 地下愛獲 underground idol; 看板娘 poster girls;
   一人雷舞（ソロライブ） solo live; お白州 the court; 総ちゃん (Otose) So-chan; カイ (Katsu's old stage name) Kai; 勝先生
   Katsu-sensei; ケツの穴の小せえ "chickenshit" (timid, not uptight).

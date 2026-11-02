@@ -8,7 +8,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "井伊の天歌に敗れ\\n地に伏した五人",
-   "en": "",
+   "en": "Defeated by Ii's\\nHeaven's Song,\\nthe five lay fallen\\non the ground.",
    "op": "0x62",
    "msg": "0x58b9"
   },
@@ -18,7 +18,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "魂は天歌と共に\\n天へと散り\\n抜け殻となった体だけが\\nそこにあった",
-   "en": "",
+   "en": "Their souls had\\nscattered to the\\nheavens with\\nHeaven's Song;\\nonly their bodies\\nremained, empty\\nhusks.",
    "op": "0x62",
    "msg": "0x58ba"
   },
@@ -28,7 +28,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "天守閣に立つ\\n井伊の影が\\n江戸を覆いつくす",
-   "en": "",
+   "en": "The shadow of Ii,\\nstanding atop the\\ncastle keep, fell\\nover all of Edo.",
    "op": "0x62",
    "msg": "0x58bb"
   },
@@ -38,7 +38,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "志士共よ\\n貴様らの希望は潰えた",
-   "en": "",
+   "en": "Rebels. Your\\nhopes are\\ncrushed.",
    "op": "0x62",
    "msg": "0x58bc"
   },
@@ -48,7 +48,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "我は宣言しよう\\n新たな世　泰平の世は\\nここから始まるのだ",
-   "en": "",
+   "en": "I hereby declare\\nit: a new age, an\\nage of peace,\\nbegins here.",
    "op": "0x62",
    "msg": "0x58bd"
   },
@@ -58,7 +58,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "ふふふ　ははははは\\nハーハッハッハ！",
-   "en": "",
+   "en": "Heh heh heh... Ha\\nha ha ha ha... HA\\nHA HA HA!",
    "op": "0x62",
    "msg": "0x58be"
   },
@@ -68,7 +68,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "志士との\\n壮絶な戦いから\\n三年――",
-   "en": "",
+   "en": "Three years after\\nthe fierce battle\\nwith the rebels--",
    "op": "0x62",
    "msg": "0x58bf"
   },
@@ -78,7 +78,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "直弼ー！",
-   "en": "",
+   "en": "Naosuke!",
    "op": "0x62",
    "msg": "0x58c0"
   },
@@ -88,7 +88,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "慶喜様ー！\\nいかがですか",
-   "en": "",
+   "en": "Yoshinobu-sama!\\nHow is it?",
    "op": "0x62",
    "msg": "0x58c1"
   },
@@ -98,7 +98,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "馬の稽古みたいだよ\\nぐるぐるぐるぐる楽しいよー",
-   "en": "",
+   "en": "It's like riding\\npractice! Round\\nand round and\\nround, it's so fun!",
    "op": "0x62",
    "msg": "0x58c2"
   },
@@ -108,7 +108,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "ああ　まさしく天使",
-   "en": "",
+   "en": "Ahh, truly an\\nangel.",
    "op": "0x62",
    "msg": "0x58c3"
   },
@@ -118,7 +118,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "あっち\\n今度はあっちに乗ろう！",
-   "en": "",
+   "en": "That one! Let's\\nride that one\\nnext!",
    "op": "0x62",
    "msg": "0x58c4"
   },
@@ -128,7 +128,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "おっと　そっちは\\n年齢制限がありますから\\n一緒でないと乗れませんよ",
-   "en": "",
+   "en": "Oh, careful. That\\none has an age\\nlimit, so you can't\\nride it unless I'm\\nwith you.",
    "op": "0x62",
    "msg": "0x58c5"
   },
@@ -138,7 +138,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "直弼ー\\n早く早くー！",
-   "en": "",
+   "en": "Naosuke! Hurry,\\nhurry!",
    "op": "0x62",
    "msg": "0x58c6"
   },
@@ -148,7 +148,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "止まる間もなく\\n駆け出す慶喜",
-   "en": "",
+   "en": "Yoshinobu dashed\\noff without a\\nmoment's pause.",
    "op": "0x62",
    "msg": "0x58c7"
   },
@@ -158,7 +158,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "目の前には\\n波のようにうねる線路と\\n山のごとき高さの建物",
-   "en": "",
+   "en": "Before them:\\ntracks that rolled\\nlike waves, and a\\nstructure as tall\\nas a mountain.",
    "op": "0x62",
    "msg": "0x58c8"
   },
@@ -168,7 +168,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "ぎゃー　止めてー\\n直弼ー直弼ー",
-   "en": "",
+   "en": "Gyaah! Make it\\nstop! Naosuke!\\nNaosuke!",
    "op": "0x62",
    "msg": "0x58c9"
   },
@@ -178,7 +178,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "徳川の男子たる者\\nこの程度で音を上げては\\nいけません！",
-   "en": "",
+   "en": "A son of the\\nTokugawa must\\nnot cry out over\\nsomething like\\nthis!",
    "op": "0x62",
    "msg": "0x58ca"
   },
@@ -188,7 +188,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "凄まじい速度で右に左に\\n体が揺さぶられる",
-   "en": "",
+   "en": "At terrifying\\nspeed, they were\\nflung left and\\nright.",
    "op": "0x62",
    "msg": "0x58cb"
   },
@@ -198,7 +198,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "必死に井伊へ\\nしがみつく慶喜\\n井伊の口の端には\\n喜色が浮かんでいる",
-   "en": "",
+   "en": "Yoshinobu clung\\ndesperately to Ii.\\nAt the corner of\\nIi's mouth, a look\\nof delight\\nappeared.",
    "op": "0x62",
    "msg": "0x58cc"
   },
@@ -208,7 +208,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "うーわー\\n地面が地面が！\\n空が空が！",
-   "en": "",
+   "en": "Waaah! The\\nground, the\\nground! The sky,\\nthe sky!",
    "op": "0x62",
    "msg": "0x58cd"
   },
@@ -218,7 +218,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "慶喜様\\n腹部に力を入れるのです\\n天歌を制すもの天地を制す",
-   "en": "",
+   "en": "Yoshinobu-sama,\\ntighten your\\nstomach! He who\\nmasters the\\nHeaven's Song\\nmasters heaven\\nand earth!",
    "op": "0x62",
    "msg": "0x58ce"
   },
@@ -228,7 +228,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "直弼～～",
-   "en": "",
+   "en": "Naosukeee...",
    "op": "0x62",
    "msg": "0x58cf"
   },
@@ -238,7 +238,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "何よりも……",
-   "en": "",
+   "en": "More than\\nanything...",
    "op": "0x62",
    "msg": "0x58d0"
   },
@@ -248,7 +248,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "直弼　そなたがいてくれる",
-   "en": "",
+   "en": "Naosuke, you're\\nhere with me.",
    "op": "0x62",
    "msg": "0x58d1"
   },
@@ -258,7 +258,7 @@
    "max": 8,
    "kind": "dialogue",
    "jp": "慶喜様",
-   "en": "",
+   "en": "Yoshinobu-sama...",
    "op": "0x62",
    "msg": "0x58d2"
   },
@@ -268,7 +268,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "井伊の傍らへ\\n寄りそう慶喜",
-   "en": "",
+   "en": "Yoshinobu\\nnestled close\\nbeside Ii.",
    "op": "0x62",
    "msg": "0x58d3"
   },
@@ -278,7 +278,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "ゆっくりと流れる時の中\\n心地よい温もりが\\n二人を包む",
-   "en": "",
+   "en": "As time flowed\\nslowly by, a\\ngentle warmth\\nwrapped around\\nthe two of them.",
    "op": "0x62",
    "msg": "0x58d4"
   },
@@ -288,7 +288,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "直弼　これからも\\n予の側に　いておくれ",
-   "en": "",
+   "en": "Naosuke, stay by\\nmy side from now\\non, too.",
    "op": "0x62",
    "msg": "0x58d5"
   },
@@ -298,7 +298,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "もちろんです\\n私は慶喜様と共に\\nいつまでも……",
-   "en": "",
+   "en": "Of course. I will\\nbe with you,\\nYoshinobu-sama,\\nforever...",
    "op": "0x62",
    "msg": "0x58d6"
   },
@@ -308,7 +308,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "約束だよ！\\nずっと　ずっとだよ！",
-   "en": "",
+   "en": "Promise! Forever\\nand ever!",
    "op": "0x62",
    "msg": "0x58d7"
   },
@@ -318,7 +318,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "ええ　ずっとおりますよ",
-   "en": "",
+   "en": "Yes, I'll always be\\nhere.",
    "op": "0x62",
    "msg": "0x58d8"
   },
@@ -328,7 +328,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "貴様　何をやっている",
-   "en": "",
+   "en": "You. What are\\nyou doing?",
    "op": "0x62",
    "msg": "0x58d9"
   },
@@ -338,7 +338,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "……何とは",
-   "en": "",
+   "en": "...What do you\\nmean?",
    "op": "0x62",
    "msg": "0x58da"
   },
@@ -348,7 +348,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "我らとの契約　徳川の世\\n天歌泰平の世界",
-   "en": "",
+   "en": "Our pact. The\\nTokugawa reign.\\nA world of\\nHeaven's Song\\nPeace.",
    "op": "0x62",
    "msg": "0x58db"
   },
@@ -358,7 +358,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "それを血迷うたか\\n徳川園（ランド）の建設\\n名君慶喜の治世だと？",
-   "en": "",
+   "en": "Have you lost\\nyour mind?\\nBuilding\\nTokugawa Land?\\nThe reign of\\nYoshinobu the\\nwise ruler?",
    "op": "0x62",
    "msg": "0x58dc"
   },
@@ -368,7 +368,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "ふっ　知らんな",
-   "en": "",
+   "en": "Heh. Not my\\nconcern.",
    "op": "0x62",
    "msg": "0x58dd"
   },
@@ -378,7 +378,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "な……に……？",
-   "en": "",
+   "en": "Wh...at...?",
    "op": "0x62",
    "msg": "0x58de"
   },
@@ -388,7 +388,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "我は徳川の世など\\nどうでもいいのだ\\n慶喜様が幸せであれば良い",
-   "en": "",
+   "en": "I care nothing for\\nthe Tokugawa\\nreign. So long as\\nYoshinobu-sama\\nis happy, that is\\nenough.",
    "op": "0x62",
    "msg": "0x58df"
   },
@@ -398,7 +398,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "孤独の淵よりお救いし\\nお守りする\\nあの方の望みを\\n叶えるのが我の望み",
-   "en": "",
+   "en": "To save him from\\nthe depths of\\nloneliness, to\\nprotect him, to\\ngrant his wishes--\\nthat is my wish.",
    "op": "0x62",
    "msg": "0x58e0"
   },
@@ -408,7 +408,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "貴様……",
-   "en": "",
+   "en": "You...",
    "op": "0x62",
    "msg": "0x58e1"
   },
@@ -418,7 +418,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "怨霊から電光が\\nほとばしり\\n井伊を襲う",
-   "en": "",
+   "en": "Lightning burst\\nfrom the\\nvengeful spirits\\nand struck at Ii.",
    "op": "0x62",
    "msg": "0x58e2"
   },
@@ -428,7 +428,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "だが電光は\\n体に触れる直前で\\n霧散した",
-   "en": "",
+   "en": "But the lightning\\ndissipated just\\nbefore it touched\\nhim.",
    "op": "0x62",
    "msg": "0x58e3"
   },
@@ -438,7 +438,7 @@
    "max": 8,
    "kind": "dialogue",
    "jp": "何",
-   "en": "",
+   "en": "What?",
    "op": "0x62",
    "msg": "0x58e4"
   },
@@ -448,7 +448,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "この目を捧げ\\n交わした呪……",
-   "en": "",
+   "en": "A curse sealed\\nwith the offering\\nof this eye...",
    "op": "0x62",
    "msg": "0x58e5"
   },
@@ -458,7 +458,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "それだけで　いつまでも\\n我を縛れると思うてか",
-   "en": "",
+   "en": "Did you truly\\nthink that alone\\ncould bind me\\nforever?",
    "op": "0x62",
    "msg": "0x58e6"
   },
@@ -468,7 +468,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "慶喜様への愛の前に\\n貴様の呪など無力",
-   "en": "",
+   "en": "Before my love\\nfor\\nYoshinobu-sama,\\nyour curse is\\npowerless.",
    "op": "0x62",
    "msg": "0x58e7"
   },
@@ -478,7 +478,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "井伊から放たれた鬼気に\\n怨霊の影がたじろぐ",
-   "en": "",
+   "en": "The shadow of\\nthe spirits\\nflinched before\\nthe fierce aura Ii\\nunleashed.",
    "op": "0x62",
    "msg": "0x58e8"
   },
@@ -488,7 +488,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "身の程を知れ！",
-   "en": "",
+   "en": "Know your place!",
    "op": "0x62",
    "msg": "0x58e9"
   },
@@ -498,7 +498,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "我こそは井伊直弼\\n慶喜様の大老にして\\n天下を治むる者ぞ！",
-   "en": "",
+   "en": "I am Naosuke Ii!\\nGreat Elder to\\nYoshinobu-sama,\\nand he who rules\\nthe land!",
    "op": "0x62",
    "msg": "0x58ea"
   },
@@ -508,7 +508,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "井伊と怨霊の間で\\n力が光となり交差する",
-   "en": "",
+   "en": "Between Ii and\\nthe spirits, their\\npowers turned to\\nlight and clashed.",
    "op": "0x62",
    "msg": "0x58eb"
   },
@@ -518,7 +518,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "ぐごぐごおお……",
-   "en": "",
+   "en": "Gugogugooo...",
    "op": "0x62",
    "msg": "0x58ec"
   },
@@ -528,7 +528,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "ぬうん！",
-   "en": "",
+   "en": "Hnnngh!",
    "op": "0x62",
    "msg": "0x58ed"
   },
@@ -538,7 +538,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "轟音が響き渡り\\n光が世界を満たした",
-   "en": "",
+   "en": "A thunderous\\nroar rang out,\\nand light filled\\nthe world.",
    "op": "0x62",
    "msg": "0x58ee"
   },
@@ -548,7 +548,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "光が消えた時\\nそこには瞑目する\\n井伊の姿があった",
-   "en": "",
+   "en": "When the light\\nfaded, Ii stood\\nthere with his\\neyes closed.",
    "op": "0x62",
    "msg": "0x58ef"
   },
@@ -558,7 +558,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "静かに眠るが良い\\n徳川は……慶喜様の世は\\nこの直弼が引き受けた",
-   "en": "",
+   "en": "Rest quietly. The\\nTokugawa...\\nYoshinobu-sama's\\nreign... I,\\nNaosuke, shall\\ntake it upon\\nmyself.",
    "op": "0x62",
    "msg": "0x58f0"
   },
@@ -568,7 +568,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "徳川の世は\\nこれよりさらに\\n三百年の間\\n続くこととなる",
-   "en": "",
+   "en": "The Tokugawa\\nreign would go on\\nfor another three\\nhundred years,",
    "op": "0x62",
    "msg": "0x58f1"
   },
@@ -578,7 +578,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "徳川園（ランド）の\\n世界進出と共に",
-   "en": "",
+   "en": "as Tokugawa\\nLand expanded\\nacross the world.",
    "op": "0x62",
    "msg": "0x58f2"
   },
@@ -588,7 +588,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "ＢＡＤ　ＥＮＤ…？",
-   "en": "",
+   "en": "BAD END...?",
    "op": "0x62",
    "msg": "0x58f3"
   }

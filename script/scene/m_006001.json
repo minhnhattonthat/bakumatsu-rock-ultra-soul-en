@@ -485,7 +485,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "うん　そうらしいですね\\n天歌の影響が薄い所から\\n動きが出て来たみたい",
-   "en": "Yes, so it seems.\\nThings seem to be\\nstirring wherever\\nthe Heaven's\\nSong's influence\\nis weak.",
+   "en": "Yes, so it seems.\\nThings seem to be\\nstirring wherever\\nHeaven's Song's\\ninfluence is weak.",
    "op": "0x62",
    "msg": "0x0fad"
   },
@@ -2479,7 +2479,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "それまで　存分に\\n天歌を広めて\\nもらおうか",
-   "en": "Until then, I shall\\nhave him spread\\nthe Heaven's Song\\nto his heart's\\ncontent.",
+   "en": "Until then, I shall\\nhave him spread\\nHeaven's Song to\\nhis heart's\\ncontent.",
    "op": "0x62",
    "msg": "0x1300"
   },
@@ -2839,7 +2839,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "総司の歌は　天賦の才だ\\n民衆が酔いしれ　天歌に\\n傾倒するのも当然……",
-   "en": "Soji's singing is a\\ngift from heaven.\\nIt's only natural\\nthe people are\\nenraptured and\\ndevoted to the\\nHeaven's Song...",
+   "en": "Soji's singing is a\\ngift from heaven.\\nIt's only natural\\nthe people are\\nenraptured and\\ndevoted to\\nHeaven's Song...",
    "op": "0x62",
    "msg": "0x1325"
   },

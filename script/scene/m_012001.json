@@ -158,7 +158,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "……しかし　坂本は\\nあれが天歌と同じだと\\n言ってなかったか？",
-   "en": "...But didn't you\\nsay, Sakamoto,\\nthat it was the\\nsame as the\\nHeaven's Song?",
+   "en": "...But didn't you\\nsay, Sakamoto,\\nthat it was the\\nsame as Heaven's\\nSong?",
    "op": "0x62",
    "msg": "0x5100"
   },
@@ -188,7 +188,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "でも……\\n無理矢理　聴かせて\\n従えるなら天歌と同じぜよ",
-   "en": "But... if he forces\\nfolks to listen and\\nmakes 'em obey,\\nthen it's the same\\nas the Heaven's\\nSong.",
+   "en": "But... if he forces\\nfolks to listen and\\nmakes 'em obey,\\nthen it's the same\\nas Heaven's Song.",
    "op": "0x62",
    "msg": "0x5103"
   },
@@ -815,7 +815,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "天歌がまだ世を支配して\\nいた頃はしょっちゅう\\n徹夜してましたよね",
-   "en": "Back when the\\nHeaven's Song\\nstill ruled the\\nworld, we used to\\nstay up all night\\nall the time,\\ndidn't we?",
+   "en": "Back when\\nHeaven's Song\\nstill ruled the\\nworld, we used to\\nstay up all night\\nall the time,\\ndidn't we?",
    "op": "0x62",
    "msg": "0x513f"
   },
@@ -925,7 +925,7 @@
    "max": 88,
    "kind": "dialogue",
    "jp": "かつて天歌と戦っていた\\n時のように\\nいやそれ以上に熱く激しく\\n三人は練習に打ち込んだ",
-   "en": "As in their days\\nfighting the\\nHeaven's Song--\\nno, hotter and\\nfiercer still--the\\nthree threw\\nthemselves into\\npractice.",
+   "en": "As in their days\\nfighting Heaven's\\nSong--no, hotter\\nand fiercer still--\\nthe three threw\\nthemselves into\\npractice.",
    "op": "0x62",
    "msg": "0x514a"
   }

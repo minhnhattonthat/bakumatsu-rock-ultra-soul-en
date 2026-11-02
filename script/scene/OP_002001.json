@@ -28,7 +28,7 @@
    "max": 92,
    "kind": "dialogue",
    "jp": "徳川家康は\\n歌の力を究めた秘術\\n『天歌（ヘブンズソング）』\\nを用い　友軍諸侯の\\n結束を強め",
-   "en": "Ieyasu Tokugawa,\\nthey say, used the\\nHeaven's Song, a\\nsecret art that\\nmastered the\\npower of song, to\\nbind his allied\\nlords together...",
+   "en": "Ieyasu Tokugawa,\\nthey say, used\\nHeaven's Song, a\\nsecret art that\\nmastered the\\npower of song, to\\nbind his allied\\nlords together...",
    "op": "0x62",
    "msg": "0x0001"
   },
@@ -78,7 +78,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "幕府は\\n天歌の封印を解き\\n大衆を魅了することで\\n支配を強めようとしていた",
-   "en": "...the shogunate\\nbroke the seal on\\nthe Heaven's\\nSong, seeking to\\ntighten its rule by\\nenthralling the\\nmasses.",
+   "en": "...the shogunate\\nbroke the seal on\\nHeaven's Song,\\nseeking to tighten\\nits rule by\\nenthralling the\\nmasses.",
    "op": "0x62",
    "msg": "0x0056"
   },
@@ -88,7 +88,7 @@
    "max": 92,
    "kind": "dialogue",
    "jp": "それは同時に　幕府が\\n認める天歌以外の音楽は\\n規制され　排除される\\nことをも意味していた",
-   "en": "This also meant\\nthat all music\\nother than the\\nHeaven's Song the\\nshogunate\\napproved would\\nbe restricted and\\nstamped out.",
+   "en": "This also meant\\nthat all music\\nother than\\nHeaven's Song, as\\napproved by the\\nshogunate, would\\nbe restricted and\\nstamped out.",
    "op": "0x62",
    "msg": "0x0005"
   },

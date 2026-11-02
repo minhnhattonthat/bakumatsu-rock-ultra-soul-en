@@ -1795,7 +1795,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "うっ……\\nこれは天歌……？\\nどこから聴こえてくるの…？",
-   "en": "Ugh... Is this the\\nHeaven's Song...?\\nWhere is it\\ncoming from...?",
+   "en": "Ugh... Is this\\nHeaven's Song...?\\nWhere is it\\ncoming from...?",
    "op": "0x62",
    "msg": "0x1d49"
   },
@@ -1825,7 +1825,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "不思議な声と\\n天歌ですか……",
-   "en": "A mysterious\\nvoice, and the\\nHeaven's Song...",
+   "en": "A mysterious\\nvoice, and\\nHeaven's Song...",
    "op": "0x62",
    "msg": "0x1d4c"
   },
@@ -1835,7 +1835,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "だが井伊はもういないぜ\\n一体　誰が天歌を",
-   "en": "But Ii's gone now.\\nSo who the hell is\\nsinging the\\nHeaven's Song?",
+   "en": "But Ii's gone now.\\nSo who the hell is\\nsinging Heaven's\\nSong?",
    "op": "0x62",
    "msg": "0x1d4d"
   },
@@ -2305,7 +2305,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "井伊が死んで　天歌の\\n脅威はなくなったと\\n思っていたが",
-   "en": "I thought that\\nwith Ii dead, the\\nthreat of the\\nHeaven's Song\\nwas gone.",
+   "en": "I thought that\\nwith Ii dead, the\\nthreat of\\nHeaven's Song\\nwas gone.",
    "op": "0x62",
    "msg": "0x1d7c"
   },

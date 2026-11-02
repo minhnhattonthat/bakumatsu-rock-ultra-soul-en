@@ -408,7 +408,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "もしや　それは天歌の\\n影響か？\\nおい　岩崎",
-   "en": "Could that be the\\nHeaven's Song's\\ndoing? Hey,\\nIwasaki.",
+   "en": "Could that be\\nHeaven's Song's\\ndoing? Hey,\\nIwasaki.",
    "op": "0x62",
    "msg": "0x0d6f"
   },
@@ -1205,7 +1205,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "みんな　天歌に\\n取り憑かれとるぜよ",
-   "en": "Everybody's\\npossessed by the\\nHeaven's Song, I\\ntell ya.",
+   "en": "Everybody's\\npossessed by\\nHeaven's Song, I\\ntell ya.",
    "op": "0x62",
    "msg": "0x0dc5"
   },
@@ -1215,7 +1215,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "天歌……\\nなんちゅう\\n恐ろしい歌じゃ",
-   "en": "The Heaven's\\nSong... What a\\nterrifyin' song...",
+   "en": "Heaven's Song...\\nWhat a terrifyin'\\nsong...",
    "op": "0x62",
    "msg": "0x0dc6"
   },
@@ -1335,7 +1335,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "天歌　そして\\n鳳舞合奏",
-   "en": "The Heaven's\\nSong, and\\nPhoenix Rising.",
+   "en": "Heaven's Song,\\nand Phoenix\\nRising.",
    "op": "0x62",
    "msg": "0x0dd2"
   },
@@ -1465,7 +1465,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "そんな弱気になるなんて\\n天歌にやられたんだ",
-   "en": "Losing your nerve\\nlike that--the\\nHeaven's Song got\\nto you.",
+   "en": "Losing your nerve\\nlike that--\\nHeaven's Song got\\nto you.",
    "op": "0x62",
    "msg": "0x0ddf"
   },
@@ -1645,7 +1645,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "きっと　鳳舞の影響が\\n残っていてさっきの天歌が\\n引き金になったのですね",
-   "en": "The Phoenix\\nDance's effect\\nmust have\\nlingered, and the\\nHeaven's Song\\njust now\\ntriggered it.",
+   "en": "The Phoenix\\nDance's effect\\nmust have\\nlingered, and\\nHeaven's Song\\njust now\\ntriggered it.",
    "op": "0x62",
    "msg": "0x0df1"
   },
@@ -1685,7 +1685,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "新選組の新しい鳳舞\\nそして天歌だけでも\\nこの状態なんですよ？",
-   "en": "Just the\\nShinsengumi's\\nnew Phoenix\\nDance and the\\nHeaven's Song did\\nall this, you\\nknow?",
+   "en": "Just the\\nShinsengumi's\\nnew Phoenix\\nDance and\\nHeaven's Song did\\nall this, you\\nknow?",
    "op": "0x62",
    "msg": "0x0df5"
   },
@@ -1705,7 +1705,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "それは　無意味じゃ\\n天歌は　広まっとる",
-   "en": "That's pointless.\\nThe Heaven's\\nSong is spreadin'.",
+   "en": "That's pointless.\\nHeaven's Song is\\nspreadin'.",
    "op": "0x62",
    "msg": "0x0df7"
   },
@@ -1885,7 +1885,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "遠く　夕暮れの彦根に\\n天歌が響き渡る",
-   "en": "The Heaven's\\nSong rang out far\\nacross Hikone at\\ndusk.",
+   "en": "Heaven's Song\\nrang out far\\nacross Hikone at\\ndusk.",
    "op": "0x62",
    "msg": "0x0e09"
   },
@@ -2362,7 +2362,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "最初に鳳舞で囚須状態に\\nして天歌を繰り返し聴かせ\\n洗脳する……",
-   "en": "First the Phoenix\\nDance puts them\\nin a trance, then\\nthe Heaven's Song\\nis played to them\\nover and over\\nuntil they're\\nbrainwashed...",
+   "en": "First the Phoenix\\nDance puts them\\nin a trance, then\\nHeaven's Song is\\nplayed to them\\nover and over\\nuntil they're\\nbrainwashed...",
    "op": "0x62",
    "msg": "0x0e36"
   },
@@ -2462,7 +2462,7 @@
    "max": 80,
    "kind": "dialogue",
    "jp": "今から始まる鳳舞合奏は\\n踊りと天歌の融合した\\nいわば究極の剣舞\\n（ショー）",
-   "en": "Up next, Phoenix\\nRising fuses\\ndance and the\\nHeaven's Song:\\nthe ultimate\\nsword-dance\\nshow, you might\\nsay.",
+   "en": "Up next, Phoenix\\nRising fuses\\ndance and\\nHeaven's Song:\\nthe ultimate\\nsword-dance\\nshow, you might\\nsay.",
    "op": "0x62",
    "msg": "0x0e40"
   },
@@ -3012,7 +3012,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "天歌ほどでは\\nありませんよ",
-   "en": "Not as loud as the\\nHeaven's Song.",
+   "en": "Not as loud as\\nHeaven's Song.",
    "op": "0x62",
    "msg": "0x0e77"
   },

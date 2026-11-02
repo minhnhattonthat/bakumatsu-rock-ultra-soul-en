@@ -518,7 +518,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "あんた達　天歌に対抗して\\nロックをしてるんだってね\\n懐かしいわ",
-   "en": "I hear you boys\\nplay rock to stand\\nup to the\\nHeaven's Song.\\nHow nostalgic.",
+   "en": "I hear you boys\\nplay rock to stand\\nup to Heaven's\\nSong. How\\nnostalgic.",
    "op": "0x62",
    "msg": "0x0c28"
   },
@@ -538,7 +538,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "アタシとお登勢も　昔ね\\n天歌が始まった頃\\n抵抗して歌ったの",
-   "en": "Long ago, back\\nwhen the\\nHeaven's Song\\nbegan, Otose and\\nI sang in\\nresistance too.",
+   "en": "Long ago, back\\nwhen Heaven's\\nSong began,\\nOtose and I sang\\nin resistance too.",
    "op": "0x62",
    "msg": "0x0c2a"
   },
@@ -748,7 +748,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "天歌以外の歌を\\n歌うてもええのか？",
-   "en": "Folks are allowed\\nto sing songs that\\nain't the Heaven's\\nSong?",
+   "en": "Folks are allowed\\nto sing songs that\\nain't Heaven's\\nSong?",
    "op": "0x62",
    "msg": "0x0c3f"
   },
@@ -758,7 +758,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "これも　天歌ですよ\\n地元の歌を天歌に\\nしているんですね",
-   "en": "This is the\\nHeaven's Song,\\ntoo. They've\\nturned the local\\nsongs into the\\nHeaven's Song.",
+   "en": "This is Heaven's\\nSong, too. They've\\nturned the local\\nsongs into\\nHeaven's Song.",
    "op": "0x62",
    "msg": "0x0c40"
   },
@@ -918,7 +918,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "大ッ嫌いな\\n天歌であってもだ！",
-   "en": "...the Heaven's\\nSong I absolutely\\nhate!",
+   "en": "...Heaven's Song I\\nabsolutely hate!",
    "op": "0x62",
    "msg": "0x0c50"
   },
@@ -958,7 +958,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "晋作は誰より天歌を\\n嫌ってますからねぇ",
-   "en": "After all,\\nShinsaku hates\\nthe Heaven's Song\\nmore than\\nanyone.",
+   "en": "After all,\\nShinsaku hates\\nHeaven's Song\\nmore than\\nanyone.",
    "op": "0x62",
    "msg": "0x0c54"
   },
@@ -1108,7 +1108,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "こんな離れたところに\\nまで天歌が……",
-   "en": "The Heaven's\\nSong has reached\\neven this far...",
+   "en": "Heaven's Song\\nhas reached even\\nthis far...",
    "op": "0x62",
    "msg": "0x0c63"
   },
@@ -1168,7 +1168,7 @@
    "max": 104,
    "kind": "dialogue",
    "jp": "天歌など聴いたこともない\\nロック以外には興味が無い\\nそう言い切った龍馬でさえ\\n忘れられない　その声……",
-   "en": "Even Ryoma, who\\nhad declared he'd\\nnever heard the\\nHeaven's Song\\nand cared for\\nnothing but rock,\\ncould not forget\\nthat voice...",
+   "en": "Even Ryoma, who\\nhad declared he'd\\nnever heard\\nHeaven's Song\\nand cared for\\nnothing but rock,\\ncould not forget\\nthat voice...",
    "op": "0x62",
    "msg": "0x0c69"
   },
@@ -1278,7 +1278,7 @@
    "max": 100,
    "kind": "dialogue",
    "jp": "沖田の言葉に人波が\\n綺麗に割れる\\nそれだけで　民達が\\nどれだけ天歌の虜に\\nなっているのかがわかる",
-   "en": "At Okita's words,\\nthe crowd parted\\nneatly. That alone\\nshowed how\\ncompletely the\\npeople were in\\nthrall to the\\nHeaven's Song.",
+   "en": "At Okita's words,\\nthe crowd parted\\nneatly. That alone\\nshowed how\\ncompletely the\\npeople were in\\nthrall to Heaven's\\nSong.",
    "op": "0x62",
    "msg": "0x0c74"
   },
@@ -2685,7 +2685,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "だから　教えてくれ\\n新しい音楽とはなんじゃ",
-   "en": "So tell me,\\nthen--what's this\\nnew music?",
+   "en": "So tell me, then--\\nwhat's this new\\nmusic?",
    "op": "0x62",
    "msg": "0x0cfd"
   },

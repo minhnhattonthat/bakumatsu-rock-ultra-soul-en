@@ -28,7 +28,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "土佐とは違って\\n町全体に活気があるぜよ",
-   "en": "Not like\\nTosa--this whole\\ntown's buzzin'\\nwith life!",
+   "en": "Not like Tosa--\\nthis whole town's\\nbuzzin' with life!",
    "op": "0x62",
    "msg": "0x0084"
   },
@@ -625,7 +625,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "土佐では天歌以外の歌は\\n認められなかったが",
-   "en": "Back in Tosa, no\\nsongs but the\\nHeaven's Song\\nwere allowed...",
+   "en": "Back in Tosa, no\\nsongs but\\nHeaven's Song\\nwere allowed...",
    "op": "0x62",
    "msg": "0x0156"
   },
@@ -1635,7 +1635,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "歌い手……？\\n龍ちゃん　アンタ\\n天歌を歌うの？",
-   "en": "A singer...?\\nRyo-chan, do you\\nsing the Heaven's\\nSong?",
+   "en": "A singer...?\\nRyo-chan, do you\\nsing Heaven's\\nSong?",
    "op": "0x62",
    "msg": "0x01bd"
   },

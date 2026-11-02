@@ -348,7 +348,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "予想外ですね\\n女の子だけではなくて\\n男性客も多いですよ",
-   "en": "How unexpected.\\nIt isn't just\\ngirls--there are\\nplenty of men\\nhere too.",
+   "en": "How unexpected.\\nIt isn't just girls--\\nthere are plenty\\nof men here too.",
    "op": "0x62",
    "msg": "0x083b"
   },
@@ -978,7 +978,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "だが　何なんだ？\\nオレ様の心は　魂は\\nちっとも躍らねえ！",
-   "en": "But what is this?\\nYours truly's\\nheart, my\\nsoul--it's not\\ndancing one bit!",
+   "en": "But what is this?\\nYours truly's\\nheart, my soul--\\nit's not dancing\\none bit!",
    "op": "0x62",
    "msg": "0x087a"
   },
@@ -1725,7 +1725,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "この新選組の天歌に対し\\nそこまで言うとは\\nなかなか面白いヤツだ\\n",
-   "en": "To say all that\\nabout the\\nShinsengumi's\\nHeaven's\\nSong--you're\\nquite an\\ninteresting\\nfellow.",
+   "en": "To say all that\\nabout the\\nShinsengumi's\\nHeaven's Song--\\nyou're quite an\\ninteresting\\nfellow.",
    "op": "0x62",
    "msg": "0x08c4"
   },
@@ -1805,7 +1805,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "天歌は　徳川家を讃え\\nその忠誠心を込めた音楽\\n",
-   "en": "The Heaven's\\nSong is music that\\npraises the\\nTokugawa house\\nand carries our\\nloyalty to it.",
+   "en": "Heaven's Song is\\nmusic that praises\\nthe Tokugawa\\nhouse and carries\\nour loyalty to it.",
    "op": "0x62",
    "msg": "0x08cc"
   },

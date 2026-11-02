@@ -8,7 +8,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "ぬぅ\\n参った……",
-   "en": "",
+   "en": "Nngh... I'm\\nstumped...",
    "op": "0x62",
    "msg": "0x55a2"
   },
@@ -18,7 +18,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "まさかこんな事に\\nなるとは",
-   "en": "",
+   "en": "Who'd have\\nthought it would\\ncome to this?",
    "op": "0x62",
    "msg": "0x55a3"
   },
@@ -28,7 +28,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "この土方歳三\\n一生の不覚だ",
-   "en": "",
+   "en": "I, Toshizo\\nHijikata, have\\nmade the blunder\\nof a lifetime.",
    "op": "0x62",
    "msg": "0x55a4"
   },
@@ -38,7 +38,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "不覚ですねー",
-   "en": "",
+   "en": "Quite the\\nblunder~",
    "op": "0x62",
    "msg": "0x55a5"
   },
@@ -48,7 +48,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "う～ん\\n悩みます……",
-   "en": "",
+   "en": "Hmm... What a\\ndilemma...",
    "op": "0x62",
    "msg": "0x55a6"
   },
@@ -58,7 +58,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "そうだねー\\n困ったねー",
-   "en": "",
+   "en": "Yeah~ What a\\npickle~",
    "op": "0x62",
    "msg": "0x55a7"
   },
@@ -68,7 +68,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "フン……",
-   "en": "",
+   "en": "Hmph...",
    "op": "0x62",
    "msg": "0x55a8"
   },
@@ -78,7 +78,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "ここは江戸にある\\n勝海舟の屋敷",
-   "en": "",
+   "en": "This is the\\nmansion of\\nKaishu Katsu, in\\nEdo.",
    "op": "0x62",
    "msg": "0x55a9"
   },
@@ -88,7 +88,7 @@
    "max": 108,
    "kind": "dialogue",
    "jp": "雷舞会場として\\n使えそうな程　広々とした\\n和室の隅で　高杉　桂\\n土方　沖田の四人は\\n膝を突き合わせていた",
-   "en": "",
+   "en": "In a corner of a\\ntatami room big\\nenough to host a\\nlive, Takasugi,\\nKatsura, Hijikata\\nand Okita sat\\nknee to knee.",
    "op": "0x62",
    "msg": "0x55aa"
   },
@@ -98,7 +98,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "四人の真ん中には\\n小さな箱が置かれている",
-   "en": "",
+   "en": "In the middle of\\nthe four sat a\\nsmall box.",
    "op": "0x62",
    "msg": "0x55ab"
   },
@@ -108,7 +108,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "中には　一組の紅白饅頭が\\n仲良く寄り添って\\n納まっていた",
-   "en": "",
+   "en": "Inside, a pair of\\nred and white\\nmanju nestled\\nsnugly side by\\nside.",
    "op": "0x62",
    "msg": "0x55ac"
   },
@@ -118,7 +118,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "箱の中の饅頭は　二つ\\n今ここにいる人数は　四人",
-   "en": "",
+   "en": "Two manju in the\\nbox. Four of us\\nhere.",
    "op": "0x62",
    "msg": "0x55ad"
   },
@@ -128,7 +128,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "これでは四人全員に\\n饅頭が行き渡らない",
-   "en": "",
+   "en": "That means there\\naren't enough\\nmanju to go\\naround.",
    "op": "0x62",
    "msg": "0x55ae"
   },
@@ -138,7 +138,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "ここはひとつ\\nこの私　桂小五郎に\\n任せてください",
-   "en": "",
+   "en": "Leave this one to\\nme, Kogoro\\nKatsura.",
    "op": "0x62",
    "msg": "0x55af"
   },
@@ -148,7 +148,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "閃きました\\nこうしたらどうです？",
-   "en": "",
+   "en": "I've got it! How\\nabout this?",
    "op": "0x62",
    "msg": "0x55b0"
   },
@@ -158,7 +158,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "どうするの？",
-   "en": "",
+   "en": "How about what?",
    "op": "0x62",
    "msg": "0x55b1"
   },
@@ -168,7 +168,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "簡単な事です\\n二つの饅頭を\\n半分に割るのです",
-   "en": "",
+   "en": "It's simple. We\\nsplit each of the\\ntwo manju in half.",
    "op": "0x62",
    "msg": "0x55b2"
   },
@@ -178,7 +178,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "そうすれば平等に\\n四人に行き渡ります\\nどうです　名案でしょう",
-   "en": "",
+   "en": "That way, all four\\nof us get an equal\\nshare. Well? A\\nbrilliant idea, isn't\\nit?",
    "op": "0x62",
    "msg": "0x55b3"
   },
@@ -188,7 +188,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "却下だ",
-   "en": "",
+   "en": "Rejected.",
    "op": "0x62",
    "msg": "0x55b4"
   },
@@ -198,7 +198,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "えええええっ\\n何故ですかっ",
-   "en": "",
+   "en": "Whaaaat!? But\\nwhy!?",
    "op": "0x62",
    "msg": "0x55b5"
   },
@@ -208,7 +208,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "それはオレ様のセリフだ\\n桂さんともあろう人が\\nオレは情けないぜ",
-   "en": "",
+   "en": "That's my line! I'm\\nashamed of you,\\nKatsura-san. You\\nof all people!",
    "op": "0x62",
    "msg": "0x55b6"
   },
@@ -218,7 +218,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "この饅頭を\\n割れるワケねぇだろ",
-   "en": "",
+   "en": "There's no way\\nwe can split these\\nmanju!",
    "op": "0x62",
    "msg": "0x55b7"
   },
@@ -228,7 +228,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "うむ\\n高杉の言う通りだ",
-   "en": "",
+   "en": "Indeed.\\nTakasugi's right.",
    "op": "0x62",
    "msg": "0x55b8"
   },
@@ -238,7 +238,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "いいか　桂\\n分かってるだろうが\\nこれは只の饅頭ではない",
-   "en": "",
+   "en": "Listen, Katsura.\\nYou should know\\nthis already.\\nThese are no\\nordinary manju.",
    "op": "0x62",
    "msg": "0x55b9"
   },
@@ -248,7 +248,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "征夷大将軍\\n徳川慶喜様から\\n賜った饅頭なんだぞ",
-   "en": "",
+   "en": "These manju\\nwere bestowed\\nupon us by the\\nshogun himself,\\nYoshinobu-sama!",
    "op": "0x62",
    "msg": "0x55ba"
   },
@@ -258,7 +258,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "――そうなのである",
-   "en": "",
+   "en": "--Indeed they\\nwere.",
    "op": "0x62",
    "msg": "0x55bb"
   },
@@ -268,7 +268,7 @@
    "max": 124,
    "kind": "dialogue",
    "jp": "この饅頭は　半日前に\\n行われた慶喜の誕生祭に\\n駆り出された　高杉　桂\\n土方　沖田の四人が\\n報酬として受け取った\\nものなのだ",
-   "en": "",
+   "en": "They were the\\npay Takasugi,\\nKatsura, Hijikata\\nand Okita got for\\nbeing roped into\\nYoshinobu's\\nbirthday festival\\nhalf a day ago.",
    "op": "0x62",
    "msg": "0x55bc"
   },
@@ -278,7 +278,7 @@
    "max": 84,
    "kind": "dialogue",
    "jp": "四人に報酬を渡した\\n役人によると　饅頭は\\n結構な数を用意していた\\nらしいのだが――",
-   "en": "",
+   "en": "According to the\\nofficial who paid\\nthem, a good\\nnumber of manju\\nhad been\\nprepared, but--",
    "op": "0x62",
    "msg": "0x55bd"
   },
@@ -288,7 +288,7 @@
    "max": 104,
    "kind": "dialogue",
    "jp": "想像以上に祭りが\\n盛り上がり　大勢の人が\\n集まったため\\n饅頭はあっと言う間に\\n無くなってしまったらしい",
-   "en": "",
+   "en": "the festival was\\nlivelier than\\nexpected,\\ndrawing such a\\ncrowd that the\\nmanju ran out in\\nno time.",
    "op": "0x62",
    "msg": "0x55be"
   },
@@ -298,7 +298,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "まあ　当然だよね\\n僕達　新選組が\\n雷舞をやったんだし",
-   "en": "",
+   "en": "Well, naturally.\\nWe, the\\nShinsengumi, put\\non a live, after\\nall.",
    "op": "0x62",
    "msg": "0x55bf"
   },
@@ -308,7 +308,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "大盛り上がりの\\n大騒ぎになっちゃうのは\\n仕方がないよ　うん",
-   "en": "",
+   "en": "Of course it\\nturned into a\\nhuge, wild\\nfrenzy. Can't be\\nhelped. Yep.",
    "op": "0x62",
    "msg": "0x55c0"
   },
@@ -318,7 +318,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "総司　今はそういう話を\\nしてるんじゃない",
-   "en": "",
+   "en": "Soji, that's not\\nwhat we're\\ntalking about\\nright now.",
    "op": "0x62",
    "msg": "0x55c1"
   },
@@ -328,7 +328,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "この饅頭は\\n慶喜様の御心だ",
-   "en": "",
+   "en": "These manju are\\nYoshinobu-sama's\\ngoodwill.",
    "op": "0x62",
    "msg": "0x55c2"
   },
@@ -338,7 +338,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "その饅頭を割るということ\\nそれ即ち慶喜様への謀反と\\nみなすが――",
-   "en": "",
+   "en": "Splitting them\\nwould be\\nconsidered\\ntreason against\\nYoshinobu-sama...",
    "op": "0x62",
    "msg": "0x55c3"
   },
@@ -348,7 +348,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "そういうことか？\\nそれでいいんだな？",
-   "en": "",
+   "en": "Is that what you\\nmean? You're fine\\nwith that?",
    "op": "0x62",
    "msg": "0x55c4"
   },
@@ -358,7 +358,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "ちっ　違いますよ！\\nどうしてそういう話に\\nなるんですか",
-   "en": "",
+   "en": "N-no, of course\\nnot! How did it\\ncome to that!?",
    "op": "0x62",
    "msg": "0x55c5"
   },
@@ -368,7 +368,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "私はただ　報酬を\\n四等分にする方法を\\n提案しただけです！",
-   "en": "",
+   "en": "All I did was\\nsuggest a way to\\ndivide the reward\\nfour ways!",
    "op": "0x62",
    "msg": "0x55c6"
   },
@@ -378,7 +378,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "ならば却下だ",
-   "en": "",
+   "en": "Then it's rejected.",
    "op": "0x62",
    "msg": "0x55c7"
   },
@@ -388,7 +388,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "饅頭を割ることは\\nこの土方歳三が許さん",
-   "en": "",
+   "en": "I, Toshizo\\nHijikata, will not\\nallow the manju\\nto be split.",
    "op": "0x62",
    "msg": "0x55c8"
   },
@@ -398,7 +398,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "ちょっと待てよ\\n饅頭を割る割らない以前に\\nこれは全部オレ様のだろ？",
-   "en": "",
+   "en": "Hold on. Split or\\nnot, aren't these\\nall mine anyway?",
    "op": "0x62",
    "msg": "0x55c9"
   },
@@ -408,7 +408,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "何だと？",
-   "en": "",
+   "en": "What?",
    "op": "0x62",
    "msg": "0x55ca"
   },
@@ -418,7 +418,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "今日の雷舞では\\nオレ様が一番歌ったし\\nオレ様が目立ってた",
-   "en": "",
+   "en": "In today's live,\\nyours truly sang\\nthe most, and\\nyours truly stood\\nout the most.",
    "op": "0x62",
    "msg": "0x55cb"
   },
@@ -428,7 +428,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "このオレ様　高杉晋作の\\n一人雷舞だったと言って\\n差支えないだろう",
-   "en": "",
+   "en": "It's fair to say it\\nwas the great\\nShinsaku\\nTakasugi's solo\\nlive.",
    "op": "0x62",
    "msg": "0x55cc"
   },
@@ -438,7 +438,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "つまり饅頭を食う権利は\\nオレ様にある",
-   "en": "",
+   "en": "So the right to eat\\nthe manju\\nbelongs to yours\\ntruly.",
    "op": "0x62",
    "msg": "0x55cd"
   },
@@ -448,7 +448,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "言いたいことは\\nそれだけか？",
-   "en": "",
+   "en": "Is that all you\\nhave to say?",
    "op": "0x62",
    "msg": "0x55ce"
   },
@@ -458,7 +458,7 @@
    "max": 8,
    "kind": "dialogue",
    "jp": "ああ？",
-   "en": "",
+   "en": "Huh?",
    "op": "0x62",
    "msg": "0x55cf"
   },
@@ -468,7 +468,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "慶喜様は　饅頭を\\n平等に分けろと仰った",
-   "en": "",
+   "en": "Yoshinobu-sama\\nsaid to share the\\nmanju equally.",
    "op": "0x62",
    "msg": "0x55d0"
   },
@@ -478,7 +478,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "高杉\\nお前は将軍の命に\\n背くつもりか？",
-   "en": "",
+   "en": "Takasugi. You\\nmean to defy the\\nshogun's\\ncommand?",
    "op": "0x62",
    "msg": "0x55d1"
   },
@@ -488,7 +488,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "フン　オレ様は誰にも\\n服従しねぇ　オレ様の\\n心の赴くまま生きるッ",
-   "en": "",
+   "en": "Hmph. Yours\\ntruly bows to no\\none! I live\\nhowever my heart\\npleases!",
    "op": "0x62",
    "msg": "0x55d2"
   },
@@ -498,7 +498,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "なるほど\\n欲をかいて命を落とすか\\nそれもよかろう",
-   "en": "",
+   "en": "I see. You'd throw\\nyour life away out\\nof greed. So be it.",
    "op": "0x62",
    "msg": "0x55d3"
   },
@@ -508,7 +508,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "欲なんかじゃねえ\\n当然の権利を主張した\\nまでだ",
-   "en": "",
+   "en": "It ain't greed. I'm\\njust claiming\\nwhat's rightfully\\nmine.",
    "op": "0x62",
    "msg": "0x55d4"
   },
@@ -518,7 +518,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "ほう……",
-   "en": "",
+   "en": "Oh...?",
    "op": "0x62",
    "msg": "0x55d5"
   },
@@ -528,7 +528,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "……やるか？",
-   "en": "",
+   "en": "...Want to settle\\nthis?",
    "op": "0x62",
    "msg": "0x55d6"
   },
@@ -538,7 +538,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "高杉が懐の拳銃に\\n手を触れる\\n土方も素早く刀を構えて\\n鯉口を切った",
-   "en": "",
+   "en": "Takasugi laid a\\nhand on the pistol\\ninside his coat.\\nHijikata swiftly\\nreadied his\\nsword, thumbing\\nit loose from the\\nscabbard.",
    "op": "0x62",
    "msg": "0x55d7"
   },
@@ -548,7 +548,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "ちょっ\\n二人とも落ち着いて",
-   "en": "",
+   "en": "Wh-- Both of you,\\ncalm down!",
    "op": "0x62",
    "msg": "0x55d8"
   },
@@ -558,7 +558,7 @@
    "max": 84,
    "kind": "dialogue",
    "jp": "高杉と土方の間に\\n桂が割って入る\\nしかし二人は警戒を解かず\\n火花を散らし合っている",
-   "en": "",
+   "en": "Katsura stepped\\nin between\\nTakasugi and\\nHijikata. But\\nneither let down\\nhis guard, and\\nsparks flew\\nbetween them.",
    "op": "0x62",
    "msg": "0x55d9"
   },
@@ -568,7 +568,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "来いよ！　今日こそ\\nそのカタい頭に風穴を\\n開けてやる！",
-   "en": "",
+   "en": "Bring it! Today\\nI'm putting a hole\\nin that thick skull\\nof yours!",
    "op": "0x62",
    "msg": "0x55da"
   },
@@ -578,7 +578,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "できるのか？\\nお前が撃鉄を起こす間に\\nなますに刻んでやろう",
-   "en": "",
+   "en": "Can you? Before\\nyou can cock the\\nhammer, I'll have\\nyou sliced to\\nribbons.",
    "op": "0x62",
    "msg": "0x55db"
   },
@@ -588,7 +588,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "言うじゃねェか\\n試してみるか？",
-   "en": "",
+   "en": "Big talk. Wanna\\ntest it?",
    "op": "0x62",
    "msg": "0x55dc"
   },
@@ -598,7 +598,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "望むところだ",
-   "en": "",
+   "en": "Gladly.",
    "op": "0x62",
    "msg": "0x55dd"
   },
@@ -608,7 +608,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "ああもう……\\n手が付けられない",
-   "en": "",
+   "en": "Oh, honestly...\\nThey're out of\\ncontrol.",
    "op": "0x62",
    "msg": "0x55de"
   },
@@ -618,7 +618,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "困ったなぁ\\n私の名案で　話は丸く\\n収まると思ったのに",
-   "en": "",
+   "en": "Oh dear. I was\\nsure my brilliant\\nidea would settle\\neverything nicely.",
    "op": "0x62",
    "msg": "0x55df"
   },
@@ -628,7 +628,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "ていうかさ\\n名案ってほどでも\\nないでしょ",
-   "en": "",
+   "en": "I mean, it wasn't\\nreally that\\nbrilliant.",
    "op": "0x62",
    "msg": "0x55e0"
   },
@@ -638,7 +638,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "……なんですって？",
-   "en": "",
+   "en": "...I beg your\\npardon?",
    "op": "0x62",
    "msg": "0x55e1"
   },
@@ -648,7 +648,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "散々もったいぶるから\\nどんな名案かと思いきや\\n饅頭を四等分だなんて",
-   "en": "",
+   "en": "You made such a\\nbig production of\\nit, I wondered\\nwhat genius idea\\nwas coming, and\\nit's cutting the\\nmanju into\\nquarters?",
    "op": "0x62",
    "msg": "0x55e2"
   },
@@ -658,7 +658,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "そんなの\\n虫でも思いつくよ",
-   "en": "",
+   "en": "Even a bug could\\nthink of that.",
    "op": "0x62",
    "msg": "0x55e3"
   },
@@ -668,7 +668,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "む　虫……",
-   "en": "",
+   "en": "A b-bug...",
    "op": "0x62",
    "msg": "0x55e4"
   },
@@ -678,7 +678,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "そもそも発想が\\n貧乏くさいんだよね\\nはー　貧乏くさっ",
-   "en": "",
+   "en": "The whole idea's\\njust so\\ncheapskate. Ugh,\\nso cheap.",
    "op": "0x62",
    "msg": "0x55e5"
   },
@@ -688,7 +688,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "ぐぐぐ……\\nじゃあ　沖田君なら\\nどうするんですか",
-   "en": "",
+   "en": "Grrr... Then what\\nwould you do,\\nOkita-kun?",
    "op": "0x62",
    "msg": "0x55e6"
   },
@@ -698,7 +698,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "土方さんとスカシくんは\\n喧嘩で忙しいみたいだし",
-   "en": "",
+   "en": "Hijikata-san and\\nMr. Poser seem\\nbusy fighting,",
    "op": "0x62",
    "msg": "0x55e7"
   },
@@ -708,7 +708,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "メガネくんは\\n二人の仲裁で大変そうだし",
-   "en": "",
+   "en": "and Glasses-kun\\nlooks like he's got\\nhis hands full\\nrefereeing them...",
    "op": "0x62",
    "msg": "0x55e8"
   },
@@ -718,7 +718,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "本当は皆で食べたいけど\\nこの状況じゃ仕方ないよね\\n饅頭は僕一人で処分しよ",
-   "en": "",
+   "en": "I'd really rather\\nwe all ate them\\ntogether, but in\\nthis situation, it\\ncan't be helped.\\nI'll just take care\\nof the manju\\nmyself.",
    "op": "0x62",
    "msg": "0x55e9"
   },
@@ -728,7 +728,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "満面の愛獲笑顔を浮かべ\\n沖田が饅頭の箱に\\n手を伸ばす",
-   "en": "",
+   "en": "With a beaming\\nidol smile, Okita\\nreached for the\\nbox of manju.",
    "op": "0x62",
    "msg": "0x55ea"
   },
@@ -738,7 +738,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "すると――",
-   "en": "",
+   "en": "Just then--",
    "op": "0x62",
    "msg": "0x55eb"
   },
@@ -748,7 +748,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "\\fnt1待った\\fnt0",
-   "en": "",
+   "en": "\\fnt1Hold it!\\fnt0",
    "op": "0x62",
    "msg": "0x55ec"
   },
@@ -758,7 +758,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "沖田の動きを　\\n土方　高杉　桂\\nの三人が牽制した",
-   "en": "",
+   "en": "Hijikata, Takasugi\\nand Katsura\\nmoved as one to\\ncheck Okita's\\nhand.",
    "op": "0x62",
    "msg": "0x55ed"
   },
@@ -768,7 +768,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "総司\\nその手をどけろ",
-   "en": "",
+   "en": "Soji. Get your\\nhand off that.",
    "op": "0x62",
    "msg": "0x55ee"
   },
@@ -778,7 +778,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "黙って聞いてりゃ\\n好き放題言いやがって",
-   "en": "",
+   "en": "I've kept my\\nmouth shut and\\nlistened, and\\nyou've been\\nsaying whatever\\nthe hell you\\nplease.",
    "op": "0x62",
    "msg": "0x55ef"
   },
@@ -788,7 +788,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "その饅頭はオレ様のだ",
-   "en": "",
+   "en": "That manju\\nbelongs to yours\\ntruly.",
    "op": "0x62",
    "msg": "0x55f0"
   },
@@ -798,7 +798,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "土方にも沖田にも\\n絶対に譲らねぇ……\\n桂さんにもだっ",
-   "en": "",
+   "en": "I'm not giving it\\nup to Hijikata or\\nOkita... or to you\\neither,\\nKatsura-san!",
    "op": "0x62",
    "msg": "0x55f1"
   },
@@ -808,7 +808,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "ふふふ\\n気が合いますね\\n晋作",
-   "en": "",
+   "en": "Heh heh. We\\nthink alike,\\nShinsaku.",
    "op": "0x62",
    "msg": "0x55f2"
   },
@@ -818,7 +818,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "私も　この饅頭を\\n譲る気はありません",
-   "en": "",
+   "en": "I have no\\nintention of\\ngiving up this\\nmanju either.",
    "op": "0x62",
    "msg": "0x55f3"
   },
@@ -828,7 +828,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "何が何でも等分に\\nしてみせます",
-   "en": "",
+   "en": "One way or\\nanother, I will see\\nit divided equally.",
    "op": "0x62",
    "msg": "0x55f4"
   },
@@ -838,7 +838,7 @@
    "max": 8,
    "kind": "dialogue",
    "jp": "うわあ",
-   "en": "",
+   "en": "Wow.",
    "op": "0x62",
    "msg": "0x55f5"
   },
@@ -848,7 +848,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "饅頭欲しさに\\n喧嘩をするなんて\\n大人げないなぁ",
-   "en": "",
+   "en": "Fighting over a\\nmanju? How\\nchildish.",
    "op": "0x62",
    "msg": "0x55f6"
   },
@@ -858,7 +858,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "総司　ならば\\nお前は饅頭から\\n手を引くのか",
-   "en": "",
+   "en": "Soji. Then are you\\nbacking away\\nfrom the manju?",
    "op": "0x62",
    "msg": "0x55f7"
   },
@@ -868,7 +868,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "えー　\\nそのつもりは無いですよ\\nだって僕　子供だし？",
-   "en": "",
+   "en": "Hmm, nope, I'm\\nnot planning to. I\\nmean, I'm just a\\nkid, right?",
    "op": "0x62",
    "msg": "0x55f8"
   },
@@ -878,7 +878,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "フン\\nどいつもこいつも\\n譲る気はねぇってことか",
-   "en": "",
+   "en": "Hmph. So every\\nlast one of you\\nrefuses to give it\\nup, huh.",
    "op": "0x62",
    "msg": "0x55f9"
   },
@@ -888,7 +888,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "そのようですね",
-   "en": "",
+   "en": "So it would seem.",
    "op": "0x62",
    "msg": "0x55fa"
   },
@@ -898,7 +898,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "じゃあ　さっさと\\nカタをつけようよ\\nどうせ僕が勝つけど",
-   "en": "",
+   "en": "Then let's settle\\nthis already. Not\\nthat it matters--\\nI'm gonna win\\nanyway.",
    "op": "0x62",
    "msg": "0x55fb"
   },
@@ -908,7 +908,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "勝負は\\nやってみないと分からない\\nいざ　尋常に勝負ッッ",
-   "en": "",
+   "en": "You never know\\nwho wins a fight\\nuntil you fight it.\\nNow--have at you,\\nfair and square!",
    "op": "0x62",
    "msg": "0x55fc"
   },
@@ -918,7 +918,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "夕空に不吉な音が響き渡り\\nカラスが一斉に飛び立つ",
-   "en": "",
+   "en": "An ominous\\nsound echoed\\nacross the\\nevening sky, and\\nthe crows took\\nflight all at once.",
    "op": "0x62",
    "msg": "0x55fd"
   },
@@ -928,7 +928,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "四人の誉れ高い侍による\\n饅頭を賭けた熱い戦いが\\n今　始まった――",
-   "en": "",
+   "en": "A fiery battle\\namong four\\nhonorable\\nsamurai, with a\\nmanju at stake,\\nhad now begun--",
    "op": "0x62",
    "msg": "0x55fe"
   },
@@ -938,7 +938,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "その頃　坂本龍馬は一人　\\n江戸の町を歩いていた",
-   "en": "",
+   "en": "Meanwhile,\\nRyoma Sakamoto\\nwas walking alone\\nthrough the\\nstreets of Edo.",
    "op": "0x62",
    "msg": "0x55ff"
   },
@@ -948,7 +948,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "は～っ\\nヨッシーの誕生日\\n盛り上がったなぁ",
-   "en": "",
+   "en": "Whew~ Yosshi's\\nbirthday party\\nsure was a blast!",
    "op": "0x62",
    "msg": "0x5600"
   },
@@ -958,7 +958,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "今日はヨッシーとも\\nいっぱい歌えたし\\n楽しかったぜよ！",
-   "en": "",
+   "en": "I got to sing a\\nwhole bunch with\\nYosshi today too.\\nWhat a time!",
    "op": "0x62",
    "msg": "0x5601"
   },
@@ -968,7 +968,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "来年の誕生日のために\\nもっともっと\\n雷舞の練習をしないとな",
-   "en": "",
+   "en": "Gotta practice for\\nour live even\\nharder before his\\nnext birthday!",
    "op": "0x62",
    "msg": "0x5602"
   },
@@ -978,7 +978,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "大きく膨らんだ\\n風呂敷を振り回し\\n龍馬は高杉達のもとへ急ぐ",
-   "en": "",
+   "en": "Swinging a big,\\nbulging cloth\\nbundle around,\\nRyoma hurried\\nback to Takasugi\\nand the others.",
    "op": "0x62",
    "msg": "0x5603"
   },
@@ -988,7 +988,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "その時――",
-   "en": "",
+   "en": "Just then--",
    "op": "0x62",
    "msg": "0x5604"
   },
@@ -998,7 +998,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "きゃあーっ！",
-   "en": "",
+   "en": "Eeeek!",
    "op": "0x62",
    "msg": "0x5605"
   },
@@ -1008,7 +1008,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "町娘の甲高い叫び声が\\n響いた",
-   "en": "",
+   "en": "A townswoman's\\nshrill scream rang\\nout.",
    "op": "0x62",
    "msg": "0x5606"
   },
@@ -1018,7 +1018,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "どうした",
-   "en": "",
+   "en": "What's wrong?",
    "op": "0x62",
    "msg": "0x5607"
   },
@@ -1028,7 +1028,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "喧嘩よ\\n男達が暴れてるの",
-   "en": "",
+   "en": "A fight! Some\\nmen are going\\nwild!",
    "op": "0x62",
    "msg": "0x5608"
   },
@@ -1038,7 +1038,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "銃を撃ったり\\n真剣で斬り合ったり\\nもう大変",
-   "en": "",
+   "en": "Firing guns,\\nslashing at each\\nother with real\\nswords... it's total\\nchaos!",
    "op": "0x62",
    "msg": "0x5609"
   },
@@ -1048,7 +1048,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "それに見たこともない\\nカラクリを動かしている\\n男もいたわ！",
-   "en": "",
+   "en": "And one of them\\nwas working some\\ncontraption I've\\nnever seen\\nbefore!",
    "op": "0x62",
    "msg": "0x560a"
   },
@@ -1058,7 +1058,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "ほう\\nそれは楽しそうぜよ",
-   "en": "",
+   "en": "Oho! Now that\\nsounds like a\\ngood time!",
    "op": "0x62",
    "msg": "0x560b"
   },
@@ -1068,7 +1068,7 @@
    "max": 8,
    "kind": "dialogue",
    "jp": "えっ？",
-   "en": "",
+   "en": "Huh?",
    "op": "0x62",
    "msg": "0x560c"
   },
@@ -1078,7 +1078,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "火事と喧嘩は江戸の華\\nなんて聞くが　本当の\\nことだったんじゃな！",
-   "en": "",
+   "en": "They say fires\\nand fights are the\\nflowers of Edo,\\nand I reckon it's\\ntrue!",
    "op": "0x62",
    "msg": "0x560d"
   },
@@ -1088,7 +1088,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "ええ\\nそ　そうね……",
-   "en": "",
+   "en": "Y-yes... I\\nsuppose...",
    "op": "0x62",
    "msg": "0x560e"
   },
@@ -1098,7 +1098,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "なあに\\n喧嘩するほど仲がええ\\nとも言うぜよ",
-   "en": "",
+   "en": "Aw, y'know what\\nthey say: the\\nmore you fight,\\nthe closer you\\nare.",
    "op": "0x62",
    "msg": "0x560f"
   },
@@ -1108,7 +1108,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "きっと　その連中も\\n仲が良すぎてじゃれ\\n合うとるだけじゃ",
-   "en": "",
+   "en": "I bet those fellas\\nare just such\\ngood pals they're\\nroughhousin' a\\nlittle.",
    "op": "0x62",
    "msg": "0x5610"
   },
@@ -1118,7 +1118,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "そういう風には\\n見えなかったけど……",
-   "en": "",
+   "en": "It didn't look like\\nthat to me...",
    "op": "0x62",
    "msg": "0x5611"
   },
@@ -1128,7 +1128,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "気が済むまで\\nやらせておけばええ",
-   "en": "",
+   "en": "Let 'em go at it\\ntill they've had\\ntheir fill.",
    "op": "0x62",
    "msg": "0x5612"
   },
@@ -1138,7 +1138,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "じゃ　わしは\\n急ぎの用があるから\\nまたな！",
-   "en": "",
+   "en": "Well, I got\\nsomewhere to be\\nin a hurry. See ya!",
    "op": "0x62",
    "msg": "0x5613"
   },
@@ -1148,7 +1148,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "あっ\\n止めなくて\\nいいのかしら……",
-   "en": "",
+   "en": "Oh... Shouldn't\\nsomebody stop\\nthem...?",
    "op": "0x62",
    "msg": "0x5614"
   },
@@ -1158,7 +1158,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "勝の屋敷",
-   "en": "",
+   "en": "Katsu's Residence",
    "op": "0x62",
    "msg": "0x5615"
   },
@@ -1168,7 +1168,7 @@
    "max": 80,
    "kind": "dialogue",
    "jp": "紅白饅頭が入った箱を\\n睨みながら　四人の死闘は\\nいよいよ終わりに\\n近づいていた",
-   "en": "",
+   "en": "The four glared\\nat the box of\\nred-and-white\\nmanju as their\\ndeadly struggle\\nat last drew near\\nits end.",
    "op": "0x62",
    "msg": "0x5616"
   },
@@ -1178,7 +1178,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "いい加減に\\nあきらめやがれ",
-   "en": "",
+   "en": "Give it up\\nalready, dammit!",
    "op": "0x62",
    "msg": "0x5617"
   },
@@ -1188,7 +1188,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "士道に退却なし！\\n饅頭のためなら\\n命を賭ける覚悟よ！",
-   "en": "",
+   "en": "The way of the\\nsamurai knows no\\nretreat! For this\\nmanju, I am ready\\nto stake my life!",
    "op": "0x62",
    "msg": "0x5618"
   },
@@ -1198,7 +1198,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "ラッキー\\n二人がやりあってる間に\\n饅頭は僕のものだ",
-   "en": "",
+   "en": "Lucky! While\\nthose two go at it,\\nthe manju's all\\nmine.",
    "op": "0x62",
    "msg": "0x5619"
   },
@@ -1208,7 +1208,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "抜け駆けは許しません\\n饅頭に触れた途端\\nドカンですからね",
-   "en": "",
+   "en": "No sneaking\\nahead, if you\\nplease. The\\nmoment you\\ntouch that\\nmanju--boom.",
    "op": "0x62",
    "msg": "0x561a"
   },
@@ -1218,7 +1218,7 @@
    "max": 8,
    "kind": "dialogue",
    "jp": "ぐぬぬ",
-   "en": "",
+   "en": "Grrr...",
    "op": "0x62",
    "msg": "0x561b"
   },
@@ -1228,7 +1228,7 @@
    "max": 8,
    "kind": "dialogue",
    "jp": "むう",
-   "en": "",
+   "en": "Mm...",
    "op": "0x62",
    "msg": "0x561c"
   },
@@ -1238,7 +1238,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "ただいま\\n帰ったぜよ",
-   "en": "",
+   "en": "I'm back,\\neverybody!",
    "op": "0x62",
    "msg": "0x561d"
   },
@@ -1248,7 +1248,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "おう　おかえり\\n土方！\\n動くんじゃねえ！",
-   "en": "",
+   "en": "Yeah, welcome\\nback. Hijikata!\\nDon't you move!",
    "op": "0x62",
    "msg": "0x561e"
   },
@@ -1258,7 +1258,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "やー　毎度のことながら\\n道に迷ってしまったぜよ",
-   "en": "",
+   "en": "Haha, same as\\nalways, I went\\nand got myself\\nlost!",
    "op": "0x62",
    "msg": "0x561f"
   },
@@ -1268,7 +1268,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "それは大変だったな\\n桂！\\n妙な真似をするな！",
-   "en": "",
+   "en": "Must have been\\nrough. Katsura!\\nDon't try anything\\nfunny!",
    "op": "0x62",
    "msg": "0x5620"
   },
@@ -1278,7 +1278,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "お？　饅頭じゃないか\\n歩きすぎて腹が減って\\nたんだ",
-   "en": "",
+   "en": "Oh? Manju! I\\nwalked so far I\\nworked up a real\\nappetite.",
    "op": "0x62",
    "msg": "0x5621"
   },
@@ -1288,7 +1288,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "ちょうどよかった\\nいただきまーす",
-   "en": "",
+   "en": "Perfect timing!\\nDon't mind if I do!",
    "op": "0x62",
    "msg": "0x5622"
   },
@@ -1298,7 +1298,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "\\fnt1あっ\\fnt0",
-   "en": "",
+   "en": "\\fnt1Ah!\\fnt0",
    "op": "0x62",
    "msg": "0x5623"
   },
@@ -1308,7 +1308,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "ひどい！\\nふたついっぺんに\\n丸飲みした",
-   "en": "",
+   "en": "That's awful! He\\nswallowed two of\\nthem whole in\\none gulp!",
    "op": "0x62",
    "msg": "0x5624"
   },
@@ -1318,7 +1318,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "テメェ！\\n今すぐ吐き出せ",
-   "en": "",
+   "en": "You bastard! Spit\\nit out right now!",
    "op": "0x62",
    "msg": "0x5625"
   },
@@ -1328,7 +1328,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "腹をかっ捌いて\\n饅頭を取り出す",
-   "en": "",
+   "en": "I'll slice open your\\nbelly and take the\\nmanju back.",
    "op": "0x62",
    "msg": "0x5626"
   },
@@ -1338,7 +1338,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "ぶはっ\\nなんじゃ\\nなんじゃ",
-   "en": "",
+   "en": "Bwah! What?\\nWhat's goin' on?",
    "op": "0x62",
    "msg": "0x5627"
   },
@@ -1348,7 +1348,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "わしが何をしたって\\nいうぜよ",
-   "en": "",
+   "en": "What in the world\\ndid I do?",
    "op": "0x62",
    "msg": "0x5628"
   },
@@ -1358,7 +1358,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "さすがにこれは\\n弁解の余地はないよ\\nトサカくん",
-   "en": "",
+   "en": "Sorry, but there's\\nno excuse for this\\none, Tosaka-kun.",
    "op": "0x62",
    "msg": "0x5629"
   },
@@ -1368,7 +1368,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "さあ　苦しまずに\\n死ねる毒ですよ！\\n一気に飲んで",
-   "en": "",
+   "en": "Here, a poison\\nthat lets you die\\nwithout\\nsuffering! Drink\\nit all in one go.",
    "op": "0x62",
    "msg": "0x562a"
   },
@@ -1378,7 +1378,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "み　みんな目が\\n怖いぜよ\\n一体何があったんじゃ？",
-   "en": "",
+   "en": "Y-you all got real\\nscary eyes... What\\nin the world\\nhappened?",
    "op": "0x62",
    "msg": "0x562b"
   },
@@ -1388,7 +1388,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "高杉達は　龍馬に\\n饅頭を巡る諍いについて\\n説明した",
-   "en": "",
+   "en": "Takasugi and the\\nothers explained\\nthe manju dispute\\nto Ryoma.",
    "op": "0x62",
    "msg": "0x562c"
   },
@@ -1398,7 +1398,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "というわけです",
-   "en": "",
+   "en": "And that is the\\nsituation.",
    "op": "0x62",
    "msg": "0x562d"
   },
@@ -1408,7 +1408,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "なるほどなあ\\nそんなことで\\nケンカしとったんか",
-   "en": "",
+   "en": "I see. So y'all were\\nfightin' over\\nsomethin' like\\nthat?",
    "op": "0x62",
    "msg": "0x562e"
   },
@@ -1418,7 +1418,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "そんなことだと？",
-   "en": "",
+   "en": "Something like\\nthat?",
    "op": "0x62",
    "msg": "0x562f"
   },
@@ -1428,7 +1428,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "貴様　俺達の命を\\n賭した戦いを侮辱する\\nつもりか？",
-   "en": "",
+   "en": "You mean to\\ninsult a battle we\\nstaked our lives\\non?",
    "op": "0x62",
    "msg": "0x5630"
   },
@@ -1438,7 +1438,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "そうじゃなくて\\nほれ",
-   "en": "",
+   "en": "That ain't what I\\nmeant. Here, look.",
    "op": "0x62",
    "msg": "0x5631"
   },
@@ -1448,7 +1448,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "そう言うと　龍馬は\\n背負っていた大きな\\n風呂敷包みを開けて見せる",
-   "en": "",
+   "en": "With that, Ryoma\\nopened up the big\\ncloth bundle he'd\\nbeen carrying on\\nhis back.",
    "op": "0x62",
    "msg": "0x5632"
   },
@@ -1458,7 +1458,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "包みの中から\\n山のような紅白饅頭が\\nゴロゴロと現れた",
-   "en": "",
+   "en": "Out of the bundle\\ntumbled a\\nmountain of\\nred-and-white\\nmanju.",
    "op": "0x62",
    "msg": "0x5633"
   },
@@ -1468,7 +1468,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "うおっ！\\nなんだこりゃ",
-   "en": "",
+   "en": "Whoa! What the\\nhell is this?",
    "op": "0x62",
    "msg": "0x5634"
   },
@@ -1478,7 +1478,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "龍馬くん　これは？",
-   "en": "",
+   "en": "Ryoma-kun, what\\nis this?",
    "op": "0x62",
    "msg": "0x5635"
   },
@@ -1488,7 +1488,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "見ての通り\\n紅白饅頭ぜよ",
-   "en": "",
+   "en": "Red-and-white\\nmanju, plain as\\nday!",
    "op": "0x62",
    "msg": "0x5636"
   },
@@ -1498,7 +1498,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "おい　どういう事だ？\\nこの饅頭は品切れだったろ\\n何でこんなに持ってる",
-   "en": "",
+   "en": "Hey, what's the\\ndeal? This manju\\nwas sold out.\\nWhy've you got so\\nmany?",
    "op": "0x62",
    "msg": "0x5637"
   },
@@ -1508,7 +1508,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "ふっふっふ\\nそれはな……",
-   "en": "",
+   "en": "Heh heh heh.\\nWell, y'see...",
    "op": "0x62",
    "msg": "0x5638"
   },
@@ -1518,7 +1518,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "あんまりうまそう\\nだったから　ヨッシーに\\n頼んでもらったんじゃ",
-   "en": "",
+   "en": "They looked so\\ntasty, I asked\\nYosshi to get me\\nsome.",
    "op": "0x62",
    "msg": "0x5639"
   },
@@ -1528,7 +1528,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "一度　饅頭を山のように\\n食べてみたいって言ったら\\nこんなにくれたぜよ",
-   "en": "",
+   "en": "I told him I\\nwanted to eat a\\nwhole mountain\\nof manju just\\nonce, and he gave\\nme all these!",
    "op": "0x62",
    "msg": "0x563a"
   },
@@ -1538,7 +1538,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "へーえ……",
-   "en": "",
+   "en": "Is that so...",
    "op": "0x62",
    "msg": "0x563b"
   },
@@ -1548,7 +1548,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "慶喜様に頼んで\\nこの饅頭を確保して\\nもらったと……",
-   "en": "",
+   "en": "You asked\\nYoshinobu-sama,\\nand had him\\nsecure these\\nmanju for you...",
    "op": "0x62",
    "msg": "0x563c"
   },
@@ -1558,7 +1558,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "その通りぜよ",
-   "en": "",
+   "en": "That's right!",
    "op": "0x62",
    "msg": "0x563d"
   },
@@ -1568,7 +1568,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "そういうことか……",
-   "en": "",
+   "en": "So that's how it\\nis...",
    "op": "0x62",
    "msg": "0x563e"
   },
@@ -1578,7 +1578,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "つまり坂本のせいで\\n饅頭の絶対数が最初から\\n少なかったというわけか",
-   "en": "",
+   "en": "In other words,\\nthanks to\\nSakamoto, there\\nwere too few\\nmanju from the\\nvery start.",
    "op": "0x62",
    "msg": "0x563f"
   },
@@ -1588,7 +1588,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "俺達のところに饅頭が\\n回ってこなかったのは\\n坂本のせいだったんだな",
-   "en": "",
+   "en": "The reason no\\nmanju made it\\naround to us was\\nSakamoto.",
    "op": "0x62",
    "msg": "0x5640"
   },
@@ -1598,7 +1598,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "へっ？\\nヒジゾーさん？",
-   "en": "",
+   "en": "Huh? Hijizo-san?",
    "op": "0x62",
    "msg": "0x5641"
   },
@@ -1608,7 +1608,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "ははは\\nそういうことか",
-   "en": "",
+   "en": "Hahaha. So that's\\nhow it is.",
    "op": "0x62",
    "msg": "0x5642"
   },
@@ -1618,7 +1618,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "オレ様たちが\\nさっきまで下らない\\n争いをしてたのは",
-   "en": "",
+   "en": "The reason yours\\ntruly and the rest\\nwere having that\\nstupid fight just\\nnow...",
    "op": "0x62",
    "msg": "0x5643"
   },
@@ -1628,7 +1628,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "全部　このバカの\\nせいだったってワケだ",
-   "en": "",
+   "en": "...was all because\\nof this idiot.",
    "op": "0x62",
    "msg": "0x5644"
   },
@@ -1638,7 +1638,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "えっ\\nシンディ？",
-   "en": "",
+   "en": "Huh? Shindy?",
    "op": "0x62",
    "msg": "0x5645"
   },
@@ -1648,7 +1648,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "四人の背後から立ち上る\\n怒りのオーラに　さすがの\\n龍馬も気付いたようだ",
-   "en": "",
+   "en": "Even Ryoma\\nseemed to notice\\nthe aura of rage\\nrising up behind\\nthe four of them.",
    "op": "0x62",
    "msg": "0x5646"
   },
@@ -1658,7 +1658,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "四人は龍馬を\\n素早く囲い込むと\\nにっこりと笑顔を浮かべた",
-   "en": "",
+   "en": "The four swiftly\\nsurrounded\\nRyoma and broke\\ninto big, beaming\\nsmiles.",
    "op": "0x62",
    "msg": "0x5647"
   },
@@ -1668,7 +1668,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "報酬を独り占めする\\n龍馬くんには",
-   "en": "",
+   "en": "For Ryoma-kun,\\nwho kept the\\nreward all to\\nhimself...",
    "op": "0x62",
    "msg": "0x5648"
   },
@@ -1678,7 +1678,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "きつーいお仕置きが\\n必要なようですね",
-   "en": "",
+   "en": "...it seems a very\\nharsh punishment\\nis in order.",
    "op": "0x62",
    "msg": "0x5649"
   },
@@ -1688,7 +1688,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "手加減ナシで\\nぶっ放してやる\\n覚悟しろ",
-   "en": "",
+   "en": "I'm letting loose\\nwith no holding\\nback. Brace\\nyourself.",
    "op": "0x62",
    "msg": "0x564a"
   },
@@ -1698,7 +1698,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "成敗してあげるよ\\nトサカくん？",
-   "en": "",
+   "en": "Time for your\\npunishment,\\nokay,\\nTosaka-kun?",
    "op": "0x62",
    "msg": "0x564b"
   },
@@ -1708,7 +1708,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "骨は拾ってやる\\n安心して逝け",
-   "en": "",
+   "en": "I'll gather your\\nbones. Die in\\npeace.",
    "op": "0x62",
    "msg": "0x564c"
   },
@@ -1718,7 +1718,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "な　なあ　みんな\\n喧嘩はやめるぜよ……\\nわあああああああー！",
-   "en": "",
+   "en": "N-now, now,\\neverybody, let's\\nquit fightin'...\\nWaaaaaaaah!",
    "op": "0x62",
    "msg": "0x564d"
   },
@@ -1728,7 +1728,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "龍馬の叫び声が　\\n江戸の空に響く",
-   "en": "",
+   "en": "Ryoma's scream\\nechoed across the\\nsky of Edo.",
    "op": "0x62",
    "msg": "0x564e"
   },
@@ -1738,7 +1738,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "彼等の一日は\\n今日もこうして\\n賑やかに\\n過ぎてゆくのだった",
-   "en": "",
+   "en": "And so, once\\nagain, their day\\nwent by in lively\\nfashion.",
    "op": "0x62",
    "msg": "0x564f"
   }

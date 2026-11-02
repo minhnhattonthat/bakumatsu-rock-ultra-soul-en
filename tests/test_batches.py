@@ -19,6 +19,8 @@ def test_terms_longest_match_and_honorifics():
     assert batches.term_problems("吉田松陰先生", "Shoin-sensei", gl) == []
     assert batches.term_problems("女将さん", "Landlady!", gl) == []
     assert batches.term_problems("徳川慶喜", "the shogun", gl) == ['glossary 徳川慶喜 -> "Yoshinobu Tokugawa" missing']
+    assert batches.term_problems("徳川慶喜", "Y. Tokugawa", gl, room=15) == []  # full name can't fit the slot
+    assert batches.term_problems("徳川慶喜", "Y. Tokugawa", gl, room=31) != []
 
 
 def test_wrap_breaks_after_a_dash():

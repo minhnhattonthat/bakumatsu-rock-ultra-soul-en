@@ -658,7 +658,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "匂いの意味がわからねえ！\\nしかも　ごほっ！\\nオレたちまでけむい！",
-   "en": "The smell makes\\nno sense!\\nAnd--*cough!*--it's\\ngetting us too!",
+   "en": "The smell makes\\nno sense! And--\\n*cough!*--it's\\ngetting us too!",
    "op": "0x62",
    "msg": "0x03eb"
   },

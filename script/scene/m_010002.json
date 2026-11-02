@@ -208,7 +208,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "すべて発動させれば\\n京中に天歌を流すことも\\n可能だろう……",
-   "en": "Set them all off,\\nand you could\\nprobably play the\\nHeaven's Song\\nover all of Kyoto...",
+   "en": "Set them all off,\\nand you could\\nprobably play\\nHeaven's Song\\nover all of Kyoto...",
    "op": "0x62",
    "msg": "0x1da3"
   },
@@ -218,7 +218,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "ということは\\n京中に天歌を流したのは\\nやはり幕府か……",
-   "en": "Which means it\\nwas the\\nshogunate that\\nplayed the\\nHeaven's Song all\\nover Kyoto after\\nall...",
+   "en": "Which means it\\nwas the\\nshogunate that\\nplayed Heaven's\\nSong all over\\nKyoto after all...",
    "op": "0x62",
    "msg": "0x1da4"
   },
@@ -435,7 +435,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "謎の眠り病の原因が\\n幾松が聞いた子供の声の\\n天歌だとしてだ",
-   "en": "Say the\\nmysterious\\nsleeping sickness\\nis caused by the\\nHeaven's Song, in\\nthat child's voice\\nIkumatsu heard.",
+   "en": "Say the\\nmysterious\\nsleeping sickness\\nis caused by\\nHeaven's Song, in\\nthat child's voice\\nIkumatsu heard.",
    "op": "0x62",
    "msg": "0x1db7"
   },
@@ -635,7 +635,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "天歌を聞いても　\\nここまでにはならん",
-   "en": "Even hearin' the\\nHeaven's Song\\nnever did this\\nmuch to folks.",
+   "en": "Even hearin'\\nHeaven's Song\\nnever did this\\nmuch to folks.",
    "op": "0x62",
    "msg": "0x1dcb"
   },
@@ -2225,7 +2225,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "慶喜の背中から\\n何人もの声が\\n重なるように\\n天歌が響き渡る",
-   "en": "From behind\\nYoshinobu, the\\nHeaven's Song\\nrang out, many\\nvoices layered\\nover one another.",
+   "en": "From behind\\nYoshinobu,\\nHeaven's Song\\nrang out, many\\nvoices layered\\nover one another.",
    "op": "0x62",
    "msg": "0x1e6a"
   },

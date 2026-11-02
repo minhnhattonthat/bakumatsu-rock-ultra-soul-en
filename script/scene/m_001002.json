@@ -908,7 +908,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "でも\\n明らかに天歌では\\nありませんでした",
-   "en": "But it clearly\\nwasn't the\\nHeaven's Song.",
+   "en": "But it clearly\\nwasn't Heaven's\\nSong.",
    "op": "0x62",
    "msg": "0x023f"
   },
@@ -1638,7 +1638,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "天歌は\\nもともとお侍様の\\n歌だもん",
-   "en": "The Heaven's\\nSong was always\\nthe samurai lords'\\nmusic, you know.",
+   "en": "Heaven's Song\\nwas always the\\nsamurai lords'\\nmusic, you know.",
    "op": "0x62",
    "msg": "0x0288"
   },
@@ -3535,7 +3535,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "天歌ではない音楽は\\n禁じられていることを\\n知らぬわけではあるまい！",
-   "en": "Don't pretend you\\ndon't know that\\nany music but the\\nHeaven's Song is\\nforbidden!",
+   "en": "Don't pretend you\\ndon't know that\\nany music but\\nHeaven's Song is\\nforbidden!",
    "op": "0x62",
    "msg": "0x0344"
   },
@@ -3725,7 +3725,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "天歌に逆らい\\n反逆の音楽を\\n奏でる逆賊めが！",
-   "en": "Traitors who defy\\nthe Heaven's Song\\nand play the\\nmusic of\\nrebellion!",
+   "en": "Traitors who defy\\nHeaven's Song\\nand play the\\nmusic of\\nrebellion!",
    "op": "0x62",
    "msg": "0x0357"
   },
@@ -4072,7 +4072,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "町人は武士のおこぼれで\\n天歌を聴かせていただいて\\nおるのだ",
-   "en": "Townsfolk are\\nallowed to hear\\nthe Heaven's Song\\nonly as scraps\\nfrom the\\nsamurai's table.",
+   "en": "Townsfolk are\\nallowed to hear\\nHeaven's Song\\nonly as scraps\\nfrom the\\nsamurai's table.",
    "op": "0x62",
    "msg": "0x0377"
   },
@@ -4122,7 +4122,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "聴いていいのは天歌だけ？\\nおこぼれにあずかれ？\\nそんなのは違う",
-   "en": "The Heaven's\\nSong is all you're\\nallowed to hear?\\nBe grateful for\\nscraps? That ain't\\nright.",
+   "en": "Heaven's Song is\\nall you're allowed\\nto hear? Be\\ngrateful for\\nscraps? That ain't\\nright.",
    "op": "0x62",
    "msg": "0x037c"
   },
@@ -4132,7 +4132,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "違わぬ\\n天歌は幕府が認めし\\n唯一の音楽",
-   "en": "It is right. The\\nHeaven's Song is\\nthe only music\\nthe shogunate\\npermits.",
+   "en": "It is right.\\nHeaven's Song is\\nthe only music\\nthe shogunate\\npermits.",
    "op": "0x62",
    "msg": "0x037d"
   },

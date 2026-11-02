@@ -8,7 +8,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "龍馬　高杉　桂\\n土方　沖田\\nこの五人の全てを\\n振り絞ったロックでも",
-   "en": "",
+   "en": "Even the rock\\nthat Ryoma,\\nTakasugi,\\nKatsura, Hijikata\\nand Okita poured\\neverything they\\nhad into...",
    "op": "0x62",
    "msg": "0x2008"
   },
@@ -18,7 +18,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "三百年もの間\\n降り積もった\\n怨霊たちの\\n悲しみを溶かし",
-   "en": "",
+   "en": "...could not melt\\nthe sorrow of the\\nvengeful spirits\\npiled up over\\nthree hundred\\nyears,",
    "op": "0x62",
    "msg": "0x2009"
   },
@@ -28,7 +28,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "その凝り固まった心を\\n解放することは\\n出来なかった",
-   "en": "",
+   "en": "nor set their\\nhardened hearts\\nfree.",
    "op": "0x62",
    "msg": "0x200a"
   },
@@ -38,7 +38,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "慶喜に乗り移った\\n怨霊の勝利だった",
-   "en": "",
+   "en": "It was a victory\\nfor the vengeful\\nspirits that had\\npossessed\\nYoshinobu.",
    "op": "0x62",
    "msg": "0x200b"
   },
@@ -48,7 +48,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "響かぬ……\\nそのような歌で\\n我らの悲しみ\\n癒せはせぬ！",
-   "en": "",
+   "en": "It does not reach\\nus... A song like\\nthat cannot heal\\nour sorrow!",
    "op": "0x62",
    "msg": "0x200c"
   },
@@ -58,7 +58,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "慶喜様\\n今こそ　こやつらを\\n虜にできます！",
-   "en": "",
+   "en": "Yoshinobu-sama,\\nnow you can make\\nthese fools your\\nthralls!",
    "op": "0x62",
    "msg": "0x200d"
   },
@@ -68,7 +68,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "貴方様の夢が叶いますぞ！",
-   "en": "",
+   "en": "Your dream is\\ncoming true, my\\nlord!",
    "op": "0x62",
    "msg": "0x200e"
   },
@@ -78,7 +78,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "そうだね　直弼\\n坂本達を仲間に\\nできるんだ！",
-   "en": "",
+   "en": "That's right,\\nNaosuke. I can\\nmake Sakamoto\\nand the others my\\nfriends!",
    "op": "0x62",
    "msg": "0x200f"
   },
@@ -88,7 +88,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "そんな　わしらの歌が\\n届かない……っ",
-   "en": "",
+   "en": "No way... Our\\nsong ain't reachin'\\nhim...!",
    "op": "0x62",
    "msg": "0x2010"
   },
@@ -98,7 +98,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "聴くのだ！\\n予の……徳川の歌を！",
-   "en": "",
+   "en": "Listen! To my... to\\nthe Tokugawa\\nsong!",
    "op": "0x62",
    "msg": "0x2011"
   },
@@ -108,7 +108,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "そして予と一緒に歩もう\\nこの泰平の世を……",
-   "en": "",
+   "en": "And walk with me\\nthrough this\\nworld of peace...",
    "op": "0x62",
    "msg": "0x2012"
   },
@@ -118,7 +118,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "ダメだ！\\n悲しみの波動が　声が……\\n呑み込まれる！",
-   "en": "",
+   "en": "No! The waves of\\nsorrow, the\\nvoices... They're\\nswallowing us!",
    "op": "0x62",
    "msg": "0x2013"
   },
@@ -128,7 +128,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "なんて　なんて……\\n悲しい歌なんだ……",
-   "en": "",
+   "en": "What a... what a\\nsad song this is...",
    "op": "0x62",
    "msg": "0x2014"
   },
@@ -138,7 +138,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "将軍様！\\nやめるんだ\\n……ぐぅっ！",
-   "en": "",
+   "en": "Lord Shogun!\\nStop this... ngh!",
    "op": "0x62",
    "msg": "0x2015"
   },
@@ -148,7 +148,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "ダメだよ……\\n僕　この気持ちが\\nわかっちゃうんだ……",
-   "en": "",
+   "en": "It's no use... I... I\\nunderstand how\\nhe feels...",
    "op": "0x62",
    "msg": "0x2016"
   },
@@ -158,7 +158,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "悲しみに……\\nわしの魂が悲しみに\\n呑み込まれていく！",
-   "en": "",
+   "en": "Sorrow... My soul's\\nbein' swallowed\\nup by sorrow!",
    "op": "0x62",
    "msg": "0x2017"
   },
@@ -168,7 +168,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "さあ　歌おう\\n予を受け止めて\\nくれるんだろう？",
-   "en": "",
+   "en": "Now, let's sing.\\nYou'll accept me,\\nwon't you?",
    "op": "0x62",
    "msg": "0x2018"
   },
@@ -178,7 +178,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "共に行こう\\n我らはひとつ",
-   "en": "",
+   "en": "Let us go\\ntogether. We are\\none.",
    "op": "0x62",
    "msg": "0x2019"
   },
@@ -188,7 +188,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "仲間になるんだ！\\n天歌泰平の友として……！",
-   "en": "",
+   "en": "You'll be my\\nfriends! Friends\\nof Heaven's Song\\nPeace...!",
    "op": "0x62",
    "msg": "0x201a"
   },
@@ -198,7 +198,7 @@
    "max": 84,
    "kind": "dialogue",
    "jp": "城内は静謐に満ちていた\\nそこには怒りも喜びも\\n人らしい感情を表す者は\\nいない……",
-   "en": "",
+   "en": "The castle was\\nfilled with\\nstillness. No one\\nthere showed\\nanger, joy, or any\\nhuman feeling at\\nall...",
    "op": "0x62",
    "msg": "0x201b"
   },
@@ -208,7 +208,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "……これこそが\\n予が望んでいた天歌泰平",
-   "en": "",
+   "en": "...This is it.\\nHeaven's Song\\nPeace, just as I\\nwished.",
    "op": "0x62",
    "msg": "0x201c"
   },
@@ -218,7 +218,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "誰もが悲しまず\\n苦しまず　差別もない",
-   "en": "",
+   "en": "No one grieves,\\nno one suffers,\\nand no one is cast\\naside.",
    "op": "0x62",
    "msg": "0x201d"
   },
@@ -228,7 +228,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "予は一人じゃない\\nこれからも　ずっと",
-   "en": "",
+   "en": "I'm not alone. Not\\nnow, not ever.",
    "op": "0x62",
    "msg": "0x201e"
   },
@@ -238,7 +238,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "重く暗い空気が立ちこめる中\\n慶喜が無邪気に微笑んでいる",
-   "en": "",
+   "en": "Amid the heavy,\\ndark air,\\nYoshinobu smiled\\ninnocently.",
    "op": "0x62",
    "msg": "0x201f"
   },
@@ -248,7 +248,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "その背には徳川三百年の内に\\n積もり積もった怨念が\\n霊となって取り憑いていた",
-   "en": "",
+   "en": "On his back clung\\nthe grudges piled\\nup over three\\nhundred years of\\nTokugawa rule,\\nturned into\\nspirits.",
    "op": "0x62",
    "msg": "0x2020"
   },
@@ -258,7 +258,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "否　慶喜そのものがすでに\\nその怨霊と同化している",
-   "en": "",
+   "en": "No--Yoshinobu\\nhimself had\\nalready become\\none with those\\nvengeful spirits.",
    "op": "0x62",
    "msg": "0x2021"
   },
@@ -268,7 +268,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "お前も\\nそう思うだろう？\\n坂本龍馬",
-   "en": "",
+   "en": "You think so too,\\ndon't you, Ryoma\\nSakamoto?",
    "op": "0x62",
    "msg": "0x2022"
   },
@@ -278,7 +278,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "はっ　まっこと\\nそのとおり",
-   "en": "",
+   "en": "Yes, my lord.\\nTrue as can be.",
    "op": "0x62",
    "msg": "0x2023"
   },
@@ -288,7 +288,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "慶喜の声に龍馬が\\n顔を上げる",
-   "en": "",
+   "en": "At Yoshinobu's\\nvoice, Ryoma\\nraised his head.",
    "op": "0x62",
    "msg": "0x2024"
   },
@@ -298,7 +298,7 @@
    "max": 84,
    "kind": "dialogue",
    "jp": "だがその目にかつての輝きは\\nすでになく\\nどんよりと感情を失った\\n死人の目をしている",
-   "en": "",
+   "en": "But the light that\\nonce shone in his\\neyes was gone.\\nThey were the\\ndull, emotionless\\neyes of a dead\\nman.",
    "op": "0x62",
    "msg": "0x2025"
   },
@@ -308,7 +308,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "我ら全てみな\\nこの身と心を\\n将軍様に捧げます",
-   "en": "",
+   "en": "All of us, each\\nand every one,\\ndevote body and\\nsoul to the Lord\\nShogun.",
    "op": "0x62",
    "msg": "0x2026"
   },
@@ -318,7 +318,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "全ては泰平の世の\\nために……",
-   "en": "",
+   "en": "All for the sake of\\na peaceful world...",
    "op": "0x62",
    "msg": "0x2027"
   },
@@ -328,7 +328,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "俺はこれを望んでいた\\nきっと　近藤さんも\\n喜んでくれる",
-   "en": "",
+   "en": "This is what I\\nwanted.\\nKondo-san would\\nsurely be pleased\\ntoo.",
    "op": "0x62",
    "msg": "0x2028"
   },
@@ -338,7 +338,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "ふふ　ず～っとず～っと\\n一緒だよ\\nみんなも将軍様も……",
-   "en": "",
+   "en": "Hehe. We'll be\\ntogether forever\\nand ever... all of\\nus, and the Lord\\nShogun too...",
    "op": "0x62",
    "msg": "0x2029"
   },
@@ -348,7 +348,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "誰もが龍馬と同じ目を\\nしていた",
-   "en": "",
+   "en": "Everyone had the\\nsame eyes as\\nRyoma.",
    "op": "0x62",
    "msg": "0x202a"
   },
@@ -358,7 +358,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "みな泰平化され　\\nかつての情熱を\\n奪われている",
-   "en": "",
+   "en": "All of them had\\nbeen pacified,\\nrobbed of the\\npassion they once\\nhad.",
    "op": "0x62",
    "msg": "0x202b"
   },
@@ -368,7 +368,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "それを見て　慶喜は再び\\n満足げに笑った",
-   "en": "",
+   "en": "Seeing this,\\nYoshinobu smiled\\nin satisfaction\\nonce more.",
    "op": "0x62",
    "msg": "0x202c"
   },
@@ -378,7 +378,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "直弼　直弼　見てよ直弼\\n予はようやく手に入れたよ\\n心の平穏を……",
-   "en": "",
+   "en": "Naosuke,\\nNaosuke, look,\\nNaosuke! I have\\nfinally found it...\\npeace of mind...",
    "op": "0x62",
    "msg": "0x202d"
   },
@@ -388,7 +388,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "もう一人じゃない\\n孤独じゃない\\n怯えることなんてない",
-   "en": "",
+   "en": "I'm not alone\\nanymore. I'm not\\nlonely. There's\\nnothing to be\\nafraid of.",
    "op": "0x62",
    "msg": "0x202e"
   },
@@ -398,7 +398,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "予は永遠の絆を\\n手に入れたんだ！",
-   "en": "",
+   "en": "I have found a\\nbond that lasts\\nforever!",
    "op": "0x62",
    "msg": "0x202f"
   },
@@ -408,7 +408,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "ねえ　直弼　お前も\\n喜んでくれるだろう？",
-   "en": "",
+   "en": "Say, Naosuke,\\nyou're happy for\\nme too, aren't\\nyou?",
    "op": "0x62",
    "msg": "0x2030"
   },
@@ -418,7 +418,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "慶喜は振り向いて\\n自らと同化した怨霊に囁いた",
-   "en": "",
+   "en": "Yoshinobu turned\\nand whispered to\\nthe vengeful\\nspirits that had\\nmerged with\\nhim...",
    "op": "0x62",
    "msg": "0x2031"
   },
@@ -428,7 +428,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "歓喜の声を上げる怨霊の中\\nただ一人悲しげな顔を\\n浮かべるその男に",
-   "en": "",
+   "en": "...to the one man\\nwho, amid the\\nrejoicing spirits,\\nalone wore a\\nsorrowful face.",
    "op": "0x62",
    "msg": "0x2032"
   },
@@ -438,7 +438,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "慶喜様……\\nおいたわしや",
-   "en": "",
+   "en": "Yoshinobu-sama...\\nhow it pains me\\nto see you so.",
    "op": "0x62",
    "msg": "0x2033"
   },
@@ -448,7 +448,7 @@
    "max": 96,
    "kind": "dialogue",
    "jp": "だがその井伊の声は\\n慶喜に届くことはない\\n呪いに呑み込まれた将軍は\\nほの暗い幸福に浸っていた",
-   "en": "",
+   "en": "But Ii's voice\\nwould never\\nreach Yoshinobu.\\nSwallowed by the\\ncurse, the shogun\\nwas steeped in a\\ndim, hollow\\nhappiness.",
    "op": "0x62",
    "msg": "0x2034"
   },
@@ -458,7 +458,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "ふふふっ　はははっっ！\\nもう寂しくなんてないんだ！",
-   "en": "",
+   "en": "Hehehe... Hahaha!\\nI'm not lonely\\nanymore!",
    "op": "0x62",
    "msg": "0x2035"
   },
@@ -468,7 +468,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "予は幸せだよ……！",
-   "en": "",
+   "en": "I'm so happy...!",
    "op": "0x62",
    "msg": "0x2036"
   },
@@ -478,7 +478,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "慶喜様はすでに\\n怨霊の力に取り込まれて\\nしまった……",
-   "en": "",
+   "en": "Yoshinobu-sama\\nhas already been\\nconsumed by the\\npower of the\\nvengeful spirits...",
    "op": "0x62",
    "msg": "0x2037"
   },
@@ -488,7 +488,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "どうして……どうして\\nこのようなことに\\nなってしまったのか……！",
-   "en": "",
+   "en": "Why... why did it\\nhave to come to\\nthis...!",
    "op": "0x62",
    "msg": "0x2038"
   },
@@ -498,7 +498,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "私はただ　あなたを……\\n慶喜様を孤独の淵より\\nお救いし　お守りしたかった",
-   "en": "",
+   "en": "All I wanted was\\nto... to save you,\\nYoshinobu-sama,\\nfrom the depths\\nof loneliness, and\\nto protect you.",
    "op": "0x62",
    "msg": "0x2039"
   },
@@ -508,7 +508,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "だが……慶喜様は\\nもはや……",
-   "en": "",
+   "en": "But...\\nYoshinobu-sama\\nis no longer...",
    "op": "0x62",
    "msg": "0x203a"
   },
@@ -518,7 +518,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "実体をもたぬ井伊の\\n目から涙が零れ落ちる",
-   "en": "",
+   "en": "Tears spilled\\nfrom the eyes of\\nIi, who no longer\\nhad a body of his\\nown.",
    "op": "0x62",
    "msg": "0x203b"
   },
@@ -528,7 +528,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "直弼？　ん？　直弼？\\nどこだ？　直弼",
-   "en": "",
+   "en": "Naosuke? Hm?\\nNaosuke? Where\\nare you, Naosuke?",
    "op": "0x62",
    "msg": "0x203c"
   },
@@ -538,7 +538,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "ここに……\\nおそばにおりますよ\\n慶喜様……",
-   "en": "",
+   "en": "Here... I am right\\nby your side,\\nYoshinobu-sama...",
    "op": "0x62",
    "msg": "0x203d"
   },
@@ -548,7 +548,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "けれど\\n慶喜が不安を見せれば\\n優しく頬をすり寄せた",
-   "en": "",
+   "en": "Yet whenever\\nYoshinobu grew\\nuneasy, Ii gently\\nnestled his cheek\\nagainst him.",
    "op": "0x62",
    "msg": "0x203e"
   },
@@ -558,7 +558,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "そこにおったか！\\nふふ　そうじゃな　直弼は\\n予を置いてはいかぬ！",
-   "en": "",
+   "en": "There you are!\\nHehe, of course.\\nNaosuke would\\nnever leave me\\nbehind!",
    "op": "0x62",
    "msg": "0x203f"
   },
@@ -568,7 +568,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "ずぅっとずぅっと\\n一緒じゃ……",
-   "en": "",
+   "en": "Together forever\\nand ever...",
    "op": "0x62",
    "msg": "0x2040"
   },
@@ -578,7 +578,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "夢幻の世界にその心を\\n囚われた悲しき主を\\n直弼は優しく抱きしめた",
-   "en": "",
+   "en": "Naosuke gently\\nembraced his\\nsorrowful lord,\\nwhose heart was\\nheld captive in a\\nworld of dreams.",
    "op": "0x62",
    "msg": "0x2041"
   },
@@ -588,7 +588,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "ああ　それでも　確かに\\nこれで良かったのかも\\nしれません……",
-   "en": "",
+   "en": "Ah... and yet,\\nperhaps this truly\\nwas for the best...",
    "op": "0x62",
    "msg": "0x2042"
   },
@@ -598,7 +598,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "ええ　これで……",
-   "en": "",
+   "en": "Yes... like this...",
    "op": "0x62",
    "msg": "0x2043"
   },
@@ -608,7 +608,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "永久に慶喜の側に\\nいられることを\\n井伊直弼は喜ぶしかない",
-   "en": "",
+   "en": "To remain at\\nYoshinobu's side\\nfor all eternity...\\nNaosuke Ii could\\ndo nothing but\\nrejoice in it.",
    "op": "0x62",
    "msg": "0x2044"
   },
@@ -618,7 +618,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "二条城に響くのは\\nただ　慶喜の狂った\\n笑い声だけ……",
-   "en": "",
+   "en": "All that echoed\\nthrough Nijo\\nCastle was\\nYoshinobu's mad\\nlaughter...",
    "op": "0x62",
    "msg": "0x2045"
   },
@@ -628,7 +628,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "ＢＡＤ ＥＮＤ",
-   "en": "",
+   "en": "BAD END",
    "op": "0x62",
    "msg": "0x2046"
   }

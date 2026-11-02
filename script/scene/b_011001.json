@@ -8,7 +8,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "シンディの隠れ家に\\n着いたはいいけど\\n興奮して眠れないぜよ",
-   "en": "",
+   "en": "We made it to\\nShindy's hideout,\\nbut I'm too fired\\nup to sleep!",
    "op": "0x62",
    "msg": "0x2b7a"
   },
@@ -18,7 +18,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "スカシくんイチオシの\\n隠れ家が素敵すぎて\\nヘドが出そうとか？",
-   "en": "",
+   "en": "Is Mr. Poser's\\ntop-pick hideout\\nso lovely it makes\\nyou wanna puke?",
    "op": "0x62",
    "msg": "0x2b7b"
   },
@@ -28,7 +28,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "どうせ一時しのぎの\\n場所だが　嫌なら\\n出ていってもいいぜ",
-   "en": "",
+   "en": "It's only a stopgap\\nanyway. If you\\ndon't like it, feel\\nfree to leave.",
    "op": "0x62",
    "msg": "0x2b7c"
   },
@@ -38,7 +38,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "総司　ここは我慢しろ\\n夜露をしのげるだけでも\\nありがたいからな",
-   "en": "",
+   "en": "Soji, bear with it.\\nJust having a roof\\nover our heads is\\nsomething to be\\ngrateful for.",
    "op": "0x62",
    "msg": "0x2b7d"
   },
@@ -48,7 +48,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "一人二人ならともかく\\n男五人で遊郭に隠れるとは\\n考えにくいからな",
-   "en": "",
+   "en": "One or two men,\\nmaybe, but no one\\nwould expect five\\nmen to hide out\\nin a pleasure\\nquarter.",
    "op": "0x62",
    "msg": "0x2b7e"
   },
@@ -58,7 +58,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "それにしても豪華絢爛って\\n感じですね　この部屋",
-   "en": "",
+   "en": "Still, this room is\\nquite the picture\\nof luxury and\\nsplendor.",
    "op": "0x62",
    "msg": "0x2b7f"
   },
@@ -68,7 +68,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "こんなところに通うなんて\\nスカシくん欲求に素直すぎ",
-   "en": "",
+   "en": "Coming to a place\\nlike this? Mr.\\nPoser's way too\\nhonest about his\\nurges.",
    "op": "0x62",
    "msg": "0x2b80"
   },
@@ -78,7 +78,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "ば　バカ野郎！\\n通っちゃいねえって！\\n健全なんだよオレ様は",
-   "en": "",
+   "en": "Y-you idiot! I\\ndon't come here!\\nThe great\\nTakasugi is\\nperfectly\\nwholesome!",
    "op": "0x62",
    "msg": "0x2b81"
   },
@@ -88,7 +88,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "ふうん　健全ね",
-   "en": "",
+   "en": "Huh. Wholesome,\\nhuh.",
    "op": "0x62",
    "msg": "0x2b82"
   },
@@ -98,7 +98,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "前にお登勢さんから\\nここは見つかりにくいって\\n聞いてたんだよ",
-   "en": "",
+   "en": "Otose-san told me\\na while back that\\nthis place is hard\\nto find.",
    "op": "0x62",
    "msg": "0x2b83"
   },
@@ -108,7 +108,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "何かあった時は\\nここへ逃げ込めってな",
-   "en": "",
+   "en": "Said if anything\\never happened, I\\nshould run here.",
    "op": "0x62",
    "msg": "0x2b84"
   },
@@ -118,7 +118,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "うは　ウソ臭い\\nどうせなら笑えるウソに\\nしたほうがいいね",
-   "en": "",
+   "en": "Pfft, sounds fake.\\nIf you're gonna\\nlie, at least make\\nit a funny one.",
    "op": "0x62",
    "msg": "0x2b85"
   },
@@ -128,7 +128,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "信じろよ\\n女将はオレ達を見るなり\\nすぐ通してくれただろうが",
-   "en": "",
+   "en": "Believe me! The\\nlandlady let us\\nright in the\\nmoment she saw\\nus, didn't she!",
    "op": "0x62",
    "msg": "0x2b86"
   },
@@ -138,7 +138,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "しかしまあ部屋の中が\\n煌びやかなのはたしかだな",
-   "en": "",
+   "en": "That said, the\\nroom certainly is\\ndazzling.",
    "op": "0x62",
    "msg": "0x2b87"
   },
@@ -148,7 +148,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "ああ　目がキラキラ\\nチカチカして眠れん",
-   "en": "",
+   "en": "Yeah,\\neverything's so\\nsparkly and\\nflashy, I can't\\nsleep a wink.",
    "op": "0x62",
    "msg": "0x2b88"
   },
@@ -158,7 +158,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "じゃあ眠くなるまで\\nお話でもしようか\\nおとぎ話的なやつ",
-   "en": "",
+   "en": "Then let's tell\\nstories till we get\\nsleepy. Like a\\nfairy tale.",
    "op": "0x62",
    "msg": "0x2b89"
   },
@@ -168,7 +168,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "ほう　総司がおとぎ話か\\nピンと来ないな",
-   "en": "",
+   "en": "Oh? Soji, telling\\nfairy tales? I can't\\npicture it.",
    "op": "0x62",
    "msg": "0x2b8a"
   },
@@ -178,7 +178,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "ひどいな　僕だって\\nおとぎ話ぐらい知ってるよ",
-   "en": "",
+   "en": "How mean. Even I\\nknow a fairy tale\\nor two.",
    "op": "0x62",
    "msg": "0x2b8b"
   },
@@ -188,7 +188,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "おお　おとぎ話か\\nそりゃあええ\\n聞かせてくれ　ソウちん",
-   "en": "",
+   "en": "Ooh, a fairy tale!\\nSounds great!\\nLet's hear it,\\nSo-chin.",
    "op": "0x62",
    "msg": "0x2b8c"
   },
@@ -198,7 +198,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "京の都に伝わる\\nおとぎ話を聞きたいぜよ",
-   "en": "",
+   "en": "I wanna hear a\\nfairy tale handed\\ndown in Kyoto, I\\ntell ya!",
    "op": "0x62",
    "msg": "0x2b8d"
   },
@@ -208,7 +208,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "京の話かぁ\\nちょうど良いのがあるよ\\nすごく面白いんだ",
-   "en": "",
+   "en": "A Kyoto story,\\nhuh? I've got just\\nthe one. It's super\\ninteresting.",
    "op": "0x62",
    "msg": "0x2b8e"
   },
@@ -218,7 +218,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "都の千本通りと出水通りの\\n四辻って言うとわかる？",
-   "en": "",
+   "en": "You know the\\ncrossroads where\\nSenbon Street\\nmeets Demizu\\nStreet?",
    "op": "0x62",
    "msg": "0x2b8f"
   },
@@ -228,7 +228,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "ああ　知っている\\nそこがどうした？",
-   "en": "",
+   "en": "Yes, I know it.\\nWhat about it?",
    "op": "0x62",
    "msg": "0x2b90"
   },
@@ -238,7 +238,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "あの辺りって\\n宴（えん）の松原って\\nいうらしいの　知ってる？",
-   "en": "",
+   "en": "Did you know that\\narea's apparently\\ncalled the En no\\nMatsubara, the\\nBanquet Pines?",
    "op": "0x62",
    "msg": "0x2b91"
   },
@@ -248,7 +248,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "聞いたことはあるな\\n平安の頃は内裏の一部の\\n松林だったって話だ",
-   "en": "",
+   "en": "I've heard of it.\\nBack in the Heian\\ndays, it was a\\npine grove inside\\nthe imperial\\npalace grounds,\\nor so they say.",
    "op": "0x62",
    "msg": "0x2b92"
   },
@@ -258,7 +258,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "ほうほう\\nその宴の松原が\\nどうしたんじゃ？",
-   "en": "",
+   "en": "Uh-huh, uh-huh.\\nSo what about\\nthis En no\\nMatsubara?",
    "op": "0x62",
    "msg": "0x2b93"
   },
@@ -268,7 +268,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "ははっ　龍馬くん\\n興味津々ですね",
-   "en": "",
+   "en": "Ha ha,\\nRyoma-kun,\\nyou're all ears.",
    "op": "0x62",
    "msg": "0x2b94"
   },
@@ -278,7 +278,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "そりゃ気になるって\\n都の話は刺激が一杯だし",
-   "en": "",
+   "en": "Well, sure I'm\\ncurious! Stories\\nfrom the capital\\nare full of thrills!",
    "op": "0x62",
    "msg": "0x2b95"
   },
@@ -288,7 +288,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "その松林にね\\n夜な夜なすごい\\n色男（イケメン）が\\n現れたんだって",
-   "en": "",
+   "en": "In that pine\\ngrove, night after\\nnight, a gorgeous\\nhunk would\\nappear.",
    "op": "0x62",
    "msg": "0x2b96"
   },
@@ -298,7 +298,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "着物の着こなしが粋で\\n夜目でもスッと通った\\n顔立ちが目立つほどにね",
-   "en": "",
+   "en": "He wore his\\nkimono with style,\\nand his fine\\nfeatures stood\\nout even in the\\ndark.",
    "op": "0x62",
    "msg": "0x2b97"
   },
@@ -308,7 +308,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "おお　ソウちんの語りを\\n聞いてるだけで　色男が\\n目に浮かんできた！",
-   "en": "",
+   "en": "Ooh, just hearin'\\nyou tell it,\\nSo-chin, I can\\npicture that hunk!",
    "op": "0x62",
    "msg": "0x2b98"
   },
@@ -318,7 +318,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "そこへ内裏の女房衆三人が\\nちいさな灯りを手にして\\n通りがかったんだ",
-   "en": "",
+   "en": "Then three court\\nladies from the\\npalace came by,\\ncarrying little\\nlanterns.",
    "op": "0x62",
    "msg": "0x2b99"
   },
@@ -328,7 +328,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "おおっ\\nそこで色男とバッタリ\\n鉢合わせしたか！",
-   "en": "",
+   "en": "Ooh! And they\\nbumped right into\\nthe hunk!",
    "op": "0x62",
    "msg": "0x2b9a"
   },
@@ -338,7 +338,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "何かと思ったら\\n逢い引きの話かよ\\nつまらねぇ",
-   "en": "",
+   "en": "And here I\\nwondered what\\nit'd be. A tryst\\nstory? Boring.",
    "op": "0x62",
    "msg": "0x2b9b"
   },
@@ -348,7 +348,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "ふふふ……\\nここからがこの話の\\n面白いところなんだよ",
-   "en": "",
+   "en": "Hehehe... This is\\nwhere the story\\ngets interesting.",
    "op": "0x62",
    "msg": "0x2b9c"
   },
@@ -358,7 +358,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "続き！　続きは",
-   "en": "",
+   "en": "Go on! What\\nhappens next!?",
    "op": "0x62",
    "msg": "0x2b9d"
   },
@@ -368,7 +368,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "三人の女房が\\n男に見とれていると\\nその男が寄ってきたんだ",
-   "en": "",
+   "en": "As the three\\nladies gazed at\\nthe man, he came\\ntoward them.",
    "op": "0x62",
    "msg": "0x2b9e"
   },
@@ -378,7 +378,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "足音もなく風のように\\nすうっと寄ってきた",
-   "en": "",
+   "en": "Without a sound,\\nlike the wind, he\\nglided closer.",
    "op": "0x62",
    "msg": "0x2b9f"
   },
@@ -388,7 +388,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "おかしいと思わない？\\n普通じゃないよね\\n音もなく歩くなんてさ",
-   "en": "",
+   "en": "Don't you think\\nthat's weird? It's\\nnot normal,\\nwalking without a\\nsound.",
    "op": "0x62",
    "msg": "0x2ba0"
   },
@@ -398,7 +398,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "わかった！\\nその色男は忍の者！",
-   "en": "",
+   "en": "I got it! That\\nhunk's a ninja!",
    "op": "0x62",
    "msg": "0x2ba1"
   },
@@ -408,7 +408,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "黙って聞いてろ　龍馬\\n話がややこしくなる",
-   "en": "",
+   "en": "Shut up and\\nlisten, Ryoma.\\nYou're making it\\nconfusing.",
    "op": "0x62",
    "msg": "0x2ba2"
   },
@@ -418,7 +418,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "でも　女房は男に見とれて\\nおかしいと思わなかった",
-   "en": "",
+   "en": "But the ladies\\nwere so taken\\nwith him they\\ndidn't think it was\\nweird.",
    "op": "0x62",
    "msg": "0x2ba3"
   },
@@ -428,7 +428,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "その色男に取り憑かれた\\nみたいにぼんやりとして\\n見とれていたんだよね",
-   "en": "",
+   "en": "They just stared\\nat him in a daze,\\nlike he'd\\nbewitched them.",
    "op": "0x62",
    "msg": "0x2ba4"
   },
@@ -438,7 +438,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "おいおい\\nぜんぜんおとぎ話じゃねえ\\n雰囲気だな……",
-   "en": "",
+   "en": "Hey, hey... This\\nisn't sounding like\\na fairy tale at all...",
    "op": "0x62",
    "msg": "0x2ba5"
   },
@@ -448,7 +448,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "そのうちその男は\\n女房のうち一番美しい女に\\n手を差し出した",
-   "en": "",
+   "en": "Eventually, the\\nman held out his\\nhand to the most\\nbeautiful of the\\nladies.",
    "op": "0x62",
    "msg": "0x2ba6"
   },
@@ -458,7 +458,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "二人の女房を残して\\n男と女房は手を繋いで\\n松林の奥へと消えたわけ",
-   "en": "",
+   "en": "Leaving the other\\ntwo behind, he\\nand the lady\\nwalked hand in\\nhand and\\nvanished deep\\ninto the pines.",
    "op": "0x62",
    "msg": "0x2ba7"
   },
@@ -468,7 +468,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "そ　それで　その女房は\\nどうなったんじゃ？",
-   "en": "",
+   "en": "Wh-what\\nhappened to that\\nlady?",
    "op": "0x62",
    "msg": "0x2ba8"
   },
@@ -478,7 +478,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "しばらくは色男と\\n女房の楽しげな会話が\\n続いたそうなんだ",
-   "en": "",
+   "en": "For a while, they\\nsay, you could\\nhear the hunk\\nand the lady\\nchatting happily.",
    "op": "0x62",
    "msg": "0x2ba9"
   },
@@ -488,7 +488,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "残された二人の女房が\\n帰宅時間だからって\\n松林に捜しに行くと……",
-   "en": "",
+   "en": "Then, since it was\\ntime to head\\nhome, the two\\nleft behind went\\ninto the pines to\\nlook for her...",
    "op": "0x62",
    "msg": "0x2baa"
   },
@@ -498,7 +498,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "おおっ\\nワクワクしてきた！",
-   "en": "",
+   "en": "Ooh! This is\\ngettin' excitin'!",
    "op": "0x62",
    "msg": "0x2bab"
   },
@@ -508,7 +508,7 @@
    "max": 80,
    "kind": "dialogue",
    "jp": "辺りを捜しても誰もいない\\n女房が着ていた着物だけが\\n松の枝にぶら下がっててね",
-   "en": "",
+   "en": "They searched all\\naround, but no\\none was there.\\nOnly the lady's\\nkimono, hanging\\nfrom a pine\\nbranch.",
    "op": "0x62",
    "msg": "0x2bac"
   },
@@ -518,7 +518,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "……天女になったとか？",
-   "en": "",
+   "en": "...She turned into\\na celestial\\nmaiden?",
    "op": "0x62",
    "msg": "0x2bad"
   },
@@ -528,7 +528,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "ふふ　近いかもね",
-   "en": "",
+   "en": "Hehe, maybe\\nthat's close.",
    "op": "0x62",
    "msg": "0x2bae"
   },
@@ -538,7 +538,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "あたり一面は血の海で\\n女房の手と足だけが\\n転がってたんだって",
-   "en": "",
+   "en": "The ground all\\naround was a sea\\nof blood, with\\nonly the lady's\\nhands and feet\\nlying there.",
    "op": "0x62",
    "msg": "0x2baf"
   },
@@ -548,7 +548,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "その色男は\\n実は妖鬼で女房を食った\\nなんて言い伝えられてる",
-   "en": "",
+   "en": "Legend says the\\nhunk was really a\\ndemon who ate\\nher.",
    "op": "0x62",
    "msg": "0x2bb0"
   },
@@ -558,7 +558,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "それ天女と違うっ\\nお星さまになったんじゃ！",
-   "en": "",
+   "en": "That ain't no\\ncelestial maiden!\\nShe went up to\\njoin the stars!",
    "op": "0x62",
    "msg": "0x2bb1"
   },
@@ -568,7 +568,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "な　なんて恐ろしい話じゃ\\nなんまんだぶなんまんだぶ",
-   "en": "",
+   "en": "Wh-what a\\nterrifyin' story!\\nNamu Amida\\nButsu, Namu\\nAmida Butsu...",
    "op": "0x62",
    "msg": "0x2bb2"
   },
@@ -578,7 +578,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "バカ野郎　沖田　てめぇ\\nそれは怪談じゃねえか！\\n龍馬がビビってんだろ",
-   "en": "",
+   "en": "You idiot, Okita!\\nThat's a ghost\\nstory! You're\\nscaring Ryoma!",
    "op": "0x62",
    "msg": "0x2bb3"
   },
@@ -588,7 +588,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "どうしてスカシくんが\\nキレてるんだよ\\nビビッちゃったわけ？",
-   "en": "",
+   "en": "Why are you the\\none losing it, Mr.\\nPoser? Did you\\nget scared?",
    "op": "0x62",
    "msg": "0x2bb4"
   },
@@ -598,7 +598,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "なっ　オレ様がビビるわけ\\nねえだろ……\\nバカにすんなよ　沖田",
-   "en": "",
+   "en": "Wh-! Like the\\ngreat Takasugi\\nwould get\\nscared... Don't\\nmock me, Okita.",
    "op": "0x62",
    "msg": "0x2bb5"
   },
@@ -608,7 +608,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "晋作　声震えてます　声",
-   "en": "",
+   "en": "Shinsaku, your\\nvoice is shaking.\\nYour voice.",
    "op": "0x62",
    "msg": "0x2bb6"
   },
@@ -618,7 +618,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "本当に怖いのは\\nこのおとぎ話自体じゃ\\nないんだよね",
-   "en": "",
+   "en": "The truly scary\\npart isn't this\\nfairy tale itself,\\nthough.",
    "op": "0x62",
    "msg": "0x2bb7"
   },
@@ -628,7 +628,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "いかん　厠へ行けなく\\nなりそうじゃ",
-   "en": "",
+   "en": "Uh-oh, I won't be\\nable to go to the\\nprivy...",
    "op": "0x62",
    "msg": "0x2bb8"
   },
@@ -638,7 +638,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "おかしいと思わない？\\n斬ったって頭や胴体が\\n消えるわけないよね？",
-   "en": "",
+   "en": "Don't you think\\nit's weird? Even if\\nyou cut someone\\nup, their head\\nand body don't\\njust vanish, right?",
    "op": "0x62",
    "msg": "0x2bb9"
   },
@@ -648,7 +648,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "お　おう\\n爆死したならともかくな",
-   "en": "",
+   "en": "Y-yeah. Unless\\nthey got blown to\\nbits.",
    "op": "0x62",
    "msg": "0x2bba"
   },
@@ -658,7 +658,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "そうだよね\\n色男の妖鬼ってのは\\n二人の女房のウソなんだ",
-   "en": "",
+   "en": "Right? The\\ndemon hunk was\\na lie the two\\nladies made up.",
    "op": "0x62",
    "msg": "0x2bbb"
   },
@@ -668,7 +668,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "どういうことなんだ？",
-   "en": "",
+   "en": "What do you\\nmean?",
    "op": "0x62",
    "msg": "0x2bbc"
   },
@@ -678,7 +678,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "本当は女房二人が共謀し\\n美人の女房をぶち殺して\\n妖鬼のせいにした……",
-   "en": "",
+   "en": "In truth, the two\\nladies conspired,\\nmurdered the\\nbeautiful one,\\nand blamed it on\\na demon...",
    "op": "0x62",
    "msg": "0x2bbd"
   },
@@ -688,7 +688,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "なんのために殺害を？",
-   "en": "",
+   "en": "Killed her for\\nwhat?",
    "op": "0x62",
    "msg": "0x2bbe"
   },
@@ -698,7 +698,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "さあね　女房同士で\\nなにがあったかなんて\\n僕にはわからないけどね",
-   "en": "",
+   "en": "Who knows. What\\nwent on between\\nthe ladies, I\\ncouldn't tell you.",
    "op": "0x62",
    "msg": "0x2bbf"
   },
@@ -708,7 +708,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "内裏のことだからね\\n大奥も似たようなものだし",
-   "en": "",
+   "en": "It's the imperial\\ncourt, after all.\\nThe shogun's\\ninner palace isn't\\nmuch different.",
    "op": "0x62",
    "msg": "0x2bc0"
   },
@@ -718,7 +718,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "ありそうな話です……\\n説得力が増してきたら\\n背筋が寒くなってきました",
-   "en": "",
+   "en": "It does sound\\nplausible... The\\nmore convincing\\nit gets, the colder\\nmy spine feels.",
    "op": "0x62",
    "msg": "0x2bc1"
   },
@@ -728,7 +728,7 @@
    "max": 80,
    "kind": "dialogue",
    "jp": "女房二人が疑われないよう\\n妖鬼が女房を食ったように\\n見せかける必要があるよね",
-   "en": "",
+   "en": "So nobody would\\nsuspect them,\\nthey had to make\\nit look like the\\ndemon ate her,\\nright?",
    "op": "0x62",
    "msg": "0x2bc2"
   },
@@ -738,7 +738,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "お　おう\\nそそそ　そうだな",
-   "en": "",
+   "en": "Y-yeah. R-r-right.",
    "op": "0x62",
    "msg": "0x2bc3"
   },
@@ -748,7 +748,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "埋めたか　動物かなにかに\\n食わせたんじゃないかな\\nその証拠に……",
-   "en": "",
+   "en": "Maybe they\\nburied the rest,\\nor fed it to some\\nanimal. And the\\nproof...",
    "op": "0x62",
    "msg": "0x2bc4"
   },
@@ -758,7 +758,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "今では色男妖鬼じゃなく\\n殺された女房の幽霊が出る\\nらしいからね",
-   "en": "",
+   "en": "...is that these\\ndays, instead of\\nthe demon hunk,\\nit's the murdered\\nlady's ghost that\\nappears.",
    "op": "0x62",
    "msg": "0x2bc5"
   },
@@ -768,7 +768,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "こわーっ！",
-   "en": "",
+   "en": "Yikes!",
    "op": "0x62",
    "msg": "0x2bc6"
   },
@@ -778,7 +778,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "なんとも救われない\\n話ですね　沖田くん……",
-   "en": "",
+   "en": "What a hopeless\\nstory, Okita-kun...",
    "op": "0x62",
    "msg": "0x2bc7"
   },
@@ -788,7 +788,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "はっ　そんな話のどこが\\n怖いんだよ　馬鹿馬鹿しい",
-   "en": "",
+   "en": "Hah! What's so\\nscary about a\\nstory like that?\\nRidiculous.",
    "op": "0x62",
    "msg": "0x2bc8"
   },
@@ -798,7 +798,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "そういえば宴の松原って\\nこのすぐ近くですよね",
-   "en": "",
+   "en": "Come to think of\\nit, the En no\\nMatsubara is\\nright near here,\\nisn't it?",
    "op": "0x62",
    "msg": "0x2bc9"
   },
@@ -808,7 +808,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "あ\\nそ　そうだった……",
-   "en": "",
+   "en": "Ah... Th-that's\\nright...",
    "op": "0x62",
    "msg": "0x2bca"
   },
@@ -818,7 +818,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "あれ　晋作って\\nこの手の話はまるっきり\\n苦手だったはずですが？",
-   "en": "",
+   "en": "Hm? Shinsaku,\\nweren't you\\ncompletely\\nhopeless with this\\nsort of story?",
    "op": "0x62",
    "msg": "0x2bcb"
   },
@@ -828,7 +828,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "ななな　なに言ってんだっ\\nオレ様に怖いものなんぞ\\nねえよ",
-   "en": "",
+   "en": "Wh-wh-what are\\nyou talking\\nabout!? There's\\nnothing the great\\nTakasugi is afraid\\nof!",
    "op": "0x62",
    "msg": "0x2bcc"
   },
@@ -838,7 +838,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "わしは怖いぜよ\\n幽霊は苦手なんじゃあ！",
-   "en": "",
+   "en": "Well, I'm scared! I\\ncan't stand\\nghosts!",
    "op": "0x62",
    "msg": "0x2bcd"
   },
@@ -848,7 +848,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "あ　言い忘れてた\\nその女房の幽霊って\\n着物と手と足だけでね",
-   "en": "",
+   "en": "Oh, I forgot to\\nmention. That\\nlady's ghost is\\njust a kimono,\\nhands and feet...",
    "op": "0x62",
    "msg": "0x2bce"
   },
@@ -858,7 +858,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "胴体と頭を捜して\\n夜な夜な京の都を\\n歩いてるらしいよ",
-   "en": "",
+   "en": "...and they say she\\nwalks the streets\\nof Kyoto night\\nafter night,\\nlooking for her\\nbody and head.",
    "op": "0x62",
    "msg": "0x2bcf"
   },
@@ -868,7 +868,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "うおおおお\\nチビりそうになってきた\\nもうやめるぜよ～",
-   "en": "",
+   "en": "Uwaaah, I'm about\\nto wet myself!\\nStop it already~",
    "op": "0x62",
    "msg": "0x2bd0"
   },
@@ -878,7 +878,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "ジタバタするんじゃねえ\\nみっともねえ野郎だな",
-   "en": "",
+   "en": "Quit flailing\\naround. You're\\npathetic.",
    "op": "0x62",
    "msg": "0x2bd1"
   },
@@ -888,7 +888,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "そうそう\\n夜中に戸を叩く音がしたら\\n開けちゃいけないって",
-   "en": "",
+   "en": "Oh yeah. If you\\nhear knocking on\\nthe door in the\\nmiddle of the\\nnight, you mustn't\\nopen it.",
    "op": "0x62",
    "msg": "0x2bd2"
   },
@@ -898,7 +898,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "この辺りの人達は\\n本気で恐れてるっぽいよ",
-   "en": "",
+   "en": "The people\\naround here seem\\nto be genuinely\\nscared of it.",
    "op": "0x62",
    "msg": "0x2bd3"
   },
@@ -908,7 +908,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "そして……\\nその時間がそろそろ……",
-   "en": "",
+   "en": "And... it's just\\nabout that time...",
    "op": "0x62",
    "msg": "0x2bd4"
   },
@@ -918,7 +918,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "はは……冗談だろ\\nそんなもんが来た日にゃあ\\n手も足も出ねえぞ？",
-   "en": "",
+   "en": "Ha ha... You're\\nkidding, right? If\\nsomething like\\nthat shows up, we\\nwon't have a leg\\nto stand on!",
    "op": "0x62",
    "msg": "0x2bd5"
   },
@@ -928,7 +928,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "幽霊は手と足だけだけどね",
-   "en": "",
+   "en": "Well, legs are\\nabout all she does\\nhave.",
    "op": "0x62",
    "msg": "0x2bd6"
   },
@@ -938,7 +938,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "おいおい\\n誰がうまいこと\\n言えっつったんだよ",
-   "en": "",
+   "en": "Hey, hey! Who\\nasked you to be\\nclever!?",
    "op": "0x62",
    "msg": "0x2bd7"
   },
@@ -948,7 +948,7 @@
    "max": 8,
    "kind": "dialogue",
    "jp": "ふふ",
-   "en": "",
+   "en": "Hehe.",
    "op": "0x62",
    "msg": "0x2bd8"
   },
@@ -958,7 +958,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "……なんだよ",
-   "en": "",
+   "en": "...What?",
    "op": "0x62",
    "msg": "0x2bd9"
   },
@@ -968,7 +968,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "静かな夜だね",
-   "en": "",
+   "en": "Quiet night, isn't\\nit?",
    "op": "0x62",
    "msg": "0x2bda"
   },
@@ -978,7 +978,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "へっぷしょいっ",
-   "en": "",
+   "en": "Ah-CHOO!",
    "op": "0x62",
    "msg": "0x2bdb"
   },
@@ -988,7 +988,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "ぎゃあっ！",
-   "en": "",
+   "en": "GYAAAH!",
    "op": "0x62",
    "msg": "0x2bdc"
   },
@@ -998,7 +998,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "ずるるっ\\nどうかしたか\\nシンディ？",
-   "en": "",
+   "en": "*Sniffle*\\nSomethin' wrong,\\nShindy?",
    "op": "0x62",
    "msg": "0x2bdd"
   },
@@ -1008,7 +1008,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "クシャミに驚いて\\n目を回したみたいです",
-   "en": "",
+   "en": "It seems the\\nsneeze startled\\nhim so much he\\nfainted.",
    "op": "0x62",
    "msg": "0x2bde"
   },
@@ -1018,7 +1018,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "あーあ\\nヘタレ過ぎて涙も出ないね",
-   "en": "",
+   "en": "Jeez. Such a wimp\\nI can't even cry\\nabout it.",
    "op": "0x62",
    "msg": "0x2bdf"
   },
@@ -1028,7 +1028,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "総司　宴の松原の\\n妖鬼は聞いたことがあるが\\n女房の話は初耳だな",
-   "en": "",
+   "en": "Soji, I've heard of\\nthe demon of the\\nEn no Matsubara,\\nbut the court\\nladies' story is\\nnew to me.",
    "op": "0x62",
    "msg": "0x2be0"
   },
@@ -1038,7 +1038,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "当然でしょ\\n僕の作り話だし",
-   "en": "",
+   "en": "Of course. I made\\nit up.",
    "op": "0x62",
    "msg": "0x2be1"
   },
@@ -1048,7 +1048,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "あはは……",
-   "en": "",
+   "en": "Ahaha...",
    "op": "0x62",
    "msg": "0x2be2"
   },
@@ -1058,7 +1058,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "ふふ　良く出来た作り話だ\\n目を回す奴が出るほどな",
-   "en": "",
+   "en": "Heh. A well-made\\nstory. Good\\nenough to make\\nsomeone faint.",
    "op": "0x62",
    "msg": "0x2be3"
   },
@@ -1068,7 +1068,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "作り話か　よかった\\n明るくなるまで\\n眠れんところじゃった",
-   "en": "",
+   "en": "Made up, huh?\\nWhat a relief. I\\nwouldn't have\\nslept till sunrise.",
    "op": "0x62",
    "msg": "0x2be4"
   },
@@ -1078,7 +1078,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "しかし　幽霊か……\\n幽霊でも構わないから\\n会いたいものだが……",
-   "en": "",
+   "en": "Still, ghosts... I'd\\nlike to see him\\nagain, even as a\\nghost...",
    "op": "0x62",
    "msg": "0x2be5"
   },
@@ -1088,7 +1088,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "いやじゃ　わしは\\n幽霊は恐ろしいぜよ",
-   "en": "",
+   "en": "No way, not me.\\nGhosts are\\nterrifyin'!",
    "op": "0x62",
    "msg": "0x2be6"
   },
@@ -1098,7 +1098,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "俺は近藤さんの\\n幽霊なら怖くはないな",
-   "en": "",
+   "en": "If it were\\nKondo-san's\\nghost, I wouldn't\\nbe afraid.",
    "op": "0x62",
    "msg": "0x2be7"
   },
@@ -1108,7 +1108,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "……そうだね",
-   "en": "",
+   "en": "...Yeah.",
    "op": "0x62",
    "msg": "0x2be8"
   },
@@ -1118,7 +1118,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "オッサンなら怖くないかも\\nわしももう一度\\nオッサンに会いたいぜよ",
-   "en": "",
+   "en": "Maybe I wouldn't\\nbe scared of ol'\\nKondo either. I'd\\nsure like to see\\nthe old man one\\nmore time, too.",
    "op": "0x62",
    "msg": "0x2be9"
   },
@@ -1128,7 +1128,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "そうですね　あの人は\\nいい人でしたから",
-   "en": "",
+   "en": "Indeed. He was a\\ngood man.",
    "op": "0x62",
    "msg": "0x2bea"
   },
@@ -1138,7 +1138,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "たとえ　幽霊になっても\\n怖がる必要はなさそうです",
-   "en": "",
+   "en": "Even as a ghost,\\nthere'd be no\\nneed to be afraid\\nof him.",
    "op": "0x62",
    "msg": "0x2beb"
   },
@@ -1148,7 +1148,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "まあ　近藤さんは\\n幽霊にはなりそうにない",
-   "en": "",
+   "en": "Well, Kondo-san\\ndoesn't seem the\\ntype to become a\\nghost.",
    "op": "0x62",
    "msg": "0x2bec"
   },
@@ -1158,7 +1158,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "先に行って俺達を\\n待っているだろうよ",
-   "en": "",
+   "en": "He's probably\\ngone on ahead\\nand is waiting for\\nus.",
    "op": "0x62",
    "msg": "0x2bed"
   },
@@ -1168,7 +1168,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "最期にそう言ってたしな\\nなあ　総司",
-   "en": "",
+   "en": "That's what he\\nsaid at the end,\\nafter all. Right,\\nSoji?",
    "op": "0x62",
    "msg": "0x2bee"
   },
@@ -1178,7 +1178,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "……うん",
-   "en": "",
+   "en": "...Yeah.",
    "op": "0x62",
    "msg": "0x2bef"
   },
@@ -1188,7 +1188,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "そうじゃ！　わしは\\n怖い話よりも思い出話が\\n聞きたいっ",
-   "en": "",
+   "en": "That's it! Instead\\nof scary stories, I\\nwanna hear some\\nold memories!",
    "op": "0x62",
    "msg": "0x2bf0"
   },
@@ -1198,7 +1198,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "いいですね\\n私も思い出話を\\n聞いてみたいな",
-   "en": "",
+   "en": "That's a nice idea.\\nI'd like to hear\\nsome memories\\ntoo.",
    "op": "0x62",
    "msg": "0x2bf1"
   },
@@ -1208,7 +1208,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "ふっ\\nちょいと長くなるぞ",
-   "en": "",
+   "en": "Heh. This'll take a\\nwhile.",
    "op": "0x62",
    "msg": "0x2bf2"
   },
@@ -1218,7 +1218,7 @@
    "max": 84,
    "kind": "dialogue",
    "jp": "夜の帳が降りて\\n静まりかえる中\\nしんみりと\\n近藤の思い出話が\\nはじまったのだった",
-   "en": "",
+   "en": "As the curtain of\\nnight fell and all\\ngrew still, the\\nquiet reminiscing\\nabout Kondo\\nbegan.",
    "op": "0x62",
    "msg": "0x2bf3"
   }

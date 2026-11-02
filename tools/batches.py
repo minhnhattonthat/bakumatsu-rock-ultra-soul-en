@@ -164,8 +164,8 @@ def wrap_dialogue(en):
     return lines
 
 
-def term_problems(jp, en, gl):
-    """Glossary problems for one JP/EN pair."""
+def term_problems(jp, en, gl, room=None):
+    """Glossary problems for one JP/EN pair. room = byte slot size: a full name longer than it may shrink to one word."""
     probs, masked = [], jp  # longest term first; a term inside a longer matched one (慶喜 in 徳川慶喜) is not asked again
     for tjp, ten, avoid in sorted(gl, key=lambda t: -len(t[0])):
         for a in avoid:
@@ -179,7 +179,8 @@ def term_problems(jp, en, gl):
             need = [w + HONORIFICS[h] for w in ten.split()]
             if not any(n.lower() in en.lower() for n in need):
                 probs.append(f'{tjp}{h} needs "{need[0]}" (honorifics kept, D1)')
-        if not hon and ten.lower() not in en.lower():
+        short = room is not None and len(ten) > room and any(w.lower() in en.lower() for w in ten.split())
+        if not hon and not short and ten.lower() not in en.lower():
             probs.append(f'glossary {tjp} -> "{ten}" missing')
         masked = masked.replace(tjp, '\0' * len(tjp))
     return probs
@@ -229,7 +230,8 @@ def check(b, ents=None, gl=None):
             n = len(en.replace('\\n', '\n').encode('cp932' if e.get('encoding', 'cp932') != 'utf-8' else 'utf-8'))
             if n > e['max'] - 1:
                 probs.append(f'{i}: {n} bytes, max {e["max"] - 1}')
-        probs += [f'{i}: {p}' for p in term_problems(jp, en, gl)]
+        room = None if fmt == 'mz-scene' and e['kind'] in ('dialogue', 'choice') else e.get('max', 0) - 1
+        probs += [f'{i}: {p}' for p in term_problems(jp, en, gl, room)]
         if re.search(r'\]\s?(st|nd|rd|th)\b', en):
             probs.append(f'{i}: ordinal suffix glued to a code')
     return probs

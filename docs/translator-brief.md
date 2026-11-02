@@ -55,6 +55,7 @@ copy `%d`, `%s`, `%x` exactly.
 - When \fnt1 spans the whole JP box, the big text spans the whole English too.
 - The speaker column (`ryoma?`) is the last sprite loaded and is often wrong; take the speaker from the content.
 - Ruby words: translate the reading (glossary "Decisions from earlier batches"). Takasugi plays bass, Katsura drums.
+- "Heaven's Song" takes no article ("Heaven's Song was always..."), like a name. Otose is warm ("dear", "you boys").
 - A wordplay you adapt (a pun on 龍 = dragon, etc.): keep it short and report it as UNSURE.
 
 ## Consistency

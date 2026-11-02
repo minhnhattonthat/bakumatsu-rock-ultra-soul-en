@@ -99,6 +99,11 @@ an `Avoid` spelling fails. Name + honorific (龍馬さん) must come out as `Ryo
 | 局長 | Commander | | Kondo (Shinsengumi) | |
 | 副長 | Vice-Commander | | Hijikata | |
 | 一番隊組長 | First Unit | | Okita: "Captain of the (Shinsengumi's) First Unit" | |
+| 暗黒桜桃隊 | Dark Cherries | | the girls' unit, 暗黒桜桃隊（ダークチェリーズ） | Dark Cherry Corps |
+| 黄泉の歌姫 | Divas of the Underworld | | | |
+| スカシくん | Mr. Poser | | Okita's name for Takasugi | Dud-kun |
+| 御前試合 | Royal Concert | | 御前試合（ロイヤルコンサート） | |
+| 彦根 | Hikone | | Ii's domain | |
 | 見回り隊 | patrol | | 見回り隊探知機（レーダー） -> patrol radar | |
 
 ## Phrases
@@ -118,7 +123,16 @@ an `Avoid` spelling fails. Name + honorific (龍馬さん) must come out as `Ryo
   突風雷舞 -> guerrilla live (巡回突風雷舞 touring guerrilla lives). イケダヤン -> Ikedayan. 鳳舞合奏（フェニックスライジング）
   Phoenix Rising; 鳳舞（フェニックスダンス） Phoenix Dance; 囚須（トランス） trance; 天使の双璧（ユニット） the Angelic Duo;
   瓦落多（ガラクタ） junk; 蓄音機 phonograph; メガネくん Glasses-kun; 若年寄 (teasing Katsura) young fogey.
-  雷ロックンロール (Takasugi) -> "Thunder rock 'n' roll!". 烈シンギング -> "Let's SING!".
+  雷ロックンロール (Takasugi) -> "Thunder rock 'n' roll!". 御大老様 -> Your Excellency (the Great Elder); 井伊大老 ->
+  Great Elder Ii. Ii's chant オン キリキリバサラ ウンハッタ -> "On kiri kiri basara un hatta". 誠の道 -> the path of
+  sincerity. オッサン (Ryoma, of Kondo) -> old man / ol' Kondo. 片魂仲間（ソウルメイト） Piece Soul mates; 男前（イケメン）
+  hunks; ロックバカ rock-crazy idiot; ショウ (Shoin's stage name) Show. 鮒鮨 funazushi. A name + 殿/さん may use the
+  family name when the speaker would (Ii: "Sakamoto-dono"). 『重力のない世界』 'A World Without Gravity' (Katsura's
+  song); 交響曲第一章 煌燐雅劇（フライングシンフォニア） Symphony Movement One: Flying Symphonia; 御礼（サービス） fan service;
+  能天気 (pun on 上天気) "sunshine between the ears"; 玉子酒 egg sake; 流鏑馬 horseback archery; 二条城 Nijo Castle.
+  スカシくん's スカ死 pun -> "From Poser to decomposer!". 愛獲三娘（ユニット） idol unit; 姐さん (to Oryo) Sis; ボウヤ
+  (Oryo to Takasugi) boy; 痺れ玉 numbing bomb; 小柄 throwing knives; 合一（フュージョン） Fusion; ご家老様 (Oryo to Ii) my
+  lord; ゲーベル銃 Geweer rifle; 茶店（カフェ） cafe. "Oi" is British: Takasugi says "Hey". 烈シンギング -> "Let's SING!".
 - 雷舞屋（ライブハウス） live house; 最高雷舞屋（メジャーライブハウス） major live house; 愛獲笑顔（アイドルスマイル） idol smile;
   癒声（ヒーリングボイス） healing voice; 雷光（スパーク） spark; 稽古（リハーサル） rehearsal; 稽古場（スタジオ） studio;
   エレキテル elekiter (エレキ electricity); 平賀源内 Gennai Hiraga; 超スベールＸ Super Slipperoo X; 隊士 troopers;

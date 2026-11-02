@@ -17,7 +17,7 @@ parts), `b_*` (bonus/side episodes), `ED_*` (endings), `staffroll*`.
 - **Yoshinobu Tokugawa**: the shogun, sings the Heaven's Song. **Naosuke Ii**: his schemer; side story shows how Ii
   met young Yoshinobu (Hitotsubashi). **Shoin Yoshida** and the **Tengu**: mentors (the Tengu is a mysterious masked
   man who meets Ryoma in Tosa). **Yataro Iwasaki**: Ryoma's money-minded friend.
-- **Otose** runs the Terada inn; **Oryo, Ikumatsu, Ouno**: the girls' group (later the "Dark Cherry Corps").
+- **Otose** runs the Terada inn; **Oryo, Ikumatsu, Ouno**: the girls' group (later the "Dark Cherries", 暗黒桜桃隊).
 - Ultra Soul additions: **Junior** (a new rival, 帝王 "the Emperor"), **Makoto Mask** (Hijikata in disguise -
   don't reveal before the game does), Black Ships (黒き船団) arriving, the Fuji Rock Festival.
 

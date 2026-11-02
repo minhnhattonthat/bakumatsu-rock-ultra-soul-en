@@ -175,10 +175,10 @@ def term_problems(jp, en, gl):
             continue
         # name + honorific -> "Given-san" replaces the full name; lowercase EN = common noun, no honorific form
         hon = [h for h in HONORIFICS if ten[0].isupper() and tjp + h in masked]
-        for h in hon:
-            need = ten.split()[0] + HONORIFICS[h]
-            if need.lower() not in en.lower():
-                probs.append(f'{tjp}{h} needs "{need}" (honorifics kept, D1)')
+        for h in hon:  # given or family name: Ii says "Sakamoto-dono"
+            need = [w + HONORIFICS[h] for w in ten.split()]
+            if not any(n.lower() in en.lower() for n in need):
+                probs.append(f'{tjp}{h} needs "{need[0]}" (honorifics kept, D1)')
         if not hon and ten.lower() not in en.lower():
             probs.append(f'glossary {tjp} -> "{ten}" missing')
         masked = masked.replace(tjp, '\0' * len(tjp))

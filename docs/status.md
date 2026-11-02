@@ -2,8 +2,10 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 9 (release) **done**. The project is at a built, verified release zip; publishing (`gh release create`)
-  is the user's call (D9). Next: player bug reports (GitHub issues), the INST.DNS install-path patch if wanted.
+- **Phase:** 9 (release) **done, published** (D16, 2026-11-03): repo public, release v1.0
+  https://github.com/minhnhattonthat/bakumatsu-rock-ultra-soul-en/releases/tag/v1.0 (zip sha1
+  6b5e82314d9ab126f01169a54363ad5ecc513599, download re-checked). Repo description = game title. Next: player bug
+  reports (GitHub issues), the INST.DNS install-path patch if wanted.
 - **Release v1.0** (2026-11-03): `tools/release.py` exit 0 -> `release/Bakumatsu_Rock_Ultra_Soul_EN_v1.0.zip`
   (xdelta 7,977,825 bytes, sha1 0cf4239d60760caec48cf29763f823ba5798ab8d, + README.txt). Patched image = build
   sha1 72fc332bc96076e1d86c5e7436e60ad57f4ecf17 (CRC32 588ae4c5). Steps all passed: build (isodiff), tests 40/40,

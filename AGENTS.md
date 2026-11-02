@@ -13,7 +13,7 @@ Skill: translate-retro-game; `python tools/skill.py` prints its folder. Read its
 ## Paths
 - Original ISO: `rom/Bakumatsu Rock - Ultra Soul (Japan).iso` (1,699,610,624 bytes; gitignored; SHA-1 in `rom.sha1`, checked by `tools/check_rom.py`).
 - Emulators: QA = PPSSPPHeadless QA fork `qa-1` (one per machine in `%LOCALAPPDATA%\translate-retro-game\ppsspp-headless\`, `fetch_emu.py ppsspp-headless`); people/EBOOT dump = PPSSPP v1.20.4 in `tools/ppsspp/` (https://github.com/hrydgard/ppsspp/releases/download/v1.20.4/PPSSPP-v1.20.4-Windows-x64.zip; gitignored). Each emu.py run gets a fresh memstick; no settings to commit. Savestates: `work/states/`.
-- ISO helpers: `tools/iso9660.py` (copied from the skill). Text: `script/` (format TBD in phase 4). Glossary: `glossary.md`. RE notes index: `docs/re/README.md`. Fonts and their licences: `docs/fonts.md`.
+- ISO helpers: `tools/iso9660.py`, `tools/cpk.py` (copied from the skill), `tools/crilayla.py`. Unpack: `iso9660.py x ROM work/iso` -> `tools/unpack.py` (work/cpk) -> `tools/gimsweep.py` (work/gim, sheets). Plain EBOOT: `work/eboot/EBOOT.ELF`. Text: `script/` (format TBD in phase 4). Glossary: `glossary.md`. RE notes index: `docs/re/README.md`. Fonts and their licences: `docs/fonts.md`.
 
 ## Rulings
 - Edit source files (.py .lua .asm .tbl .json) only with the file-edit tool; scripts here read and analyse, never `.replace()` and write back.

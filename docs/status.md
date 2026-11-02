@@ -2,14 +2,28 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** Step 0 (repo setup) done; next is phase 1 (research and recon). No build yet.
+- **Phase:** 1 (research and recon) done; next is phase 2 (debug tool). No build yet.
 - **Done:**
-  - Template files, `tools/skill.py`, `tools/iso9660.py`, `tools/check.py` + `tests/test_rom.py`, pre-commit hook in `tools/hooks/` (`core.hooksPath`), verified: a failing test blocks the commit.
-  - `rom.sha1` pinned (SHA-1 4fa0409f0a547cc4250a34c8ef5ac5b62bdd1cb2, 1,699,610,624 bytes).
-  - PPSSPPHeadless QA fork (machine-wide) boots the original ISO: `tools/routes/boot.txt` reaches the main menu (input works). PPSSPP v1.20.4 in `tools/ppsspp/` for the EBOOT dump / human play. Guard hook (plugin) blocks `sed -i` and heredocs.
-  - ISO layout: `PSP_GAME/USRDIR/INST.CPK` (507 MB), `NOINST.CPK` (558 MB), `INSDIR/INST.DNS` (515 MB, install data), `content/THEME/*.PTF` (6 PSP themes), `SYSDIR/EBOOT.BIN` (encrypted), `SYSDIR/UPDATE/` (firmware update, leave alone).
-  - Boot shows menus drawn as graphics (MENU / OPTION / LIVE / STORY / GALLERY / CHAPTER, help line in Japanese at the bottom).
-- **Next (phase 1):** earlier patches/research; dump decrypted EBOOT (PPSSPP `DumpFileTypes = 7`); `cpk.py list` both CPKs, find the script format, encoding, pointer tables, font; graphics-text survey (GIMs, PTF themes, ICON0/PIC1, movies). Record in `docs/re/`.
+  - Step 0: repo, hooks, check, `rom.sha1`, PPSSPPHeadless boot route (`tools/routes/boot.txt`).
+  - Phase 1 (`docs/re/README.md` indexes it): no earlier patch exists (only a 2014 screenshot-guide blog). ISO/CPK layout,
+    CRILAYLA decompressor (`tools/crilayla.py`), unpacker (`tools/unpack.py`), GIM sweep (`tools/gimsweep.py`), plain EBOOT dumped
+    (`work/eboot/EBOOT.ELF`; headless ignores ppsspp.ini, the windowed `tools/ppsspp/` build did it).
+  - Text: Shift-JIS; script bytecode framing + 100-name table + jump word-offsets (`text.md`); ~13k dialogue lines (300k chars),
+    121 choices, 74 staff-roll pages, 9 UI tables, ~500 lyric fragments, 3 EBOOT save titles + SFO.
+  - Graphics survey: 744 Japanese GIMs (`docs/re/graphics-survey.tsv`), movies, XMB. Tests: `tests/test_formats.py`.
+  - Tour: `work/states/mainmenu.ppst` (STORY menu after boot.txt), `work/qa/tour1-3`.
+- **Next (phase 2, debug tool):** warp to any scene: find the current-script / chapter id in RAM (ramsearch over
+  `memory.read` dumps while changing chapters via Chapter Select), poke + trigger load over the WebSocket (`psp.py`), scene list in
+  `tools/debug/` covering every chapter card (b_/m_ chapters), endings ED_001-008, OP_, staffroll, each menu (option, gallery,
+  skit, profile, sound, movie), rhythm game (song select, pause, results, break screen), save/load dialogs. Cheats ini is an option.
+  Note: `--mash-key circle` did not advance ADV text in tour3 (stuck on one line); explicit presses every 300 frames did (tour2).
+- **Phase 3/4 notes:** identity = `cpk.rebuild` with no edits + `iso9660.patch`; INST.DNS (install data) may mirror INST.CPK:
+  check. Script insertion must re-map jump args (`text.md` list) when string lengths change.
+- **Phase 5 (big item):** ADV dialogue is vertical text in small manga panels; find the renderer's direction flag/box metrics in
+  the EBOOT, decide horizontal English layout + VWF on the KFNT fonts.
 - **Open bugs:** none.
-- **Not verified in Step 0:** PPSSPP has no Lua in emu.py (no probe-log check possible; memory reads go through the WebSocket API). The windowed `tools/ppsspp/` GUI's keyboard input was not tested headlessly (stock default key map).
-- **Waiting on the user:** nothing.
+- **Waiting on the user** (non-blocking; defaults in use):
+  - Song MVs (`mv_*.pmf`) have burned-in Japanese lyric typography: default leave as is (PSMF re-encode out of scope).
+  - Rhythm-game lyric fragments (words on notes, timed to sung syllables): default romanized Hepburn, since English word order
+    can't follow the syllable timing.
+  - 誠 on 誠仮面's mask / Shinsengumi crests: default keep (costume/crest art).

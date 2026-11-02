@@ -1,0 +1,745 @@
+key	w	h	copies	kind	text	status
+INST/play/graphics/gam_000_003.d2c_6490	64	32	19	menu	戻る (Back) button	todo
+INST/play/graphics/gam_000_004.d2c_4794	64	32	2	menu	超魂 (Ultra Soul) difficulty label, next to NORMAL/EASY/HARD	todo
+INST/play/graphics/gam_100_033.d2c_bfc8	128	32	2	menu	PAUSE解除 (unpause) pause-menu item	todo
+INST/play/graphics/gam_100_033.d2c_cba8	256	32	2	menu	トップメニューに戻る (return to top menu) pause-menu item	todo
+INST/play/graphics/gam_100_034.d2c_cba8	128	16	1	menu	ライブ選択に戻る (return to live/song select) pause-menu item	todo
+INST/play/graphics/gam_200_002.d2c_1bda8	512	64	1	title	song title ハチノジディストーション (Hachinoji Distortion)	todo
+INST/play/graphics/gam_200_005.d2c_1bd90	64	512	1	title	song title 重力のない世界 (vertical)	todo
+INST/play/graphics/gam_200_007.d2c_19efc	128	512	1	title	song title 共鳴進歌 (vertical brush)	todo
+INST/play/graphics/gam_200_008.d2c_1e6dc	512	64	1	title	song title 生きてゆこう (brush)	todo
+INST/play/graphics/gam_200_011.d2c_e2b8	256	64	1	title	song title モット!!!	todo
+INST/play/graphics/gam_200_014.d2c_19efc	128	512	1	title	song title 残響 -feedback- (vertical)	todo
+INST/play/graphics/gam_200_015.d2c_e2b8	256	64	1	title	song title 群青を射す光	todo
+INST/play/graphics/gam_200_019.d2c_1ed20	256	32	1	title	song title グラデーション	todo
+INST/play/graphics/gam_200_020.d2c_11900	128	256	1	other	character portrait, 誠 brushed on masked face (costume art)	todo
+INST/play/graphics/gam_200_020.d2c_8540	128	32	1	title	song title 不完全パズル	todo
+INST/play/graphics/gam_200_023.d2c_1ed20	512	64	1	title	song title GOD BREATH -混色様式- (kanji subtitle over English)	todo
+INST/play/graphics/gam_200_024.d2c_1ed58	256	32	1	title	song title 宙／翼	todo
+INST/play/graphics/gam_200_027.d2c_86c8	256	64	1	title	song title 絶頂DAYBREAK	todo
+INST/play/graphics/gam_381.gim_0	512	128	1	other	cut-in face closeup, 誠 brushed on mask (costume art)	todo
+INST/play/graphics/gam_605.gim_0	128	128	1	banner	soul-word tile 流 (ruby メ) [流星=メテオ]	todo
+INST/play/graphics/gam_606.gim_0	128	128	1	banner	soul-word tile 星 (ruby テオ) [流星=メテオ]	todo
+INST/play/graphics/gam_607.gim_0	128	128	1	banner	soul-word tile 熱 (ruby ストラ) [熱唱=ストライク]	todo
+INST/play/graphics/gam_608.gim_0	128	128	1	banner	soul-word tile 唱 (ruby イク) [熱唱=ストライク]	todo
+INST/play/graphics/gam_609.gim_0	128	128	1	banner	soul-word tile 超 (ruby ウル) [超絶=ウルトラ]	todo
+INST/play/graphics/gam_610.gim_0	128	128	1	banner	soul-word tile 絶 (ruby トラ) [超絶=ウルトラ]	todo
+INST/play/graphics/gam_611.gim_0	128	128	1	banner	soul-word tile 共 (ruby シンパ) [共感=シンパシー]	todo
+INST/play/graphics/gam_612.gim_0	128	128	1	banner	soul-word tile 感 (ruby シー) [共感=シンパシー]	todo
+INST/play/graphics/gam_613.gim_0	128	128	1	banner	soul-word tile 激 (ruby ダイナ) [激情=ダイナマイト]	todo
+INST/play/graphics/gam_614.gim_0	128	128	1	banner	soul-word tile 情 (ruby マイト) [激情=ダイナマイト]	todo
+INST/play/graphics/gam_615.gim_0	128	128	1	banner	soul-word tile 烈 (ruby シャウ) [烈歌=シャウト]	todo
+INST/play/graphics/gam_616.gim_0	128	128	1	banner	soul-word tile 歌 (ruby ト) [烈歌=シャウト]	todo
+INST/play/graphics/gam_617.gim_0	128	128	1	banner	soul-word tile 究 (ruby アル) [究極=アルティメット]	todo
+INST/play/graphics/gam_618.gim_0	128	128	1	banner	soul-word tile 極 (ruby ティメット) [究極=アルティメット]	todo
+INST/play/graphics/gam_619.gim_0	128	128	1	banner	soul-word tile 限 (ruby unclear, リミ?) [限界=リミット?]	todo
+INST/play/graphics/gam_620.gim_0	128	128	1	banner	soul-word tile 界 (ruby ーット?) [限界=リミット?]	todo
+INST/play/graphics/gam_621.gim_0	128	128	1	banner	soul-word tile 友 (ruby ウィー) [友愛=ウィーキャン]	todo
+INST/play/graphics/gam_622.gim_0	128	128	1	banner	soul-word tile 愛 (ruby キャン) [友愛=ウィーキャン]	todo
+INST/play/graphics/gam_623.gim_0	128	128	1	banner	soul-word tile 飛 (ruby フラ) [飛翔=フライ]	todo
+INST/play/graphics/gam_624.gim_0	128	128	1	banner	soul-word tile 翔 (ruby イ) [飛翔=フライ]	todo
+INST/play/graphics/gam_625.gim_0	128	128	1	banner	soul-word tile 超 (ruby ハ) [超力=ハイパー]	todo
+INST/play/graphics/gam_626.gim_0	128	128	1	banner	soul-word tile 力 (ruby イパー) [超力=ハイパー]	todo
+INST/play/graphics/gam_627.gim_0	128	128	1	banner	soul-word tile 友 (ruby フレ) [友情=フレンド]	todo
+INST/play/graphics/gam_628.gim_0	128	128	1	banner	soul-word tile 情 (ruby ンド) [友情=フレンド]	todo
+INST/play/graphics/gam_629.gim_0	128	128	1	banner	soul-word tile 天 (ruby エン) [天士=エンジェル]	todo
+INST/play/graphics/gam_630.gim_0	128	128	1	banner	soul-word tile 士 (ruby ジェル) [天士=エンジェル]	todo
+INST/play/graphics/gam_631.gim_0	128	128	1	banner	soul-word tile 光 (ruby ライ) [光臨=ライト]	todo
+INST/play/graphics/gam_632.gim_0	128	128	1	banner	soul-word tile 臨 (ruby ト) [光臨=ライト]	todo
+INST/play/graphics/gam_633.gim_0	128	128	1	banner	soul-word tile 失 (ruby トワ) [失楽=トワイライト]	todo
+INST/play/graphics/gam_634.gim_0	128	128	1	banner	soul-word tile 楽 (ruby イライト) [失楽=トワイライト]	todo
+INST/play/graphics/gam_635.gim_0	128	128	1	banner	soul-word tile 天 (ruby エデ) [天極=エデン]	todo
+INST/play/graphics/gam_636.gim_0	128	128	1	banner	soul-word tile 極 (ruby ン) [天極=エデン]	todo
+INST/play/graphics/gam_637.gim_0	128	128	1	banner	soul-word tile 自 (ruby ドリ) [自由=ドリーム]	todo
+INST/play/graphics/gam_638.gim_0	128	128	1	banner	soul-word tile 由 (ruby ーム) [自由=ドリーム]	todo
+INST/play/graphics/gam_639.gim_0	128	128	1	banner	soul-word tile 革 (ruby ファイ) [革命=ファイタ?]	todo
+INST/play/graphics/gam_640.gim_0	128	128	1	banner	soul-word tile 命 (ruby タ) [革命=ファイタ?]	todo
+INST/play/graphics/gam_641.gim_0	128	128	1	banner	soul-word tile 最 (ruby スー) [最高=スーパー]	todo
+INST/play/graphics/gam_642.gim_0	128	128	1	banner	soul-word tile 高 (ruby パー) [最高=スーパー]	todo
+INST/play/graphics/gam_643.gim_0	128	128	1	banner	soul-word tile 天 (ruby ハイテン) [天唱=ハイテンション]	todo
+INST/play/graphics/gam_644.gim_0	128	128	1	banner	soul-word tile 唱 (ruby ション) [天唱=ハイテンション]	todo
+INST/play/graphics/gam_645.gim_0	128	128	1	banner	soul-word tile 誠 (ruby ラ) [誠之=ラスト?]	todo
+INST/play/graphics/gam_646.gim_0	128	128	1	banner	soul-word tile 之 (ruby スト) [誠之=ラスト?]	todo
+INST/play/graphics/gam_647.gim_0	128	128	1	banner	soul-word tile 武 (ruby サム) [武士=サムライ]	todo
+INST/play/graphics/gam_648.gim_0	128	128	1	banner	soul-word tile 士 (ruby ライ) [武士=サムライ]	todo
+INST/play/graphics/gam_649.gim_0	128	128	1	banner	soul-word tile 龍 (ruby ゴッ) [龍神絶唱=ゴッドオブロック]	todo
+INST/play/graphics/gam_650.gim_0	128	128	1	banner	soul-word tile 神 (ruby ドオ) [龍神絶唱=ゴッドオブロック]	todo
+INST/play/graphics/gam_651.gim_0	128	128	1	banner	soul-word tile 絶 (ruby ブロ) [龍神絶唱=ゴッドオブロック]	todo
+INST/play/graphics/gam_652.gim_0	128	128	1	banner	soul-word tile 唱 (ruby ック) [龍神絶唱=ゴッドオブロック]	todo
+INST/play/graphics/gam_653.gim_0	128	128	1	banner	soul-word tile 五 (ruby ウィー) [五魂ロック体=ウィーウィルロックユー]	todo
+INST/play/graphics/gam_654.gim_0	128	128	1	banner	soul-word tile 魂 (ruby ウィル) [五魂ロック体=ウィーウィルロックユー]	todo
+INST/play/graphics/gam_655.gim_0	128	128	1	banner	soul-word tile, katakana only ロック [五魂ロック体]	todo
+INST/play/graphics/gam_656.gim_0	128	128	1	banner	soul-word tile 体 (ruby ユー) [五魂ロック体=ウィーウィルロックユー]	todo
+INST/play/graphics/gam_657.gim_0	128	128	1	banner	soul-word tile 絶 (ruby ラ) [絶愛..]	todo
+INST/play/graphics/gam_658.gim_0	128	128	1	banner	soul-word tile 愛 (ruby フ..イ) [絶愛..]	todo
+INST/play/graphics/gam_659.gim_0	128	128	1	banner	soul-word tile 闇 (ruby ズオー)	todo
+INST/play/graphics/gam_660.gim_0	128	128	1	banner	soul-word tile 歌 (ruby バー)	todo
+INST/play/graphics/gam_661.gim_0	128	128	1	banner	soul-word tile 誠 (no clear ruby) [誠之英雄]	todo
+INST/play/graphics/gam_662.gim_0	128	128	1	banner	soul-word tile 之 (ruby アム) [誠之英雄]	todo
+INST/play/graphics/gam_663.gim_0	128	128	1	banner	soul-word tile 英 (ruby ギャラ) [誠之英雄]	todo
+INST/play/graphics/gam_664.gim_0	128	128	1	banner	soul-word tile 雄 (ruby ク..) [誠之英雄]	todo
+INST/play/graphics/gam_665.gim_0	128	128	1	banner	soul-word tile 神 (ruby ワー) [神之世界=ワールドイズマイン]	todo
+INST/play/graphics/gam_666.gim_0	128	128	1	banner	soul-word tile 之 (ruby ルドイ) [神之世界=ワールドイズマイン]	todo
+INST/play/graphics/gam_667.gim_0	128	128	1	banner	soul-word tile 世 (ruby ズマ) [神之世界=ワールドイズマイン]	todo
+INST/play/graphics/gam_668.gim_0	128	128	1	banner	soul-word tile 界 (ruby イン) [神之世界=ワールドイズマイン]	todo
+INST/play/graphics/gam_669.gim_0	128	128	1	banner	soul-word tile 真 (ruby ネオ) [真之天歌=ネオヘヴンズソング]	todo
+INST/play/graphics/gam_670.gim_0	128	128	1	banner	soul-word tile 之 (ruby ヘヴ) [真之天歌=ネオヘヴンズソング]	todo
+INST/play/graphics/gam_671.gim_0	128	128	1	banner	soul-word tile 天 (ruby ンズソ) [真之天歌=ネオヘヴンズソング]	todo
+INST/play/graphics/gam_672.gim_0	128	128	1	banner	soul-word tile 歌 (ruby ング) [真之天歌=ネオヘヴンズソング]	todo
+INST/play/graphics/gam_673.gim_0	128	128	1	banner	soul-word tile 爆 (ruby バー) [爆熱革命=バーニングレボリューション]	todo
+INST/play/graphics/gam_674.gim_0	128	128	1	banner	soul-word tile 熱 (ruby ニング) [爆熱革命=バーニングレボリューション]	todo
+INST/play/graphics/gam_675.gim_0	128	128	1	banner	soul-word tile 革 (ruby レボリュ) [爆熱革命=バーニングレボリューション]	todo
+INST/play/graphics/gam_676.gim_0	128	128	1	banner	soul-word tile 命 (ruby ーション) [爆熱革命=バーニングレボリューション]	todo
+INST/play/graphics/gam_677.gim_0	128	128	1	banner	soul-word tile 超 (ruby ビ) [超大爆発=ビッグバン]	todo
+INST/play/graphics/gam_678.gim_0	128	128	1	banner	soul-word tile 大 (ruby ッグ) [超大爆発=ビッグバン]	todo
+INST/play/graphics/gam_679.gim_0	128	128	1	banner	soul-word tile 爆 (ruby バ) [超大爆発=ビッグバン]	todo
+INST/play/graphics/gam_680.gim_0	128	128	1	banner	soul-word tile 発 (ruby ン) [超大爆発=ビッグバン]	todo
+INST/play/graphics/gam_681.gim_0	128	128	1	banner	soul-word tile 天 (ruby ゴッド) [天地神鳴=ゴッドオブロックス]	todo
+INST/play/graphics/gam_682.gim_0	128	128	1	banner	soul-word tile 地 (ruby オブ) [天地神鳴=ゴッドオブロックス]	todo
+INST/play/graphics/gam_683.gim_0	128	128	1	banner	soul-word tile 神 (ruby ロッ) [天地神鳴=ゴッドオブロックス]	todo
+INST/play/graphics/gam_684.gim_0	128	128	1	banner	soul-word tile 鳴 (ruby クス) [天地神鳴=ゴッドオブロックス]	todo
+INST/play/graphics/gam_685.gim_0	128	128	1	banner	soul-word tile 天 (ruby ソング) [天歌泰平]	todo
+INST/play/graphics/gam_686.gim_0	128	128	1	banner	soul-word tile 歌 (ruby フ..) [天歌泰平]	todo
+INST/play/graphics/gam_687.gim_0	128	128	1	banner	soul-word tile 泰 (ruby ピース) [天歌泰平]	todo
+INST/play/graphics/gam_688.gim_0	128	128	1	banner	soul-word tile 平 (ruby フル) [天歌泰平]	todo
+INST/play/graphics/gam_689.gim_0	128	128	1	banner	soul-word tile 視 (ruby ヴィ) [視覚聴覚=ヴィジュアル..]	todo
+INST/play/graphics/gam_690.gim_0	128	128	1	banner	soul-word tile 覚 (ruby ..ト) [視覚聴覚]	todo
+INST/play/graphics/gam_691.gim_0	128	128	1	banner	soul-word tile 聴 (ruby リッ..) [視覚聴覚]	todo
+INST/play/graphics/gam_692.gim_0	128	128	1	banner	soul-word tile 覚 (ruby ..) [視覚聴覚]	todo
+INST/scene/graphics/adv_000_002.d2c_e18	256	64	1	banner	クイックセーブしますか? (quick save prompt)	todo
+INST/scene/graphics/adv_002_001.d2c_898	128	256	1	menu	セーブ (Save button, 5 states)	todo
+INST/scene/graphics/adv_002_002.d2c_870	128	256	1	menu	チャプター選択へ (To chapter select, 5 states)	todo
+INST/scene/graphics/adv_002_003.d2c_870	128	256	1	menu	オトゲーをもう一回 (Play rhythm game again, 5 states)	todo
+INST/scene/graphics/adv_002_004.d2c_870	128	256	1	menu	次の章へ (To next chapter, 5 states)	todo
+INST/scene/graphics/adv_007_003.d2c_f964	256	256	1	logo	誠 (makoto brush kanji, Shinsengumi crest)	todo
+INST/scene/graphics/adv_008_000.d2c_1e1d0	128	128	1	label	1万 (fan count medal, 万 kanji)	todo
+INST/scene/graphics/adv_008_000.d2c_202c0	128	128	1	label	2万 (fan count medal)	todo
+INST/scene/graphics/adv_008_000.d2c_223b0	128	128	1	label	3万 (fan count medal)	todo
+INST/scene/graphics/adv_008_000.d2c_244a0	128	128	1	label	5万 (fan count medal)	todo
+INST/scene/graphics/adv_008_000.d2c_2eb50	128	32	1	menu	スキップ (Skip)	todo
+INST/scene/graphics/adv_009_001.d2c_229d8	128	128	1	caption	馬 (name cut-in 坂本龍馬, glyph 4)	todo
+INST/scene/graphics/adv_009_001.d2c_24ac8	128	128	1	caption	本 (name cut-in 坂本龍馬)	todo
+INST/scene/graphics/adv_009_001.d2c_26bb8	128	128	1	caption	龍 (name cut-in 坂本龍馬)	todo
+INST/scene/graphics/adv_009_001.d2c_28ca8	128	128	1	caption	坂 (name cut-in 坂本龍馬, glyph 1)	todo
+INST/scene/graphics/adv_009_001.d2c_43358	256	32	1	caption	声: 谷山紀章 (voice credit)	todo
+INST/scene/graphics/adv_009_002.d2c_1293c	128	128	1	caption	作 (name cut-in 高杉晋作)	todo
+INST/scene/graphics/adv_009_002.d2c_14a2c	128	128	1	caption	杉 (name cut-in 高杉晋作)	todo
+INST/scene/graphics/adv_009_002.d2c_16b1c	128	128	1	caption	晋 (name cut-in 高杉晋作)	todo
+INST/scene/graphics/adv_009_002.d2c_18c0c	128	128	1	caption	高 (name cut-in 高杉晋作)	todo
+INST/scene/graphics/adv_009_002.d2c_1acfc	256	32	1	caption	声: 鈴木達央 (voice credit)	todo
+INST/scene/graphics/adv_009_003.d2c_229ec	128	128	1	caption	桂 (name cut-in 桂小五郎)	todo
+INST/scene/graphics/adv_009_003.d2c_24adc	128	128	1	caption	小 (name cut-in 桂小五郎)	todo
+INST/scene/graphics/adv_009_003.d2c_26bcc	128	128	1	caption	五 (name cut-in 桂小五郎)	todo
+INST/scene/graphics/adv_009_003.d2c_28cbc	128	128	1	caption	郎 (name cut-in 桂小五郎)	todo
+INST/scene/graphics/adv_009_003.d2c_4336c	256	32	1	caption	声: 森久保祥太郎 (voice credit)	todo
+INST/scene/graphics/adv_009_004.d2c_229e0	128	128	1	caption	土 (name cut-in 土方歳三)	todo
+INST/scene/graphics/adv_009_004.d2c_24ad0	128	128	1	caption	方 (name cut-in 土方歳三)	todo
+INST/scene/graphics/adv_009_004.d2c_26bc0	128	128	1	caption	歳 (name cut-in 土方歳三)	todo
+INST/scene/graphics/adv_009_004.d2c_28cb0	128	128	1	caption	三 (name cut-in 土方歳三)	todo
+INST/scene/graphics/adv_009_004.d2c_43360	256	32	1	caption	声: 森川智之 (voice credit)	todo
+INST/scene/graphics/adv_009_005.d2c_22cc0	128	128	1	caption	司 (name cut-in 沖田総司)	todo
+INST/scene/graphics/adv_009_005.d2c_24db0	128	128	1	caption	田 (name cut-in 沖田総司)	todo
+INST/scene/graphics/adv_009_005.d2c_26ea0	128	128	1	caption	総 (name cut-in 沖田総司)	todo
+INST/scene/graphics/adv_009_005.d2c_28f90	128	128	1	caption	沖 (name cut-in 沖田総司)	todo
+INST/scene/graphics/adv_009_005.d2c_2b080	256	32	1	caption	声: 小野賢章 (voice credit)	todo
+INST/scene/graphics/adv_009_006.d2c_130e8	128	128	1	caption	ジ (name cut-in ジュニア)	todo
+INST/scene/graphics/adv_009_006.d2c_151d8	128	128	1	caption	ュ (name cut-in ジュニア)	todo
+INST/scene/graphics/adv_009_006.d2c_172c8	128	128	1	caption	ニ (name cut-in ジュニア)	todo
+INST/scene/graphics/adv_009_006.d2c_193b8	128	128	1	caption	ア (name cut-in ジュニア)	todo
+INST/scene/graphics/adv_009_006.d2c_33a68	256	32	1	caption	声: 諏訪部順一 (voice credit)	todo
+INST/scene/graphics/adv_009_007.d2c_142c4	256	32	1	caption	声: Yuh (voice credit, 声 kanji)	todo
+INST/scene/graphics/adv_050_001.d2c_1190	32	256	1	caption	二条城の天守から (vertical narration strip)	todo
+INST/scene/graphics/adv_050_001.d2c_2280	32	256	1	caption	五人の演奏をバックに (vertical narration)	todo
+INST/scene/graphics/adv_050_001.d2c_3370	32	256	1	caption	慶喜の歌が流れる (vertical narration)	todo
+INST/scene/graphics/adv_050_002.d2c_1bbc	32	256	1	caption	聞き惚れていた (vertical narration)	todo
+INST/scene/graphics/adv_050_002.d2c_2cac	32	256	1	caption	その美しい歌声に (vertical narration)	todo
+INST/scene/graphics/adv_050_002.d2c_3d9c	32	256	1	caption	しばし (vertical narration)	todo
+INST/scene/graphics/adv_050_002.d2c_4e8c	32	256	1	caption	京の人々は (vertical narration)	todo
+INST/scene/graphics/adv_050_002.d2c_5f7c	32	256	1	caption	眠りから覚めた (vertical narration)	todo
+INST/scene/graphics/adv_050_003.d2c_1bbc	32	256	1	caption	その歌は (vertical narration)	todo
+INST/scene/graphics/adv_050_003.d2c_2cac	32	256	1	caption	誰の魂をも揺さぶる (vertical narration)	todo
+INST/scene/graphics/adv_050_003.d2c_3d9c	32	256	1	caption	夜明けのような (vertical narration)	todo
+INST/scene/graphics/adv_050_003.d2c_4e8c	32	256	1	caption	ロックンロール (vertical narration)	todo
+INST/scene/graphics/adv_050_003.d2c_5f7c	32	256	1	caption	だったという・・・ (vertical narration)	todo
+INST/scene/graphics/adv_051_001.d2c_16a8	32	256	1	caption	一日にして燃え落ちた (vertical narration)	todo
+INST/scene/graphics/adv_051_001.d2c_2798	32	256	1	caption	特別舞台は (vertical narration)	todo
+INST/scene/graphics/adv_051_001.d2c_3888	32	256	1	caption	投じて作られた (vertical narration)	todo
+INST/scene/graphics/adv_051_001.d2c_4978	32	256	1	caption	こうして 巨額の富を (vertical narration)	todo
+INST/scene/graphics/adv_051_002.d2c_1bc0	32	256	1	caption	終わりを告げた (vertical narration)	todo
+INST/scene/graphics/adv_051_002.d2c_2cb0	32	256	1	caption	曖昧なまま (vertical narration)	todo
+INST/scene/graphics/adv_051_002.d2c_3da0	32	256	1	caption	雷舞も (vertical narration)	todo
+INST/scene/graphics/adv_051_002.d2c_4e90	32	256	1	caption	決めるはずだった (vertical narration)	todo
+INST/scene/graphics/adv_051_002.d2c_5f80	32	256	1	caption	日本の命運を (vertical narration)	todo
+INST/scene/graphics/adv_051_003.d2c_1190	32	256	1	caption	しかし (vertical narration)	todo
+INST/scene/graphics/adv_051_003.d2c_2280	32	256	1	caption	当日駆けつけた者は (vertical narration)	todo
+INST/scene/graphics/adv_051_003.d2c_3370	32	256	1	caption	誰もが口を揃えて語る (vertical narration)	todo
+INST/scene/graphics/adv_051_004.d2c_16a8	32	256	1	caption	であったと (vertical narration)	todo
+INST/scene/graphics/adv_051_004.d2c_2798	32	256	1	caption	本当のロックンロール (vertical narration)	todo
+INST/scene/graphics/adv_051_004.d2c_3888	32	256	1	caption	魂を揺さぶる (vertical narration)	todo
+INST/scene/graphics/adv_051_004.d2c_4978	32	256	1	caption	そこにあったのは (vertical narration)	todo
+INST/scene/graphics/adv_100_000.d2c_10d34	32	256	1	other	faint decorative JP text (slice of adv_100_000)	todo
+INST/scene/graphics/adv_100_000.d2c_13204	32	256	1	other	faint decorative JP text (たの; slice of adv_100_000)	todo
+INST/scene/graphics/adv_100_000.d2c_156d4	32	256	1	other	faint decorative JP text (…?; slice of adv_100_000)	todo
+INST/scene/graphics/adv_100_000.d2c_1ea14	32	256	1	other	faint decorative JP text (slice of adv_100_000)	todo
+INST/scene/graphics/adv_100_000.d2c_20ee4	32	256	1	other	faint decorative JP text (slice of adv_100_000)	todo
+INST/scene/graphics/adv_100_000.d2c_79f4	32	256	1	other	faint decorative JP text at top (slice of red bg adv_100_000)	todo
+INST/scene/graphics/adv_100_000.d2c_9ec4	32	256	1	other	faint decorative JP text (会議は/は何?; slice of adv_100_000)	todo
+INST/scene/graphics/adv_100_000.d2c_c394	32	256	1	other	faint decorative JP text (slice of adv_100_000)	todo
+INST/scene/graphics/adv_100_000.d2c_e864	32	256	1	other	faint decorative JP text (slice of adv_100_000)	todo
+INST/scene/graphics/adv_220_000.d2c_4ef8	32	256	1	caption	slice of red name banner, kanji 坂/龍 fragments (adv_220_000 = 坂本龍馬)	todo
+INST/scene/graphics/adv_220_000.d2c_73c8	32	256	1	caption	slice of red name banner, kanji 坂/龍 fragments (adv_220_000)	todo
+INST/scene/graphics/adv_220_000.d2c_9898	32	256	1	caption	slice of red name banner, kanji 本/馬 fragments (adv_220_000)	todo
+INST/scene/graphics/adv_220_000.d2c_bd68	32	256	1	caption	slice of red name banner, kanji 馬 fragment (adv_220_000)	todo
+INST/scene/graphics/adv_250_000.d2c_1d30	64	128	1	sfx	ド (piece)	todo
+INST/scene/graphics/adv_250_000.d2c_c40	64	128	1	sfx	ン (piece)	todo
+INST/scene/graphics/adv_253_000.d2c_788	256	128	1	sfx	ガラッ	todo
+INST/scene/graphics/adv_254_000.d2c_788	256	128	1	sfx	ピシャッ	todo
+INST/scene/graphics/adv_255_000.d2c_7c4	256	128	1	sfx	バシーン!	todo
+INST/scene/graphics/adv_258_000.d2c_f70	256	256	1	sfx	バン!	todo
+INST/scene/graphics/adv_259_000.d2c_11c0	256	128	1	sfx	ドーン	todo
+INST/scene/graphics/adv_260_000.d2c_3ec0	256	256	1	sfx	ヒュルー	todo
+INST/scene/graphics/adv_261_000.d2c_134c	128	256	1	sfx	ぎょっ!	todo
+INST/scene/graphics/adv_262_000.d2c_11c0	128	256	1	sfx	ひしっ	todo
+INST/scene/graphics/adv_263_000.d2c_11c0	128	256	1	sfx	ぐいっ	todo
+INST/scene/graphics/adv_264_000.d2c_7dc	128	256	1	sfx	ザッ	todo
+INST/scene/graphics/adv_265_000.d2c_1c40	256	256	1	sfx	お!	todo
+INST/scene/graphics/adv_266_000.d2c_11c0	128	256	1	sfx	ドタッ	todo
+INST/scene/graphics/adv_267_000.d2c_11c0	128	256	1	sfx	バッ	todo
+INST/scene/graphics/adv_268_000.d2c_11a8	256	128	1	sfx	ダッ!	todo
+INST/scene/graphics/adv_269_000.d2c_788	256	128	1	sfx	バーッ!	todo
+INST/scene/graphics/adv_270_000.d2c_11c0	128	256	1	sfx	ピョーン	todo
+INST/scene/graphics/adv_271_000.d2c_1a24	256	256	1	sfx	パァーーっ!	todo
+INST/scene/graphics/adv_272_000.d2c_11c0	256	128	1	sfx	ドクン	todo
+INST/scene/graphics/adv_273_000.d2c_c80	128	256	1	sfx	ザシュ	todo
+INST/scene/graphics/adv_274_000.d2c_7c4	128	128	1	sfx	ハァ	todo
+INST/scene/graphics/adv_275_000.d2c_794	128	256	1	sfx	バタッ	todo
+INST/scene/graphics/adv_276_000.d2c_788	128	256	1	sfx	ドキッ	todo
+INST/scene/graphics/adv_277_000.d2c_124c	256	128	1	sfx	ドシュッ	todo
+INST/scene/graphics/adv_278_000.d2c_788	256	512	1	sfx	ズドドン	todo
+INST/scene/graphics/adv_279_000.d2c_15ac	256	128	1	sfx	ザー	todo
+INST/scene/graphics/adv_280_000.d2c_788	256	128	1	sfx	シーン	todo
+INST/scene/graphics/adv_281_000.d2c_794	128	256	1	sfx	ポイッ	todo
+INST/scene/graphics/adv_283_000.d2c_788	256	128	1	sfx	ダダッ	todo
+INST/scene/graphics/adv_284_000.d2c_794	128	256	1	sfx	ボカッ	todo
+INST/scene/graphics/adv_285_000.d2c_788	256	128	1	sfx	グゥーッ	todo
+INST/scene/graphics/adv_286_000.d2c_788	256	128	1	sfx	ギュッ	todo
+INST/scene/graphics/adv_287_000.d2c_15d0	256	128	1	sfx	ギュ ウ	todo
+INST/scene/graphics/adv_288_000.d2c_794	128	256	1	sfx	ガクッ	todo
+INST/scene/graphics/adv_289_000.d2c_788	256	128	1	sfx	ガーン	todo
+INST/scene/graphics/adv_290_000.d2c_764	256	128	1	sfx	ガサ	todo
+INST/scene/graphics/adv_291_000.d2c_764	256	128	1	sfx	ゴソ	todo
+INST/scene/graphics/adv_292_000.d2c_788	128	128	1	sfx	ムッ	todo
+INST/scene/graphics/adv_293_000.d2c_1564	256	256	1	sfx	ガルッ	todo
+INST/scene/graphics/adv_294_000.d2c_788	256	128	1	sfx	バコーン	todo
+INST/scene/graphics/adv_295_000.d2c_770	256	128	1	sfx	ドコ	todo
+INST/scene/graphics/adv_296_000.d2c_770	256	128	1	sfx	ジャーン	todo
+INST/scene/graphics/adv_297_000.d2c_c80	256	512	1	sfx	ガシッ	todo
+INST/scene/graphics/adv_298_000.d2c_c80	128	256	1	sfx	ピカッ	todo
+INST/scene/graphics/adv_299_000.d2c_764	128	128	1	sfx	ド	todo
+INST/scene/graphics/adv_300_000.d2c_bc8	256	32	1	banner	プロフィール開放! (unlock notice)	todo
+INST/scene/graphics/adv_300_001.d2c_bcc	256	32	2	banner	プロフィール更新! (profile updated)	todo
+INST/scene/graphics/adv_300_all.d2c_232c	256	32	1	banner	プロフィール解放! (unlock notice)	todo
+INST/scene/graphics/adv_300_all.d2c_6ccc	256	32	1	banner	ボーナスシナリオ解放! (bonus scenario unlocked)	todo
+INST/scene/graphics/adv_300_all.d2c_919c	128	32	1	banner	スキット解放! (skit unlocked)	todo
+INST/scene/graphics/adv_300_all.d2c_a66c	256	32	1	banner	エンディング解放! (ending unlocked)	todo
+INST/scene/graphics/adv_301_000.d2c_bc8	256	32	1	banner	サブシナリオ開放! (sub scenario unlocked)	todo
+INST/scene/graphics/adv_302_000.d2c_a9c	128	32	1	banner	スキット開放! (skit unlocked)	todo
+INST/scene/graphics/adv_303_000.d2c_1b08	128	128	2	label	FAN!増加! / FAN!大増加! (fan increase popups)	todo
+INST/scene/graphics/adv_310_000.d2c_734	128	128	1	sfx	ボ	todo
+INST/scene/graphics/adv_311_000.d2c_734	256	128	1	sfx	ボン	todo
+INST/scene/graphics/adv_312_000.d2c_770	256	128	1	sfx	ギュ	todo
+INST/scene/graphics/adv_313_000.d2c_770	256	128	1	sfx	イィ	todo
+INST/scene/graphics/adv_314_000.d2c_770	256	128	1	sfx	イン	todo
+INST/scene/graphics/adv_315_000.d2c_794	128	256	1	sfx	ガリッ	todo
+INST/scene/graphics/adv_316_000.d2c_794	128	256	1	sfx	パァーン	todo
+INST/scene/graphics/adv_317_000.d2c_764	256	128	1	sfx	ザワ	todo
+INST/scene/graphics/adv_318_000.d2c_770	128	256	1	sfx	ワー	todo
+INST/scene/graphics/adv_319_000.d2c_770	128	256	1	sfx	キャー	todo
+INST/scene/graphics/adv_320_000.d2c_1a24	256	256	1	sfx	ドゴオン	todo
+INST/scene/graphics/adv_321_000.d2c_788	128	128	1	sfx	ゴッ	todo
+INST/scene/graphics/adv_322_000.d2c_c80	256	512	1	sfx	パシッ	todo
+INST/scene/graphics/adv_323_000.d2c_c80	128	256	1	sfx	バキッ	todo
+INST/scene/graphics/adv_324_000.d2c_788	128	256	1	sfx	グラッ	todo
+INST/scene/graphics/adv_325_000.d2c_788	128	256	1	sfx	カチャ	todo
+INST/scene/graphics/adv_326_000.d2c_788	128	256	1	sfx	ヒュッ	todo
+INST/scene/graphics/adv_327_000.d2c_788	128	256	1	sfx	シュッ	todo
+INST/scene/graphics/adv_328_000.d2c_c80	128	256	1	sfx	シュバッ	todo
+INST/scene/graphics/adv_329_000.d2c_788	128	256	1	sfx	チュッ	todo
+INST/scene/graphics/adv_330_000.d2c_788	128	256	1	sfx	ギイン	todo
+INST/scene/graphics/adv_331_000.d2c_788	128	256	1	sfx	ズシャ	todo
+INST/scene/graphics/adv_332_000.d2c_794	128	256	1	sfx	ガシャン	todo
+INST/scene/graphics/adv_333_000.d2c_788	128	256	1	sfx	バサッ	todo
+INST/scene/graphics/adv_334_000.d2c_740	128	128	1	sfx	カッ	todo
+INST/scene/graphics/adv_335_000.d2c_c80	256	512	1	sfx	ドサッ	todo
+INST/scene/graphics/adv_336_000.d2c_1a24	512	512	1	sfx	ゴオオ	todo
+INST/scene/graphics/adv_337_000.d2c_1a24	256	256	1	sfx	ドオン	todo
+INST/scene/graphics/adv_338_000.d2c_c80	128	256	1	sfx	ガッ	todo
+INST/scene/graphics/adv_339_000.d2c_1c04	256	256	2	sfx	ワァア	todo
+INST/scene/graphics/adv_340_000.d2c_1fc8	128	128	1	sfx	ン (piece)	todo
+INST/scene/graphics/adv_340_000.d2c_40b8	64	64	1	sfx	kana fragment (piece)	todo
+INST/scene/graphics/adv_340_000.d2c_49a8	128	128	1	sfx	ノ/ス fragment (piece)	todo
+INST/scene/graphics/adv_340_000.d2c_6a98	64	64	1	sfx	kana fragment (piece)	todo
+INST/scene/graphics/adv_340_000.d2c_7388	256	256	1	sfx	ザ (piece)	todo
+INST/scene/graphics/adv_341_000.d2c_2288	128	128	1	sfx	ゴ (piece)	todo
+INST/scene/graphics/adv_342_000.d2c_2cb4	128	256	1	sfx	ギ (piece)	todo
+INST/scene/graphics/adv_343_000.d2c_4d30	128	256	1	sfx	ド (piece)	todo
+INST/scene/graphics/adv_343_000.d2c_c40	128	256	1	sfx	ン (piece)	todo
+INST/scene/graphics/adv_344_000.d2c_1010	64	128	1	sfx	ン fragment (piece)	todo
+INST/scene/graphics/adv_344_000.d2c_2100	128	256	1	sfx	ド (piece)	todo
+INST/scene/graphics/adv_344_000.d2c_61f0	128	256	1	sfx	ド (piece)	todo
+INST/scene/graphics/adv_345_000.d2c_1130	128	128	1	sfx	バ (piece)	todo
+INST/scene/graphics/adv_345_000.d2c_3220	128	128	1	sfx	ン (piece)	todo
+INST/scene/graphics/adv_346_000.d2c_1130	128	128	1	sfx	ン (piece)	todo
+INST/scene/graphics/adv_346_000.d2c_3220	128	128	1	sfx	ク (piece)	todo
+INST/scene/graphics/adv_346_000.d2c_5310	128	128	1	sfx	ド (piece)	todo
+INST/scene/graphics/adv_347_000.d2c_1590	128	256	1	sfx	ザ (piece)	todo
+INST/scene/graphics/adv_347_000.d2c_ca0	64	64	1	sfx	ッ (piece)	todo
+INST/scene/graphics/adv_348_000.d2c_1124	128	128	1	sfx	ダ (piece)	todo
+INST/scene/graphics/adv_348_000.d2c_3214	64	64	1	sfx	ッ (piece)	todo
+INST/scene/graphics/adv_349_000.d2c_1e14	128	32	1	sfx	ー (piece)	todo
+INST/scene/graphics/adv_349_000.d2c_2704	128	128	1	sfx	キ (piece)	todo
+INST/scene/graphics/adv_349_000.d2c_47f4	64	64	1	sfx	ャ (piece)	todo
+INST/scene/graphics/adv_349_000.d2c_50e4	128	128	1	sfx	ワ (piece)	todo
+INST/scene/graphics/adv_350_000.d2c_26c0	128	128	1	sfx	ン (piece)	todo
+INST/scene/graphics/adv_350_000.d2c_47b0	128	32	1	sfx	ー (piece)	todo
+INST/scene/graphics/adv_350_000.d2c_50a0	64	64	1	sfx	ャ (piece)	todo
+INST/scene/graphics/adv_350_000.d2c_5990	128	128	1	sfx	ジ (piece)	todo
+INST/scene/graphics/adv_350_000.d2c_7a80	128	128	1	sfx	ギョ (piece)	todo
+INST/scene/graphics/adv_351_000.d2c_1af0	128	128	1	sfx	ボ (piece)	todo
+INST/scene/graphics/adv_351_000.d2c_3be0	64	128	1	sfx	ン (piece)	todo
+INST/scene/graphics/adv_352_000.d2c_29fc	256	256	1	sfx	う (piece)	todo
+INST/scene/graphics/adv_353_000.d2c_8c4	256	256	1	sfx	カッ	todo
+INST/scene/graphics/adv_354_000.d2c_903c	256	256	1	sfx	ン (piece)	todo
+INST/scene/graphics/adv_354_000.d2c_f4c	256	256	1	sfx	ボ (piece)	todo
+INST/scene/graphics/adv_355_000.d2c_114e0	128	128	1	sfx	ッ (piece)	todo
+INST/scene/graphics/adv_355_000.d2c_1300	256	256	1	sfx	ド (piece)	todo
+INST/scene/graphics/adv_355_000.d2c_93f0	256	256	1	sfx	カ (piece)	todo
+INST/scene/graphics/adv_356_000.d2c_1130	64	64	1	sfx	ニ (piece)	todo
+INST/scene/graphics/adv_356_000.d2c_1a20	64	64	1	sfx	コ (piece)	todo
+INST/scene/graphics/adv_356_000.d2c_2310	64	64	1	sfx	ッ (piece)	todo
+INST/scene/graphics/adv_357_000.d2c_1560	128	128	1	sfx	凛 (kanji effect lettering)	todo
+INST/scene/graphics/adv_357_000.d2c_c70	64	64	1	sfx	ッ (piece)	todo
+INST/scene/graphics/adv_358_000.d2c_2c58	64	64	1	sfx	ん (piece)	todo
+INST/scene/graphics/adv_358_000.d2c_3548	64	64	1	sfx	り (piece)	todo
+INST/scene/graphics/adv_358_000.d2c_3e38	64	64	1	sfx	る (piece)	todo
+INST/scene/graphics/adv_358_000.d2c_4728	64	64	1	sfx	ゆ (piece)	todo
+INST/scene/graphics/adv_358_000.d2c_5018	64	64	1	sfx	き (piece)	todo
+INST/scene/graphics/adv_359_000.d2c_13b8	128	128	1	sfx	ゾ (piece)	todo
+INST/scene/graphics/adv_359_000.d2c_34a8	128	128	1	sfx	ク (piece)	todo
+INST/scene/graphics/adv_359_000.d2c_5598	64	64	1	sfx	ッ (piece)	todo
+INST/scene/graphics/adv_360_000.d2c_2df0	64	64	1	sfx	kana fragment (piece)	todo
+INST/scene/graphics/adv_360_000.d2c_d00	128	128	1	sfx	ダ (piece)	todo
+INST/scene/graphics/adv_361_000.d2c_1424	128	128	1	sfx	ピ (piece)	todo
+INST/scene/graphics/adv_361_000.d2c_3514	128	128	1	sfx	ク (piece)	todo
+INST/scene/graphics/adv_361_000.d2c_5604	64	64	1	sfx	ッ (piece)	todo
+INST/scene/graphics/adv_362_000.d2c_12e0	128	128	1	sfx	ビ (piece)	todo
+INST/scene/graphics/adv_362_000.d2c_33d0	128	128	1	sfx	シ (piece)	todo
+INST/scene/graphics/adv_362_000.d2c_54c0	64	64	1	sfx	ッ (piece)	todo
+INST/scene/graphics/adv_363_000.d2c_1298	128	128	1	sfx	ギ (piece)	todo
+INST/scene/graphics/adv_363_000.d2c_3388	128	128	1	sfx	ン (piece)	todo
+INST/scene/graphics/adv_363_000.d2c_5478	64	64	2	sfx	ッ (piece)	todo
+INST/scene/graphics/adv_364_000.d2c_1298	64	64	1	sfx	ッ (piece)	todo
+INST/scene/graphics/adv_364_000.d2c_1b88	128	128	1	sfx	ロ (piece)	todo
+INST/scene/graphics/adv_364_000.d2c_3c78	128	128	1	sfx	ギ (piece)	todo
+INST/scene/graphics/adv_365_000.d2c_1b88	128	128	1	sfx	ワ (piece)	todo
+INST/scene/graphics/adv_365_000.d2c_3c78	128	128	1	sfx	ク (piece)	todo
+INST/scene/graphics/adv_366_000.d2c_1298	32	32	1	sfx	っ (piece)	todo
+INST/scene/graphics/adv_366_000.d2c_1588	64	64	1	sfx	く (piece)	todo
+INST/scene/graphics/adv_366_000.d2c_1e78	128	128	1	sfx	ぱ (piece)	todo
+INST/scene/graphics/adv_367_000.d2c_2ac0	256	256	1	sfx	ズ (piece)	todo
+INST/scene/graphics/adv_367_000.d2c_abb0	128	128	1	sfx	ギ (piece)	todo
+INST/scene/graphics/adv_367_000.d2c_cca0	64	64	1	sfx	kana fragment (piece)	todo
+INST/scene/graphics/adv_367_000.d2c_d590	128	128	1	sfx	ウ (piece)	todo
+INST/scene/graphics/adv_367_000.d2c_f680	128	128	1	sfx	ン (piece)	todo
+INST/scene/graphics/adv_368_000.d2c_5244	128	128	1	sfx	ン (piece)	todo
+INST/scene/graphics/adv_368_000.d2c_7334	128	128	1	sfx	イ (piece)	todo
+INST/scene/graphics/adv_368_000.d2c_9424	128	128	1	sfx	リ (piece)	todo
+INST/scene/graphics/adv_368_000.d2c_b514	128	128	1	sfx	ャ (piece)	todo
+INST/scene/graphics/adv_368_000.d2c_d604	256	256	1	sfx	ギ (piece)	todo
+INST/scene/graphics/adv_370_000.d2c_2d30	64	64	1	sfx	ッ (piece)	todo
+INST/scene/graphics/adv_370_000.d2c_c40	128	128	1	sfx	パ (piece)	todo
+INST/scene/graphics/adv_371_000.d2c_1864	128	64	1	sfx	゛ dakuten (piece)	todo
+INST/scene/graphics/adv_371_000.d2c_2954	128	256	1	sfx	ン (piece)	todo
+INST/scene/graphics/adv_371_000.d2c_6a44	128	64	1	sfx	ー (piece)	todo
+INST/scene/graphics/adv_371_000.d2c_7b34	128	256	1	sfx	ソ/ッ (piece)	todo
+INST/scene/graphics/adv_372_000.d2c_2d30	256	256	1	sfx	ド (piece)	todo
+INST/scene/graphics/adv_372_000.d2c_c40	128	128	1	sfx	ッ (piece)	todo
+INST/scene/graphics/adv_373_000.d2c_1298	64	64	1	sfx	ッ (piece)	todo
+INST/scene/graphics/adv_373_000.d2c_1b88	128	32	1	sfx	ー (piece)	todo
+INST/scene/graphics/adv_373_000.d2c_2478	128	128	1	sfx	ス (piece)	todo
+INST/scene/graphics/adv_374_000.d2c_1d18	64	64	1	sfx	ざ (piece)	todo
+INST/scene/graphics/adv_374_000.d2c_2608	64	64	1	sfx	わ (piece)	todo
+INST/scene/graphics/adv_375_000.d2c_1208	64	32	1	sfx	っ (piece)	todo
+INST/scene/graphics/adv_375_000.d2c_16f8	128	128	1	sfx	に (piece)	todo
+INST/scene/graphics/adv_375_000.d2c_37e8	128	128	1	sfx	む (piece)	todo
+INST/scene/graphics/adv_377_000.d2c_1298	64	64	1	sfx	ッ (piece)	todo
+INST/scene/graphics/adv_377_000.d2c_1b88	128	128	1	sfx	チ (piece)	todo
+INST/scene/graphics/adv_377_000.d2c_3c78	128	128	1	sfx	カ (piece)	todo
+INST/scene/graphics/adv_378_000.d2c_2df0	64	128	1	sfx	リ (piece)	todo
+INST/scene/graphics/adv_378_000.d2c_d00	128	128	1	sfx	バ (piece)	todo
+INST/scene/graphics/adv_379_000.d2c_3478	128	64	1	sfx	バ (piece)	todo
+INST/scene/graphics/adv_379_000.d2c_4568	64	64	1	sfx	ラ (piece)	todo
+INST/scene/graphics/adv_380_000.d2c_2194	128	128	1	sfx	う (piece)	todo
+INST/scene/graphics/adv_380_000.d2c_4284	64	64	1	sfx	ゆ (piece)	todo
+INST/scene/graphics/adv_380_000.d2c_4b74	128	128	1	sfx	ひ (piece)	todo
+INST/scene/graphics/adv_381_000.d2c_5160	128	128	1	sfx	ン (piece)	todo
+INST/scene/graphics/adv_381_000.d2c_7250	128	64	1	sfx	ー (piece)	todo
+INST/scene/graphics/adv_381_000.d2c_8340	64	64	1	sfx	ャ (piece)	todo
+INST/scene/graphics/adv_381_000.d2c_8c30	128	128	1	sfx	ッ (piece)	todo
+INST/scene/graphics/adv_381_000.d2c_ad20	128	128	1	sfx	キ (piece)	todo
+INST/scene/graphics/adv_381_000.d2c_ce10	128	128	1	sfx	ッ (piece)	todo
+INST/scene/graphics/adv_381_000.d2c_ef00	128	128	1	sfx	ス (piece)	todo
+INST/scene/graphics/adv_382_000.d2c_2d60	64	64	1	sfx	ッ (piece)	todo
+INST/scene/graphics/adv_382_000.d2c_c70	128	128	1	sfx	ボ (piece)	todo
+INST/scene/graphics/adv_383_000.d2c_2a58	128	128	1	sfx	ア (piece)	todo
+INST/scene/graphics/adv_383_000.d2c_4b48	256	128	1	sfx	ザ (piece)	todo
+INST/scene/graphics/adv_384_000.d2c_1298	64	64	1	sfx	ッ (piece)	todo
+INST/scene/graphics/adv_384_000.d2c_1b88	128	128	1	sfx	カ (piece)	todo
+INST/scene/graphics/adv_384_000.d2c_3c78	128	128	1	sfx	パ (piece)	todo
+INST/scene/graphics/adv_385_000.d2c_26b4	128	128	1	sfx	ン (piece)	todo
+INST/scene/graphics/adv_385_000.d2c_47a4	128	128	1	sfx	ス (piece)	todo
+INST/scene/graphics/adv_385_000.d2c_6894	128	128	1	sfx	ド (piece)	todo
+INST/scene/graphics/adv_386_000.d2c_15c0	128	128	1	sfx	フ (piece)	todo
+INST/scene/graphics/adv_386_000.d2c_cd0	64	64	1	sfx	ッ (piece)	todo
+INST/scene/graphics/adv_387_000.d2c_1c40	256	256	1	sfx	オ (piece)	todo
+INST/scene/graphics/adv_388_000.d2c_2dc0	64	64	1	sfx	ニ (piece)	todo
+INST/scene/graphics/adv_388_000.d2c_cd0	128	128	1	sfx	ャ (piece)	todo
+INST/scene/graphics/adv_389_000.d2c_2218	128	256	1	sfx	ド (piece)	todo
+INST/scene/graphics/adv_389_000.d2c_6308	128	128	1	sfx	オ (piece)	todo
+INST/scene/graphics/adv_390_000.d2c_2414	64	64	1	sfx	ァ (piece)	todo
+INST/scene/graphics/adv_390_000.d2c_2d04	64	64	1	sfx	ハ (piece)	todo
+INST/scene/graphics/adv_391_000.d2c_2554	128	128	1	sfx	ン (piece)	todo
+INST/scene/graphics/adv_391_000.d2c_4644	128	32	1	sfx	ー (piece)	todo
+INST/scene/graphics/adv_391_000.d2c_4f34	64	64	1	sfx	ャ (piece)	todo
+INST/scene/graphics/adv_391_000.d2c_5824	128	128	1	sfx	ジ (piece)	todo
+INST/scene/graphics/adv_392_000.d2c_12e0	128	128	1	sfx	ピ (piece)	todo
+INST/scene/graphics/adv_392_000.d2c_33d0	64	128	1	sfx	シ (piece)	todo
+INST/scene/graphics/adv_392_000.d2c_44c0	64	64	1	sfx	ッ (piece)	todo
+INST/scene/graphics/adv_393_000.d2c_1ff8	128	128	2	sfx	ン (piece)	todo
+INST/scene/graphics/adv_393_000.d2c_40e8	128	64	2	sfx	ー (piece)	todo
+INST/scene/graphics/adv_393_000.d2c_51d8	64	128	1	sfx	イ (piece)	todo
+INST/scene/graphics/adv_393_000.d2c_62c8	64	64	2	sfx	ユ (piece)	todo
+INST/scene/graphics/adv_393_000.d2c_6bb8	128	128	2	sfx	ヒ (piece)	todo
+INST/scene/graphics/adv_394_000.d2c_13b8	64	64	1	sfx	ッ (piece)	todo
+INST/scene/graphics/adv_394_000.d2c_1ca8	128	128	1	sfx	ル (piece)	todo
+INST/scene/graphics/adv_394_000.d2c_3d98	128	128	1	sfx	ズ (piece)	todo
+INST/scene/graphics/adv_396_000.d2c_1208	64	128	1	sfx	リ (piece)	todo
+INST/scene/graphics/adv_396_000.d2c_22f8	128	128	1	sfx	ャ (piece)	todo
+INST/scene/graphics/adv_396_000.d2c_43e8	128	128	1	sfx	ニ (piece)	todo
+INST/scene/graphics/adv_397_000.d2c_1dd8	64	64	1	sfx	ル (piece)	todo
+INST/scene/graphics/adv_397_000.d2c_ce8	128	64	1	sfx	プ (piece)	todo
+INST/scene/graphics/adv_398_000.d2c_1738	128	128	1	sfx	タ (piece)	todo
+INST/scene/graphics/adv_398_000.d2c_3828	128	128	1	sfx	バ (piece)	todo
+INST/scene/graphics/adv_398_000.d2c_5918	128	128	1	sfx	ド (piece)	todo
+INST/scene/graphics/adv_399_000.d2c_16b4	64	128	1	sfx	シ (piece)	todo
+INST/scene/graphics/adv_399_000.d2c_27a4	128	128	1	sfx	バ (piece)	todo
+INST/scene/graphics/adv_399_000.d2c_4894	64	64	1	sfx	ャ (piece)	todo
+INST/scene/graphics/adv_399_000.d2c_5184	64	64	1	sfx	ッ (piece)	todo
+INST/scene/graphics/adv_407_a.d2c_1a934	32	256	1	logo	slice of 幕末Rock title logo, shows 幕 (adv_407_a)	todo
+INST/scene/graphics/adv_407_a.d2c_1cc04	32	256	1	logo	slice of 幕末Rock title logo, shows 末 (adv_407_a)	todo
+INST/scene/graphics/adv_450_000.d2c_2afc	128	128	2	sfx	ギ (piece)	todo
+INST/scene/graphics/adv_450_000.d2c_4bec	64	64	3	sfx	ュ (piece)	todo
+INST/scene/graphics/adv_450_000.d2c_54dc	128	128	2	sfx	イ (piece)	todo
+INST/scene/graphics/adv_450_000.d2c_75cc	64	64	2	sfx	イ (piece)	todo
+INST/scene/graphics/adv_450_000.d2c_7ebc	128	128	4	sfx	ン (piece)	todo
+INST/scene/graphics/adv_450_001.d2c_7160	128	128	2	sfx	キ (piece)	todo
+INST/scene/graphics/adv_450_002.d2c_51e0	128	128	2	sfx	ウ (piece)	todo
+INST/scene/graphics/adv_450_002.d2c_72d0	128	128	2	sfx	ウ (piece)	todo
+INST/scene/graphics/adv_450_003.d2c_4d50	128	128	2	sfx	ア (piece)	todo
+INST/scene/graphics/adv_450_003.d2c_6e40	128	128	2	sfx	ャ (piece)	todo
+INST/scene/graphics/adv_501_000.d2c_1a018	32	256	1	sign	tiny black shop sign kanji in town photo slice (adv_501_000)	todo
+INST/scene/graphics/adv_501_000.d2c_1e9b8	32	256	1	sign	tiny shop sign kanji in town photo slice (adv_501_000)	todo
+INST/scene/graphics/adv_501_000.d2c_20e88	32	256	1	sign	shop sign kanji (山…) in town photo slice (adv_501_000)	todo
+INST/scene/graphics/adv_501_000.d2c_54c8	32	256	1	sign	tiny shop sign kanji in town photo slice (adv_501_000)	todo
+INST/scene/graphics/adv_502_000.d2c_1c4e8	32	256	1	sign	festival lantern kanji (上?) in photo slice (adv_502_000)	todo
+INST/scene/graphics/adv_502_000.d2c_1e9b8	32	256	1	sign	festival lantern kanji (郷?) in photo slice (adv_502_000)	todo
+INST/scene/graphics/adv_502_000.d2c_23358	32	256	1	sign	festival lantern kanji (木…) in photo slice (adv_502_000)	todo
+INST/scene/graphics/adv_502_000.d2c_27cf8	32	256	1	sign	festival lantern kanji in photo slice (adv_502_000)	todo
+INST/scene/graphics/adv_502_000.d2c_45b88	32	256	1	sign	festival lantern kanji in photo slice (adv_502_000)	todo
+INST/scene/graphics/adv_600_000.d2c_1130	128	128	1	sfx	ロ (piece)	todo
+INST/scene/graphics/adv_600_000.d2c_3220	64	64	1	sfx	ヨ (piece)	todo
+INST/scene/graphics/adv_600_000.d2c_3b10	128	128	1	sfx	キ (piece)	todo
+INST/scene/graphics/adv_601_000.d2c_2dd8	128	128	1	sfx	キ (piece)	todo
+INST/scene/graphics/adv_601_000.d2c_ce8	128	128	1	sfx	ド (piece)	todo
+INST/scene/graphics/adv_601_02_2.gim_0	128	128	1	sfx	キ (piece)	todo
+INST/scene/graphics/adv_601_03_2.gim_0	128	128	1	sfx	ギ (piece)	todo
+INST/scene/graphics/adv_601_08.gim_0	128	128	1	sfx	ヤ (piece)	todo
+INST/scene/graphics/adv_602_000.d2c_2dd8	64	128	1	sfx	ネ (piece)	todo
+INST/scene/graphics/adv_602_000.d2c_ce8	128	128	1	sfx	ク (piece)	todo
+INST/scene/graphics/adv_603_000.d2c_1130	64	128	1	sfx	キ (piece)	todo
+INST/scene/graphics/adv_603_000.d2c_2220	64	64	1	sfx	ャ (piece)	todo
+INST/scene/graphics/adv_603_000.d2c_2b10	64	64	1	sfx	ッ (piece)	todo
+INST/scene/graphics/adv_603_001.d2c_1124	64	128	1	sfx	フ (piece)	todo
+INST/scene/graphics/adv_603_001.d2c_2214	128	128	1	sfx	ウ (piece)	todo
+INST/scene/graphics/adv_604_000.d2c_1208	64	64	1	sfx	プ (piece)	todo
+INST/scene/graphics/adv_604_000.d2c_1af8	64	64	1	sfx	ゝ/〜 fragment (piece)	todo
+INST/scene/graphics/adv_604_000.d2c_23e8	64	64	1	sfx	ン (piece)	todo
+INST/scene/graphics/adv_605_000.d2c_2e20	64	64	1	sfx	チ (piece)	todo
+INST/scene/graphics/adv_605_000.d2c_d30	128	128	1	sfx	パ (piece)	todo
+INST/scene/graphics/adv_606_000.d2c_1298	64	64	1	sfx	ッ (piece)	todo
+INST/scene/graphics/adv_606_000.d2c_1b88	128	128	1	sfx	サ (piece)	todo
+INST/scene/graphics/adv_606_000.d2c_3c78	128	128	1	sfx	グ (piece)	todo
+INST/scene/graphics/adv_607_000.d2c_15d8	64	128	1	sfx	ク (piece)	todo
+INST/scene/graphics/adv_607_000.d2c_ce8	64	64	1	sfx	ス (piece)	todo
+INST/scene/graphics/adv_608_000.d2c_15d8	128	128	1	sfx	ア (piece)	todo
+INST/scene/graphics/adv_608_000.d2c_ce8	64	64	1	sfx	ワ (piece)	todo
+INST/scene/graphics/adv_609_000.d2c_2690	128	128	1	sfx	ん (piece)	todo
+INST/scene/graphics/adv_609_000.d2c_4780	128	64	1	sfx	ー (piece)	todo
+INST/scene/graphics/adv_609_000.d2c_5870	128	256	1	sfx	う (piece)	todo
+INST/scene/graphics/adv_610_000.d2c_1250	128	128	1	sfx	ブ (piece)	todo
+INST/scene/graphics/adv_610_000.d2c_3340	128	128	1	sfx	ス (piece)	todo
+INST/scene/graphics/adv_610_000.d2c_5430	64	64	1	sfx	ッ (piece)	todo
+INST/scene/graphics/adv_611_000.d2c_160c	128	128	2	sfx	ギ (piece)	todo
+INST/scene/graphics/adv_612_000.d2c_1c4c	128	128	1	sfx	エ (piece)	todo
+INST/scene/graphics/adv_613_000.d2c_223c	64	64	2	sfx	゛ dakuten (piece)	todo
+INST/scene/graphics/adv_613_000.d2c_2b2c	128	128	2	sfx	ウ (piece)	todo
+INST/scene/graphics/adv_613_000.d2c_4c1c	64	64	2	sfx	ュ (piece)	todo
+INST/scene/graphics/adv_613_000.d2c_550c	128	128	2	sfx	チ (piece)	todo
+INST/scene/graphics/adv_613_000.d2c_75fc	256	128	1	sfx	ブ (piece)	todo
+INST/scene/graphics/adv_614_000.d2c_2148	128	128	1	sfx	キ (piece)	todo
+INST/scene/graphics/adv_614_000.d2c_c328	128	128	1	sfx	ャ (piece)	todo
+INST/scene/graphics/adv_615_000.d2c_11ac	128	256	1	sfx	ぷちっ	todo
+INST/scene/graphics/bg_001_001.d2c_375f8	32	256	1	sign	茶 noren (tea shop) + small text on blue strip (bg_001_001 slice)	todo
+INST/scene/graphics/bg_001_001.d2c_3bb98	32	256	1	sign	だんご banner (bg_001_001 slice)	todo
+INST/scene/graphics/bg_001_001.d2c_446d8	32	256	1	sign	noren glyph partial (入?) (bg_001_001 slice)	todo
+INST/scene/graphics/bg_002_001.d2c_375f8	32	256	2	sign	shop signboard いわき屋 (Iwaki-ya) + standing andon いわき屋, day	todo
+INST/scene/graphics/bg_002_001.d2c_3bb98	32	256	2	sign	standing andon sign いわき屋, day	todo
+INST/scene/graphics/bg_002_002.d2c_375f8	32	256	1	sign	shop signboard いわき屋 + andon いわき屋 (variant 2)	todo
+INST/scene/graphics/bg_002_002.d2c_3bb98	32	256	1	sign	standing andon sign いわき屋 (variant 2)	todo
+INST/scene/graphics/bg_002_003.d2c_1b168	32	256	1	sign	hanging shop sign, kanji (night, illegible; likely 越後屋)	todo
+INST/scene/graphics/bg_002_003.d2c_375f8	32	256	1	sign	shop signboard いわき屋, night	todo
+INST/scene/graphics/bg_003_001.d2c_2a518	32	256	1	sign	wooden notice board (kosatsu) by castle wall, small kanji (illegible)	todo
+INST/scene/graphics/bg_006_001.d2c_219d8	32	256	1	sign	shrine plaque on torii 八幡宮 (Hachimangu)	todo
+INST/scene/graphics/bg_007_001.d2c_10358	32	256	1	sign	andon sign left edge, vertical small kana	todo
+INST/scene/graphics/bg_007_001.d2c_12628	32	256	1	sign	andon sign, hiragana ~ちょこらあと/…てらあど (reading uncertain) + small caption	todo
+INST/scene/graphics/bg_007_001.d2c_16bc8	32	256	1	sign	red nobori banner 釜あります	todo
+INST/scene/graphics/bg_007_001.d2c_18e98	32	256	1	sign	banner edge + small lantern with kana	todo
+INST/scene/graphics/bg_007_001.d2c_1b168	32	256	1	sign	noren big kana て (part) + coloured lanterns with kana	todo
+INST/scene/graphics/bg_007_001.d2c_1d438	32	256	1	sign	noren kana て (part) + lanterns with kana	todo
+INST/scene/graphics/bg_007_001.d2c_1f708	32	256	1	sign	lanterns with kana, edge of pink round sign	todo
+INST/scene/graphics/bg_007_001.d2c_219d8	32	256	1	sign	pink round shop-name sign letter だ + lanterns	todo
+INST/scene/graphics/bg_007_001.d2c_23ca8	32	256	1	sign	pink round shop-name sign letter あ + lanterns	todo
+INST/scene/graphics/bg_007_001.d2c_25f78	32	256	1	sign	pink round shop-name sign letter ら + lanterns	todo
+INST/scene/graphics/bg_007_001.d2c_28248	32	256	1	sign	pink round shop-name sign letter て + lanterns	todo
+INST/scene/graphics/bg_007_001.d2c_2a518	32	256	1	sign	pink round shop-name sign letter ち (part) + lanterns	todo
+INST/scene/graphics/bg_007_001.d2c_2c7e8	32	256	1	sign	big red lantern kanji (葛-like) + kana lanterns	todo
+INST/scene/graphics/bg_007_001.d2c_30d88	32	256	1	sign	red nobori banner 釜あります (second copy)	todo
+INST/scene/graphics/bg_007_001.d2c_35328	32	256	1	sign	shop sign 鮨 (sushi) on building	todo
+INST/scene/graphics/bg_007_001.d2c_375f8	32	256	1	sign	small white lantern with kanji (partial)	todo
+INST/scene/graphics/bg_007_001.d2c_5548	32	256	1	sign	blue noren 酒 (sake) in circle, left half	todo
+INST/scene/graphics/bg_007_001.d2c_7818	32	256	1	sign	blue noren 酒 (sake) in circle, right half	todo
+INST/scene/graphics/bg_007_001.d2c_e088	32	256	1	sign	red nobori banner, faint vertical text (illegible)	todo
+INST/scene/graphics/bg_007_002.d2c_10358	32	256	1	sign	lit andon sign, vertical kana, night	todo
+INST/scene/graphics/bg_007_002.d2c_12628	32	256	1	sign	lit andon ~ちょこらあと/…てらあど, night	todo
+INST/scene/graphics/bg_007_002.d2c_16bc8	32	256	1	sign	red banner 釜あります, night	todo
+INST/scene/graphics/bg_007_002.d2c_18e98	32	256	1	sign	red banner 釜 (part) + kana lantern, night	todo
+INST/scene/graphics/bg_007_002.d2c_1b168	32	256	1	sign	noren kana て + kana lanterns, night	todo
+INST/scene/graphics/bg_007_002.d2c_1d438	32	256	1	sign	noren kana て (part) + lanterns, night	todo
+INST/scene/graphics/bg_007_002.d2c_1f708	32	256	1	sign	lanterns with kana, edge of pink sign, night	todo
+INST/scene/graphics/bg_007_002.d2c_219d8	32	256	1	sign	pink round sign だ, night	todo
+INST/scene/graphics/bg_007_002.d2c_23ca8	32	256	1	sign	pink round sign あ, night	todo
+INST/scene/graphics/bg_007_002.d2c_25f78	32	256	1	sign	pink round sign ら, night	todo
+INST/scene/graphics/bg_007_002.d2c_28248	32	256	1	sign	pink round sign て/ち, night	todo
+INST/scene/graphics/bg_007_002.d2c_2a518	32	256	1	sign	pink round sign ち (part) + lanterns, night	todo
+INST/scene/graphics/bg_007_002.d2c_2c7e8	32	256	1	sign	big red lantern kanji (葛-like), night	todo
+INST/scene/graphics/bg_007_002.d2c_30d88	32	256	1	sign	red banner 釜あります, night (second copy)	todo
+INST/scene/graphics/bg_007_002.d2c_5548	32	256	1	sign	noren 酒 (sake), night, left half	todo
+INST/scene/graphics/bg_007_002.d2c_7818	32	256	1	sign	noren 酒 (sake), night, right half	todo
+INST/scene/graphics/bg_009_001.d2c_148f8	32	256	1	banner	stage backdrop brush kanji 誠 (part)	todo
+INST/scene/graphics/bg_009_001.d2c_16bc8	32	256	1	banner	stage backdrop brush kanji 誠	todo
+INST/scene/graphics/bg_009_001.d2c_18e98	32	256	1	banner	stage backdrop brush kanji 誠	todo
+INST/scene/graphics/bg_009_001.d2c_1b168	32	256	1	banner	stage backdrop brush kanji 誠	todo
+INST/scene/graphics/bg_009_001.d2c_2c7e8	32	256	1	banner	stage backdrop kanji 誠 (tiny edge stroke)	todo
+INST/scene/graphics/bg_009_001.d2c_2eab8	32	256	1	banner	stage backdrop brush kanji 誠	todo
+INST/scene/graphics/bg_009_001.d2c_30d88	32	256	1	banner	stage backdrop brush kanji 誠	todo
+INST/scene/graphics/bg_009_001.d2c_33058	32	256	1	banner	stage backdrop brush kanji 誠 (with 一 stroke)	todo
+INST/scene/graphics/bg_009_001.d2c_35328	32	256	1	banner	stage backdrop brush kanji 誠 (part)	todo
+INST/scene/graphics/bg_009_002.d2c_1b168	32	256	1	banner	silver stage drape with kanji 誠	todo
+INST/scene/graphics/bg_009_002.d2c_1d438	32	256	1	banner	silver stage drape with kanji 誠	todo
+INST/scene/graphics/bg_009_002.d2c_2a518	32	256	1	banner	silver stage drape with kanji 誠 (part)	todo
+INST/scene/graphics/bg_009_002.d2c_2c7e8	32	256	1	banner	silver stage drape with kanji 誠	todo
+INST/scene/graphics/bg_009_002.d2c_2eab8	32	256	1	banner	silver stage drape with kanji 誠	todo
+INST/scene/graphics/bg_010_001.d2c_375f8	32	256	1	sign	wooden plaque large kanji (part, ~魂) in theatre/hall	todo
+INST/scene/graphics/bg_010_001.d2c_398c8	32	256	1	sign	plaque kanji (part, ~由) + small plaque + framed calligraphy note	todo
+INST/scene/graphics/bg_010_001.d2c_3bb98	32	256	1	sign	plaque edge + wall notes with small kanji	todo
+INST/scene/graphics/bg_011_001.d2c_1b168	32	256	1	sign	hanging shop sign 越後屋 (Echigoya)	todo
+INST/scene/graphics/bg_011_001.d2c_1d438	32	256	1	caption	burned-in white caption overlay "1." (of ~1.5…用の背景)	todo
+INST/scene/graphics/bg_011_001.d2c_1f708	32	256	1	caption	burned-in caption ".5"	todo
+INST/scene/graphics/bg_011_001.d2c_219d8	32	256	1	caption	burned-in caption kanji 用 (part)	todo
+INST/scene/graphics/bg_011_001.d2c_23ca8	32	256	1	caption	burned-in caption kanji (part) + の	todo
+INST/scene/graphics/bg_011_001.d2c_25f78	32	256	1	caption	burned-in caption の	todo
+INST/scene/graphics/bg_011_001.d2c_28248	32	256	1	caption	burned-in caption 背	todo
+INST/scene/graphics/bg_011_001.d2c_2a518	32	256	1	caption	burned-in caption 背/景 (part)	todo
+INST/scene/graphics/bg_011_001.d2c_2c7e8	32	256	1	caption	burned-in caption 景 + small hanging shop sign (kanji, ~仙台屋)	todo
+INST/scene/graphics/bg_011_001.d2c_30d88	32	256	1	sign	hanging shop sign ~…服屋 (part)	todo
+INST/scene/graphics/bg_011_001.d2c_375f8	32	256	1	sign	shop signboard いわき屋	todo
+INST/scene/graphics/bg_011_001.d2c_3bb98	32	256	1	sign	standing andon いわき屋	todo
+INST/scene/graphics/bg_012_001.d2c_18e98	32	256	1	sign	dojo hanging white tag 御神… (vertical)	todo
+INST/scene/graphics/bg_012_001.d2c_25f78	32	256	1	sign	hanging scroll red calligraphy (left half, illegible)	todo
+INST/scene/graphics/bg_012_001.d2c_28248	32	256	1	sign	hanging scroll red calligraphy (right half, illegible)	todo
+INST/scene/graphics/bg_012_001.d2c_30d88	32	256	1	sign	dojo hanging white tag 御神… (vertical)	todo
+INST/scene/graphics/bg_012_001.d2c_33058	32	256	1	other	onmyo divination disk, rim kanji (part)	todo
+INST/scene/graphics/bg_012_001.d2c_35328	32	256	1	other	onmyo divination disk, rim kanji/glyphs	todo
+INST/scene/graphics/bg_012_001.d2c_375f8	32	256	1	other	onmyo divination disk centre, rim kanji	todo
+INST/scene/graphics/bg_012_001.d2c_398c8	32	256	1	other	onmyo divination disk, rim kanji/glyphs	todo
+INST/scene/graphics/bg_012_001.d2c_3bb98	32	256	1	other	onmyo divination disk, rim kanji (part)	todo
+INST/scene/graphics/bg_018_001.d2c_219d8	32	256	1	sign	shrine torii plaque 鶴?宮 (3 kanji, vertical; middle char unclear, 松/岡?), daytime	todo
+INST/scene/graphics/bg_018_002.d2c_219d8	32	256	1	sign	same shrine torii plaque 鶴?宮, cloudy variant	todo
+INST/scene/graphics/bg_020_001.d2c_23ca8	32	256	1	other	same brush calligraphy on doors (left edge slice)	todo
+INST/scene/graphics/bg_020_001.d2c_25f78	32	256	1	other	large decorative brush calligraphy on castle hall doors (left half; may be stylised kanji, unreadable/likely decorative)	todo
+INST/scene/graphics/bg_020_001.d2c_28248	32	256	1	other	same brush calligraphy on doors (right half)	todo
+INST/scene/graphics/bg_020_001.d2c_2a518	32	256	1	other	same brush calligraphy on doors (right edge slice)	todo
+INST/scene/graphics/chr_18_ikumatu_011.gim_0	256	256	1	sfx	眠り (sleep) overlay on Ikumatsu portrait (full body)	todo
+INST/scene/graphics/chr_18_ikumatu_111.gim_0	256	256	1	sfx	眠り (sleep) overlay on Ikumatsu portrait (bust)	todo
+INST/scene/graphics/chr_18_ikumatu_211.gim_0	256	256	1	sfx	眠り (sleep) overlay on Ikumatsu portrait (close-up)	todo
+INST/scene/graphics/chr_97_makoto_000.gim_0	256	256	1	other	誠 on mask (costume emblem; probably keep)	todo
+INST/scene/graphics/chr_97_makoto_001.gim_0	256	256	1	other	誠 on mask (costume emblem; probably keep)	todo
+INST/scene/graphics/chr_97_makoto_002.gim_0	256	256	1	other	誠 on mask (costume emblem; probably keep)	todo
+INST/scene/graphics/chr_97_makoto_003.gim_0	256	256	1	other	誠 on mask (costume emblem; probably keep)	todo
+INST/scene/graphics/chr_97_makoto_004.gim_0	256	256	1	other	誠 on mask (costume emblem; probably keep)	todo
+INST/scene/graphics/chr_97_makoto_005.gim_0	256	256	1	other	誠 on mask (costume emblem; probably keep)	todo
+INST/scene/graphics/chr_97_makoto_006.gim_0	256	256	1	other	誠 on mask (costume emblem; probably keep)	todo
+INST/scene/graphics/chr_97_makoto_007.gim_0	256	256	1	other	誠 on mask (costume emblem; probably keep)	todo
+INST/scene/graphics/chr_97_makoto_100.gim_0	256	256	1	other	誠 on mask (costume emblem; probably keep)	todo
+INST/scene/graphics/chr_97_makoto_101.gim_0	256	256	1	other	誠 on mask (costume emblem; probably keep)	todo
+INST/scene/graphics/chr_97_makoto_102.gim_0	256	256	1	other	誠 on mask (costume emblem; probably keep)	todo
+INST/scene/graphics/chr_97_makoto_103.gim_0	256	256	1	other	誠 on mask (costume emblem; probably keep)	todo
+INST/scene/graphics/chr_97_makoto_104.gim_0	256	256	1	other	誠 on mask (costume emblem; probably keep)	todo
+INST/scene/graphics/chr_97_makoto_105.gim_0	256	256	1	other	誠 on mask (costume emblem; probably keep)	todo
+INST/scene/graphics/chr_97_makoto_106.gim_0	256	256	1	other	誠 on mask (costume emblem; probably keep)	todo
+INST/scene/graphics/chr_97_makoto_107.gim_0	256	256	1	other	誠 on mask (costume emblem; probably keep)	todo
+INST/scene/graphics/chr_97_makoto_200.gim_0	256	256	1	other	誠 on mask (costume emblem; probably keep)	todo
+INST/scene/graphics/chr_97_makoto_201.gim_0	256	256	1	other	誠 on mask (costume emblem; probably keep)	todo
+INST/scene/graphics/chr_97_makoto_202.gim_0	256	256	1	other	誠 on mask (costume emblem; probably keep)	todo
+INST/scene/graphics/chr_97_makoto_203.gim_0	256	256	1	other	誠 on mask (costume emblem; probably keep)	todo
+INST/scene/graphics/chr_97_makoto_204.gim_0	256	256	1	other	誠 on mask (costume emblem; probably keep)	todo
+INST/scene/graphics/chr_97_makoto_205.gim_0	256	256	1	other	誠 on mask (costume emblem; probably keep)	todo
+INST/scene/graphics/chr_97_makoto_206.gim_0	256	256	1	other	誠 on mask (costume emblem; probably keep)	todo
+INST/scene/graphics/chr_97_makoto_207.gim_0	256	256	1	other	誠 on mask (costume emblem; probably keep)	todo
+INST/scene/graphics/ci_01_flyer.gim_0	256	256	1	sign	concert flyer item; header 新選組 (Shinsengumi), rest is illegible pseudo-text	todo
+INST/scene/graphics/ci_03_ticket.gim_0	256	256	1	sign	stack of concert tickets; header 新選組 (Shinsengumi), rest illegible pseudo-text	todo
+INST/scene/graphics/ci_22_katsura_note.gim_0	256	256	1	label	Katsura's notebook cover, big 秘 (secret) seal	todo
+INST/scene/graphics/ev_004.d2c_208a8	32	256	1	sign	calligraphy banner slice, left half of 誠 (言), in event CG ev_004	todo
+INST/scene/graphics/ev_004.d2c_22d78	32	256	1	sign	calligraphy banner slice, right half of 誠 (成), in event CG ev_004	todo
+INST/scene/graphics/sys_000_000.d2c_1a358	256	256	1	logo	title-screen atlas: 幕末 Rock logo (kanji 幕末) + seal stamp kanji; also PUSH START / (c) (English)	todo
+INST/scene/graphics/sys_021_001.d2c_599e4	256	64	1	tutorial	♪アイコン (tutorial heading "Icon")	todo
+INST/scene/graphics/sys_021_001.d2c_5bad4	256	128	1	tutorial	♪ライン 上から落ちてくる「アイコン」をラインの中央でタイミング良くボタン入力します。	todo
+INST/scene/graphics/sys_021_001.d2c_5fbc4	256	128	1	tutorial	♪入力成功 入力に成功するとアイコンは言葉に変化します。	todo
+INST/scene/graphics/sys_021_001.d2c_63cb4	256	128	1	tutorial	♪入力失敗 入力に失敗するとアイコンは消し炭になります。	todo
+INST/scene/graphics/sys_021_001.d2c_67da4	256	128	1	tutorial	♪シャウトアイコン 特殊なアイコンです。入力に成功するとLIVEが盛り上がります。	todo
+INST/scene/graphics/sys_021_001.d2c_6be94	256	128	1	tutorial	♪ホールドアイコン ボタンを押しっ放しにするアイコンです。アイコンが続いている間は当てはまるボタンを押し続けます。	todo
+INST/scene/graphics/sys_021_001.d2c_87c4	512	256	1	tutorial	HOW TO PLAY screenshot with captions 雄叫びに 近い 状態 / まるで, button hint ○進む	todo
+INST/scene/graphics/sys_021_002.d2c_10084	32	256	1	tutorial	thin strip slice: 結果 fragment	todo
+INST/scene/graphics/sys_021_002.d2c_14624	32	256	1	tutorial	thin strip slice: ♪コ.. 一定.. 進行.. 解放さ.. fragments	todo
+INST/scene/graphics/sys_021_002.d2c_168f4	32	256	1	tutorial	thin strip slice: ンテ.. 以上の 状況に.. されるし.. fragments	todo
+INST/scene/graphics/sys_021_002.d2c_18bc4	32	256	1	tutorial	thin strip slice: テンツ ファン.. よりコン.. 等があ.. プロフィ.. fragments	todo
+INST/scene/graphics/sys_021_002.d2c_1ae94	32	256	1	tutorial	thin strip slice: ツ解.. 数獲得 ンテンツ ります ール.. fragments	todo
+INST/scene/graphics/sys_021_002.d2c_1d164	32	256	1	tutorial	thin strip slice of tutorial page (JP text likely cut; check)	todo
+INST/scene/graphics/sys_021_002.d2c_1f434	32	256	1	tutorial	thin strip slice: 放 / ..が / 解放! / ○進 fragments	todo
+INST/scene/graphics/sys_021_002.d2c_21704	32	256	1	tutorial	thin strip slice: ..む (○進む button hint) fragment	todo
+INST/scene/graphics/sys_021_002.d2c_2fa4	32	256	1	tutorial	thin strip slice of HOW TO PLAY page (manual page; JP text cut)	todo
+INST/scene/graphics/sys_021_002.d2c_5274	32	256	1	tutorial	thin strip slice of tutorial page: FAN / 2万 / JP body text fragments	todo
+INST/scene/graphics/sys_021_002.d2c_7544	32	256	1	tutorial	thin strip slice: ♪フ.. ファン数 または 選択結.. fragments	todo
+INST/scene/graphics/sys_021_002.d2c_9814	32	256	1	tutorial	thin strip slice: GET 3万 ファン.. はリス.. ADV.. 果によ.. fragments	todo
+INST/scene/graphics/sys_021_002.d2c_bae4	32	256	1	tutorial	thin strip slice: 数 ..ムゲー ゲーム ..り増加 fragments	todo
+INST/scene/graphics/sys_021_002.d2c_ddb4	32	256	1	tutorial	thin strip slice: ..ームの ..中の ..します fragments	todo
+INST/scene/graphics/sys_157.gim_0	512	16	1	label	button-hint bar: スクロール / 戻る	todo
+INST/scene/graphics/ui_tit_101.d2c_148b0	512	64	1	title	熱情のロック (chapter title)	todo
+INST/scene/graphics/ui_tit_101.d2c_a310	128	64	1	title	第一話 (episode 1)	todo
+INST/scene/graphics/ui_tit_101.d2c_c5e0	512	64	1	title	運命 宿命 (chapter title)	todo
+INST/scene/graphics/ui_tit_102.d2c_148b0	512	64	1	title	三人の志士!	todo
+INST/scene/graphics/ui_tit_102.d2c_a310	128	64	1	title	第二話	todo
+INST/scene/graphics/ui_tit_102.d2c_c5e0	512	64	1	title	共鳴!	todo
+INST/scene/graphics/ui_tit_103.d2c_148b0	512	64	1	title	新選組	todo
+INST/scene/graphics/ui_tit_103.d2c_a310	128	64	1	title	第三話	todo
+INST/scene/graphics/ui_tit_103.d2c_c5e0	512	64	1	title	絶対愛獲	todo
+INST/scene/graphics/ui_tit_104.d2c_148b0	512	64	1	title	志士 vs 愛獲!	todo
+INST/scene/graphics/ui_tit_104.d2c_a310	128	64	1	title	第四話	todo
+INST/scene/graphics/ui_tit_104.d2c_c5e0	512	64	1	title	激突!	todo
+INST/scene/graphics/ui_tit_105.d2c_148b0	512	64	1	title	内に秘めた魂	todo
+INST/scene/graphics/ui_tit_105.d2c_a310	128	64	1	title	第五話	todo
+INST/scene/graphics/ui_tit_105.d2c_c5e0	512	64	1	title	覚醒!	todo
+INST/scene/graphics/ui_tit_106.d2c_11f2c	128	64	1	title	第六話	todo
+INST/scene/graphics/ui_tit_106.d2c_9c5c	512	64	1	title	悪の華	todo
+INST/scene/graphics/ui_tit_107.d2c_148b0	512	64	1	title	新たなる誓い!	todo
+INST/scene/graphics/ui_tit_107.d2c_a310	128	64	1	title	第七話	todo
+INST/scene/graphics/ui_tit_107.d2c_c5e0	512	64	1	title	魂の叫び!	todo
+INST/scene/graphics/ui_tit_108.d2c_148b0	512	64	1	title	処刑愛獲降臨	todo
+INST/scene/graphics/ui_tit_108.d2c_a310	128	64	1	title	第八話	todo
+INST/scene/graphics/ui_tit_108.d2c_c5e0	512	64	1	title	ロックは罪	todo
+INST/scene/graphics/ui_tit_109.d2c_11f2c	128	64	1	title	第九話	todo
+INST/scene/graphics/ui_tit_109.d2c_9c5c	512	64	1	title	わしがロックじゃ!	todo
+INST/scene/graphics/ui_tit_110.d2c_148b0	512	64	1	title	新たなる世界!	todo
+INST/scene/graphics/ui_tit_110.d2c_a310	128	64	1	title	第十話	todo
+INST/scene/graphics/ui_tit_110.d2c_c5e0	512	64	1	title	新たなる夜明け!	todo
+INST/scene/graphics/ui_tit_111.d2c_5e4c	256	64	1	title	超魂 第一話	todo
+INST/scene/graphics/ui_tit_111.d2c_7f3c	512	64	1	title	帝王 降臨!	todo
+INST/scene/graphics/ui_tit_112.d2c_5e4c	256	64	1	title	超魂 第二話	todo
+INST/scene/graphics/ui_tit_112.d2c_7f3c	512	64	1	title	誠仮面参上!	todo
+INST/scene/graphics/ui_tit_113.d2c_613c	256	64	1	title	超魂 第三話	todo
+INST/scene/graphics/ui_tit_113.d2c_822c	512	64	1	title	熱情!炎情!	todo
+INST/scene/graphics/ui_tit_113.d2c_c31c	512	64	1	title	富士ROCK祭!	todo
+INST/scene/graphics/ui_tit_116.d2c_1174	256	128	1	logo	幕末Rock logo (kanji 幕末)	todo
+NOINST/ui/graphics/sys_000_000.d2c_41534	256	128	1	logo	幕末Rock logo with 超魂 in ULTRA SOUL ribbon	todo
+NOINST/ui/graphics/sys_000_001.d2c_1b140	512	256	1	logo	幕末 (logo kanji, large white)	todo
+NOINST/ui/graphics/sys_000_001.d2c_3b320	512	256	1	logo	幕末Rock logo (kanji 幕末 over Rock)	todo
+NOINST/ui/graphics/sys_001_011.d2c_21d64	64	32	18	label	決定 (confirm)	todo
+NOINST/ui/graphics/sys_001_011.d2c_22544	128	32	18	label	項目選択 (select item)	todo
+NOINST/ui/graphics/sys_001_011.d2c_432e4	128	32	2	menu	サウンド設定 (sound settings)	todo
+NOINST/ui/graphics/sys_002_001.d2c_102a8	128	32	2	title	メニュー (menu)	todo
+NOINST/ui/graphics/sys_003_001.d2c_158a0	256	64	1	title	難易度 (difficulty)	todo
+NOINST/ui/graphics/sys_003_001.d2c_17e90	128	32	5	label	初期設定 (default setting)	todo
+NOINST/ui/graphics/sys_003_001.d2c_1a320	256	32	1	title	ライブパート難易度選択 (live part difficulty select)	todo
+NOINST/ui/graphics/sys_004_001.d2c_c94c	128	32	1	title	チャプター選択 (chapter select)	todo
+NOINST/ui/graphics/sys_005_001.d2c_4c508	128	32	1	title	オプション (option)	todo
+NOINST/ui/graphics/sys_006_001.d2c_15edc	256	64	1	menu	メッセージ速度 (message speed)	todo
+NOINST/ui/graphics/sys_006_001.d2c_17fcc	256	64	1	menu	スキップ設定 (skip setting)	todo
+NOINST/ui/graphics/sys_006_001.d2c_1a0bc	256	64	1	menu	オート速度 (auto speed)	todo
+NOINST/ui/graphics/sys_006_001.d2c_1eb1c	128	32	1	label	ゲーム設定 (game settings)	todo
+NOINST/ui/graphics/sys_006_001.d2c_1f40c	256	64	1	menu	スキップ速度 (skip speed)	todo
+NOINST/ui/graphics/sys_006_002.d2c_1530	32	32	1	label	遅 (slow)	todo
+NOINST/ui/graphics/sys_006_002.d2c_1820	32	32	1	label	速 (fast)	todo
+NOINST/ui/graphics/sys_006_004.d2c_26a4	64	32	1	label	既読 (read only)	todo
+NOINST/ui/graphics/sys_006_004.d2c_2b94	64	32	1	label	強制 (force/all)	todo
+NOINST/ui/graphics/sys_007_001.d2c_15efc	256	64	1	menu	BGM音量 (BGM volume)	todo
+NOINST/ui/graphics/sys_007_001.d2c_17fec	256	64	1	menu	SE音量 (SE volume)	todo
+NOINST/ui/graphics/sys_007_001.d2c_1a0dc	256	64	1	menu	システム音量 (system volume)	todo
+NOINST/ui/graphics/sys_007_001.d2c_1c1cc	256	64	1	menu	ボイス音量 (voice volume)	todo
+NOINST/ui/graphics/sys_007_002.d2c_1380	32	32	1	label	小 (low)	todo
+NOINST/ui/graphics/sys_007_002.d2c_1670	32	32	1	label	大 (high)	todo
+NOINST/ui/graphics/sys_008_001.d2c_1d408	512	64	1	menu	メッセージ送り (advance message)	todo
+NOINST/ui/graphics/sys_008_001.d2c_214f8	512	64	1	menu	システムメニューを開く (open system menu)	todo
+NOINST/ui/graphics/sys_008_001.d2c_255e8	256	64	1	menu	スキップモード (skip mode)	todo
+NOINST/ui/graphics/sys_008_001.d2c_276d8	256	64	1	menu	オートモード (auto mode)	todo
+NOINST/ui/graphics/sys_008_001.d2c_297e8	256	64	1	menu	クイックセーブ (quick save)	todo
+NOINST/ui/graphics/sys_008_001.d2c_2b8d8	256	64	1	menu	クイックロード (quick load)	todo
+NOINST/ui/graphics/sys_008_001.d2c_32428	128	32	1	title	キーコンフィグ (key config)	todo
+NOINST/ui/graphics/sys_009_001.d2c_19000	256	64	1	menu	インストールデータ使用 (use install data)	todo
+NOINST/ui/graphics/sys_009_001.d2c_1b0f0	256	64	1	menu	インストールする (install)	todo
+NOINST/ui/graphics/sys_009_001.d2c_1d1e0	256	64	1	menu	データ削除 (delete data)	todo
+NOINST/ui/graphics/sys_009_001.d2c_21c40	128	32	1	title	データ管理 (data management)	todo
+NOINST/ui/graphics/sys_010_001.d2c_21780	512	128	1	menu	超魂ROCKstory (Ultra Soul ROCK story)	todo
+NOINST/ui/graphics/sys_010_001.d2c_29870	512	128	1	menu	データ連動 (data link)	todo
+NOINST/ui/graphics/sys_011_001.d2c_45e8c	128	32	1	title	特典 (extras/bonus)	todo
+NOINST/ui/graphics/sys_012_001.d2c_14138	64	32	2	label	ソート (sort)	todo
+NOINST/ui/graphics/sys_012_001.d2c_14918	128	32	5	label	ページスキップ (page skip)	todo
+NOINST/ui/graphics/sys_012_001.d2c_165c8	128	32	1	title	イベントギャラリー (event gallery)	todo
+NOINST/ui/graphics/sys_012_004.d2c_1e50	128	32	1	label	ヘルプ表示/非表示 (show/hide help)	todo
+NOINST/ui/graphics/sys_012_004.d2c_2a50	128	32	1	label	キャンセル (cancel)	todo
+NOINST/ui/graphics/sys_013_001.d2c_1a2d0	128	32	1	title	ムービーギャラリー (movie gallery)	todo
+NOINST/ui/graphics/sys_013_001.d2c_28fa0	128	64	1	logo	movie thumbnail with 幕末Rock logo (kanji 幕末)	todo
+NOINST/ui/graphics/sys_014_001.d2c_143d0	128	32	1	title	スキット (skit)	todo
+NOINST/ui/graphics/sys_015_001.d2c_12914	64	32	1	label	停止 (stop)	todo
+NOINST/ui/graphics/sys_015_001.d2c_12e04	128	32	1	title	サウンドトラック (soundtrack)	todo
+NOINST/ui/graphics/sys_015_001.d2c_fd74	256	32	1	label	再生/一時停止 (play/pause)	todo
+NOINST/ui/graphics/sys_017_001.d2c_48ff0	256	32	1	menu	チャプター選択に戻る (return to chapter select)	todo
+NOINST/ui/graphics/sys_018_001.d2c_85bb8	64	32	2	label	進む (proceed)	todo
+NOINST/ui/graphics/sys_018_001.d2c_860c8	64	16	1	label	リトライ (retry)	todo
+NOINST/ui/graphics/sys_020_001.d2c_222d4	128	32	1	title	プロフィール (profile)	todo
+NOINST/ui/graphics/sys_020_002.d2c_402ec	256	32	1	label	キャラクター切り替え (switch character)	todo
+NOINST/ui/graphics/sys_022_000.d2c_16010	32	16	2	label	選択 (select)	todo
+NOINST/ui/graphics/sys_022_000.d2c_85e0	256	128	1	menu	break screen atlas: NEXT 次へ進む / TITLE タイトルへ / BREAK 小休止	todo
+NOINST/ui/graphics/sys_023_000.d2c_c6c8	32	16	1	label	決定 (confirm)	todo
+NOINST/ui/graphics/sys_444_001.d2c_d354	128	32	1	title	難易度選択 (difficulty select)	todo
+NOINST/ui/graphics/sys_444_001.d2c_dc44	128	32	1	title	ライブ選択 (live select)	todo
+NOINST/ui/graphics/sys_444_006.d2c_73f68	128	32	1	label	< 超魂 > (difficulty selector, Ultra Soul)	todo

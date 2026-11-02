@@ -2,7 +2,27 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8 (QA in the emulator) next. **Phase 7 done** (2026-11-03): build green.
+- **Phase:** 8 (QA in the emulator) **in progress** (2026-11-03).
+  - Phase 7 review fixed (45f77d0): isodiff checks dir/PVD bytes, unedited extents, the appended tail;
+    `tests/test_build_en.py` builds the English ISO from `script/` (read-back included) + a negative dir-record test;
+    `insert.py plan` log crash.
+  - **Graphics pipeline** `tools/gfx.py`: `gfx/text.tsv` (key, style, en, opts) -> `gen` renders `gfx/<key>.png`
+    (fonts/: Anton, Bangers, Archivo Black, PT Serif Bold; styles in `gfx.STYLES`; opts keep/erase/flat/smear/clear/
+    box/rot/glow/maxsize/fill/stroke; repeated key = several labels in one image; `PAGE:<file>` = a picture cut into
+    32-px strips) -> `build.edits()` encodes each PNG into its GIM and writes every copy (`work/gim/index.tsv`).
+    `gfx.py show OUT GLOB` (orig|new sheet), `gfx.py info GLOB` (colour rects). `tests/test_gfx.py`.
+  - Done (rows in text.tsv): all sys_* menus/labels/titles, chapter cards ui_tit_101-113, unlock notices adv_300-302,
+    quick-save prompt, FANS UP, ADV end-menu buttons adv_002, break screen, pause items, song title logos gam_200,
+    HOW TO PLAY panels + manual page (sys_021), hint bars, 88 soul-word tiles gam_605-692 (English ruby word split
+    over the tiles). In game ok: option_text/sound/data, story_menu, chapter_enter (card "Chapter 1 / Destiny,
+    Fate, / Rock of Passion").
+  - **Left in phase 8:** SFX (292 rows: adv_250-399/450/600-615 pieces = one word per file, letters animated; plan:
+    romaji per kana piece, dakuten pieces blank + voiced base, whole-word files get English SFX), adv_008 fan medals
+    (1万..5万 -> 10K..), ci_22 秘 seal, chr_18 眠り, signs/captions (adv_050/051 narration strips!, bg_* signs,
+    adv_220 name banner, adv_501/502), then the warp tour `--all` + visual-QA verdicts (`qa_gate.py`), jp_left.
+  - Text QA note: ch1_end shows "Besides, your playing got a real / Feel / to it" with "Feel" on its own indented
+    line (check the entry / emphasis code).
+- **Phase 7 done** (2026-11-03): build green.
   - `tools/lint.py` over every `script/` entry (in `tools/check.py` via `tests/test_lint.py`): ADV px/lines, byte
     slots, control codes, non-ASCII/leftover JP, glossary (on the unwrapped text), ordinals, blanks, one-word last
     lines; `script/keep_jp.txt` (play/* lyrics, D13). 0 errors.

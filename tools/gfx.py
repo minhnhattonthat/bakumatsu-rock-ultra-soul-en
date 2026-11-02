@@ -34,6 +34,7 @@ STYLES = {
     'sfx': dict(font_name='Bangers-Regular.ttf', stroke=(3, BLACK)),            # manga sound effects
     'banner': dict(font_name='Anton-Regular.ttf', stroke=(2, BLACK)),
     'notice': dict(font_name='Anton-Regular.ttf', fill=(40, 16, 24, 255), align='c'),   # dark text on a light bar
+    'soul': dict(font_name='Anton-Regular.ttf', align='c', maxsize=64),                 # glowing rhythm-game soul words (glow=)
     'body': dict(font_name='PT_Serif-Web-Bold.ttf', fill=(20, 20, 20, 255), align='l'),   # tutorial/manual body text
     'plain': dict(font_name='ArchivoBlack-Regular.ttf'),
 }
@@ -163,6 +164,8 @@ def render(key, style, en, opts, base=None):
         st['fill'] = tuple(int(c[i:i + 2], 16) for i in (0, 2, 4)) + (255,)
     if 'size' in opts:
         st['size'] = int(opts['size'][0])
+    if 'maxsize' in opts:   # cap: keeps a run of tiles (one word split over several) the same letter size
+        st['maxsize'] = int(opts['maxsize'][0])
     if 'box' in opts:
         box = _rect(opts['box'][0])
     else:   # the original lettering's bbox, widened to the canvas edge on the side it is not anchored to
@@ -180,6 +183,15 @@ def render(key, style, en, opts, base=None):
         align = 'c' if 'box' in opts or rot or abs(x0 - (w - x1)) <= 6 else ('l' if x0 < w - x1 else 'r')
     valign = opts.get('valign', ['m'])[0]
     bx, by, bw, bh = box
+    glow = opts.get('glow', [None])[0]
+    if glow:   # neon lettering: the original halo's colour (auto) as the stroke and a blurred glow around it
+        if glow == 'auto':
+            from collections import Counter
+            c = Counter(p[:3] for p in orig.getdata() if 40 < p[3] < 220 and max(p[:3]) - min(p[:3]) > 40)
+            glow = '%02x%02x%02x' % (c.most_common(1)[0][0] if c else (255, 255, 255))
+        gc = tuple(int(glow[i:i + 2], 16) for i in (0, 2, 4))
+        st['stroke'] = (3, gc + (255,))
+        bw, bh, bx, by = bw - 16, bh - 16, bx + 8, by + 8   # room for the halo
     if rot:   # lay the text out along the strip, then turn it
         bw, bh = bh, bw
     ink = fit(en, bw, bh, align, **st)
@@ -188,11 +200,19 @@ def render(key, style, en, opts, base=None):
         bw, bh = bh, bw
     x = bx + {'l': 1, 'c': (bw - ink.width) // 2, 'r': bw - ink.width - 1}[align if not rot else 'c']
     y = by + {'t': 1, 'm': (bh - ink.height) // 2, 'b': bh - ink.height - 1}[valign if not rot else 'm']
+    if glow:
+        from PIL import ImageFilter
+        a = Image.new('L', img.size, 0)
+        a.paste(ink.split()[3], (max(x, 0), max(y, 0)))
+        a = a.filter(ImageFilter.MaxFilter(5)).filter(ImageFilter.GaussianBlur(5))
+        halo = Image.new('RGBA', img.size, gc + (0,))
+        halo.putalpha(a.point(lambda v: min(255, v * 2)))
+        img.alpha_composite(halo)
     img.alpha_composite(ink, (max(x, 0), max(y, 0)))
     return img
 
 
-def fit(text, bw, bh, align='c', size=None, **st):
+def fit(text, bw, bh, align='c', size=None, maxsize=None, **st):
     """The text's ink (cropped to its drawn pixels) at the largest size whose ink fits bw-2 x bh-2. Fitting the ink,
     not the font's line box, keeps Latin caps as tall as the kanji they replace."""
     import typeset
@@ -201,7 +221,7 @@ def fit(text, bw, bh, align='c', size=None, **st):
         return c.crop(c.getbbox() or (0, 0, 1, 1))
     if size:
         return ink(size)
-    s = int(bh * 1.6) + 2
+    s = min(int(bh * 1.6) + 2, maxsize or 999)
     while s > 6:
         i = ink(s)
         if i.width <= bw - 2 and i.height <= bh - 2:

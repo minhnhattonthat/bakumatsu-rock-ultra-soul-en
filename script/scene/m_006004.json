@@ -8,7 +8,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "はっ……私\\n眠ってたのかしら\\n総司さんが歌ってるのに",
-   "en": "",
+   "en": "Oh... Did I fall\\nasleep? While\\nSoji-san was\\nsinging?",
    "op": "0x62",
    "msg": "0x129d"
   },
@@ -18,7 +18,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "おおっ？\\n俺達はいつの間に\\n倒れてたんだ？",
-   "en": "",
+   "en": "Huh? When did\\nwe all collapse?",
    "op": "0x62",
    "msg": "0x129e"
   },
@@ -28,7 +28,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "何が\\nどうなってるんだ！　",
-   "en": "",
+   "en": "What on earth is\\ngoing on!?",
    "op": "0x62",
    "msg": "0x129f"
   },
@@ -38,7 +38,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "きゃあーっ\\n総司さん\\nステキー！",
-   "en": "",
+   "en": "Kyaaah! Soji-san,\\nyou're wonderful!",
    "op": "0x62",
    "msg": "0x12a0"
   },
@@ -48,7 +48,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "うおおおっ！\\n魂にずんと来るな！",
-   "en": "",
+   "en": "Whoaaa! That hits\\nme right in the\\nsoul!",
    "op": "0x62",
    "msg": "0x12a1"
   },
@@ -58,7 +58,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "ええぞ　ソウちん！",
-   "en": "",
+   "en": "Way to go,\\nSo-chin!",
    "op": "0x62",
    "msg": "0x12a2"
   },
@@ -68,7 +68,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "うん\\nみんな正気に戻ったね",
-   "en": "",
+   "en": "Yeah. Everyone's\\nback to their\\nsenses.",
    "op": "0x62",
    "msg": "0x12a3"
   },
@@ -78,7 +78,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "聴いてくれましたか？\\n近藤さん……",
-   "en": "",
+   "en": "Did you hear me,\\nKondo-san...?",
    "op": "0x62",
    "msg": "0x12a4"
   },
@@ -88,7 +88,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "よくやった　総司\\n井伊を追うぞ",
-   "en": "",
+   "en": "Well done, Soji.\\nWe're going after\\nIi.",
    "op": "0x62",
    "msg": "0x12a5"
   },
@@ -98,7 +98,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "土方さん",
-   "en": "",
+   "en": "Hijikata-san...",
    "op": "0x62",
    "msg": "0x12be"
   },
@@ -108,7 +108,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "井伊を追おうとする\\n土方だったが\\n傷ついた桂たちを見て\\n思いとどまった",
-   "en": "",
+   "en": "Hijikata moved to\\npursue Ii, but\\nwhen he saw\\nKatsura and the\\nothers wounded,\\nhe held back.",
    "op": "0x62",
    "msg": "0x12c4"
   },
@@ -118,7 +118,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "……\\n一度　態勢を立て直す！",
-   "en": "",
+   "en": "...We regroup!",
    "op": "0x62",
    "msg": "0x12bf"
   },
@@ -128,7 +128,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "井伊が戻ってくると厄介だ\\nすぐにこの場を去るぞ！",
-   "en": "",
+   "en": "If Ii comes back,\\nwe're in trouble.\\nWe leave this\\nplace now!",
    "op": "0x62",
    "msg": "0x12a6"
   },
@@ -138,7 +138,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "おう　皆で逃げよう！",
-   "en": "",
+   "en": "Right, let's all get\\noutta here!",
    "op": "0x62",
    "msg": "0x12a7"
   },
@@ -148,7 +148,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "うう……",
-   "en": "",
+   "en": "Ugh...",
    "op": "0x62",
    "msg": "0x12a8"
   },
@@ -158,7 +158,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "メガネくん\\n僕につかまって",
-   "en": "",
+   "en": "Glasses-kun, hold\\non to me.",
    "op": "0x62",
    "msg": "0x12a9"
   },
@@ -168,7 +168,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "オレ様は助けなんぞ\\nいらねぇからなっ",
-   "en": "",
+   "en": "Yours truly\\ndoesn't need\\nanybody's help,\\ngot it!?",
    "op": "0x62",
    "msg": "0x12aa"
   },
@@ -178,7 +178,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "スカシくんは　最初から\\n手助けする気はないよー",
-   "en": "",
+   "en": "Don't worry, Mr.\\nPoser, I never\\nplanned on\\nhelping you in\\nthe first place~",
    "op": "0x62",
    "msg": "0x12ab"
   },
@@ -188,7 +188,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "なんだとっ！　ちっ\\nいつもの調子に戻り\\nやがったな……フン",
-   "en": "",
+   "en": "What was that!?\\nTch... He's back to\\nhis old self, damn\\nhim... Hmph.",
    "op": "0x62",
    "msg": "0x12ac"
   },
@@ -198,7 +198,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "シンディ\\nこっからさっさと\\n逃げるぞ！",
-   "en": "",
+   "en": "Shindy! Let's\\nhightail it outta\\nhere!",
    "op": "0x62",
    "msg": "0x12ad"
   },
@@ -208,7 +208,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "おう！\\nほら　手を貸せ",
-   "en": "",
+   "en": "Right! Here, give\\nme your arm.",
    "op": "0x62",
    "msg": "0x12ae"
   },
@@ -218,7 +218,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "うおっ？\\nシンディ\\nなにをするんじゃ？",
-   "en": "",
+   "en": "Whoa!? Shindy,\\nwhat're ya doin'?",
    "op": "0x62",
    "msg": "0x12af"
   },
@@ -228,7 +228,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "オレ様がお前を支えて\\nやるっつってんだ",
-   "en": "",
+   "en": "I'm saying the\\ngreat Takasugi is\\ngonna hold you\\nup!",
    "op": "0x62",
    "msg": "0x12b0"
   },
@@ -238,7 +238,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "動けなくなってたのに\\n平気なのか？",
-   "en": "",
+   "en": "You couldn't even\\nmove a minute\\nago. You sure\\nyou're okay?",
    "op": "0x62",
    "msg": "0x12b1"
   },
@@ -248,7 +248,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "だから\\nオレ様は大丈夫だって\\n言ってるだろうが！",
-   "en": "",
+   "en": "I told you, yours\\ntruly is fine,\\ndammit!",
    "op": "0x62",
    "msg": "0x12b2"
   },
@@ -258,7 +258,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "そうか\\nすまんな\\nシンディ",
-   "en": "",
+   "en": "Oh, right. Sorry\\n'bout that, Shindy.",
    "op": "0x62",
    "msg": "0x12b3"
   },
@@ -268,7 +268,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "……お互い様\\nなんだよっ！",
-   "en": "",
+   "en": "...We're even,\\nthat's all!",
    "op": "0x62",
    "msg": "0x12b4"
   },
@@ -278,7 +278,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "近藤を抱えた土方に\\n桂を支えた沖田が続く",
-   "en": "",
+   "en": "Hijikata, carrying\\nKondo, was\\nfollowed by Okita,\\nwho supported\\nKatsura.",
    "op": "0x62",
    "msg": "0x12b5"
   },
@@ -288,7 +288,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "高杉に肩を借りた龍馬が\\nその後に続き――",
-   "en": "",
+   "en": "Behind them\\ncame Ryoma,\\nleaning on\\nTakasugi's\\nshoulder--",
    "op": "0x62",
    "msg": "0x12b6"
   },
@@ -298,7 +298,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "まだ幾人か倒れている\\n観客を縫うようにして\\n走り去った",
-   "en": "",
+   "en": "and weaving\\nbetween the\\nspectators who\\nstill lay collapsed\\nhere and there,\\nthey ran off.",
    "op": "0x62",
    "msg": "0x12b7"
   },
@@ -308,7 +308,7 @@
    "max": 96,
    "kind": "dialogue",
    "jp": "暗く澱んでいた会場上空の\\n雲間からは薄く光が差し\\n天へと続く梯子のように\\n光を煌めかせていた",
-   "en": "",
+   "en": "Above the venue,\\nthrough the dark,\\nstagnant clouds,\\npale light broke\\nthrough,\\nglittering like a\\nladder that led up\\nto the heavens.",
    "op": "0x62",
    "msg": "0x12b8"
   }

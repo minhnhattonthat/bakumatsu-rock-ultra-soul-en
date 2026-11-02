@@ -1308,7 +1308,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "……ふっ",
-   "en": "",
+   "en": "...Heh.",
    "op": "0x62",
    "msg": "0x0976"
   },
@@ -1318,7 +1318,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "あっ　やっぱり笑……",
-   "en": "",
+   "en": "Ah, you DID\\nlaugh...",
    "op": "0x62",
    "msg": "0x0977"
   },
@@ -1328,7 +1328,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "痛ーっ！　またぶった！\\nいいかげん泣きますよ？\\nいいんですか",
-   "en": "",
+   "en": "Owww! You hit\\nme again! I'm\\nreally gonna cry,\\nyou know? Is that\\nwhat you want?",
    "op": "0x62",
    "msg": "0x0978"
   },
@@ -1338,7 +1338,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "沖田の涙の訴えに\\n近藤が笑い\\n土方は無表情を返す",
-   "en": "",
+   "en": "At Okita's tearful\\nplea, Kondo\\nlaughed, and\\nHijikata answered\\nwith a blank face.",
    "op": "0x62",
    "msg": "0x0979"
   },
@@ -1348,7 +1348,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "それは　新選組で\\nよく見られる\\n一幕であった",
-   "en": "",
+   "en": "It was a scene\\noften seen in the\\nShinsengumi.",
    "op": "0x62",
    "msg": "0x097a"
   },
@@ -1358,7 +1358,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "そんな彼らの背後で\\nひそかに　運命の歯車が\\n回り始めたことを",
-   "en": "",
+   "en": "Behind them, the\\nwheels of fate\\nhad quietly begun\\nto turn...",
    "op": "0x62",
    "msg": "0x097b"
   },
@@ -1368,7 +1368,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "まだ\\n誰も知らない――",
-   "en": "",
+   "en": "...but no one knew\\nit yet--",
    "op": "0x62",
    "msg": "0x097c"
   }

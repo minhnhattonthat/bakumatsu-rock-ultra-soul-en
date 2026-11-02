@@ -8,7 +8,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "高杉の歌に吉田松陰は\\n舞台に崩れ落ちた",
-   "en": "",
+   "en": "At Takasugi's\\nsong, Shoin\\nYoshida crumpled\\nonto the stage.",
    "op": "0x62",
    "msg": "0x161d"
   },
@@ -18,7 +18,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "うつろに譫言を繰り返す\\n松陰をみんなが見守る",
-   "en": "",
+   "en": "Everyone watched\\nover Shoin as he\\nmumbled again\\nand again in a\\ndaze.",
    "op": "0x62",
    "msg": "0x1674"
   },
@@ -28,7 +28,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "松陰が再び元にもどって\\n自分達の所へ\\n帰ってくることを\\nひたすらに願って",
-   "en": "",
+   "en": "They prayed with\\nall their hearts\\nthat Shoin would\\nreturn to himself\\nand come back to\\nthem.",
    "op": "0x62",
    "msg": "0x1675"
   },
@@ -38,7 +38,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "わしの……歌……",
-   "en": "",
+   "en": "My... song...",
    "op": "0x62",
    "msg": "0x161e"
   },
@@ -48,7 +48,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "違う……\\nこれではない……",
-   "en": "",
+   "en": "No... This isn't it...",
    "op": "0x62",
    "msg": "0x161f"
   },
@@ -58,7 +58,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "来てるっ　来ておるぞっ",
-   "en": "",
+   "en": "It's coming! It's\\ncoming, I tell you!",
    "op": "0x62",
    "msg": "0x1620"
   },
@@ -68,7 +68,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "テンちゃん\\n大丈夫なのか？",
-   "en": "",
+   "en": "Ten-chan, you\\nsure you're okay?",
    "op": "0x62",
    "msg": "0x1621"
   },
@@ -78,7 +78,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "あとはワシに\\n任せておけ！",
-   "en": "",
+   "en": "Leave the rest to\\nme, lad!",
    "op": "0x62",
    "msg": "0x1622"
   },
@@ -88,7 +88,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "わしの歌……には\\nない……もの",
-   "en": "",
+   "en": "What my song...\\nwas missing...",
    "op": "0x62",
    "msg": "0x1623"
   },
@@ -98,7 +98,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "晋作の歌には\\nそれがあった……",
-   "en": "",
+   "en": "Shinsaku's song...\\nhad it...",
    "op": "0x62",
    "msg": "0x1624"
   },
@@ -108,7 +108,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "わしの歌に……\\n足りないものは……",
-   "en": "",
+   "en": "What my song...\\nlacked...",
    "op": "0x62",
    "msg": "0x1625"
   },
@@ -118,7 +118,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "ロックです！",
-   "en": "",
+   "en": "It's rock!",
    "op": "0x62",
    "msg": "0x1626"
   },
@@ -128,7 +128,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "ロック！",
-   "en": "",
+   "en": "Rock!",
    "op": "0x62",
    "msg": "0x1627"
   },
@@ -138,7 +138,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "そうか……\\nそうじゃった……！",
-   "en": "",
+   "en": "Ah... of course.\\nThat was it...!",
    "op": "0x62",
    "msg": "0x1628"
   },
@@ -148,7 +148,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "足りないものは……\\nロック",
-   "en": "",
+   "en": "What it lacked...\\nwas rock.",
    "op": "0x62",
    "msg": "0x1629"
   },
@@ -158,7 +158,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "思い出したようじゃな\\nショウ\\n本当の自分の歌を",
-   "en": "",
+   "en": "Looks like you've\\nremembered,\\nShow. Your own\\ntrue song.",
    "op": "0x62",
    "msg": "0x162a"
   },
@@ -168,7 +168,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "う……ああ……！",
-   "en": "",
+   "en": "Ngh... ahh...!",
    "op": "0x62",
    "msg": "0x162b"
   },
@@ -178,7 +178,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "行くぞ　ショウ！\\n今こそ我が身をひとつに！",
-   "en": "",
+   "en": "Here we go,\\nShow! Now we\\nbecome one again!",
    "op": "0x62",
    "msg": "0x162c"
   },
@@ -188,7 +188,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "合一（フュージョン）！",
-   "en": "",
+   "en": "Fusion!",
    "op": "0x62",
    "msg": "0x162d"
   },
@@ -198,7 +198,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "互いを弾き飛ばすほどの\\n勢いで　天狗が松陰に\\nぶつかった",
-   "en": "",
+   "en": "The Tengu\\nslammed into\\nShoin with\\nenough force to\\nsend them both\\nflying.",
    "op": "0x62",
    "msg": "0x162e"
   },
@@ -208,7 +208,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "だが　その後舞台に\\n残っていたのは\\n松陰の姿のみ",
-   "en": "",
+   "en": "But afterward,\\nthe only one left\\non the stage was\\nShoin.",
    "op": "0x62",
    "msg": "0x162f"
   },
@@ -218,7 +218,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "な　なんだあああ",
-   "en": "",
+   "en": "Wh-whaaaaat!?",
    "op": "0x62",
    "msg": "0x1630"
   },
@@ -228,7 +228,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "松陰先生の身体に\\n天狗の人が入った",
-   "en": "",
+   "en": "That Tengu\\nfellow went into\\nShoin-sensei's\\nbody!",
    "op": "0x62",
    "msg": "0x1631"
   },
@@ -238,7 +238,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "す　すげえ\\nどうなってんだ",
-   "en": "",
+   "en": "Wh-whoa... What\\nthe hell just\\nhappened?",
    "op": "0x62",
    "msg": "0x1632"
   },
@@ -248,7 +248,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "ふうう……",
-   "en": "",
+   "en": "Phewww...",
    "op": "0x62",
    "msg": "0x1633"
   },
@@ -258,7 +258,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "ようやく元に戻ったな",
-   "en": "",
+   "en": "Ahh, at long last,\\nI'm myself again.",
    "op": "0x62",
    "msg": "0x1634"
   },
@@ -268,7 +268,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "天狗のおじさんと\\n合体しちゃったの？",
-   "en": "",
+   "en": "You merged with\\nthe old Tengu\\nguy?",
    "op": "0x62",
    "msg": "0x1635"
   },
@@ -278,7 +278,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "そうじゃ　合体して\\n元に戻ったんじゃよ",
-   "en": "",
+   "en": "That's right. We\\nmerged, and I'm\\nmyself again, lad.",
    "op": "0x62",
    "msg": "0x1636"
   },
@@ -288,7 +288,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "元に戻った……",
-   "en": "",
+   "en": "Back to himself...",
    "op": "0x62",
    "msg": "0x1637"
   },
@@ -298,7 +298,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "どういうことですか？",
-   "en": "",
+   "en": "What do you\\nmean?",
    "op": "0x62",
    "msg": "0x1638"
   },
@@ -308,7 +308,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "天狗はわしが井伊に\\n洗脳される瞬間に\\n切り離した良き心じゃ",
-   "en": "",
+   "en": "The Tengu was\\nmy good heart,\\ncut loose the very\\nmoment Ii\\nbrainwashed me.",
    "op": "0x62",
    "msg": "0x1639"
   },
@@ -318,7 +318,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "わしがむざむざ\\nやられるはずは\\nないじゃろう",
-   "en": "",
+   "en": "You didn't think\\nI'd go down\\nwithout a fight,\\ndid you, lads?",
    "op": "0x62",
    "msg": "0x163a"
   },
@@ -328,7 +328,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "だから　テンちゃんは\\nわしに色々して\\nくれたのか",
-   "en": "",
+   "en": "So that's why\\nTen-chan did all\\nthat stuff for me!",
    "op": "0x62",
    "msg": "0x163b"
   },
@@ -338,7 +338,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "さすがはセンセーの先生！\\nやるなあ！",
-   "en": "",
+   "en": "That's Sensei's\\nsensei for ya!\\nNice work!",
    "op": "0x62",
    "msg": "0x163c"
   },
@@ -348,7 +348,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "本当に元に戻ったんですね",
-   "en": "",
+   "en": "You really are\\nback to yourself.",
    "op": "0x62",
    "msg": "0x163d"
   },
@@ -358,7 +358,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "すまんかったのう\\nみんな\\n心配かけた",
-   "en": "",
+   "en": "Sorry about all\\nthat, everyone. I\\nmade you worry.",
    "op": "0x62",
    "msg": "0x163e"
   },
@@ -368,7 +368,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "松陰先生……\\nオレ様……オレは……！",
-   "en": "",
+   "en": "Shoin-sensei...\\nYours truly... I...!",
    "op": "0x62",
    "msg": "0x163f"
   },
@@ -378,7 +378,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "晋作や皆の魂\\nしかとわしに届いたぞ",
-   "en": "",
+   "en": "Shinsaku, your\\nsoul and\\neveryone's\\nreached me loud\\nand clear.",
    "op": "0x62",
    "msg": "0x1640"
   },
@@ -388,7 +388,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "松陰先生ーーーっ",
-   "en": "",
+   "en": "Shoin-senseiiiii!",
    "op": "0x62",
    "msg": "0x1641"
   },
@@ -398,7 +398,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "龍馬達と一緒になって\\nお前も成長したようじゃ",
-   "en": "",
+   "en": "Being with Ryoma\\nand the others\\nhas helped you\\ngrow too, it\\nseems, my boy.",
    "op": "0x62",
    "msg": "0x1642"
   },
@@ -408,7 +408,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "ありがとうございますっ",
-   "en": "",
+   "en": "Thank you so\\nmuch!",
    "op": "0x62",
    "msg": "0x1643"
   },
@@ -418,7 +418,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "やった\\n松陰先生が元に戻った！",
-   "en": "",
+   "en": "We did it!\\nShoin-sensei is\\nback to himself!",
    "op": "0x62",
    "msg": "0x1644"
   },
@@ -428,7 +428,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "おおー！\\nこれはめでたいぜよ！",
-   "en": "",
+   "en": "Woohoo! Now this\\nis cause to\\ncelebrate!",
    "op": "0x62",
    "msg": "0x1645"
   },
@@ -438,7 +438,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "これからは先生も\\nオレ達と一緒に\\n雷舞ができるんですね！",
-   "en": "",
+   "en": "So from now on\\nyou can play a\\nlive with us too,\\nSensei!",
    "op": "0x62",
    "msg": "0x1646"
   },
@@ -448,7 +448,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "すまんが\\nそれはできんのじゃ",
-   "en": "",
+   "en": "I'm sorry, lad, but\\nthat I cannot do.",
    "op": "0x62",
    "msg": "0x1647"
   },
@@ -458,7 +458,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "ど　どうしてですか？\\nオレ達が未熟だから？",
-   "en": "",
+   "en": "Wh-why not?\\nBecause we're not\\ngood enough yet?",
    "op": "0x62",
    "msg": "0x1648"
   },
@@ -468,7 +468,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "もっと練習します！\\nオレ　先生に教わりたい\\nことが　たくさん――",
-   "en": "",
+   "en": "I'll practice\\nharder! There's so\\nmuch I want you\\nto teach me,\\nSensei--",
    "op": "0x62",
    "msg": "0x1649"
   },
@@ -478,7 +478,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "うろたえる高杉に\\n松陰が優しく\\nほほえみかける",
-   "en": "",
+   "en": "Shoin smiled\\ngently at the\\nflustered\\nTakasugi.",
    "op": "0x62",
    "msg": "0x164a"
   },
@@ -488,7 +488,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "同時に松陰の身体が\\n光に包まれ\\nふわりと浮いた",
-   "en": "",
+   "en": "At the same time,\\nShoin's body was\\nwrapped in light\\nand floated softly\\nupward.",
    "op": "0x62",
    "msg": "0x164b"
   },
@@ -498,7 +498,7 @@
    "max": 8,
    "kind": "dialogue",
    "jp": "先生",
-   "en": "",
+   "en": "Sensei...",
    "op": "0x62",
    "msg": "0x164c"
   },
@@ -508,7 +508,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "そんな顔をするな\\n晋作よ",
-   "en": "",
+   "en": "Don't make that\\nface, Shinsaku.",
    "op": "0x62",
    "msg": "0x164d"
   },
@@ -518,7 +518,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "わしの身体はな\\nもう命数を使い果たして\\nおるのじゃ",
-   "en": "",
+   "en": "You see, my body\\nhas already used\\nup all its allotted\\nyears.",
    "op": "0x62",
    "msg": "0x164e"
   },
@@ -528,7 +528,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "お前達のことが心配で\\n少々無理をして現世に\\n留まっておったのじゃが",
-   "en": "",
+   "en": "I was worried\\nabout you all, so I\\npushed myself a\\nlittle to stay in\\nthis world, but...",
    "op": "0x62",
    "msg": "0x164f"
   },
@@ -538,7 +538,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "お前達が　わしのロックを\\nきちんと受け継いでくれて\\nおった",
-   "en": "",
+   "en": "...you've all\\ninherited my\\nrock, every bit of\\nit.",
    "op": "0x62",
    "msg": "0x1650"
   },
@@ -548,7 +548,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "晋作　桂\\nそれに龍馬よ",
-   "en": "",
+   "en": "Shinsaku,\\nKatsura... and you\\ntoo, Ryoma.",
    "op": "0x62",
    "msg": "0x1651"
   },
@@ -558,7 +558,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "お前達は　もう一人前の\\n志士じゃ　いつしか\\nわしさえも越えるだろう",
-   "en": "",
+   "en": "You are all\\nfull-fledged\\nrebels now.\\nSomeday, you'll\\nsurpass even me.",
    "op": "0x62",
    "msg": "0x1652"
   },
@@ -568,7 +568,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "そんな\\n先生　オレは……！",
-   "en": "",
+   "en": "No... Sensei, I...!",
    "op": "0x62",
    "msg": "0x1653"
   },
@@ -578,7 +578,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "わしは　役目を終えた\\n少し休ませてもらうぞ",
-   "en": "",
+   "en": "I've done my part.\\nI'll be taking a\\nlittle rest now,\\nlad.",
    "op": "0x62",
    "msg": "0x1654"
   },
@@ -588,7 +588,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "松陰の身体を包む光が\\nどんどんと強くなっていく",
-   "en": "",
+   "en": "The light\\nwrapped around\\nShoin's body grew\\nbrighter and\\nbrighter.",
    "op": "0x62",
    "msg": "0x1655"
   },
@@ -598,7 +598,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "さらばだ\\n愛しい弟子達よ……",
-   "en": "",
+   "en": "Farewell, my\\nbeloved\\ndisciples...",
    "op": "0x62",
    "msg": "0x1656"
   },
@@ -608,7 +608,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "先生\\nうううっ……",
-   "en": "",
+   "en": "Sensei... Nnngh...",
    "op": "0x62",
    "msg": "0x1657"
   },
@@ -618,7 +618,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "そして松陰の魂は\\n光の粒となって\\n天へと昇っていった",
-   "en": "",
+   "en": "And then Shoin's\\nsoul became\\nparticles of light\\nand rose up to\\nthe heavens.",
    "op": "0x62",
    "msg": "0x1658"
   },
@@ -628,7 +628,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "松陰先生……\\nあとは任せてください",
-   "en": "",
+   "en": "Shoin-sensei...\\nLeave the rest to\\nus.",
    "op": "0x62",
    "msg": "0x1659"
   },
@@ -638,7 +638,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "先生の教えは\\n先生のロックは\\n決して忘れません",
-   "en": "",
+   "en": "Your teachings...\\nyour rock... I'll\\nnever forget\\nthem.",
    "op": "0x62",
    "msg": "0x165a"
   },
@@ -648,7 +648,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "私達は　必ず幕府を倒し\\n自由に歌が歌える世界を\\n取り戻します",
-   "en": "",
+   "en": "We will bring\\ndown the\\nshogunate\\nwithout fail, and\\ntake back a world\\nwhere songs can\\nbe sung freely.",
    "op": "0x62",
    "msg": "0x165b"
   },
@@ -658,7 +658,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "モジャモジャの先生\\n笑いながら天に帰って\\nいったぜよ……",
-   "en": "",
+   "en": "The Shaggy\\nSensei went back\\nup to heaven with\\na smile, y'know...",
    "op": "0x62",
    "msg": "0x165c"
   },
@@ -668,7 +668,7 @@
    "max": 100,
    "kind": "dialogue",
    "jp": "松陰との別れの余韻に\\n浸っていた龍馬達は\\n背後に黒い影が\\n忍び寄っていることに\\n気付いていなかった",
-   "en": "",
+   "en": "Lost in the\\nafterglow of their\\nfarewell to Shoin,\\nRyoma and the\\nothers didn't\\nnotice a dark\\nshadow creeping\\nup behind them.",
    "op": "0x62",
    "msg": "0x165d"
   },
@@ -678,7 +678,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "危ないっ！\\n坂本",
-   "en": "",
+   "en": "Look out!\\nSakamoto!",
    "op": "0x62",
    "msg": "0x165e"
   },
@@ -688,7 +688,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "はぐっ",
-   "en": "",
+   "en": "Hngh!",
    "op": "0x62",
    "msg": "0x165f"
   },
@@ -698,7 +698,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "トサカくん",
-   "en": "",
+   "en": "Tosaka-kun!",
    "op": "0x62",
    "msg": "0x1660"
   },
@@ -708,7 +708,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "いきなり舞台に現れた\\n影が　龍馬を攫って行く",
-   "en": "",
+   "en": "The shadow that\\nhad suddenly\\nappeared on\\nstage carried\\nRyoma off.",
    "op": "0x62",
    "msg": "0x1661"
   },
@@ -718,7 +718,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "しまった！",
-   "en": "",
+   "en": "Damn it!",
    "op": "0x62",
    "msg": "0x1662"
   },
@@ -728,7 +728,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "なにしやがるっ！\\n待て！",
-   "en": "",
+   "en": "What the hell are\\nyou doing!? Wait!",
    "op": "0x62",
    "msg": "0x1663"
   },
@@ -738,7 +738,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "龍馬くんっ！",
-   "en": "",
+   "en": "Ryoma-kun!",
    "op": "0x62",
    "msg": "0x1664"
   },
@@ -748,7 +748,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "追いかけた\\n高杉たちの前に\\n何人もの武士が現れた",
-   "en": "",
+   "en": "As Takasugi and\\nthe others gave\\nchase, a crowd of\\nsamurai appeared\\nbefore them.",
    "op": "0x62",
    "msg": "0x1665"
   },
@@ -758,7 +758,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "それだけではない\\n今までじっと座っていた\\n観客達が立ちあがり",
-   "en": "",
+   "en": "And that wasn't\\nall. The audience,\\nwho had sat\\nperfectly still\\nuntil now, rose to\\ntheir feet...",
    "op": "0x62",
    "msg": "0x1666"
   },
@@ -768,7 +768,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "彼らの道をふさぐように\\n取り囲む",
-   "en": "",
+   "en": "...and surrounded\\nthem, as if to\\nblock their path.",
    "op": "0x62",
    "msg": "0x1667"
   },
@@ -778,7 +778,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "龍馬の姿はすでに\\nどこにも見えない",
-   "en": "",
+   "en": "Ryoma was\\nalready nowhere\\nto be seen.",
    "op": "0x62",
    "msg": "0x1668"
   },
@@ -788,7 +788,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "龍馬ぁぁぁぁ",
-   "en": "",
+   "en": "Ryomaaaaa!",
    "op": "0x62",
    "msg": "0x1669"
   },
@@ -798,7 +798,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "そんな……これ\\nまずいよ",
-   "en": "",
+   "en": "No way... This is\\nbad.",
    "op": "0x62",
    "msg": "0x166a"
   },
@@ -808,7 +808,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "考えるのは後だ",
-   "en": "",
+   "en": "Think later.",
    "op": "0x62",
    "msg": "0x166b"
   },
@@ -818,7 +818,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "いったん\\nここを離れるぞ",
-   "en": "",
+   "en": "We're pulling out\\nof here for now.",
    "op": "0x62",
    "msg": "0x166c"
   },
@@ -828,7 +828,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "で　でも龍馬くんが！",
-   "en": "",
+   "en": "B-but Ryoma-kun\\nis...!",
    "op": "0x62",
    "msg": "0x166d"
   },
@@ -838,7 +838,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "引き際を見誤るな\\nここで俺達まで捕まったら\\n誰が坂本を助けるんだ！",
-   "en": "",
+   "en": "Know when to\\nretreat. If they\\ncatch us too,\\nwho's going to\\nsave Sakamoto?",
    "op": "0x62",
    "msg": "0x166e"
   },
@@ -848,7 +848,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "土方さんの言うとおりだよ\\nここは退いた方がいい",
-   "en": "",
+   "en": "Hijikata-san's\\nright. We'd better\\nfall back.",
    "op": "0x62",
    "msg": "0x166f"
   },
@@ -858,7 +858,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "くっ……\\nわかりました",
-   "en": "",
+   "en": "Ngh... Very well.",
    "op": "0x62",
    "msg": "0x1670"
   },
@@ -868,7 +868,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "龍馬……\\n必ず助けてやるからな！",
-   "en": "",
+   "en": "Ryoma... I swear\\nI'll save you!",
    "op": "0x62",
    "msg": "0x1671"
   },
@@ -878,7 +878,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "行くぞ！\\n俺が道を開く！",
-   "en": "",
+   "en": "Let's go! I'll clear\\na path!",
    "op": "0x62",
    "msg": "0x1672"
   },
@@ -888,7 +888,7 @@
    "max": 104,
    "kind": "dialogue",
    "jp": "松陰を取り戻したものの\\n龍馬を捕らえられた四人は\\n助ける決意を胸に秘めながら\\n会場を離れるのだった――",
-   "en": "",
+   "en": "They had won\\nShoin back, but\\nRyoma had been\\ncaptured. Vowing\\nin their hearts to\\nrescue him, the\\nfour left the\\nhall--",
    "op": "0x62",
    "msg": "0x1673"
   }

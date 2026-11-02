@@ -8,7 +8,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "\\fnt1うぉぉー！\\nやっほーっ！\\fnt0",
-   "en": "",
+   "en": "\\fnt1Wooooh! Yahoooo!\\fnt0",
    "op": "0x62",
    "msg": "0x0bf4"
   },
@@ -18,7 +18,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "黙れ\\nうるさいぞ\\n龍馬",
-   "en": "",
+   "en": "Shut up. You're\\nnoisy, Ryoma.",
    "op": "0x62",
    "msg": "0x0bf5"
   },

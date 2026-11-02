@@ -89,7 +89,7 @@ an `Avoid` spelling fails. Name + honorific (龍馬さん) must come out as `Ryo
 | 幕府 | shogunate | | | bakufu |
 | 将軍 | shogun | | | |
 | 志士 | rebel | | 志士 = the loyalist activists; "three rebels" | shishi |
-| 大舞台 | audition | | when glossed （オーディション）; 大舞台会場 -> audition hall | |
+| 大舞台（オーディション） | audition | | glossed form enforced; bare 大舞台 = the audition in the story, or "a big stage" when literal; 大舞台会場 -> audition hall | |
 | 片魂 | Piece Soul | | 片魂（ピースソウル）, plural Piece Souls | |
 | 天歌師範 | Heaven's Song master | | | |
 | 黒船 | Black Ships | | 黒船来航 -> the arrival of the Black Ships | |
@@ -102,6 +102,9 @@ an `Avoid` spelling fails. Name + honorific (龍馬さん) must come out as `Ryo
 | 暗黒桜桃隊 | Dark Cherries | | the girls' unit, 暗黒桜桃隊（ダークチェリーズ） | Dark Cherry Corps |
 | 黄泉の歌姫 | Divas of the Underworld | | | |
 | スカシくん | Mr. Poser | | Okita's name for Takasugi | Dud-kun |
+| 苺慶喜 | cake | | ichigo keiki pun (慶喜 also reads Keiki): free adaptation, must say "cake" | |
+| ヨッシー | Yosshi | | Ryoma's nickname for Yoshinobu | |
+| ショウ | Show | | Shoin's stage name (Tengu, old rockers) | |
 | 御前試合 | Royal Concert | | 御前試合（ロイヤルコンサート） | |
 | 彦根 | Hikone | | Ii's domain | |
 | 見回り隊 | patrol | | 見回り隊探知機（レーダー） -> patrol radar | |
@@ -132,7 +135,10 @@ an `Avoid` spelling fails. Name + honorific (龍馬さん) must come out as `Ryo
   能天気 (pun on 上天気) "sunshine between the ears"; 玉子酒 egg sake; 流鏑馬 horseback archery; 二条城 Nijo Castle.
   スカシくん's スカ死 pun -> "From Poser to decomposer!". 愛獲三娘（ユニット） idol unit; 姐さん (to Oryo) Sis; ボウヤ
   (Oryo to Takasugi) boy; 痺れ玉 numbing bomb; 小柄 throwing knives; 合一（フュージョン） Fusion; ご家老様 (Oryo to Ii) my
-  lord; ゲーベル銃 Geweer rifle; 茶店（カフェ） cafe. "Oi" is British: Takasugi says "Hey". 烈シンギング -> "Let's SING!".
+  lord; ゲーベル銃 Geweer rifle; 茶店（カフェ） cafe. "Oi" is British: Takasugi says "Hey".
+  黄泉路の歌姫 the Diva of the Underworld; 幾松姐さん Sis Ikumatsu; 地下愛獲 underground idol; 看板娘 poster girls;
+  一人雷舞（ソロライブ） solo live; お白州 the court; 総ちゃん (Otose) So-chan; カイ (Katsu's old stage name) Kai; 勝先生
+  Katsu-sensei; ケツの穴の小せえ "tight-assed". 烈シンギング -> "Let's SING!".
 - 雷舞屋（ライブハウス） live house; 最高雷舞屋（メジャーライブハウス） major live house; 愛獲笑顔（アイドルスマイル） idol smile;
   癒声（ヒーリングボイス） healing voice; 雷光（スパーク） spark; 稽古（リハーサル） rehearsal; 稽古場（スタジオ） studio;
   エレキテル elekiter (エレキ electricity); 平賀源内 Gennai Hiraga; 超スベールＸ Super Slipperoo X; 隊士 troopers;

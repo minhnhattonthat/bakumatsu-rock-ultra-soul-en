@@ -8,7 +8,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "舞台にいた\\n新選組の面々は\\n観客と同じように\\n倒れていた",
-   "en": "",
+   "en": "The Shinsengumi\\nmembers on the\\nstage had\\ncollapsed, just\\nlike the audience.",
    "op": "0x62",
    "msg": "0x116f"
   },
@@ -18,7 +18,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "うう……\\n僕はいったい……",
-   "en": "",
+   "en": "Ugh... What...\\nhappened to\\nme...?",
    "op": "0x62",
    "msg": "0x1170"
   },
@@ -28,7 +28,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "なんだ……\\n体が……重くて……\\n動かない……",
-   "en": "",
+   "en": "What's... wrong...\\nMy body's... so\\nheavy... I can't\\nmove...",
    "op": "0x62",
    "msg": "0x1171"
   },
@@ -38,7 +38,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "気が遠く……なりそう",
-   "en": "",
+   "en": "I feel like... I'm\\ngoing to pass\\nout...",
    "op": "0x62",
    "msg": "0x1172"
   },
@@ -48,7 +48,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "かろうじて生きているのか\\n生きているのなら\\nまだ使い道はある",
-   "en": "",
+   "en": "So he's barely\\nalive, is he? Well,\\nif he lives, he still\\nhas his uses.",
    "op": "0x62",
    "msg": "0x1173"
   },
@@ -58,7 +58,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "シャンとするんじゃ\\nソウちん！\\n気を失ったらいかん！",
-   "en": "",
+   "en": "Pull yourself\\ntogether, So-chin!\\nDon't you dare\\npass out!",
    "op": "0x62",
    "msg": "0x1174"
   },
@@ -68,7 +68,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "トサカくん……",
-   "en": "",
+   "en": "Tosaka-kun...",
    "op": "0x62",
    "msg": "0x1175"
   },
@@ -78,7 +78,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "ええか　ソウちん\\nしっかり聞いてくれ",
-   "en": "",
+   "en": "Listen, So-chin.\\nHear me out, now.",
    "op": "0x62",
    "msg": "0x1176"
   },
@@ -88,7 +88,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "良い心も　悪い心も\\nどっちも人の心じゃ",
-   "en": "",
+   "en": "A good heart and\\na wicked heart...\\nthey're both\\nhuman hearts.",
    "op": "0x62",
    "msg": "0x1177"
   },
@@ -98,7 +98,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "苦しみを　悲しみを\\n背負って生きていくのは\\n誰だって辛い",
-   "en": "",
+   "en": "Livin' while\\ncarryin' pain and\\nsadness is hard\\non anybody.",
    "op": "0x62",
    "msg": "0x1178"
   },
@@ -108,7 +108,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "でも　それを分かち合い\\n癒すために\\nわしらは歌うんじゃろ",
-   "en": "",
+   "en": "But that's why we\\nsing, ain't it? To\\nshare that load\\nand heal it.",
    "op": "0x62",
    "msg": "0x1179"
   },
@@ -118,7 +118,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "ソウちんの悲しみを\\nわしにも　ちぃとばかり\\n背負わせてくれんか？",
-   "en": "",
+   "en": "So-chin, won't you\\nlet me carry just a\\nlittle bit of your\\nsadness too?",
    "op": "0x62",
    "msg": "0x117a"
   },
@@ -128,7 +128,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "代わりにわしのバカを\\nソウちんにも分けて\\nやるぜよ……",
-   "en": "",
+   "en": "In exchange, I'll\\nshare some of my\\nfoolishness with\\nyou, So-chin...",
    "op": "0x62",
    "msg": "0x117b"
   },
@@ -138,7 +138,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "だから\\n目を覚ますぜよ\\nソウちん！",
-   "en": "",
+   "en": "So wake up,\\nSo-chin!",
    "op": "0x62",
    "msg": "0x117c"
   },
@@ -148,7 +148,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "僕は……\\n歌の力に酔いしれて\\n取り込まれてた……",
-   "en": "",
+   "en": "I... got drunk on\\nthe power of the\\nsong... and it\\nswallowed me\\nup...",
    "op": "0x62",
    "msg": "0x117d"
   },
@@ -158,7 +158,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "トサカくんのおかげで\\n少し……歌う\\n喜びを……思い出したよ",
-   "en": "",
+   "en": "Thanks to you,\\nTosaka-kun... I\\nremembered... a\\nlittle of the joy of\\nsinging.",
    "op": "0x62",
    "msg": "0x117e"
   },
@@ -168,7 +168,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "そうじゃ\\nそれでこそソウちんじゃ",
-   "en": "",
+   "en": "That's it! That's\\nthe So-chin I\\nknow!",
    "op": "0x62",
    "msg": "0x117f"
   },
@@ -178,7 +178,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "僕の歌う歌が\\n土方さんや近藤さんに\\n役立つ……",
-   "en": "",
+   "en": "I thought the\\nsongs I sang...\\nwould help\\nHijikata-san and\\nKondo-san...",
    "op": "0x62",
    "msg": "0x1180"
   },
@@ -188,7 +188,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "……あの人たちの\\n理想の世界に役立つ……\\nそう　思っていたのに……",
-   "en": "",
+   "en": "...would help build\\nthe world they\\ndreamed of...\\nThat's what I\\nbelieved...",
    "op": "0x62",
    "msg": "0x1181"
   },
@@ -198,7 +198,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "いつのまに……\\n間違った……\\nの……かな",
-   "en": "",
+   "en": "When did I... go...\\nwrong...?",
    "op": "0x62",
    "msg": "0x1182"
   },
@@ -208,7 +208,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "おいっ　ソウちん！\\nしっかりしろ！\\nおいっ！",
-   "en": "",
+   "en": "Hey, So-chin!\\nHang in there!\\nHey!",
    "op": "0x62",
    "msg": "0x1183"
   },
@@ -218,7 +218,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "…………\\n僕はもうダメだよ……",
-   "en": "",
+   "en": "...... I'm done for...",
    "op": "0x62",
    "msg": "0x1184"
   },
@@ -228,7 +228,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "トサカくんの言う通りだ…\\n僕の魂は　負の力に\\n汚されてた……ごふっ",
-   "en": "",
+   "en": "You were right,\\nTosaka-kun... My\\nsoul... was tainted\\nby negative\\npower... *Cough!*",
    "op": "0x62",
    "msg": "0x1185"
   },
@@ -238,7 +238,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "しっかりしろ　ソウちん！\\nわしが助けるぜよ！\\n気を強く持つんじゃ！",
-   "en": "",
+   "en": "Hang in there,\\nSo-chin! I'm gonna\\nsave you! Stay\\nstrong!",
    "op": "0x62",
    "msg": "0x1186"
   },
@@ -248,7 +248,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "もう　僕の魂は……天歌に\\n吸い尽くされ……た",
-   "en": "",
+   "en": "My soul's\\nalready... been\\ndrained dry... by\\nHeaven's Song...",
    "op": "0x62",
    "msg": "0x1187"
   },
@@ -258,7 +258,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "最後に……思い出せて\\n良かった……\\nなぜ……歌いたかったか…",
-   "en": "",
+   "en": "At least... at the\\nend... I'm glad I\\nremembered...\\nwhy... I wanted to\\nsing...",
    "op": "0x62",
    "msg": "0x1188"
   },
@@ -268,7 +268,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "ソウちんはオッサンや\\nヒジゾーさんの\\n役に立ちたかった……",
-   "en": "",
+   "en": "So-chin, you\\nwanted to be\\nuseful to the old\\nman and\\nHijizo-san...",
    "op": "0x62",
    "msg": "0x1189"
   },
@@ -278,7 +278,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "だからソウちんは\\n天歌を歌っていたんじゃ",
-   "en": "",
+   "en": "That's why you\\nwere singin'\\nHeaven's Song,\\nSo-chin.",
    "op": "0x62",
    "msg": "0x118a"
   },
@@ -288,7 +288,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "天歌が人を救うと\\n信じていたんじゃろ？",
-   "en": "",
+   "en": "You believed\\nHeaven's Song\\nwould save\\npeople, didn't ya?",
    "op": "0x62",
    "msg": "0x118b"
   },
@@ -298,7 +298,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "トサカくん……",
-   "en": "",
+   "en": "Tosaka-kun...",
    "op": "0x62",
    "msg": "0x118c"
   },
@@ -308,7 +308,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "その想いを利用した奴が\\nまことの悪人じゃ！",
-   "en": "",
+   "en": "The one who used\\nthose feelin's is\\nthe real villain!",
    "op": "0x62",
    "msg": "0x118d"
   },
@@ -318,7 +318,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "お前じゃ！\\n井伊直弼！",
-   "en": "",
+   "en": "That's you!\\nNaosuke Ii!",
    "op": "0x62",
    "msg": "0x118e"
   },
@@ -328,7 +328,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "沖田を懐柔して\\n勝ったつもりか",
-   "en": "",
+   "en": "You win Okita\\nover, and now\\nyou think you've\\nwon?",
    "op": "0x62",
    "msg": "0x118f"
   },
@@ -338,7 +338,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "龍馬が指差した\\nその先には\\n薄笑いを浮かべた\\n井伊直弼の姿があった",
-   "en": "",
+   "en": "At the end of\\nRyoma's pointing\\nfinger stood\\nNaosuke Ii, a thin\\nsmile on his lips.",
    "op": "0x62",
    "msg": "0x1190"
   },
@@ -348,7 +348,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "沖田を潰して\\n我を悪人呼ばわりか",
-   "en": "",
+   "en": "You crush Okita,\\nand then call me\\nthe villain?",
    "op": "0x62",
    "msg": "0x1191"
   },
@@ -358,7 +358,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "純粋な人の心を……\\n人の魂を利用する外道！",
-   "en": "",
+   "en": "Usin' a pure\\nheart... usin'\\npeople's souls...\\nyou scum!",
    "op": "0x62",
    "msg": "0x1192"
   },
@@ -368,7 +368,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "お前こそが\\nまことの悪党じゃ！",
-   "en": "",
+   "en": "You're the real\\nvillain here!",
    "op": "0x62",
    "msg": "0x1193"
   },
@@ -378,7 +378,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "ふふ\\n面白い事を言うのだね\\n坂本龍馬",
-   "en": "",
+   "en": "Heh. What an\\namusing thing to\\nsay, Ryoma\\nSakamoto.",
    "op": "0x62",
    "msg": "0x1194"
   },
@@ -388,7 +388,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "お前はソウちんを\\n新選組を利用しただけじゃ",
-   "en": "",
+   "en": "All you did was\\nuse So-chin and\\nthe Shinsengumi!",
    "op": "0x62",
    "msg": "0x1195"
   },
@@ -398,7 +398,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "ほほう\\n利用して\\nいけないのかな",
-   "en": "",
+   "en": "Oh ho. And is\\nthere something\\nwrong with using\\nthem?",
    "op": "0x62",
    "msg": "0x1196"
   },
@@ -408,7 +408,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "井伊直弼！\\nわしがお前の性根を\\n叩き直してやる",
-   "en": "",
+   "en": "Naosuke Ii! I'm\\ngonna beat that\\nrotten attitude\\noutta you!",
    "op": "0x62",
    "msg": "0x1197"
   },
@@ -418,7 +418,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "ふふ　大口を叩く\\n出来るものなら\\nやってみろ　小僧",
-   "en": "",
+   "en": "Heh. Big talk. Try\\nit if you can, boy.",
    "op": "0x62",
    "msg": "0x1198"
   },
@@ -428,7 +428,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "難を逃れた新選組や\\n警護の武士たち\\n観客の何人かが\\n立ち上がった",
-   "en": "",
+   "en": "The Shinsengumi\\nmembers who had\\nescaped harm,\\nthe guard\\nsamurai, and\\nsome of the\\nspectators rose to\\ntheir feet.",
    "op": "0x62",
    "msg": "0x1199"
   },
@@ -438,7 +438,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "うお　なんじゃ？",
-   "en": "",
+   "en": "Whoa, what the?",
    "op": "0x62",
    "msg": "0x119a"
   },
@@ -448,7 +448,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "龍馬くん　気を付けて！\\n彼らは井伊の術に\\n落ちているみたいだ！",
-   "en": "",
+   "en": "Ryoma-kun, be\\ncareful! They\\nseem to have\\nfallen under Ii's\\nspell!",
    "op": "0x62",
    "msg": "0x119b"
   },
@@ -458,7 +458,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "ヤベェな\\n囲まれちまったぜ",
-   "en": "",
+   "en": "Damn, we're\\nsurrounded!",
    "op": "0x62",
    "msg": "0x119c"
   },
@@ -468,7 +468,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "ど　どうしよう？\\nお客さんもおるぞ",
-   "en": "",
+   "en": "Wh-what do we\\ndo? There's\\naudience folks in\\nthere too!",
    "op": "0x62",
    "msg": "0x119d"
   },
@@ -478,7 +478,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "井伊に操られているなら\\n新選組も観客もないぜ\\n今は生きる屍だからな",
-   "en": "",
+   "en": "If Ii's controlling\\nthem, it doesn't\\nmatter if they're\\nShinsengumi or\\naudience. Right\\nnow they're the\\nwalking dead.",
    "op": "0x62",
    "msg": "0x119e"
   },
@@ -488,7 +488,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "残念だけど\\n全てが敵と考えないと\\nいけないだろうね",
-   "en": "",
+   "en": "I'm afraid we'll\\nhave to treat\\nevery one of them\\nas an enemy.",
    "op": "0x62",
    "msg": "0x119f"
   },
@@ -498,7 +498,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "いや　違うと思う\\n倒すべき敵はただ一人\\n井伊だけじゃ",
-   "en": "",
+   "en": "Nah, I don't think\\nso. There's only\\none enemy we\\ngotta beat: Ii.",
    "op": "0x62",
    "msg": "0x11a0"
   },
@@ -508,7 +508,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "井伊に操られた\\n新選組やお客さんは\\n敵ではないじゃろ",
-   "en": "",
+   "en": "The Shinsengumi\\nand the audience\\nIi's controllin' ain't\\nour enemies.",
    "op": "0x62",
    "msg": "0x11a1"
   },
@@ -518,7 +518,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "じゃあどうすんだよ！",
-   "en": "",
+   "en": "Then what are we\\nsupposed to do!?",
    "op": "0x62",
    "msg": "0x11a2"
   },
@@ -528,7 +528,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "わしが歌で圧し返す\\nその間　二人に\\n頼みたいことがある",
-   "en": "",
+   "en": "I'll push 'em back\\nwith my song.\\nMeanwhile,\\nthere's somethin' I\\nneed you two to\\ndo.",
    "op": "0x62",
    "msg": "0x11a3"
   },
@@ -538,7 +538,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "なんだい\\n龍馬くん？",
-   "en": "",
+   "en": "What is it,\\nRyoma-kun?",
    "op": "0x62",
    "msg": "0x11a4"
   },
@@ -548,7 +548,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "ソウちんを\\n二人に任せたい",
-   "en": "",
+   "en": "I want you two to\\nlook after So-chin.",
    "op": "0x62",
    "msg": "0x11a5"
   },
@@ -558,7 +558,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "おいおい　龍馬\\nなにをするつもりだ？",
-   "en": "",
+   "en": "Whoa, whoa,\\nRyoma. What are\\nyou planning?",
    "op": "0x62",
    "msg": "0x11a6"
   },
@@ -568,7 +568,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "わしは井伊を倒す！",
-   "en": "",
+   "en": "I'm gonna take\\ndown Ii!",
    "op": "0x62",
    "msg": "0x11a7"
   },
@@ -578,7 +578,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "バカヤロウ！\\n一人で井伊に立ち向かう\\nつもりかよ！",
-   "en": "",
+   "en": "You moron!\\nYou're going to\\ntake on Ii by\\nyourself!?",
    "op": "0x62",
    "msg": "0x11a8"
   },
@@ -588,7 +588,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "井伊に一発食らわせにゃ\\nどうあっても許せん！",
-   "en": "",
+   "en": "I can't forgive\\nhim, no matter\\nwhat, till I land a\\npunch on Ii!",
    "op": "0x62",
    "msg": "0x11a9"
   },
@@ -598,7 +598,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "……わかった\\nオレ様に任せとけ",
-   "en": "",
+   "en": "...Fine. Leave it to\\nyours truly.",
    "op": "0x62",
    "msg": "0x11aa"
   },
@@ -608,7 +608,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "井伊が放った者が\\n龍馬達を囲むように\\nにじり寄ってくる",
-   "en": "",
+   "en": "The people Ii had\\nunleashed inched\\ncloser, as if to\\nsurround Ryoma\\nand the others.",
    "op": "0x62",
    "msg": "0x11ab"
   },
@@ -618,7 +618,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "行くぞっ！\\nオレ様の歌で圧し返して\\nやるっ！",
-   "en": "",
+   "en": "Here we go! I'll\\npush you back\\nwith the great\\nTakasugi's song!",
    "op": "0x62",
    "msg": "0x11ac"
   },
@@ -628,7 +628,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "わわっ　晋作\\n人数が多すぎですよ！",
-   "en": "",
+   "en": "Whoa, whoa,\\nShinsaku! There\\nare way too many\\nof them!",
    "op": "0x62",
    "msg": "0x11ad"
   },
@@ -638,7 +638,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "井伊が操ってる連中は\\n化け物か\\nぜんぜん効かねえ！",
-   "en": "",
+   "en": "Are the guys Ii's\\ncontrolling\\nmonsters or\\nsomething!? It's\\nnot working at all!",
    "op": "0x62",
    "msg": "0x11ae"
   },
@@ -648,7 +648,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "まずい　晋作！\\n沖田くんの息がっ！",
-   "en": "",
+   "en": "Bad news,\\nShinsaku!\\nOkita-kun's\\nbreathing is...!",
    "op": "0x62",
    "msg": "0x11af"
   },
@@ -658,7 +658,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "沖田を死なせるなっ！",
-   "en": "",
+   "en": "Don't let Okita\\ndie!",
    "op": "0x62",
    "msg": "0x11b0"
   },
@@ -668,7 +668,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "ふふふ　沖田よ\\nまだ仕事は\\n終わってはおらんぞ",
-   "en": "",
+   "en": "Heh heh heh.\\nOkita, your work\\nis not finished\\nyet.",
    "op": "0x62",
    "msg": "0x11b1"
   },
@@ -678,7 +678,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "井伊！\\nもうやめろ！",
-   "en": "",
+   "en": "Ii! Stop it already!",
    "op": "0x62",
    "msg": "0x11b2"
   },
@@ -688,7 +688,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "もう瀕死なんじゃ\\nソウちんが\\n死んでしまう！",
-   "en": "",
+   "en": "He's already at\\ndeath's door!\\nSo-chin's gonna\\ndie!",
    "op": "0x62",
    "msg": "0x11b3"
   },
@@ -698,7 +698,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "それがどうした？\\n沖田が死んだところで\\n代わりはいくらでもいる",
-   "en": "",
+   "en": "And what of it?\\nEven if Okita\\ndies, there are\\nplenty more to\\nreplace him.",
    "op": "0x62",
    "msg": "0x11b4"
   },
@@ -708,7 +708,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "貴様！\\nどこまで外道なんじゃ\\nいくらなんでも許せん！",
-   "en": "",
+   "en": "You...! How low\\ncan you sink!?\\nThis is beyond\\nforgivin'!",
    "op": "0x62",
    "msg": "0x11b5"
   },
@@ -718,7 +718,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "おやおや\\n悪も受け入れると言った\\nあの言葉は嘘だったのか？",
-   "en": "",
+   "en": "My, my. So those\\nwords about\\naccepting evil too\\nwere a lie?",
    "op": "0x62",
    "msg": "0x11b6"
   },
@@ -728,7 +728,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "これからする悪事は\\n止めるに決まっとる\\n井伊！",
-   "en": "",
+   "en": "Evil you're about\\nto commit, I'm\\ngonna stop, plain\\nand simple, Ii!",
    "op": "0x62",
    "msg": "0x11b7"
   },
@@ -738,7 +738,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "いい度胸だ　小僧\\nしかし仲間の心配をする\\n方が先ではないのかな？",
-   "en": "",
+   "en": "Plucky, boy. But\\nshouldn't you be\\nworrying about\\nyour comrades\\nfirst?",
    "op": "0x62",
    "msg": "0x11b8"
   },
@@ -748,7 +748,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "仲間っ",
-   "en": "",
+   "en": "My friends!",
    "op": "0x62",
    "msg": "0x11b9"
   },
@@ -758,7 +758,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "晋作っ",
-   "en": "",
+   "en": "Shinsaku!",
    "op": "0x62",
    "msg": "0x11ba"
   },
@@ -768,7 +768,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "ぐふっ……\\n……すまねぇ　桂さん　\\n隙を見せちまった",
-   "en": "",
+   "en": "Ugh... Sorry,\\nKatsura-san... I let\\nmy guard down.",
    "op": "0x62",
    "msg": "0x11bb"
   },
@@ -778,7 +778,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "龍馬が井伊に気を取られた\\n隙を突いて　数人の観客が\\n高杉を襲ったのだ",
-   "en": "",
+   "en": "While Ryoma was\\ndistracted by Ii,\\nseveral spectators\\nhad seized the\\nopening to attack\\nTakasugi.",
    "op": "0x62",
    "msg": "0x11bc"
   },
@@ -788,7 +788,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "シンディ！\\nしっかりしろ！",
-   "en": "",
+   "en": "Shindy! Hang in\\nthere!",
    "op": "0x62",
    "msg": "0x11bd"
   },
@@ -798,7 +798,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "我と対峙している最中に\\n背を向けるとは\\n行け　傀儡共よ",
-   "en": "",
+   "en": "Turning your\\nback on me while\\nwe're face to\\nface? Go, my\\npuppets.",
    "op": "0x62",
    "msg": "0x11be"
   },
@@ -808,7 +808,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "あぶねえ　龍馬っ！",
-   "en": "",
+   "en": "Look out, Ryoma!",
    "op": "0x62",
    "msg": "0x11bf"
   },
@@ -818,7 +818,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "うぐっ……",
-   "en": "",
+   "en": "Ugh...",
    "op": "0x62",
    "msg": "0x11c0"
   },
@@ -828,7 +828,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "我の前で\\n余裕を見せるなど\\n詰めが甘すぎる",
-   "en": "",
+   "en": "Acting so\\ncarefree in front\\nof me... How very\\ncareless.",
    "op": "0x62",
    "msg": "0x11c1"
   },
@@ -838,7 +838,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "すまねえ龍馬……\\nオレ様のせいで\\nお前まで",
-   "en": "",
+   "en": "Sorry, Ryoma...\\nBecause of me,\\nyou got hit too.",
    "op": "0x62",
    "msg": "0x11c2"
   },
@@ -848,7 +848,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "シンディのせいじゃない\\nわしが悪いんじゃ……\\nぐうっ……",
-   "en": "",
+   "en": "It ain't your fault,\\nShindy. It's mine...\\nNgh...",
    "op": "0x62",
    "msg": "0x11c3"
   },
@@ -858,7 +858,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "龍馬くん　大変だ！\\n沖田くんが！",
-   "en": "",
+   "en": "Ryoma-kun, this\\nis bad! Okita-kun\\nis...!",
    "op": "0x62",
    "msg": "0x11c4"
   },
@@ -868,7 +868,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "ソウちんがどうし……",
-   "en": "",
+   "en": "What's wrong\\nwith So-chin...",
    "op": "0x62",
    "msg": "0x11c5"
   },
@@ -878,7 +878,7 @@
    "max": 88,
    "kind": "dialogue",
    "jp": "言いかけて口ごもった\\n龍馬の前には\\nあの美しい沖田の姿はなく\\n沖田だったものがあった",
-   "en": "",
+   "en": "Ryoma's words\\ndied in his throat.\\nBefore him was\\nnot the beautiful\\nOkita, but what\\nhad once been\\nOkita.",
    "op": "0x62",
    "msg": "0x11c6"
   },
@@ -888,7 +888,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "ソウちん！",
-   "en": "",
+   "en": "So-chin!",
    "op": "0x62",
    "msg": "0x11c7"
   },
@@ -898,7 +898,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "あああ\\n井伊の術に落ちて……",
-   "en": "",
+   "en": "Ahh... He's fallen\\nunder Ii's spell...",
    "op": "0x62",
    "msg": "0x11c8"
   },
@@ -908,7 +908,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "ぐぐぐ……\\nぐがぁぁああああああっ",
-   "en": "",
+   "en": "Grrr...\\nGWAAAAAAH!",
    "op": "0x62",
    "msg": "0x11cd"
   },
@@ -918,7 +918,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "ほう　これは面白い\\n我が術で魂をゆがめると\\n容姿までゆがむのか",
-   "en": "",
+   "en": "Oh ho, how\\ninteresting. When\\nmy art warps the\\nsoul, the body\\nwarps as well?",
    "op": "0x62",
    "msg": "0x11c9"
   },
@@ -928,7 +928,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "これは素晴らしい\\n美しい姿だよ\\n沖田",
-   "en": "",
+   "en": "This is splendid.\\nWhat a beautiful\\nform, Okita.",
    "op": "0x62",
    "msg": "0x11ca"
   },
@@ -938,7 +938,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "ふふふ……\\nもっと美しい姿を見せて\\nもらおうか　沖田",
-   "en": "",
+   "en": "Heh heh heh...\\nNow, show me an\\neven more\\nbeautiful form,\\nOkita.",
    "op": "0x62",
    "msg": "0x11cb"
   },
@@ -948,7 +948,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "それは美しい……\\n化け物になりたまえ！",
-   "en": "",
+   "en": "Become a\\nbeautiful...\\nmonster!",
    "op": "0x62",
    "msg": "0x11cc"
   },
@@ -958,7 +958,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "しっかり！\\n気をしっかり持て\\nソウちん！",
-   "en": "",
+   "en": "Hang on! Stay\\nstrong, So-chin!",
    "op": "0x62",
    "msg": "0x11ce"
   },
@@ -968,7 +968,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "だめだ　龍馬くん！\\n沖田くんの耳には\\nもう言葉は届かない！",
-   "en": "",
+   "en": "It's no use,\\nRyoma-kun!\\nWords can't reach\\nOkita-kun\\nanymore!",
    "op": "0x62",
    "msg": "0x11cf"
   },
@@ -978,7 +978,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "言葉がダメでも\\n歌なら　きっと\\n心に届くっ！",
-   "en": "",
+   "en": "Words might not\\nwork, but a song'll\\nreach his heart\\nfor sure!",
    "op": "0x62",
    "msg": "0x11d0"
   },
@@ -988,7 +988,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "ぐおおぉるるる……",
-   "en": "",
+   "en": "Grooaaarrrrr...",
    "op": "0x62",
    "msg": "0x11d1"
   },
@@ -998,7 +998,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "ソウちん\\nわしの歌を聴いてくれ",
-   "en": "",
+   "en": "So-chin, listen to\\nmy song.",
    "op": "0x62",
    "msg": "0x11d2"
   },
@@ -1008,7 +1008,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "ロックで元の\\nソウちんに戻ろうな\\nなあ　ソウちん",
-   "en": "",
+   "en": "Let's get you back\\nto your old self\\nwith rock, okay?\\nOkay, So-chin?",
    "op": "0x62",
    "msg": "0x11d3"
   },
@@ -1018,7 +1018,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "がううっ",
-   "en": "",
+   "en": "Gwrrh!",
    "op": "0x62",
    "msg": "0x11d4"
   },
@@ -1028,7 +1028,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "うがあっ",
-   "en": "",
+   "en": "Graah!",
    "op": "0x62",
    "msg": "0x11d5"
   },
@@ -1038,7 +1038,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "龍馬くんっ！\\n沖田くんはもう理性が\\n残っていない！",
-   "en": "",
+   "en": "Ryoma-kun!\\nOkita-kun has no\\nreason left!",
    "op": "0x62",
    "msg": "0x11d6"
   },
@@ -1048,7 +1048,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "くうっ……まだだ　まだ\\nわしは諦めない！　だから\\nソウちんも絶対",
-   "en": "",
+   "en": "Ngh... Not yet!\\nNot yet! I ain't\\ngivin' up! So you,\\nSo-chin, don't you\\never...",
    "op": "0x62",
    "msg": "0x11d7"
   },
@@ -1058,7 +1058,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "諦めるなぁぁぁぁぁぁっ！",
-   "en": "",
+   "en": "...give uuuuuuup!",
    "op": "0x62",
    "msg": "0x11d8"
   },
@@ -1068,7 +1068,7 @@
    "max": 96,
    "kind": "dialogue",
    "jp": "圧倒的な力を放つ沖田に\\n吹き飛ばされた龍馬は\\nそれでも這うようにして\\n沖田を説得しようとあがく",
-   "en": "",
+   "en": "Blown away by\\nthe overwhelming\\npower Okita\\nunleashed, Ryoma\\nstill crawled\\nforward,\\nstruggling to get\\nthrough to him.",
    "op": "0x62",
    "msg": "0x11d9"
   },
@@ -1078,7 +1078,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "舞台の上は\\n井伊に操られた\\n観客達が押し寄せる",
-   "en": "",
+   "en": "Onto the stage\\nsurged the\\nspectators under\\nIi's control.",
    "op": "0x62",
    "msg": "0x11da"
   },
@@ -1088,7 +1088,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "くそっ　後がねえ",
-   "en": "",
+   "en": "Dammit, we're\\ncornered.",
    "op": "0x62",
    "msg": "0x11db"
   },
@@ -1098,7 +1098,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "ががあっ……\\nぐがあああ！",
-   "en": "",
+   "en": "Gagahh...\\nGRAAAAH!",
    "op": "0x62",
    "msg": "0x11dc"
   },
@@ -1108,7 +1108,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "井伊に操られて\\n魂を縛られたんじゃ\\nソウちん……",
-   "en": "",
+   "en": "Ii's controllin'\\nyou... He's got\\nyour soul in\\nchains, So-chin...",
    "op": "0x62",
    "msg": "0x11dd"
   },
@@ -1118,7 +1118,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "ぐがあぁっ……\\nがるうう",
-   "en": "",
+   "en": "Grraahh... Grrrr...",
    "op": "0x62",
    "msg": "0x11de"
   },
@@ -1128,7 +1128,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "哀しいだろな\\n苦しいだろな\\nつらいよな　ソウちん",
-   "en": "",
+   "en": "It must be sad. It\\nmust hurt. It's\\nrough, ain't it,\\nSo-chin?",
    "op": "0x62",
    "msg": "0x11df"
   },
@@ -1138,7 +1138,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "ぐる……\\nがああああっ！",
-   "en": "",
+   "en": "Grr... GWAAAAH!",
    "op": "0x62",
    "msg": "0x11e0"
   },
@@ -1148,7 +1148,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "わしを食って\\n魂が解放されるなら\\nそれもええ……",
-   "en": "",
+   "en": "If eatin' me sets\\nyour soul free...\\nthen that's fine by\\nme...",
    "op": "0x62",
    "msg": "0x11e1"
   },
@@ -1158,7 +1158,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "龍馬は\\n覚悟を決めたように\\n双眸を閉じた――",
-   "en": "",
+   "en": "As if he had made\\nup his mind,\\nRyoma closed his\\neyes--",
    "op": "0x62",
    "msg": "0x11e2"
   },
@@ -1168,7 +1168,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "総司！\\nオレの声が聞こえるか！",
-   "en": "",
+   "en": "Soji! Can you hear\\nmy voice!?",
    "op": "0x62",
    "msg": "0x11e3"
   },
@@ -1178,7 +1178,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "が　ぐるる……",
-   "en": "",
+   "en": "Gah... grrr...",
    "op": "0x62",
    "msg": "0x11e4"
   },
@@ -1188,7 +1188,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "オレだ\\n近藤だ　総司\\n聞こえているな？",
-   "en": "",
+   "en": "It's me. It's Kondo,\\nSoji. You can hear\\nme, can't you?",
    "op": "0x62",
    "msg": "0x11e5"
   },
@@ -1198,7 +1198,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "遅くなってすまない　\\n総司……お前を\\n辛い目に合わせたな",
-   "en": "",
+   "en": "Sorry I'm late,\\nSoji... I put you\\nthrough so much.",
    "op": "0x62",
    "msg": "0x11e6"
   },
@@ -1208,7 +1208,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "近藤のオッサン\\n今までどこに？",
-   "en": "",
+   "en": "Old man Kondo!\\nWhere've you\\nbeen all this time?",
    "op": "0x62",
    "msg": "0x11e7"
   },
@@ -1218,7 +1218,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "総司を利用するので\\n邪魔だったのだろう\\n閉じこめられていたんだ",
-   "en": "",
+   "en": "I suppose I was in\\nthe way of their\\nplans to use Soji. I\\nwas locked up.",
    "op": "0x62",
    "msg": "0x11e8"
   },
@@ -1228,7 +1228,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "ふふ……あれだけ何重にも\\n閉じこめたのに破るとは\\nさすが新選組の局長か",
-   "en": "",
+   "en": "Heh... I sealed you\\naway so many\\ntimes over, and\\nyet you broke\\nfree. As expected\\nof the\\nShinsengumi's\\nCommander.",
    "op": "0x62",
    "msg": "0x11e9"
   },
@@ -1238,7 +1238,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "トシもいることを\\n忘れたのかい\\n井伊大老",
-   "en": "",
+   "en": "Did you forget\\nabout Toshi,\\nGreat Elder Ii?",
    "op": "0x62",
    "msg": "0x11ea"
   },
@@ -1248,7 +1248,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "ヒジゾーさんは",
-   "en": "",
+   "en": "What about\\nHijizo-san?",
    "op": "0x62",
    "msg": "0x11eb"
   },
@@ -1258,7 +1258,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "オレを先に行かせるために\\n警備の武士達と戦っている",
-   "en": "",
+   "en": "He's fighting the\\nguard samurai so\\nI could go on\\nahead.",
    "op": "0x62",
    "msg": "0x11ec"
   },
@@ -1268,7 +1268,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "ほお　たかが手駒の分際で\\n愉快な茶番を見せてくれる",
-   "en": "",
+   "en": "Oh ho. Mere\\npawns, putting on\\nsuch an amusing\\nfarce for me.",
    "op": "0x62",
    "msg": "0x11ed"
   },
@@ -1278,7 +1278,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "総司を利用し尽くした\\n貴方を許しはしない\\nだが　今は",
-   "en": "",
+   "en": "I will never\\nforgive you for\\nusing Soji up. But\\nright now...",
    "op": "0x62",
    "msg": "0x11ee"
   },
@@ -1288,7 +1288,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "てめえなんぞに関わるより\\n総司の方が大切だ",
-   "en": "",
+   "en": "...Soji matters\\nmore than\\ndealing with the\\nlikes of you.",
    "op": "0x62",
    "msg": "0x11ef"
   },
@@ -1298,7 +1298,7 @@
    "max": 88,
    "kind": "dialogue",
    "jp": "近藤の姿はボロボロだった\\nここに来るために\\nどれだけ戦ったのか\\nその姿で　理解できる",
-   "en": "",
+   "en": "Kondo was\\nbattered and torn.\\nOne look told how\\nhard he had\\nfought to get\\nhere.",
    "op": "0x62",
    "msg": "0x11f0"
   },
@@ -1308,7 +1308,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "近藤は直弼に背を向け\\n化け物と化した総司を\\n力の限り　抱きしめる",
-   "en": "",
+   "en": "Turning his back\\non Naosuke,\\nKondo hugged\\nSoji, now a\\nmonster, with all\\nhis might.",
    "op": "0x62",
    "msg": "0x11f1"
   },
@@ -1318,7 +1318,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "そして　歌い出す\\n魂の慟哭だった",
-   "en": "",
+   "en": "And then he\\nbegan to sing. It\\nwas the wail of\\nhis soul.",
    "op": "0x62",
    "msg": "0x12c1"
   },
@@ -1328,7 +1328,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "けれどその歌は悲しみ\\nではなく愛しい者へ\\n捧げるどこまでも\\n優しい歌……",
-   "en": "",
+   "en": "Yet it was not a\\nsong of sorrow,\\nbut an endlessly\\ngentle song\\noffered to\\nsomeone dear...",
    "op": "0x62",
    "msg": "0x12c2"
   },
@@ -1338,7 +1338,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "ぐ　ぐぐ……\\n……さん……",
-   "en": "",
+   "en": "Ngh... ngh...\\n...san...",
    "op": "0x62",
    "msg": "0x11f2"
   },
@@ -1348,7 +1348,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "総司……\\nおまえはこれまで\\nよくやってくれた",
-   "en": "",
+   "en": "Soji... You've done\\nso well all this\\ntime.",
    "op": "0x62",
    "msg": "0x11f3"
   },
@@ -1358,7 +1358,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "オレの大切な総司……",
-   "en": "",
+   "en": "My precious Soji...",
    "op": "0x62",
    "msg": "0x11f4"
   },
@@ -1368,7 +1368,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "……さん……\\n近藤……さん……",
-   "en": "",
+   "en": "...san... Kondo...\\nsan...",
    "op": "0x62",
    "msg": "0x11f5"
   },
@@ -1378,7 +1378,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "ああ　オレだよ総司",
-   "en": "",
+   "en": "Yes, it's me, Soji.",
    "op": "0x62",
    "msg": "0x11f6"
   },
@@ -1388,7 +1388,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "大丈夫だ\\nどんな姿になっても\\n総司は総司だからな",
-   "en": "",
+   "en": "It's all right. No\\nmatter what you\\nlook like, Soji is\\nSoji.",
    "op": "0x62",
    "msg": "0x11f7"
   },
@@ -1398,7 +1398,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "総司が戻ってくるまで\\n何度でも歌うぞ\\nオレの魂を震わせてな",
-   "en": "",
+   "en": "I'll sing as many\\ntimes as it takes\\nuntil you come\\nback, Soji. With\\nmy soul shaking!",
    "op": "0x62",
    "msg": "0x11f8"
   },
@@ -1408,7 +1408,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "黒い気が沖田くんから\\n離れて　近藤さんを\\n襲っている",
-   "en": "",
+   "en": "The black energy\\nis leaving\\nOkita-kun and\\nattacking\\nKondo-san!",
    "op": "0x62",
    "msg": "0x11f9"
   },
@@ -1418,7 +1418,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "ソウちんの意思とは\\n無関係に井伊の術で\\n動いているんじゃ！",
-   "en": "",
+   "en": "It's movin' on Ii's\\nspell, no matter\\nwhat So-chin\\nwants!",
    "op": "0x62",
    "msg": "0x11fa"
   },
@@ -1428,7 +1428,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "このままでは\\n近藤さんが\\n危ないですよ！",
-   "en": "",
+   "en": "At this rate,\\nKondo-san is in\\ndanger!",
    "op": "0x62",
    "msg": "0x11fb"
   },
@@ -1438,7 +1438,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "無茶はいかんっ！\\nオッサンの魂を黒い気が\\n狙っている！",
-   "en": "",
+   "en": "Don't push it! The\\nblack energy's\\nafter your soul,\\nold man!",
    "op": "0x62",
    "msg": "0x11fc"
   },
@@ -1448,7 +1448,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "いいんだ\\nオレの魂で総司を救える\\nのなら安いもんだ　ぐふっ",
-   "en": "",
+   "en": "It's all right. If my\\nsoul can save Soji,\\nit's a small price\\nto pay. *Cough!*",
    "op": "0x62",
    "msg": "0x11fd"
   },
@@ -1458,7 +1458,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "……どれだけでも　オレを\\n攻撃すればいい……っ",
-   "en": "",
+   "en": "...Attack me... as\\nmuch as you\\nlike...!",
    "op": "0x62",
    "msg": "0x11fe"
   },
@@ -1468,7 +1468,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "それだけ　総司は……\\n井伊の気から解放される\\nがはっ……",
-   "en": "",
+   "en": "The more you\\ndo... the more Soji\\nis freed from Ii's\\nenergy... *Gahh!*",
    "op": "0x62",
    "msg": "0x11ff"
   },
@@ -1478,7 +1478,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "ダメぜよっ！\\nあんたが命を無くしたら\\nソウちんが悲しむぜよ！",
-   "en": "",
+   "en": "No way! If you\\nlose your life,\\nSo-chin's gonna\\ngrieve!",
    "op": "0x62",
    "msg": "0x1200"
   },
@@ -1488,7 +1488,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "龍馬の叫びに\\n応えることなく\\n近藤は沖田に\\n語りかける",
-   "en": "",
+   "en": "Without\\nanswering\\nRyoma's cry,\\nKondo spoke to\\nOkita.",
    "op": "0x62",
    "msg": "0x1201"
   },
@@ -1498,7 +1498,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "なあ　総司\\nオレ達の出会いから\\n今日までのこと",
-   "en": "",
+   "en": "Hey, Soji.\\nEverything from\\nthe day we met\\nuntil today...",
    "op": "0x62",
    "msg": "0x1202"
   },
@@ -1508,7 +1508,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "覚えてるか……",
-   "en": "",
+   "en": "...do you\\nremember it?",
    "op": "0x62",
    "msg": "0x1203"
   },
@@ -1518,7 +1518,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "……ええ……\\n近藤……さん",
-   "en": "",
+   "en": "...Yes... Kondo...\\nsan...",
    "op": "0x62",
    "msg": "0x1204"
   },
@@ -1528,7 +1528,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "辛い思いをさせてしまい\\n済まなかったな",
-   "en": "",
+   "en": "I'm sorry I put\\nyou through so\\nmuch pain.",
    "op": "0x62",
    "msg": "0x1205"
   },
@@ -1538,7 +1538,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "元の姿に戻してやる\\n安心しろ　総司",
-   "en": "",
+   "en": "I'll bring you back\\nto your old self.\\nDon't worry, Soji.",
    "op": "0x62",
    "msg": "0x1206"
   },
@@ -1548,7 +1548,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "あた……たかい……\\nあたたかい……です\\n近藤さん……",
-   "en": "",
+   "en": "It's... warm... So\\nwarm...\\nKondo-san...",
    "op": "0x62",
    "msg": "0x1207"
   },
@@ -1558,7 +1558,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "それは\\n不思議な光景だった",
-   "en": "",
+   "en": "It was a strange\\nsight.",
    "op": "0x62",
    "msg": "0x12c3"
   },
@@ -1568,7 +1568,7 @@
    "max": 88,
    "kind": "dialogue",
    "jp": "黒い気に　囲まれ\\n攻撃されているのに\\nじんわりとした光が\\n二人の姿を\\n浮かびあがらせる",
-   "en": "",
+   "en": "Though the black\\nenergy\\nsurrounded and\\nattacked them, a\\ngentle glow made\\nthe two of them\\nstand out.",
    "op": "0x62",
    "msg": "0x1208"
   },
@@ -1578,7 +1578,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "なんでじゃ？\\nこの光……は\\nわしの魂を震わせるぜよ",
-   "en": "",
+   "en": "What the? This\\nlight... it's makin'\\nmy soul tremble!",
    "op": "0x62",
    "msg": "0x1209"
   },
@@ -1588,7 +1588,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "私の魂も\\n震えていますよ",
-   "en": "",
+   "en": "My soul is\\ntrembling too.",
    "op": "0x62",
    "msg": "0x120a"
   },
@@ -1598,7 +1598,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "オレ様もだぜ\\nどういうこった",
-   "en": "",
+   "en": "Same for yours\\ntruly. What's\\ngoing on?",
    "op": "0x62",
    "msg": "0x120b"
   },
@@ -1608,7 +1608,7 @@
    "max": 112,
    "kind": "dialogue",
    "jp": "近藤が歌うと　合わせる\\nように光が瞬くのが見える\\nうっすらとした光は\\nその強さを徐々に\\n増しているようだった",
-   "en": "",
+   "en": "Whenever Kondo\\nsang, the light\\ncould be seen\\nflickering in time.\\nThe faint glow\\nseemed to grow\\nstronger little by\\nlittle.",
    "op": "0x62",
    "msg": "0x120c"
   },
@@ -1618,7 +1618,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "近藤さ……ん\\n僕の魂が……\\n暖かく……",
-   "en": "",
+   "en": "Kondo-san... My\\nsoul... feels...\\nwarm...",
    "op": "0x62",
    "msg": "0x120d"
   },
@@ -1628,7 +1628,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "そのままじっとしていろ\\n総司　オレが助けてやる\\nからな……",
-   "en": "",
+   "en": "Just stay still,\\nSoji. I'll save you...",
    "op": "0x62",
    "msg": "0x120e"
   },
@@ -1638,7 +1638,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "近藤はまた歌う\\n愛しいと告げるように\\nそして光は輝きを増した",
-   "en": "",
+   "en": "Kondo sang\\nagain, as if\\ntelling Soji how\\ndear he was. And\\nthe light grew\\nbrighter.",
    "op": "0x62",
    "msg": "0x120f"
   },
@@ -1648,7 +1648,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "……これは……まさか\\n超魂の欠片か？\\n未だ見つからないひとつ",
-   "en": "",
+   "en": "...This is... could it\\nbe... a fragment\\nof the Ultra Soul?\\nThe one piece\\nstill not found...",
    "op": "0x62",
    "msg": "0x1210"
   },
@@ -1658,7 +1658,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "こんなところ\\n目と鼻の先に\\n落ちていたと言うのか",
-   "en": "",
+   "en": "You mean to say\\nit was lying right\\nhere, under my\\nvery nose?",
    "op": "0x62",
    "msg": "0x1211"
   },
@@ -1668,7 +1668,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "これは　片魂の光！",
-   "en": "",
+   "en": "This is the light\\nof a Piece Soul!",
    "op": "0x62",
    "msg": "0x1212"
   },
@@ -1678,7 +1678,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "おいっ　新選組は沖田だけ\\nじゃなくて　もう一個\\n持ってたってのかよ！",
-   "en": "",
+   "en": "Hey! You're\\ntelling me the\\nShinsengumi had\\nanother one\\nbesides Okita's!?",
    "op": "0x62",
    "msg": "0x1213"
   },
@@ -1688,7 +1688,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "今まで　眠っていた\\nのでしょうね\\n私の時のように……",
-   "en": "",
+   "en": "It must have been\\ndormant until\\nnow. Just like\\nmine was...",
    "op": "0x62",
    "msg": "0x1214"
   },
@@ -1698,7 +1698,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "ソウちんの片魂の汚れが\\n消えていく……けど\\nこのままじゃ……",
-   "en": "",
+   "en": "The taint's fadin'\\nfrom So-chin's\\nPiece Soul... but at\\nthis rate...",
    "op": "0x62",
    "msg": "0x1215"
   },
@@ -1708,7 +1708,7 @@
    "max": 140,
    "kind": "dialogue",
    "jp": "沖田に差しだすように\\n無防備な魂と片魂は\\n黒い気の攻撃の的であり\\n沖田の消滅しかけた魂が\\nすがり　すすり込む砂漠の\\n水のようなものだった",
-   "en": "",
+   "en": "Kondo's soul and\\nPiece Soul lay\\nbare, offered up\\nto Okita: the black\\nenergy's target,\\nand desert water\\nfor his fading\\nsoul to drink in.",
    "op": "0x62",
    "msg": "0x1216"
   },
@@ -1718,7 +1718,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "なんとか　できねえのか\\nせめて　あの黒いのを\\nこっちに引き寄せる手とか",
-   "en": "",
+   "en": "Can't we do\\nsomething? At\\nleast some way to\\ndraw that black\\nstuff over to us?",
    "op": "0x62",
    "msg": "0x1217"
   },
@@ -1728,7 +1728,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "はははははは……\\nこれはこれは　丁度いい\\n滅してしまうがよい！",
-   "en": "",
+   "en": "Ha ha ha ha ha\\nha... Well, well,\\nhow convenient.\\nPerish, then!",
    "op": "0x62",
    "msg": "0x1218"
   },
@@ -1738,7 +1738,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "沖田の片魂も　近藤の\\n片魂も　ここで庇いあって\\n消えてしまう",
-   "en": "",
+   "en": "Okita's Piece Soul\\nand Kondo's Piece\\nSoul, shielding\\neach other, will\\nvanish right here.",
    "op": "0x62",
    "msg": "0x1219"
   },
@@ -1748,7 +1748,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "悲壮な\\n喜劇じゃあありませんか",
-   "en": "",
+   "en": "Isn't that a tragic\\ncomedy?",
    "op": "0x62",
    "msg": "0x121a"
   },
@@ -1758,7 +1758,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "なんだとっ！",
-   "en": "",
+   "en": "What did you\\nsay!?",
    "op": "0x62",
    "msg": "0x121b"
   },
@@ -1768,7 +1768,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "貴方がたに礼を\\n言いたいくらいですよ\\nふはははは",
-   "en": "",
+   "en": "I almost want to\\nthank you all. Fu\\nha ha ha ha!",
    "op": "0x62",
    "msg": "0x121c"
   },
@@ -1778,7 +1778,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "がふっ……ぐぅっ",
-   "en": "",
+   "en": "Gahh... Nghh...",
    "op": "0x62",
    "msg": "0x121d"
   },
@@ -1788,7 +1788,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "ダメ……だよ　近藤さん\\n近藤さんの魂が……\\n食われてしまう……",
-   "en": "",
+   "en": "Don't...\\nKondo-san... Your\\nsoul will... get\\ndevoured...",
    "op": "0x62",
    "msg": "0x121e"
   },
@@ -1798,7 +1798,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "構わん……\\nいいんだ",
-   "en": "",
+   "en": "I don't care... It's\\nall right.",
    "op": "0x62",
    "msg": "0x121f"
   },
@@ -1808,7 +1808,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "いかんっ\\nオッサンの魂が\\n消えかけている！",
-   "en": "",
+   "en": "No good! The old\\nman's soul is\\nfadin' away!",
    "op": "0x62",
    "msg": "0x1220"
   },
@@ -1818,7 +1818,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "そこまでじゃ！　\\nもう　ここでやめて\\nおくんじゃ！　オッサン",
-   "en": "",
+   "en": "That's enough!\\nStop right here,\\nold man!",
    "op": "0x62",
    "msg": "0x1221"
   },
@@ -1828,7 +1828,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "ここから逃げて生き延びて\\nゆっくりと養生したら\\nソウちんも元に戻る！",
-   "en": "",
+   "en": "Get outta here,\\nsurvive, rest up\\nnice and slow,\\nand So-chin'll get\\nback to normal\\ntoo!",
    "op": "0x62",
    "msg": "0x1222"
   },
@@ -1838,7 +1838,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "オッサンが死んだら\\nソウちんが泣くぜよ\\nもうやめるぜよ",
-   "en": "",
+   "en": "If you die, old\\nman, So-chin's\\ngonna cry! Stop it\\nalready!",
    "op": "0x62",
    "msg": "0x1223"
   },
@@ -1848,7 +1848,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "総司……\\nオレは先に行っている",
-   "en": "",
+   "en": "Soji... I'll go on\\nahead.",
    "op": "0x62",
    "msg": "0x1224"
   },
@@ -1858,7 +1858,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "死んだ仲間達のところへ\\n詫びに行かないとな……",
-   "en": "",
+   "en": "I have to go\\napologize to our\\nfallen comrades...",
    "op": "0x62",
    "msg": "0x1225"
   },
@@ -1868,7 +1868,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "おまえは……\\nゆっくりと……",
-   "en": "",
+   "en": "You... take your\\ntime...",
    "op": "0x62",
    "msg": "0x1226"
   },
@@ -1878,7 +1878,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "オレのずっと後から――",
-   "en": "",
+   "en": "...and follow long,\\nlong after me--",
    "op": "0x62",
    "msg": "0x1227"
   },
@@ -1888,7 +1888,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "\\fnt1うあああ\\nオッサン！\\fnt0",
-   "en": "",
+   "en": "\\fnt1Waaaah! Old\\nmaaan!\\fnt0",
    "op": "0x62",
    "msg": "0x1228"
   },
@@ -1898,7 +1898,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "事切れた近藤と\\n引き替えに\\n沖田の体が元へと\\n戻ってゆく",
-   "en": "",
+   "en": "In exchange for\\nKondo, who had\\nbreathed his last,\\nOkita's body\\nreturned to its\\noriginal form.",
    "op": "0x62",
    "msg": "0x1229"
   },
@@ -1908,7 +1908,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "総司っ！\\n近藤さんっ！",
-   "en": "",
+   "en": "Soji! Kondo-san!",
    "op": "0x62",
    "msg": "0x122a"
   },
@@ -1918,7 +1918,7 @@
    "max": 128,
    "kind": "dialogue",
    "jp": "近藤を先に沖田の元へと\\n行かせ　ずっと井伊の操る\\n者達と戦い続けたのだろう\\n土方は傷つき　血まみれで\\n荒い息をしながら現れた",
-   "en": "",
+   "en": "Having sent\\nKondo on to\\nOkita, Hijikata\\nmust have fought\\nIi's puppets all\\nalong. He arrived\\nwounded,\\nbloodied, gasping.",
    "op": "0x62",
    "msg": "0x122b"
   },
@@ -1928,7 +1928,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "ヒジゾーさん……",
-   "en": "",
+   "en": "Hijizo-san...",
    "op": "0x62",
    "msg": "0x122c"
   },
@@ -1938,7 +1938,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "総司はっ\\n無事なのか\\n近藤さんはっ！",
-   "en": "",
+   "en": "Is Soji safe!? And\\nKondo-san!?",
    "op": "0x62",
    "msg": "0x122d"
   },
@@ -1948,7 +1948,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "沖田くんは　近藤さんが\\n助けて……まだ　息がある\\nけれど近藤さんは……",
-   "en": "",
+   "en": "Kondo-san saved\\nOkita-kun... he's\\nstill breathing.\\nBut Kondo-san...",
    "op": "0x62",
    "msg": "0x122e"
   },
@@ -1958,7 +1958,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "悲痛に首を振る桂に\\n土方の顔色が変わる",
-   "en": "",
+   "en": "Katsura shook his\\nhead in anguish,\\nand the color\\ndrained from\\nHijikata's face.",
    "op": "0x62",
    "msg": "0x122f"
   },
@@ -1968,7 +1968,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "ふふふ　遅かったな　土方\\nせっかく　辿りついたと\\nいうのに　気の毒なことよ",
-   "en": "",
+   "en": "Heh heh heh. Too\\nlate, Hijikata.\\nAfter all the\\ntrouble of getting\\nhere, how very\\nunfortunate for\\nyou.",
    "op": "0x62",
    "msg": "0x1230"
   },
@@ -1978,7 +1978,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "井伊っ！",
-   "en": "",
+   "en": "Ii!",
    "op": "0x62",
    "msg": "0x1231"
   },
@@ -1988,7 +1988,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "我を呼び捨てとは\\n偉くなったものだな\\n反逆者めが",
-   "en": "",
+   "en": "Calling me by\\nname without a\\ntitle? You've\\ngotten rather full\\nof yourself,\\ntraitor.",
    "op": "0x62",
    "msg": "0x1232"
   },
@@ -1998,7 +1998,7 @@
    "max": 96,
    "kind": "dialogue",
    "jp": "……なんなんだ……\\nこれはなんなんだよ！\\n俺が先に駆けつければ……\\nもっと早く……もっと……",
-   "en": "",
+   "en": "...What is this...\\nWhat the hell is\\nthis!? If I'd gotten\\nhere first... If I'd\\nbeen faster... If\\nonly...",
    "op": "0x62",
    "msg": "0x1233"
   },
@@ -2008,7 +2008,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "どちらが先でも\\n結果は同じだ　土方\\n裏切り者は死ぬ定めだ",
-   "en": "",
+   "en": "It makes no\\ndifference who\\narrived first,\\nHijikata. Traitors\\nare fated to die.",
    "op": "0x62",
    "msg": "0x1235"
   },
@@ -2018,7 +2018,7 @@
    "max": 92,
    "kind": "dialogue",
    "jp": "井伊は勝ち誇った\\nような目で\\n事切れた近藤と\\nその亡骸に抱きしめられ\\n倒れた沖田を見下す",
-   "en": "",
+   "en": "With triumphant\\neyes, Ii looked\\ndown on Kondo,\\nwho had breathed\\nhis last, and on\\nOkita, lying in the\\ndead man's\\nembrace.",
    "op": "0x62",
    "msg": "0x1236"
   },
@@ -2028,7 +2028,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "井伊　お前だけは……\\nどうあっても許せんっ！",
-   "en": "",
+   "en": "Ii... You, I can\\nnever forgive, no\\nmatter what!",
    "op": "0x62",
    "msg": "0x1237"
   },
@@ -2038,7 +2038,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "はははは\\n口だけは達者なようだが\\nなにが出来るのだね？",
-   "en": "",
+   "en": "Ha ha ha ha. You\\ncertainly talk a\\ngood game, but\\nwhat can you\\nactually do?",
    "op": "0x62",
    "msg": "0x1238"
   },
@@ -2048,7 +2048,7 @@
    "max": 124,
    "kind": "dialogue",
    "jp": "ただ　沖田が化け物の\\n姿から元に戻っただけで\\n井伊に操られた民たちも\\n黒く蠢く気も残っている\\n龍馬たちに勝ち目は\\nなかった",
-   "en": "",
+   "en": "Okita was merely\\nback from his\\nmonster form; Ii's\\npuppets and the\\nwrithing black\\nenergy remained.\\nRyoma's side had\\nno chance.",
    "op": "0x62",
    "msg": "0x1239"
   },
@@ -2058,7 +2058,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "くっそぉ！",
-   "en": "",
+   "en": "Daaammit!",
    "op": "0x62",
    "msg": "0x123a"
   },
@@ -2068,7 +2068,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "我は機嫌がいい\\n別れの挨拶ぐらいは\\n見逃してやろうか",
-   "en": "",
+   "en": "I am in a good\\nmood. Perhaps I'll\\noverlook a\\nfarewell or two.",
    "op": "0x62",
    "msg": "0x123b"
   },
@@ -2078,7 +2078,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "些細な力で\\nあがくがいい　\\nふははははははっ",
-   "en": "",
+   "en": "Struggle with\\nyour paltry\\nstrength all you\\nlike. Fu ha ha ha\\nha ha!",
    "op": "0x62",
    "msg": "0x123c"
   },
@@ -2088,7 +2088,7 @@
    "max": 88,
    "kind": "dialogue",
    "jp": "高笑いを上げた井伊に\\n龍馬達は唇を噛む\\nだが\\n土方は井伊を無視し\\n舞台へと駆け上がる",
-   "en": "",
+   "en": "As Ii laughed out\\nloud, Ryoma and\\nthe others bit\\ntheir lips. But\\nHijikata ignored\\nIi and ran up onto\\nthe stage.",
    "op": "0x62",
    "msg": "0x123d"
   },
@@ -2098,7 +2098,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "なあ　近藤さん",
-   "en": "",
+   "en": "Hey, Kondo-san.",
    "op": "0x62",
    "msg": "0x123e"
   },
@@ -2108,7 +2108,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "近藤さんも\\n総司も失ったら\\n俺はどうなるんだ？",
-   "en": "",
+   "en": "If I lose you and\\nSoji both,\\nKondo-san, what\\nbecomes of me?",
    "op": "0x62",
    "msg": "0x123f"
   },
@@ -2118,7 +2118,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "失うわけにはいかないっ\\n逝かせるわけには\\nいかねえんだっ",
-   "en": "",
+   "en": "I can't lose you! I\\nwon't let you go!",
    "op": "0x62",
    "msg": "0x1240"
   },
@@ -2128,7 +2128,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "近藤さんが……\\n近藤さんが死ぬなんて\\n冗談だろう　なあ総司",
-   "en": "",
+   "en": "Kondo-san...\\nKondo-san dead?\\nThat's a joke,\\nright? Right, Soji?",
    "op": "0x62",
    "msg": "0x1241"
   },
@@ -2138,7 +2138,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "総司　お前まで死ぬなんて\\n絶対に許さないぞ！",
-   "en": "",
+   "en": "Soji, I will never\\nforgive you if you\\ndie too!",
    "op": "0x62",
    "msg": "0x1242"
   },
@@ -2148,7 +2148,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "ひ……じ……\\nかた……さん",
-   "en": "",
+   "en": "Hiji... ka... ta...\\nsan...",
    "op": "0x62",
    "msg": "0x1243"
   },
@@ -2158,7 +2158,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "近藤の亡骸を抱きしめて\\n堪えるように男泣きをする\\n土方に龍馬達の胸が詰まる",
-   "en": "",
+   "en": "Hijikata clutched\\nKondo's body and\\nwept like a man\\nholding back his\\ntears, and Ryoma\\nand the others\\nfelt their chests\\ntighten.",
    "op": "0x62",
    "msg": "0x1244"
   },
@@ -2168,7 +2168,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "一つですむ命を二つ\\n捨てるとは　愚かなことよ",
-   "en": "",
+   "en": "Throwing away\\ntwo lives when\\none would have\\ndone. How\\nfoolish.",
    "op": "0x62",
    "msg": "0x1246"
   },
@@ -2178,7 +2178,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "もっとも……\\n取るにたらん命だがな\\nハハハハハハ",
-   "en": "",
+   "en": "Mind you... they're\\nworthless lives\\nanyway. Ha ha ha\\nha ha ha!",
    "op": "0x62",
    "msg": "0x1247"
   },
@@ -2188,7 +2188,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "不敵な笑みを露わに\\nした井伊は蔀の奥へと\\n姿を消した",
-   "en": "",
+   "en": "Baring a fearless\\nsmile, Ii vanished\\nbehind the lattice\\nshutters.",
    "op": "0x62",
    "msg": "0x124b"
   },
@@ -2198,7 +2198,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "龍馬達は\\n井伊が去ったことを\\n知る由もなく",
-   "en": "",
+   "en": "Ryoma and the\\nothers had no\\nway of knowing\\nthat Ii had left.",
    "op": "0x62",
    "msg": "0x124c"
   },
@@ -2208,7 +2208,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "近藤の亡骸を\\nかき抱いて泣く\\n土方と――",
-   "en": "",
+   "en": "They only\\nwatched over\\nHijikata, weeping\\nas he held\\nKondo's body\\nclose--",
    "op": "0x62",
    "msg": "0x124d"
   },
@@ -2218,7 +2218,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "その傍らに\\n佇む沖田の姿を\\n見守っていた",
-   "en": "",
+   "en": "--and Okita,\\nstanding silently\\nbeside him.",
    "op": "0x62",
    "msg": "0x124e"
   },
@@ -2228,7 +2228,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "近藤さん……\\nなあ　起きてくれ\\nもう一度俺を殴ってくれよ",
-   "en": "",
+   "en": "Kondo-san... Come\\non, wake up. Hit\\nme one more\\ntime.",
    "op": "0x62",
    "msg": "0x124f"
   },
@@ -2238,7 +2238,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "あの時……\\n俺は雨の中\\n立ち尽くしていた",
-   "en": "",
+   "en": "That time... I was\\nstanding frozen\\nin the rain.",
    "op": "0x62",
    "msg": "0x1250"
   },
@@ -2248,7 +2248,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "トシ……",
-   "en": "",
+   "en": "Toshi...",
    "op": "0x62",
    "msg": "0x1251"
   },
@@ -2258,7 +2258,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "あと二人",
-   "en": "",
+   "en": "Two more.",
    "op": "0x62",
    "msg": "0x1252"
   },
@@ -2268,7 +2268,7 @@
    "max": 8,
    "kind": "dialogue",
    "jp": "トシ！",
-   "en": "",
+   "en": "Toshi!",
    "op": "0x62",
    "msg": "0x1253"
   },
@@ -2278,7 +2278,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "近藤さん……\\nどうしてここに？",
-   "en": "",
+   "en": "Kondo-san... What\\nare you doing\\nhere?",
    "op": "0x62",
    "msg": "0x1254"
   },
@@ -2288,7 +2288,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "お前の様子が\\nおかしかったからな\\n後をつけたのよ",
-   "en": "",
+   "en": "You were acting\\nstrange, so I\\nfollowed you.",
    "op": "0x62",
    "msg": "0x1255"
   },
@@ -2298,7 +2298,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "見ていたのか……",
-   "en": "",
+   "en": "You saw, then...",
    "op": "0x62",
    "msg": "0x1256"
   },
@@ -2308,7 +2308,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "間に合わなかったがな",
-   "en": "",
+   "en": "Not in time to\\nstop you, though.",
    "op": "0x62",
    "msg": "0x1257"
   },
@@ -2318,7 +2318,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "そいつらか",
-   "en": "",
+   "en": "So these are the\\nones?",
    "op": "0x62",
    "msg": "0x1258"
   },
@@ -2328,7 +2328,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "あと二人だ\\n行方がわからない\\nやつがいる",
-   "en": "",
+   "en": "Two more. There\\nare some I haven't\\ntracked down yet.",
    "op": "0x62",
    "msg": "0x1259"
   },
@@ -2338,7 +2338,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "トシよ\\n復讐のための剣なぞ\\n俺は教えちゃいねぇぞ",
-   "en": "",
+   "en": "Toshi. I never\\ntaught you to\\nwield a sword for\\nrevenge.",
    "op": "0x62",
    "msg": "0x125a"
   },
@@ -2348,7 +2348,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "それで胸の痛みは\\n治まるのか？",
-   "en": "",
+   "en": "Will that ease the\\npain in your\\nheart?",
    "op": "0x62",
    "msg": "0x125b"
   },
@@ -2358,7 +2358,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "復讐の道か誠の道か\\n男が選ぶのは\\nただ一本の道だ",
-   "en": "",
+   "en": "The path of\\nrevenge, or the\\npath of sincerity.\\nA man chooses\\nonly one path.",
    "op": "0x62",
    "msg": "0x125c"
   },
@@ -2368,7 +2368,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "お前はどっちを選ぶ気だ",
-   "en": "",
+   "en": "Which one do you\\nmean to choose?",
    "op": "0x62",
    "msg": "0x125d"
   },
@@ -2378,7 +2378,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "ただ一本の……",
-   "en": "",
+   "en": "Only one path...",
    "op": "0x62",
    "msg": "0x125e"
   },
@@ -2388,7 +2388,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "今なら選べる\\nだがな　トシ",
-   "en": "",
+   "en": "You can still\\nchoose now. But\\nlisten, Toshi.",
    "op": "0x62",
    "msg": "0x125f"
   },
@@ -2398,7 +2398,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "こんな事をやってれば\\nお前の傷は\\nいずれお前を呑み込む",
-   "en": "",
+   "en": "If you keep doing\\nthis, your wounds\\nwill swallow you\\nwhole one day.",
    "op": "0x62",
    "msg": "0x1260"
   },
@@ -2408,7 +2408,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "俺は……俺は",
-   "en": "",
+   "en": "I... I...",
    "op": "0x62",
    "msg": "0x1261"
   },
@@ -2418,7 +2418,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "近藤さん　総司\\n新選組のみんなと一緒に\\n生きていきたい……",
-   "en": "",
+   "en": "I want to live\\nalongside you,\\nKondo-san, and\\nSoji, and\\neveryone in the\\nShinsengumi...",
    "op": "0x62",
    "msg": "0x1262"
   },
@@ -2428,7 +2428,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "でも傷がうずくんだ……",
-   "en": "",
+   "en": "But my wounds\\nkeep aching...",
    "op": "0x62",
    "msg": "0x1263"
   },
@@ -2438,7 +2438,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "だから俺がいるんだ\\n総司がいるんだ\\n友がいるんだ",
-   "en": "",
+   "en": "That's why I'm\\nhere. That's why\\nSoji's here. That's\\nwhy you have\\nfriends.",
    "op": "0x62",
    "msg": "0x1264"
   },
@@ -2448,7 +2448,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "近藤さん……",
-   "en": "",
+   "en": "Kondo-san...",
    "op": "0x62",
    "msg": "0x1265"
   },
@@ -2458,7 +2458,7 @@
    "max": 8,
    "kind": "dialogue",
    "jp": "友……",
-   "en": "",
+   "en": "Friends...",
    "op": "0x62",
    "msg": "0x1266"
   },
@@ -2468,7 +2468,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "近藤さんが死んだら\\n俺の友は誰なんだ？",
-   "en": "",
+   "en": "If you die,\\nKondo-san, who's\\nmy friend then?",
    "op": "0x62",
    "msg": "0x1267"
   },
@@ -2478,7 +2478,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "新選組の仲間か？\\n総司だけか？\\nそれとも……",
-   "en": "",
+   "en": "My Shinsengumi\\ncomrades? Only\\nSoji? Or...",
    "op": "0x62",
    "msg": "0x1268"
   },
@@ -2488,7 +2488,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "涙に濡れた土方の顔が\\n龍馬達へと向けられた",
-   "en": "",
+   "en": "Hijikata's\\ntear-soaked face\\nturned toward\\nRyoma and the\\nothers.",
    "op": "0x62",
    "msg": "0x1269"
   },
@@ -2498,7 +2498,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "なあ近藤さん……\\nまた教えてくれよ\\nあの時みたいに",
-   "en": "",
+   "en": "Hey, Kondo-san...\\nTeach me again.\\nLike you did back\\nthen.",
    "op": "0x62",
    "msg": "0x126a"
   },
@@ -2508,7 +2508,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "近藤を抱きしめた\\n土方の体に異変が\\n起きたのはその時だ",
-   "en": "",
+   "en": "It was then that\\nsomething\\nhappened to\\nHijikata's body as\\nhe held Kondo.",
    "op": "0x62",
    "msg": "0x126b"
   },
@@ -2518,7 +2518,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "なんじゃあ\\nまた　あの光ぜよ！",
-   "en": "",
+   "en": "What the!? It's\\nthat light again!",
    "op": "0x62",
    "msg": "0x126c"
   },
@@ -2528,7 +2528,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "今度は　土方と近藤が\\n光ってるぜ！\\nどういうこった",
-   "en": "",
+   "en": "Now Hijikata and\\nKondo are\\nglowing! What's\\ngoing on?",
    "op": "0x62",
    "msg": "0x126d"
   },
@@ -2538,7 +2538,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "これは……\\nこれはなんだ……？",
-   "en": "",
+   "en": "This is... What is\\nthis...?",
    "op": "0x62",
    "msg": "0x126e"
   },
@@ -2548,7 +2548,7 @@
    "max": 92,
    "kind": "dialogue",
    "jp": "それは超魂の欠片だった\\n近藤の体から浮かび\\n上がった片魂が\\n土方の内へと\\n吸い込まれていく",
-   "en": "",
+   "en": "It was a fragment\\nof the Ultra Soul.\\nThe Piece Soul\\nrose from Kondo's\\nbody and was\\ndrawn into\\nHijikata.",
    "op": "0x62",
    "msg": "0x126f"
   },
@@ -2558,7 +2558,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "こ……これは超魂の光？\\n片魂が近藤さんから\\n土方さんに移った",
-   "en": "",
+   "en": "Th-this is the\\nlight of the Ultra\\nSoul? The Piece\\nSoul moved from\\nKondo-san to\\nHijikata-san!",
    "op": "0x62",
    "msg": "0x1270"
   },
@@ -2568,7 +2568,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "土方さん……\\nそれ……",
-   "en": "",
+   "en": "Hijikata-san...\\nThat's...",
    "op": "0x62",
    "msg": "0x1271"
   },
@@ -2578,7 +2578,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "土方は愛しげに\\n光が吸い込まれた\\n場所を撫でる\\n繰り返し　繰り返し",
-   "en": "",
+   "en": "Hijikata tenderly\\nstroked the spot\\nwhere the light\\nhad been drawn\\nin. Again and\\nagain.",
    "op": "0x62",
    "msg": "0x1273"
   },
@@ -2588,7 +2588,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "近藤さんが\\n俺に泣くなと\\n俺にくれた……んだ",
-   "en": "",
+   "en": "Kondo-san... gave\\nit to me... telling\\nme not to cry...",
    "op": "0x62",
    "msg": "0x1274"
   },
@@ -2598,7 +2598,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "間違わないようにと\\n光を……",
-   "en": "",
+   "en": "...A light... so I\\nwouldn't lose my\\nway...",
    "op": "0x62",
    "msg": "0x1275"
   },
@@ -2608,7 +2608,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "いつだって……近藤さんは\\n僕と土方さんの……光",
-   "en": "",
+   "en": "Kondo-san was\\nalways... the light\\nfor me and\\nHijikata-san...",
    "op": "0x62",
    "msg": "0x1276"
   },
@@ -2618,7 +2618,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "そうだな……総司\\nお前も　俺と行こう",
-   "en": "",
+   "en": "That's right... Soji.\\nYou come with me\\ntoo.",
    "op": "0x62",
    "msg": "0x1277"
   },
@@ -2628,7 +2628,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "うん　近藤さんが……\\n僕に命をくれた……もの",
-   "en": "",
+   "en": "Yeah...\\nKondo-san... gave\\nme my life, after\\nall.",
    "op": "0x62",
    "msg": "0x1278"
   },
@@ -2638,7 +2638,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "ソウちん\\n元気になっとる",
-   "en": "",
+   "en": "So-chin! You're\\nlookin' better!",
    "op": "0x62",
    "msg": "0x1279"
   },
@@ -2648,7 +2648,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "近藤さんの　魂と　片魂の\\n光が……力をくれた　から",
-   "en": "",
+   "en": "Because\\nKondo-san's soul...\\nand the light of\\nhis Piece Soul...\\ngave me strength.",
    "op": "0x62",
    "msg": "0x127a"
   },
@@ -2658,7 +2658,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "俺たちは\\nもう　近藤さんを\\n嘆かせたりしない！",
-   "en": "",
+   "en": "We won't make\\nKondo-san grieve\\never again!",
    "op": "0x62",
    "msg": "0x127c"
   },
@@ -2668,7 +2668,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "うん　そうだね\\n土方さん",
-   "en": "",
+   "en": "Yeah, that's right,\\nHijikata-san.",
    "op": "0x62",
    "msg": "0x127d"
   },
@@ -2678,7 +2678,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "近藤の亡骸を抱えた\\n土方は力強く\\n立ち上がった",
-   "en": "",
+   "en": "Holding Kondo's\\nbody, Hijikata\\nrose powerfully\\nto his feet.",
    "op": "0x62",
    "msg": "0x127f"
   },
@@ -2688,7 +2688,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "強い光が宿った瞳で\\n龍馬や高杉　桂を\\n見やる",
-   "en": "",
+   "en": "With a strong\\nlight dwelling in\\nhis eyes, he\\nlooked at Ryoma,\\nTakasugi, and\\nKatsura.",
    "op": "0x62",
    "msg": "0x1280"
   },
@@ -2698,7 +2698,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "おい　坂本\\nそろそろ立ち上がる時間だ",
-   "en": "",
+   "en": "Hey, Sakamoto.\\nTime to get on\\nyour feet.",
    "op": "0x62",
    "msg": "0x1281"
   },
@@ -2708,7 +2708,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "なんじゃ　ヒジゾーさん\\nわしらとやり合うのか？",
-   "en": "",
+   "en": "What's this,\\nHijizo-san? You\\nwanna throw\\ndown with us?",
    "op": "0x62",
    "msg": "0x1282"
   },
@@ -2718,7 +2718,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "いや\\n井伊の操る暗黒の気と\\n人形たちを　倒す！",
-   "en": "",
+   "en": "No. We're taking\\ndown the dark\\nenergy and the\\npuppets Ii\\ncontrols.",
    "op": "0x62",
    "msg": "0x1283"
   },
@@ -2728,7 +2728,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "あれを見ろ　坂本",
-   "en": "",
+   "en": "Look at that,\\nSakamoto.",
    "op": "0x62",
    "msg": "0x1284"
   },
@@ -2738,7 +2738,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "うおおっ？\\n倒れていた奴らが　また\\n起き上がったのかっ？",
-   "en": "",
+   "en": "Whoa!? The guys\\nwho went down\\nare getting back\\nup again!?",
    "op": "0x62",
    "msg": "0x1285"
   },
@@ -2748,7 +2748,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "別れの挨拶は見逃すと\\n偉そうに言ってましたから\\n見逃す時間はこれで終わり",
-   "en": "",
+   "en": "He did say, so\\ngrandly, that he'd\\noverlook a\\nfarewell. So that\\ntime is over now.",
    "op": "0x62",
    "msg": "0x1286"
   },
@@ -2758,7 +2758,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "そういうことでしょう\\nそして",
-   "en": "",
+   "en": "That's what it\\nmeans, I suppose.\\nAnd...",
    "op": "0x62",
    "msg": "0x1287"
   },
@@ -2768,7 +2768,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "井伊から受けた命を\\n果たすまで――つまり\\n俺達を殺すまで",
-   "en": "",
+   "en": "Until they carry\\nout the order Ii\\ngave them--in\\nother words, until\\nthey kill us...",
    "op": "0x62",
    "msg": "0x1288"
   },
@@ -2778,7 +2778,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "何度でも起き上がって\\n襲ってくる",
-   "en": "",
+   "en": "...they'll keep\\ngetting up and\\nattacking, as\\nmany times as it\\ntakes.",
    "op": "0x62",
    "msg": "0x1289"
   },
@@ -2788,7 +2788,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "土方さん……僕も\\nこんな風に人を\\n操る歌を……",
-   "en": "",
+   "en": "Hijikata-san... I\\nsang songs that\\ncontrolled people\\nlike this, too...",
    "op": "0x62",
    "msg": "0x128a"
   },
@@ -2798,7 +2798,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "それは言うな　総司\\n俺たちは間違っていた\\n",
-   "en": "",
+   "en": "Don't say it, Soji.\\nWe were wrong.",
    "op": "0x62",
    "msg": "0x128b"
   },
@@ -2808,7 +2808,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "間違いは正せばいい",
-   "en": "",
+   "en": "Mistakes can be\\nset right.",
    "op": "0x62",
    "msg": "0x128c"
   },
@@ -2818,7 +2818,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "うん……",
-   "en": "",
+   "en": "Yeah...",
    "op": "0x62",
    "msg": "0x128d"
   },
@@ -2828,7 +2828,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "ひとまずここを切り抜ける\\nそれしかないね　土方さん",
-   "en": "",
+   "en": "For now, we get\\nthrough this.\\nThat's all we can\\ndo, right,\\nHijikata-san?",
    "op": "0x62",
    "msg": "0x128e"
   },
@@ -2838,7 +2838,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "そういうことだ\\nここを突破するぞ　坂本",
-   "en": "",
+   "en": "That's right.\\nWe're breaking\\nthrough,\\nSakamoto.",
    "op": "0x62",
    "msg": "0x128f"
   },
@@ -2848,7 +2848,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "うっしゃあ！\\nわしも残った力で\\nシャウトするんじゃ！",
-   "en": "",
+   "en": "Hell yeah! I'll\\nshout with every\\nbit of strength I\\ngot left!",
    "op": "0x62",
    "msg": "0x1290"
   },
@@ -2858,7 +2858,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "ふん\\n腰が抜けているくせに\\nここは俺と総司に任せろ",
-   "en": "",
+   "en": "Hmph. You can\\nbarely stand.\\nLeave this to me\\nand Soji.",
    "op": "0x62",
    "msg": "0x1291"
   },
@@ -2868,7 +2868,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "新選組の仲間達はみんな\\n洗脳されている",
-   "en": "",
+   "en": "Our Shinsengumi\\ncomrades have all\\nbeen\\nbrainwashed.",
    "op": "0x62",
    "msg": "0x1292"
   },
@@ -2878,7 +2878,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "仲間のケジメは\\n俺達でつける",
-   "en": "",
+   "en": "We'll settle\\naccounts for our\\nown comrades\\nourselves.",
    "op": "0x62",
    "msg": "0x1293"
   },
@@ -2888,7 +2888,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "トサカくんはボロボロの\\nスカシくんとメガネくんを\\n頼むよ",
-   "en": "",
+   "en": "Tosaka-kun, you\\nlook after the\\nbattered Mr.\\nPoser and\\nGlasses-kun.",
    "op": "0x62",
    "msg": "0x1294"
   },
@@ -2898,7 +2898,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "オレ様は自力で動ける\\n死にかけた沖田よりマシだ",
-   "en": "",
+   "en": "Yours truly can\\nmove on his own.\\nI'm in better\\nshape than the\\nhalf-dead Okita.",
    "op": "0x62",
    "msg": "0x1295"
   },
@@ -2908,7 +2908,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "私だって……\\n傷だらけの土方さんよりは",
-   "en": "",
+   "en": "Me too... I'm\\nbetter off than\\nthe wounded\\nHijikata-san, at\\nleast.",
    "op": "0x62",
    "msg": "0x1296"
   },
@@ -2918,7 +2918,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "いいんだ\\n僕が歌って……\\n道を開く！",
-   "en": "",
+   "en": "It's fine. I'll sing...\\nand open the way!",
    "op": "0x62",
    "msg": "0x1297"
   },
@@ -2928,7 +2928,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "近藤さんや土方さん\\nそれに……\\nみんなのために！",
-   "en": "",
+   "en": "For Kondo-san,\\nfor Hijikata-san...\\nand for everyone!",
    "op": "0x62",
    "msg": "0x1298"
   },
@@ -2938,7 +2938,7 @@
    "max": 88,
    "kind": "dialogue",
    "jp": "会場のあちこちで\\n立ち上がり束になって\\n襲い掛かる者達へ\\n沖田のシャウトが\\n降り注ぐ！",
-   "en": "",
+   "en": "All across the\\nvenue, people\\nrose up and\\ncharged in a mob,\\nand Okita's shout\\nrained down upon\\nthem!",
    "op": "0x62",
    "msg": "0x1299"
   },
@@ -2948,7 +2948,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "今度こそ僕は間違えない！\\n僕は　本当の喜びを歌うよ\\n聴いて　僕の歌",
-   "en": "",
+   "en": "This time I won't\\nget it wrong! I'll\\nsing of true joy.\\nListen... to my\\nsong.",
    "op": "0x62",
    "msg": "0x129a"
   },
@@ -2958,7 +2958,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "これが本当の僕の……\\n歌いたい歌だ！",
-   "en": "",
+   "en": "This is the song I\\ntruly... want to\\nsing!",
    "op": "0x62",
    "msg": "0x129b"
   },
@@ -2968,7 +2968,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "近藤さん　あなたが僕の光\\nだから聴いてください\\n僕の　本当の　歌を！",
-   "en": "",
+   "en": "Kondo-san, you\\nare my light. So\\nplease, listen to\\nmy true song!",
    "op": "0x62",
    "msg": "0x129c"
   }

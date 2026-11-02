@@ -34,6 +34,7 @@ STYLES = {
     'sfx': dict(font_name='Bangers-Regular.ttf', stroke=(3, BLACK)),            # manga sound effects
     'banner': dict(font_name='Anton-Regular.ttf', stroke=(2, BLACK)),
     'notice': dict(font_name='Anton-Regular.ttf', fill=(40, 16, 24, 255), align='c'),   # dark text on a light bar
+    'body': dict(font_name='PT_Serif-Web-Bold.ttf', fill=(20, 20, 20, 255), align='l'),   # tutorial/manual body text
     'plain': dict(font_name='ArchivoBlack-Regular.ttf'),
 }
 
@@ -123,7 +124,7 @@ def render(key, style, en, opts, base=None):
     """-> PIL RGBA, the English image for one text.tsv row (BASE: the previous row's image of the same key)."""
     import typeset
     from PIL import Image
-    _, _, orig = load(key)
+    orig = page(key[5:])[0] if key.startswith('PAGE:') else load(key)[2]
     w, h = orig.size
     img = base.copy() if base else orig.copy() if 'keep' in opts else Image.new('RGBA', (w, h), (0, 0, 0, 0))
     for v in opts.get('smear', []):   # text on horizontal stripes: repeat a clean column across the rect
@@ -142,6 +143,11 @@ def render(key, style, en, opts, base=None):
             for k in range(bh):
                 t = (k + 1) / (bh + 1)
                 px[cx, y + k] = tuple(round(a[i] * (1 - t) + b[i] * t) for i in range(4))
+    for v in opts.get('flat', []):   # text on a flat colour: fill the rect with its most common colour
+        x, y, bw, bh = _rect(v)
+        from collections import Counter
+        c = Counter(img.crop((x, y, x + bw, y + bh)).getdata()).most_common(1)[0][0]
+        img.paste(c, (x, y, x + bw, y + bh))
     for v in opts.get('clear', []):
         x, y, bw, bh = _rect(v)
         img.paste((0, 0, 0, 0), (x, y, x + bw, y + bh))
@@ -204,12 +210,30 @@ def fit(text, bw, bh, align='c', size=None, **st):
     return ink(6)
 
 
+def page(path):
+    """PAGE:<file> keys: a picture the game cuts into 32-px-wide vertical strips (every 32x256 GIM in <file>, in file
+    order, left to right) -> (whole page RGBA, [strip keys])."""
+    from PIL import Image
+    keys = sorted((k for k in index() if k.rsplit('_', 1)[0] == path), key=lambda k: int(k.rsplit('_', 1)[1], 16))
+    keys = [k for k in keys if load(k)[2].size == (32, 256)]
+    pg = Image.new('RGBA', (32 * len(keys), 256), (0, 0, 0, 0))
+    for i, k in enumerate(keys):
+        pg.paste(load(k)[2], (32 * i, 0))
+    return pg, keys
+
+
 def gen(pattern='*'):
     done = {}   # a key on several rows: each row draws onto the previous one (several labels in one image)
     for key, style, en, opts in rows():
         if not fnmatch.fnmatch(key, pattern):
             continue
         done[key] = render(key, style, en, opts, done.get(key))
+    for key in [k for k in done if k.startswith('PAGE:')]:   # cut a page back into its strips (changed ones only)
+        img = done.pop(key)
+        for i, k in enumerate(page(key[5:])[1]):
+            strip = img.crop((32 * i, 0, 32 * i + 32, 256))
+            if strip.tobytes() != load(k)[2].tobytes():
+                done[k] = strip
     for key, img in done.items():
         out = os.path.join(GFX, key + '.png')
         os.makedirs(os.path.dirname(out), exist_ok=True)

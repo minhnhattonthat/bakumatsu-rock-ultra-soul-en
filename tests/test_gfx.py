@@ -19,8 +19,11 @@ def test_rows_have_pngs():
     idx = gfx.index()
     have = set(gfx.pngs())
     for key, style, en, opts in gfx.rows():
-        assert key in idx, key
         assert style in gfx.STYLES, (key, style)
+        if key.startswith("PAGE:"):   # cut into strips; at least one strip changed
+            assert set(gfx.page(key[5:])[1]) & have, f"{key}: run tools/gfx.py gen"
+            continue
+        assert key in idx, key
         assert key in have, f"{key}: run tools/gfx.py gen"
 
 

@@ -64,6 +64,50 @@ INST/play/graphics/gam_000_003.d2c_6490	small	Back
 INST/play/graphics/gam_100_033.d2c_bfc8	small	Resume
 INST/play/graphics/gam_100_033.d2c_cba8	small	Back to Top Menu
 INST/play/graphics/gam_100_034.d2c_cba8	small	Back to Live Select
+INST/play/graphics/gam_000_004.d2c_4794	small	ULTRA SOUL
+NOINST/ui/graphics/sys_444_006.d2c_73f68	small	Ultra Soul	keep clear=20,4,86,24 box=20,4,86,24
+# break screen atlas: NEXT / TITLE / BREAK art kept, the small Japanese beside them redrawn
+NOINST/ui/graphics/sys_022_000.d2c_85e0	small	Continue	keep clear=94,14,72,26 box=94,16,72,22
+NOINST/ui/graphics/sys_022_000.d2c_85e0	small	To Title	clear=94,54,72,26 box=94,56,72,22
+NOINST/ui/graphics/sys_022_000.d2c_85e0	small	Short Break	clear=229,26,19,48 box=229,22,19,56 rot=90
+# --- HOW TO PLAY panels (sys_021_001): the ♪ kept, heading and body redrawn
+INST/scene/graphics/sys_021_001.d2c_599e4	menu	Icons	keep clear=46,0,210,64 box=48,4,200,56 align=l
+INST/scene/graphics/sys_021_001.d2c_5bad4	menu	Line	keep clear=30,0,226,26 box=30,1,140,24 align=l
+INST/scene/graphics/sys_021_001.d2c_5bad4	body	Press the button with good\ntiming as each Icon falls\nfrom above and reaches\nthe center of the line.	clear=0,26,256,102 box=12,28,236,98
+INST/scene/graphics/sys_021_001.d2c_5fbc4	menu	Hit	keep clear=30,0,226,32 box=30,1,200,30 align=l
+INST/scene/graphics/sys_021_001.d2c_5fbc4	body	Hit it right, and the\nIcon turns into\na word.	clear=0,32,256,96 box=24,36,224,88
+INST/scene/graphics/sys_021_001.d2c_63cb4	menu	Miss	keep clear=30,0,226,32 box=30,1,200,30 align=l
+INST/scene/graphics/sys_021_001.d2c_63cb4	body	Miss it, and the\nIcon burns down\nto a cinder.	clear=0,32,256,96 box=24,36,224,88
+INST/scene/graphics/sys_021_001.d2c_67da4	menu	Shout Icon	keep clear=30,0,226,32 box=30,1,200,30 align=l
+INST/scene/graphics/sys_021_001.d2c_67da4	body	A special Icon.\nHit it, and the LIVE\ngets fired up!	clear=0,32,256,96 box=24,36,224,88
+INST/scene/graphics/sys_021_001.d2c_6be94	menu	Hold Icon	keep clear=30,0,226,30 box=30,1,200,28 align=l
+INST/scene/graphics/sys_021_001.d2c_6be94	body	An Icon you hold the button\ndown for. For as long as the\nIcon goes on, keep holding\nthe matching button.	clear=0,30,256,98 box=12,32,236,92
+# HOW TO PLAY manual page: 15 strips of 32x256 (PAGE: assembles them, gen cuts the result back)
+PAGE:INST/scene/graphics/sys_021_002.d2c	menu	Fans	keep flat=73,102,80,25 box=74,102,120,24 align=l
+PAGE:INST/scene/graphics/sys_021_002.d2c	body	Your fan count grows with your\nrhythm game results and your\nchoices in the ADV game.	flat=56,130,170,54 box=56,130,170,54
+PAGE:INST/scene/graphics/sys_021_002.d2c	menu	Unlocking Content	flat=301,76,138,25 box=302,76,140,24 align=l
+PAGE:INST/scene/graphics/sys_021_002.d2c	body	Reaching enough fans or\nprogressing in the story\ncan unlock new content.	flat=286,102,150,52 box=286,102,160,52
+PAGE:INST/scene/graphics/sys_021_002.d2c	notice	Profile Unlocked!	flat=336,203,124,17 box=338,203,120,17
+PAGE:INST/scene/graphics/sys_021_002.d2c	small	Next	flat=435,236,26,18 box=435,236,30,18
+# HOW TO PLAY screenshot: the lyric words on the notes stay Japanese like in play (D13); only the button hint
+INST/scene/graphics/sys_021_001.d2c_87c4	small	Next	keep smear=465,236,32,19,502 box=465,237,32,17
+# profile-view hint bar (striped: a clean column repeated under the new words)
+INST/scene/graphics/sys_157.gim_0	small	Scroll	keep smear=323,0,64,16,300 box=324,1,64,14 align=l
+INST/scene/graphics/sys_157.gim_0	small	Back	smear=424,0,40,16,300 box=425,1,40,14 align=l
+# --- song title logos (rhythm game intro; titles as in script/ui/ui_chapter.json) ---
+INST/play/graphics/gam_200_002.d2c_1bda8	menu	Figure-Eight Distortion	fill=FFE070
+INST/play/graphics/gam_200_005.d2c_1bd90	menu	A World Without Gravity	rot=270
+INST/play/graphics/gam_200_007.d2c_19efc	menu	Resonant Evolution	rot=270
+INST/play/graphics/gam_200_008.d2c_1e6dc	menu	Let's Live On	fill=E8E0D0
+INST/play/graphics/gam_200_011.d2c_e2b8	menu	MORE!!!	fill=80FFE0
+INST/play/graphics/gam_200_014.d2c_19efc	menu	Reverberation\n-feedback-	rot=270
+INST/play/graphics/gam_200_015.d2c_e2b8	menu	Light Piercing the Ultramarine	fill=B0C8E8
+INST/play/graphics/gam_200_019.d2c_1ed20	menu	Gradation	fill=C890FF
+INST/play/graphics/gam_200_020.d2c_8540	menu	Incomplete Puzzle	fill=90D8F0
+INST/play/graphics/gam_200_023.d2c_1ed20	menu	GOD BREATH	box=17,0,482,46 fill=D00000 stroke=2,FFFFFF
+INST/play/graphics/gam_200_023.d2c_1ed20	menu	-Mixed Color Style-	box=17,44,482,20
+INST/play/graphics/gam_200_024.d2c_1ed58	menu	Wings of the Sky
+INST/play/graphics/gam_200_027.d2c_86c8	menu	Zenith DAYBREAK	fill=E848A8
 # --- chapter cards (INST/scene ui_tit_1xx: number card + one or two title cards) ---
 INST/scene/graphics/ui_tit_101.d2c_a310	title	Chapter 1
 INST/scene/graphics/ui_tit_101.d2c_c5e0	title	Destiny, Fate,
@@ -114,3 +158,16 @@ INST/scene/graphics/adv_000_002.d2c_e18	notice	Quick save?	keep smear=40,3,176,2
 INST/scene/graphics/adv_303_000.d2c_1b08	small	FANS UP!	keep clear=56,8,72,50 box=56,12,70,40 fill=FF3C78
 INST/scene/graphics/adv_303_000.d2c_1b08	small	FANS\nWAY UP!	clear=56,58,72,62 box=56,62,70,52 fill=FF3C78
 INST/scene/graphics/adv_008_000.d2c_2eb50	small	Skip
+# chapter-end menu buttons, 3 lettered states (yellow/red/white, then 2 blank states) per image
+INST/scene/graphics/adv_002_001.d2c_898	notice	Save	keep erase=8,10,112,33 box=8,10,112,33 fill=000000
+INST/scene/graphics/adv_002_001.d2c_898	small	Save	erase=8,60,112,33 box=8,60,112,33
+INST/scene/graphics/adv_002_001.d2c_898	notice	Save	erase=8,110,112,33 box=8,110,112,33 fill=E0205A
+INST/scene/graphics/adv_002_002.d2c_870	notice	Chapter Select	keep erase=8,10,112,33 box=8,10,112,33 fill=000000
+INST/scene/graphics/adv_002_002.d2c_870	small	Chapter Select	erase=8,60,112,33 box=8,60,112,33
+INST/scene/graphics/adv_002_002.d2c_870	notice	Chapter Select	erase=8,110,112,33 box=8,110,112,33 fill=E0205A
+INST/scene/graphics/adv_002_003.d2c_870	notice	Replay the Live	keep erase=8,10,112,33 box=8,10,112,33 fill=000000
+INST/scene/graphics/adv_002_003.d2c_870	small	Replay the Live	erase=8,60,112,33 box=8,60,112,33
+INST/scene/graphics/adv_002_003.d2c_870	notice	Replay the Live	erase=8,110,112,33 box=8,110,112,33 fill=E0205A
+INST/scene/graphics/adv_002_004.d2c_870	notice	Next Chapter	keep erase=8,10,112,33 box=8,10,112,33 fill=000000
+INST/scene/graphics/adv_002_004.d2c_870	small	Next Chapter	erase=8,60,112,33 box=8,60,112,33
+INST/scene/graphics/adv_002_004.d2c_870	notice	Next Chapter	erase=8,110,112,33 box=8,110,112,33 fill=E0205A

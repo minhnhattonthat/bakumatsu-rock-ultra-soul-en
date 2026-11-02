@@ -928,7 +928,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "あの神業には驚いたなぁ\\n土方さんと争ってたのが\\n馬鹿らしく思えるくらい",
-   "en": "That miracle blew\\nme away. It made\\nfighting with you\\nseem so stupid,\\nHijikata-san.",
+   "en": "That\\nmasterstroke blew\\nme away. It made\\nfighting with you\\nseem so stupid,\\nHijikata-san.",
    "op": "0x62",
    "msg": "0x56de"
   },
@@ -978,7 +978,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "僕の歌詞を基礎（ベース）に\\n使えそうな部分を拾って\\n合わせるなんて",
-   "en": "and still he used\\nmine as the\\nbase, picked out\\nthe bits he could\\nuse, and blended\\nthem together.",
+   "en": "and still he used\\nmy lyrics as the\\nbase, picked out\\nthe bits of yours\\nhe could use, and\\nblended them in.",
    "op": "0x62",
    "msg": "0x56e3"
   },
@@ -1418,7 +1418,7 @@
    "max": 112,
    "kind": "dialogue",
    "jp": "巨大な岩が二人に\\n襲い掛かってきた時\\n土方は沖田の目前の岩に\\n沖田は土方の目前の岩に\\n咄嗟に斬りかかっていた",
-   "en": "As the rocks fell,\\nHijikata had\\nslashed at the\\none before\\nOkita, and Okita\\nat the one before\\nHijikata, without\\na thought.",
+   "en": "When the huge\\nrocks fell,\\nHijikata slashed\\nat the one before\\nOkita, and Okita\\nat the one before\\nHijikata, on\\nreflex.",
    "op": "0x62",
    "msg": "0x5710"
   },

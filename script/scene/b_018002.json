@@ -248,7 +248,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "いかにもその通り\\n我が代償と引き換えに\\n手に入れた力だ",
-   "en": "Precisely. It is a\\npower I gained\\nin exchange for\\nmy price.",
+   "en": "Precisely. A\\npower I gained by\\npaying the price.",
    "op": "0x62",
    "msg": "0x5861"
   },
@@ -368,7 +368,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "喜んで代償として\\n捧げようではないか！\\nなあ",
-   "en": "I would gladly\\noffer it up as\\nthe price!\\nWould I not?",
+   "en": "I would gladly\\noffer it up as the\\nprice! Wouldn't\\nyou agree?",
    "op": "0x62",
    "msg": "0x586d"
   },

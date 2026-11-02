@@ -108,7 +108,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "思い上がるな！\\n下郎が",
-   "en": "Do not flatter\\nyourself, you\\npeasant!",
+   "en": "Know your\\nplace, peasant!",
    "op": "0x62",
    "msg": "0x227e"
   },
@@ -178,7 +178,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "準備万端だよ！\\nさあ　はじめよう",
-   "en": "Everything is\\nready! Now,\\nlet us begin.",
+   "en": "Everything is\\nready! Now,\\nlet's begin.",
    "op": "0x62",
    "msg": "0x2285"
   },
@@ -238,7 +238,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "無限の熱情がわき上がる！\\n魂が震えるぜよ！\\nもう止められない！",
-   "en": "Endless passion's\\nwelling up! My\\nsoul's shakin'!\\nThere's no\\nstoppin' it now!",
+   "en": "Endless passion's\\nwelling up! My\\nsoul's shakin', I\\ntell ya! There's no\\nstoppin' it now!",
    "op": "0x62",
    "msg": "0x228a"
   },

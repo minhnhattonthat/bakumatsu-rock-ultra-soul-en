@@ -269,18 +269,20 @@ INST/scene/graphics/adv_254_000.d2c_788	sfx	SLAM
 INST/scene/graphics/adv_255_000.d2c_7c4	sfx	WHAM!
 INST/scene/graphics/adv_258_000.d2c_f70	sfx	BANG!
 INST/scene/graphics/adv_259_000.d2c_11c0	sfx	BOOM
-INST/scene/graphics/adv_260_000.d2c_3ec0	sfx	WHOOSH
+INST/scene/graphics/adv_260_000.d2c_3ec0	sfx	HYU	keep clear=9,2,116,124 clear=22,157,78,74 box=9,2,116,124
+INST/scene/graphics/adv_260_000.d2c_3ec0	sfx	RU	box=22,157,78,74
 INST/scene/graphics/adv_261_000.d2c_134c	sfx	GASP!
 INST/scene/graphics/adv_262_000.d2c_11c0	sfx	CLING
 INST/scene/graphics/adv_263_000.d2c_11c0	sfx	TUG
 INST/scene/graphics/adv_264_000.d2c_7dc	sfx	STEP
-INST/scene/graphics/adv_265_000.d2c_1c40	sfx	OH!
+INST/scene/graphics/adv_265_000.d2c_1c40	sfx	O	keep clear=2,129,125,127 box=2,129,125,127
 INST/scene/graphics/adv_266_000.d2c_11c0	sfx	THUD
 INST/scene/graphics/adv_267_000.d2c_11c0	sfx	FWIP
 INST/scene/graphics/adv_268_000.d2c_11a8	sfx	DASH!
 INST/scene/graphics/adv_269_000.d2c_788	sfx	FWOOSH!
 INST/scene/graphics/adv_270_000.d2c_11c0	sfx	BOING
-INST/scene/graphics/adv_271_000.d2c_1a24	sfx	FLASH!
+INST/scene/graphics/adv_271_000.d2c_1a24	sfx	PA	keep clear=2,2,126,128 clear=133,47,81,79 box=2,2,126,128
+INST/scene/graphics/adv_271_000.d2c_1a24	sfx	A	box=133,47,81,79
 INST/scene/graphics/adv_272_000.d2c_11c0	sfx	THUMP
 INST/scene/graphics/adv_273_000.d2c_c80	sfx	SLASH
 INST/scene/graphics/adv_274_000.d2c_7c4	sfx	HAAH
@@ -288,20 +290,22 @@ INST/scene/graphics/adv_275_000.d2c_794	sfx	FLOP
 INST/scene/graphics/adv_276_000.d2c_788	sfx	BA-DUMP
 INST/scene/graphics/adv_277_000.d2c_124c	sfx	THWACK
 INST/scene/graphics/adv_278_000.d2c_788	sfx	KA-BOOM
-INST/scene/graphics/adv_279_000.d2c_15ac	sfx	SHHHH
+INST/scene/graphics/adv_279_000.d2c_15ac	sfx	ZA	keep clear=3,7,124,112 box=3,7,124,112
 INST/scene/graphics/adv_280_000.d2c_788	sfx	SILENCE
 INST/scene/graphics/adv_281_000.d2c_794	sfx	TOSS
 INST/scene/graphics/adv_283_000.d2c_788	sfx	RUSH
 INST/scene/graphics/adv_284_000.d2c_794	sfx	BONK
 INST/scene/graphics/adv_285_000.d2c_788	sfx	GRUMBLE
-INST/scene/graphics/adv_286_000.d2c_788	sfx	SQUEEZE
-INST/scene/graphics/adv_287_000.d2c_15d0	sfx	SQUEEEZE
+INST/scene/graphics/adv_286_000.d2c_788	sfx	SQUEEZE	box=40,0,179,126
+INST/scene/graphics/adv_287_000.d2c_15d0	sfx	GYU	box=6,2,120,116
+INST/scene/graphics/adv_287_000.d2c_15d0	sfx	U	box=167,24,79,87
 INST/scene/graphics/adv_288_000.d2c_794	sfx	SLUMP
 INST/scene/graphics/adv_289_000.d2c_788	sfx	SHOCK
 INST/scene/graphics/adv_290_000.d2c_764	sfx	RUSTLE
 INST/scene/graphics/adv_291_000.d2c_764	sfx	RUMMAGE
 INST/scene/graphics/adv_292_000.d2c_788	sfx	HMPH
-INST/scene/graphics/adv_293_000.d2c_1564	sfx	GRRR
+INST/scene/graphics/adv_293_000.d2c_1564	sfx	GA	box=0,9,129,115
+INST/scene/graphics/adv_293_000.d2c_1564	sfx	RU	box=7,142,111,106
 INST/scene/graphics/adv_294_000.d2c_788	sfx	KA-POW
 INST/scene/graphics/adv_295_000.d2c_770	sfx	WHUMP
 INST/scene/graphics/adv_296_000.d2c_770	sfx	TA-DA!
@@ -318,7 +322,10 @@ INST/scene/graphics/adv_316_000.d2c_794	sfx	POP
 INST/scene/graphics/adv_317_000.d2c_764	sfx	MURMUR
 INST/scene/graphics/adv_318_000.d2c_770	sfx	WAAH
 INST/scene/graphics/adv_319_000.d2c_770	sfx	EEEK
-INST/scene/graphics/adv_320_000.d2c_1a24	sfx	KABOOM
+INST/scene/graphics/adv_320_000.d2c_1a24	sfx	DO	box=34,2,80,126
+INST/scene/graphics/adv_320_000.d2c_1a24	sfx	GO	box=148,6,99,105
+INST/scene/graphics/adv_320_000.d2c_1a24	sfx	O	box=14,139,98,110
+INST/scene/graphics/adv_320_000.d2c_1a24	sfx	N	box=151,136,80,95
 INST/scene/graphics/adv_321_000.d2c_788	sfx	BONK
 INST/scene/graphics/adv_322_000.d2c_c80	sfx	SMACK
 INST/scene/graphics/adv_323_000.d2c_c80	sfx	CRACK
@@ -334,10 +341,16 @@ INST/scene/graphics/adv_332_000.d2c_794	sfx	CRASH
 INST/scene/graphics/adv_333_000.d2c_788	sfx	FLAP
 INST/scene/graphics/adv_334_000.d2c_740	sfx	FLASH
 INST/scene/graphics/adv_335_000.d2c_c80	sfx	THUD
-INST/scene/graphics/adv_336_000.d2c_1a24	sfx	ROOOAR
-INST/scene/graphics/adv_337_000.d2c_1a24	sfx	BOOM
+INST/scene/graphics/adv_336_000.d2c_1a24	sfx	GO	box=16,9,233,247 maxsize=300
+INST/scene/graphics/adv_336_000.d2c_1a24	sfx	O	box=21,265,210,238 maxsize=300
+INST/scene/graphics/adv_336_000.d2c_1a24	sfx	O	box=262,266,149,168 maxsize=300
+INST/scene/graphics/adv_337_000.d2c_1a24	sfx	DO	box=39,0,84,127
+INST/scene/graphics/adv_337_000.d2c_1a24	sfx	O	box=16,131,103,117
+INST/scene/graphics/adv_337_000.d2c_1a24	sfx	N	box=149,140,84,99
 INST/scene/graphics/adv_338_000.d2c_c80	sfx	WHACK
-INST/scene/graphics/adv_339_000.d2c_1c04	sfx	YEAAAH
+INST/scene/graphics/adv_339_000.d2c_1c04	sfx	WA	box=9,14,113,104
+INST/scene/graphics/adv_339_000.d2c_1c04	sfx	A	box=135,131,110,119
+INST/scene/graphics/adv_339_000.d2c_1c04	sfx	A	box=11,135,74,80
 INST/scene/graphics/adv_353_000.d2c_8c4	sfx	FLASH
 INST/scene/graphics/adv_357_000.d2c_1560	sfx	RIN
 INST/scene/graphics/adv_615_000.d2c_11ac	sfx	SNAP

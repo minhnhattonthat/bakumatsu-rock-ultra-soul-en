@@ -18,7 +18,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "歌――\\n古来より『歌』は特別な\\n力を持つものであった",
-   "en": "Song-- Since\\nancient times,\\n\"song\" has held\\na special power.",
+   "en": "Song-- Since\\nancient times,\\n'song' has held\\na special power.",
    "op": "0x62",
    "msg": "0x0000"
   },
@@ -178,7 +178,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "誰が渡すものか\\n幕府の犬め！",
-   "en": "Never! I'll give\\nnothing to a\\nshogunate dog!",
+   "en": "Never! I'd never\\nhand it to a\\nshogunate dog!",
    "op": "0x62",
    "msg": "0x000e"
   },
@@ -348,7 +348,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "この光が　天下に\\nあぐらをかいている\\n徳川の世に",
-   "en": "This light will\\ntear a great,\\ngreat hole...",
+   "en": "This light, upon\\nthe Tokugawa\\nworld that sits\\nso smugly on top\\nof the realm...",
    "op": "0x62",
    "msg": "0x001f"
   },
@@ -358,7 +358,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "大きな　大きな\\n風穴を開ける光だっ！",
-   "en": "...in the Tokugawa\\nworld that sits so\\nsmugly on top of\\nthe realm!",
+   "en": "...is the light\\nthat'll blast a\\ngreat, great\\nhole in it!",
    "op": "0x62",
    "msg": "0x0020"
   },

@@ -435,7 +435,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "私は門番だ\\nその役目にない",
-   "en": "I am a\\ngatekeeper. That\\nis not my role.",
+   "en": "I am a\\ngatekeeper.\\nJudging isn't\\nmy place.",
    "op": "0x62",
    "msg": "0x0143"
   },
@@ -495,7 +495,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "わかればよい",
-   "en": "Good that you\\nunderstand.",
+   "en": "Good. You\\nunderstand.",
    "op": "0x62",
    "msg": "0x0149"
   },
@@ -545,7 +545,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "お前の歌\\n捨てたもんじゃないぞ",
-   "en": "That song of\\nyours isn't\\nhalf bad, lad.",
+   "en": "Your singing isn't\\nhalf bad, lad.",
    "op": "0x62",
    "msg": "0x014e"
   },
@@ -755,7 +755,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "ひゃっほう！\\nお前は　ホントに\\nいいヤツぜよ～っ！",
-   "en": "Yahoo! You're a\\nreal swell guy,\\ny'know thaaat!?",
+   "en": "Yahoo! You're\\na real good\\nguy, I tell ya~!",
    "op": "0x62",
    "msg": "0x0163"
   },
@@ -795,7 +795,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "はぁい　こちらが\\nピッツァマルゲリータよ",
-   "en": "Hiii! Here's your\\npizza margherita.",
+   "en": "Heeere you\\ngo! One pizza\\nmargherita.",
    "op": "0x62",
    "msg": "0x0169"
   },
@@ -985,7 +985,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "まあ　正確にはな　\\n才能のある歌い手を\\n発掘して",
-   "en": "Well, to be\\nprecise, my boy,\\nI dig up talented\\nsingers...",
+   "en": "Well, to be\\nprecise, my boy,\\nmy calling is to\\ndig up talented\\nsingers...",
    "op": "0x62",
    "msg": "0x017c"
   },
@@ -995,7 +995,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "有名にするのが\\nワシの役目だ！",
-   "en": "...and making\\nthem famous\\nis my calling!",
+   "en": "...and make\\nthem famous!",
    "op": "0x62",
    "msg": "0x017d"
   },
@@ -1535,7 +1535,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "う～～～ん　わかった！\\nわしも男だ\\n食った分は体で払うぜよ！",
-   "en": "Hmmmmm...\\nAlright! I'm a\\nman! I'll pay\\nfor what I ate\\nwith my body!",
+   "en": "Hmmmmm...\\nAll right! I'm a\\nman! I'll pay\\nfor what I ate\\nwith my body!",
    "op": "0x62",
    "msg": "0x01b3"
   },
@@ -1575,7 +1575,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "んふっ　そんなウブな\\nところもカワイイ♪\\nま　いいわ",
-   "en": "Mmhm, so\\ninnocent.\\nThat's cute\\ntoo~ Well, fine.",
+   "en": "Hehe, so\\ninnocent.\\nThat's cute\\ntoo~ Well, fine.",
    "op": "0x62",
    "msg": "0x01b7"
   },
@@ -1605,7 +1605,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "うふっ　いいお返事\\nそれじゃ　これから\\nよろしくね！",
-   "en": "Mmhm, good\\nanswer. Well\\nthen, I'm\\ncounting on you!",
+   "en": "Hehe, good\\nanswer. Well\\nthen, I'm\\ncounting on you!",
    "op": "0x62",
    "msg": "0x01ba"
   },
@@ -1755,7 +1755,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "んふっ　そうね\\n楽しみにしてるわ～",
-   "en": "Mmhm, sure.\\nI'll look\\nforward to it~",
+   "en": "Tee hee,\\nsure. I'll look\\nforward to it~",
    "op": "0x62",
    "msg": "0x01c9"
   },
@@ -1815,7 +1815,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "んふふ　いい抱き心地\\nこれからいっぱい\\n仲良くしましょうね～",
-   "en": "Mmhmhm,\\nyou're so nice\\nto hug. Let's\\nget real close\\nfrom now on~",
+   "en": "Tee hee~\\nYou're so nice\\nto hug. Let's\\nget real close\\nfrom now on~",
    "op": "0x62",
    "msg": "0x01cf"
   },

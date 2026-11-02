@@ -1298,7 +1298,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "な～んて　僕達の\\n新しい隊名ですよ？",
-   "en": "Besides~ it's our\\nnew band name\\ntoo, you know?",
+   "en": "Just kidding~ It's\\nour new band\\nname, you know?",
    "op": "0x62",
    "msg": "0x317d"
   },
@@ -1768,7 +1768,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "わ　悪くはねえが\\n少しロックっぽくないかも？\\n……かな？",
-   "en": "I-it ain't bad,\\nbut maybe it's\\na little... not\\nrock? ...Maybe?",
+   "en": "I-it's not bad,\\nbut maybe it's\\na little... not\\nrock? ...Maybe?",
    "op": "0x62",
    "msg": "0x31ac"
   },
@@ -2188,7 +2188,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "音楽は笑顔の為で\\nなければ",
-   "en": "Music has to\\nbe for smiles.",
+   "en": "Music has to be\\nabout smiles.",
    "op": "0x62",
    "msg": "0x31d6"
   },

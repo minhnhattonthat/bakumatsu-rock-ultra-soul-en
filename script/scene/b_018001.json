@@ -158,7 +158,7 @@
    "max": 8,
    "kind": "dialogue",
    "jp": "首座殿",
-   "en": "Lord Chief Elder.",
+   "en": "Chief Elder.",
    "op": "0x62",
    "msg": "0x576a"
   },
@@ -338,7 +338,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "変化を恐れ　利権に\\nしがみつく老害どもめ",
-   "en": "Senile old fools,\\nafraid of change\\nand clinging to\\ntheir privileges.",
+   "en": "Old relics,\\nafraid of change\\nand clinging to\\ntheir privileges.",
    "op": "0x62",
    "msg": "0x577c"
   },
@@ -908,7 +908,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "歌\\nですか",
-   "en": "To sing... you say.",
+   "en": "Singing, you say?",
    "op": "0x62",
    "msg": "0x57b5"
   },

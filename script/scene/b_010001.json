@@ -528,7 +528,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "よーし速攻で終わらせて\\n美味いぴっつぁを食うぜよ",
-   "en": "Alright! I'll finish\\nthis lickety-split\\nand eat me some\\ntasty pizza!",
+   "en": "All right! I'll\\nfinish this\\nlickety-split and\\neat me some\\ntasty pizza!",
    "op": "0x62",
    "msg": "0x2c3a"
   },
@@ -568,7 +568,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "みみみみみっ　水っ！\\n水が欲しいぜよ～っ！",
-   "en": "W-w-w-water!\\nI need water!",
+   "en": "W-w-w-water!\\nI need water,\\nI tell ya!",
    "op": "0x62",
    "msg": "0x2c3e"
   },

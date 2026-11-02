@@ -88,7 +88,7 @@
    "max": 40,
    "kind": "line",
    "jp": "これがロックな食い方なんだよ",
-   "en": "This is how you eat it rock-style."
+   "en": "This is the rock way to eat it."
   },
   {
    "id": "ui_skit_00:0x2d8",
@@ -312,7 +312,7 @@
    "max": 40,
    "kind": "line",
    "jp": "おー　そうじゃったそうじゃった",
-   "en": "Oh, right ya are, right ya are!"
+   "en": "Oh yeah, that's right, that's right!"
   },
   {
    "id": "ui_skit_00:0x7f8",
@@ -1200,7 +1200,7 @@
    "max": 40,
    "kind": "line",
    "jp": "いっ！？",
-   "en": "Wha-!?"
+   "en": "Wha--!?"
   },
   {
    "id": "ui_skit_00:0x1c44",
@@ -1744,7 +1744,7 @@
    "max": 40,
    "kind": "line",
    "jp": "どうせ腹でも減ってるんだろ",
-   "en": "He's just hungry, obviously."
+   "en": "Bet he's just hungry, as usual."
   },
   {
    "id": "ui_skit_00:0x28b4",
@@ -2432,7 +2432,7 @@
    "max": 40,
    "kind": "line",
    "jp": "龍馬　お前　",
-   "en": "Ryoma, you--"
+   "en": "Ryoma, isn't there"
   },
   {
    "id": "ui_skit_00:0x3860",
@@ -2440,7 +2440,7 @@
    "max": 40,
    "kind": "line",
    "jp": "嫌いな奴とかいないのか？",
-   "en": "isn't there anyone you hate?"
+   "en": "anybody you hate?"
   },
   {
    "id": "ui_skit_00:0x389c",
@@ -2472,7 +2472,7 @@
    "max": 40,
    "kind": "line",
    "jp": "実に龍馬くんらしい答えです",
-   "en": "Such a Ryoma-kun answer."
+   "en": "What a very Ryoma-kun answer."
   },
   {
    "id": "ui_skit_00:0x3950",
@@ -2536,7 +2536,7 @@
    "max": 40,
    "kind": "line",
    "jp": "連発してそうだよな",
-   "en": "saying 'I love you' nonstop."
+   "en": "saying 'I like you' nonstop."
   },
   {
    "id": "ui_skit_00:0x3acc",
@@ -3064,7 +3064,7 @@
    "max": 40,
    "kind": "line",
    "jp": "近藤さんは　どうして",
-   "en": "Why would Kondo-san..."
+   "en": "Why would Kondo-san"
   },
   {
    "id": "ui_skit_00:0x46cc",
@@ -3072,7 +3072,7 @@
    "max": 40,
    "kind": "line",
    "jp": "あんな奴を……",
-   "en": "someone like him..."
+   "en": "take to a guy like that..."
   },
   {
    "id": "ui_skit_00:0x4708",
@@ -3096,7 +3096,7 @@
    "max": 40,
    "kind": "line",
    "jp": "あんな奴を……",
-   "en": "someone like him..."
+   "en": "take to a guy like that..."
   },
   {
    "id": "ui_skit_00:0x4794",
@@ -3704,7 +3704,7 @@
    "max": 40,
    "kind": "line",
    "jp": "日本のみらいはどうするん…",
-   "en": "what'sh to become of Japan'sh..."
+   "en": "what'sh to become of Japan'sh future..."
   },
   {
    "id": "ui_skit_00:0x556c",
@@ -4024,7 +4024,7 @@
    "max": 40,
    "kind": "line",
    "jp": "じゃあ僕も距離を縮めちゃお～っと",
-   "en": "Then I'll get closer to you, toooo!"
+   "en": "Then I'll bring us closer, toooo~!"
   },
   {
    "id": "ui_skit_00:0x5cbc",
@@ -4048,7 +4048,7 @@
    "max": 40,
    "kind": "line",
    "jp": "じゃあ僕も距離を縮めちゃお～っと",
-   "en": "Then I'll get closer to you, toooo!"
+   "en": "Then I'll bring us closer, toooo~!"
   },
   {
    "id": "ui_skit_00:0x5d48",
@@ -4512,7 +4512,7 @@
    "max": 40,
    "kind": "line",
    "jp": "晋作もピッツアの食べ過ぎで",
-   "en": "Shinsaku, too much pizza gave"
+   "en": "Shinsaku, did too much pizza give"
   },
   {
    "id": "ui_skit_00:0x67e0",
@@ -4520,7 +4520,7 @@
    "max": 40,
    "kind": "line",
    "jp": "面皰が出来ましたか",
-   "en": "you a pimple as well?"
+   "en": "you a pimple too?"
   },
   {
    "id": "ui_skit_00:0x681c",
@@ -6416,7 +6416,7 @@
    "max": 40,
    "kind": "line",
    "jp": "って　よくねえよ！",
-   "en": "Wait, no it's not!"
+   "en": "Wait, no, it's NOT fine!"
   },
   {
    "id": "ui_skit_00:0x9364",
@@ -6680,7 +6680,7 @@
    "max": 40,
    "kind": "line",
    "jp": "土方さんでも怒りますよ",
-   "en": "I'll get angry, Hijikata-san or not."
+   "en": "Hijikata-san or not, I'll get angry."
   },
   {
    "id": "ui_skit_00:0x9974",
@@ -6704,7 +6704,7 @@
    "max": 40,
    "kind": "line",
    "jp": "土方さんでも怒りますよ",
-   "en": "I'll get angry, Hijikata-san or not."
+   "en": "Hijikata-san or not, I'll get angry."
   },
   {
    "id": "ui_skit_00:0x9a00",
@@ -6728,7 +6728,7 @@
    "max": 40,
    "kind": "line",
    "jp": "土方さんでも怒りますよ",
-   "en": "I'll get angry, Hijikata-san or not."
+   "en": "Hijikata-san or not, I'll get angry."
   },
   {
    "id": "ui_skit_00:0x9a8c",
@@ -6752,7 +6752,7 @@
    "max": 40,
    "kind": "line",
    "jp": "土方さんでも怒りますよ",
-   "en": "I'll get angry, Hijikata-san or not."
+   "en": "Hijikata-san or not, I'll get angry."
   },
   {
    "id": "ui_skit_00:0x9b18",
@@ -6808,7 +6808,7 @@
    "max": 40,
    "kind": "line",
    "jp": "それから　朝の新選組体操の歌と",
-   "en": "And the Shinsengumi Morning Drill song,"
+   "en": "And the Shinsengumi calisthenics song,"
   },
   {
    "id": "ui_skit_00:0x9c58",
@@ -9912,7 +9912,7 @@
    "max": 40,
    "kind": "line",
    "jp": "いえ　近藤さんの男でした",
-   "en": "No, I'm Kondo-san's man."
+   "en": "No, I was Kondo-san's man."
   },
   {
    "id": "ui_skit_00:0xe338",
@@ -10672,7 +10672,7 @@
    "max": 40,
    "kind": "line",
    "jp": "何の話だ　総司",
-   "en": "What are you on about, Soji?"
+   "en": "What are you talking about, Soji?"
   },
   {
    "id": "ui_skit_00:0xf494",

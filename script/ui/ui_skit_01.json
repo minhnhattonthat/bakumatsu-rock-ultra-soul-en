@@ -40,7 +40,7 @@
    "max": 40,
    "kind": "line",
    "jp": "注文入りましたよ",
-   "en": "a new order in, you know."
+   "en": "a new order in."
   },
   {
    "id": "ui_skit_01:0x10c",
@@ -64,7 +64,7 @@
    "max": 40,
    "kind": "line",
    "jp": "注文入りましたよ",
-   "en": "a new order in, you know."
+   "en": "a new order in."
   },
   {
    "id": "ui_skit_01:0x198",
@@ -88,7 +88,7 @@
    "max": 40,
    "kind": "line",
    "jp": "注文入りましたよ",
-   "en": "a new order in, you know."
+   "en": "a new order in."
   },
   {
    "id": "ui_skit_01:0x224",
@@ -144,7 +144,7 @@
    "max": 40,
    "kind": "line",
    "jp": "よし 今日はどこでも作れる",
-   "en": "Alright! Today it's homey udon"
+   "en": "All right! Today it's homey udon"
   },
   {
    "id": "ui_skit_01:0x364",
@@ -1400,7 +1400,7 @@
    "max": 40,
    "kind": "line",
    "jp": "オレ様はいつ何時も",
-   "en": "Yours truly is, at any moment,"
+   "en": "Yours truly is, every single moment,"
   },
   {
    "id": "ui_skit_01:0x200c",
@@ -1528,7 +1528,7 @@
    "max": 40,
    "kind": "line",
    "jp": "私のからくりですが",
-   "en": "these contraptions, you know."
+   "en": "these contraptions of mine."
   },
   {
    "id": "ui_skit_01:0x2304",
@@ -1552,7 +1552,7 @@
    "max": 40,
    "kind": "line",
    "jp": "私のからくりですが",
-   "en": "these contraptions, you know."
+   "en": "these contraptions of mine."
   },
   {
    "id": "ui_skit_01:0x2390",
@@ -1576,7 +1576,7 @@
    "max": 40,
    "kind": "line",
    "jp": "私のからくりですが",
-   "en": "these contraptions, you know."
+   "en": "these contraptions of mine."
   },
   {
    "id": "ui_skit_01:0x241c",
@@ -1600,7 +1600,7 @@
    "max": 40,
    "kind": "line",
    "jp": "私のからくりですが",
-   "en": "these contraptions, you know."
+   "en": "these contraptions of mine."
   },
   {
    "id": "ui_skit_01:0x24a8",
@@ -1624,7 +1624,7 @@
    "max": 40,
    "kind": "line",
    "jp": "私のからくりですが",
-   "en": "these contraptions, you know."
+   "en": "these contraptions of mine."
   },
   {
    "id": "ui_skit_01:0x2534",
@@ -1632,7 +1632,7 @@
    "max": 40,
    "kind": "line",
    "jp": "………なる程　この感じですね",
-   "en": "...I see. So THIS is the effect."
+   "en": "...I see. So THIS is how it feels."
   },
   {
    "id": "ui_skit_01:0x255c",
@@ -1648,7 +1648,7 @@
    "max": 40,
    "kind": "line",
    "jp": "私のからくりですが",
-   "en": "these contraptions, you know."
+   "en": "these contraptions of mine."
   },
   {
    "id": "ui_skit_01:0x25c0",
@@ -1672,7 +1672,7 @@
    "max": 40,
    "kind": "line",
    "jp": "私のからくりですが",
-   "en": "these contraptions, you know."
+   "en": "these contraptions of mine."
   },
   {
    "id": "ui_skit_01:0x264c",
@@ -1696,7 +1696,7 @@
    "max": 40,
    "kind": "line",
    "jp": "私のからくりですが",
-   "en": "these contraptions, you know."
+   "en": "these contraptions of mine."
   },
   {
    "id": "ui_skit_01:0x26d8",
@@ -1704,7 +1704,7 @@
    "max": 40,
    "kind": "line",
    "jp": "よーし ",
-   "en": "Alright!"
+   "en": "All right!"
   },
   {
    "id": "ui_skit_01:0x2700",
@@ -1720,7 +1720,7 @@
    "max": 40,
    "kind": "line",
    "jp": "私のからくりですが",
-   "en": "these contraptions, you know."
+   "en": "these contraptions of mine."
   },
   {
    "id": "ui_skit_01:0x2764",
@@ -1744,7 +1744,7 @@
    "max": 40,
    "kind": "line",
    "jp": "私のからくりですが",
-   "en": "these contraptions, you know."
+   "en": "these contraptions of mine."
   },
   {
    "id": "ui_skit_01:0x27f0",
@@ -1768,7 +1768,7 @@
    "max": 40,
    "kind": "line",
    "jp": "私のからくりですが",
-   "en": "these contraptions, you know."
+   "en": "these contraptions of mine."
   },
   {
    "id": "ui_skit_01:0x287c",
@@ -1792,7 +1792,7 @@
    "max": 40,
    "kind": "line",
    "jp": "私のからくりですが",
-   "en": "these contraptions, you know."
+   "en": "these contraptions of mine."
   },
   {
    "id": "ui_skit_01:0x28f8",
@@ -1824,7 +1824,7 @@
    "max": 40,
    "kind": "line",
    "jp": "私のからくりですが",
-   "en": "these contraptions, you know."
+   "en": "these contraptions of mine."
   },
   {
    "id": "ui_skit_01:0x29c8",
@@ -1848,7 +1848,7 @@
    "max": 40,
    "kind": "line",
    "jp": "私のからくりですが",
-   "en": "these contraptions, you know."
+   "en": "these contraptions of mine."
   },
   {
    "id": "ui_skit_01:0x2a54",
@@ -1928,7 +1928,7 @@
    "max": 40,
    "kind": "line",
    "jp": "近藤さんがいて　オレ達がいるように",
-   "en": "Just like Kondo-san came before us."
+   "en": "Just as Kondo-san led to us."
   },
   {
    "id": "ui_skit_01:0x2c20",
@@ -2032,7 +2032,7 @@
    "max": 40,
    "kind": "line",
    "jp": "僕はずっと土方さんの隣にいます）",
-   "en": "I'm always by your side, Hijikata-san.)"
+   "en": "I'll always be at Hijikata-san's side.)"
   },
   {
    "id": "ui_skit_01:0x2e78",
@@ -2056,7 +2056,7 @@
    "max": 40,
    "kind": "line",
    "jp": "僕はずっと土方さんの隣にいます）",
-   "en": "I'm always by your side, Hijikata-san.)"
+   "en": "I'll always be at Hijikata-san's side.)"
   },
   {
    "id": "ui_skit_01:0x2f04",
@@ -2624,7 +2624,7 @@
    "max": 40,
    "kind": "line",
    "jp": "そのよく回る舌を斬ってやろうか？",
-   "en": "Want me to cut out that clever tongue?"
+   "en": "Want me to slice off that glib tongue?"
   },
   {
    "id": "ui_skit_01:0x3c00",
@@ -3816,7 +3816,7 @@
    "max": 40,
    "kind": "line",
    "jp": "寝ている桂を残して店を出ていく三人",
-   "en": "The trio fled, leaving Katsura asleep."
+   "en": "The trio left, leaving Katsura asleep."
   },
   {
    "id": "ui_skit_01:0x5740",

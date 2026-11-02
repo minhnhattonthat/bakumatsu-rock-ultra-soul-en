@@ -198,7 +198,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "その頃――\\n沖田は茶店の長椅子に座り\\n往来する人々を眺めていた",
-   "en": "Meanwhile...\\nOkita sat on a\\nbench at a cafe,\\nwatching the\\npeople pass by.",
+   "en": "Meanwhile... Okita\\nsat on a bench at\\na teahouse,\\nwatching the\\npeople pass by.",
    "op": "0x62",
    "msg": "0x210b"
   },
@@ -748,7 +748,7 @@
    "max": 80,
    "kind": "dialogue",
    "jp": "慶喜様にあやかって\\n作られた\\n苺慶喜（イチゴケーキ）と\\n羽麩愛（パフェ）です",
-   "en": "Named in honor\\nof\\nYoshinobu-sama,\\nit's a strawberry\\nYoshinobu cake\\nand a parfait!",
+   "en": "Here are a\\nstrawberry\\nYoshinobu cake\\nand a parfait,\\nmade in honor of\\nYoshinobu-sama!",
    "op": "0x62",
    "msg": "0x2142"
   },

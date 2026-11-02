@@ -240,7 +240,7 @@
    "max": 256,
    "kind": "bio",
    "jp": "■幼少期\n\n桂と出会う。\nしばらく女の子だと\nおもっていた。\n後に後悔することになる…。\n\n桂と祭りに行き、\n「きんぎょすくい」を\n「金魚救い」と勘違いして\n出店の店員と揉める。",
-   "en": "[Childhood]\\n\\nMeets Katsura. For a while\\nhe thought Katsura was a\\ngirl. He would come to\\nregret it...\\n\\nAt a festival with\\nKatsura, he took \"goldfish\\nscooping\" for \"goldfish\\nrescuing\" and got into a\\nfight with the stall\\nkeeper."
+   "en": "[Childhood]\\n\\nMet Katsura. For a while\\nhe thought Katsura was a\\ngirl. He would come to\\nregret it...\\n\\nAt a festival with\\nKatsura, he took \"goldfish\\nscooping\" for \"goldfish\\nrescuing\" and got into a\\nfight with the stall\\nkeeper."
   },
   {
    "id": "ui_profile:0xa18",
@@ -256,7 +256,7 @@
    "max": 256,
    "kind": "bio",
    "jp": "■少年期\n\n松下村塾に入塾。\n\n松陰と出会い、ロックを知る。\n『男とロック』の講義中、\n男ならいかなる時でも\nすずしい顔をせよ！\nと松陰に唐辛子を\n食べさせられた。\n\nそこから訓練を重ね、\n今では好物に。\n\nこの頃から\nロックへのめり込む。",
-   "en": "[Adolescence]\\n\\nEnters Shoka Sonjuku,\\nmeets Shoin, finds rock.\\nIn a lecture on 'Men and\\nRock,' Shoin made him eat\\nchili peppers: \"A man\\nkeeps a cool face!\"\\n\\nAfter much training,\\nthey're now his favorite\\nfood.\\n\\nSince then, he lives for\\nrock."
+   "en": "[Adolescence]\\n\\nEntered Shoka Sonjuku,\\nmet Shoin, found rock.\\nIn a lecture on 'Men and\\nRock,' Shoin made him eat\\nchili peppers: \"A man\\nkeeps a cool face!\"\\n\\nAfter much training,\\nthey're now his favorite\\nfood.\\n\\nSince then, he's lived\\nfor rock."
   },
   {
    "id": "ui_profile:0xb40",
@@ -272,7 +272,7 @@
    "max": 256,
    "kind": "bio",
    "jp": "■青年期\n\n幼い頃から\n面倒を見てくれていた\n家令をなくす。\n徳川派遣の視察と\n高杉が揉めた\n責任を負ったのが原因。\n\nこの頃から、幕府に対して\n嫌悪と警戒心を強める。",
-   "en": "[Young Adulthood]\\n\\nLoses the steward who had\\nlooked after him since he\\nwas little. The steward\\ntook the blame for\\nTakasugi's clash with an\\ninspector sent by the\\nTokugawa.\\n\\nFrom then on, his hatred\\nand wariness of the\\nshogunate grow."
+   "en": "[Young Adulthood]\\n\\nLost the steward who had\\nlooked after him since he\\nwas little. The steward\\ntook the blame for\\nTakasugi's clash with an\\ninspector sent by the\\nTokugawa.\\n\\nFrom then on, his hatred\\nand wariness of the\\nshogunate grew."
   },
   {
    "id": "ui_profile:0xc68",
@@ -392,7 +392,7 @@
    "max": 256,
    "kind": "bio",
    "jp": "■幼少期\n\n高杉と出会う。\n\n祭りで見た海外の楽器が\nどういう仕組なのか気になり\n大人に聞いて回るが誰も\n答えられなかったところ、\n分解してみてみれば？と\n高杉にいわれたことから、\nモノの構造に興味を持つ。",
-   "en": "[Childhood]\\n\\nMeets Takasugi.\\n\\nCurious how a foreign\\ninstrument at a festival\\nworked, he asked adults,\\nbut no one knew. Takasugi\\nsaid, \"Why not take it\\napart?\" and he grew\\nfascinated by how things\\nare built."
+   "en": "[Childhood]\\n\\nMet Takasugi.\\n\\nCurious how a foreign\\ninstrument at a festival\\nworked, he asked adults,\\nbut no one knew. Takasugi\\nsaid, \"Why not take it\\napart?\" and he grew\\nfascinated by how things\\nare built."
   },
   {
    "id": "ui_profile:0x1200",
@@ -408,7 +408,7 @@
    "max": 256,
    "kind": "bio",
    "jp": "この頃から発明にハマりだす。\n色々なものを拾っては\n合体する日々。\n\n楽器に興味を持ったことから、\n様々な楽器を習う。\n\n■少年期\n\n松下村塾に入塾。\n\n女の子に間違えられる\n容姿だったため\n自分を恥じ、家出する。",
-   "en": "Around this time he gets\\nhooked on inventing,\\npicking things up and\\ncombining them.\\n\\nDrawn to instruments, he\\nlearns many kinds.\\n\\n[Adolescence]\\n\\nEnters Shoka Sonjuku.\\n\\nAshamed of being mistaken\\nfor a girl, he runs away\\nfrom home."
+   "en": "Around this time he got\\nhooked on inventing,\\npicking things up and\\ncombining them.\\n\\nDrawn to instruments, he\\nlearned many kinds.\\n\\n[Adolescence]\\n\\nEntered Shoka Sonjuku.\\n\\nAshamed of being mistaken\\nfor a girl, he ran away\\nfrom home."
   },
   {
    "id": "ui_profile:0x1328",
@@ -424,7 +424,7 @@
    "max": 256,
    "kind": "bio",
    "jp": "桂家では大騒ぎになったが、\n高杉により発見される。\n\n■青年期\n\n諸藩へ遊学。\n長崎へ遊学した際、\nエレキテルと出会い、\n発明に磨きがかかる。",
-   "en": "The Katsura household was\\nin an uproar, but Takasugi\\nfound him.\\n\\n[Young Adulthood]\\n\\nStudies in various\\ndomains. In Nagasaki he\\ndiscovers the elekiter,\\nand his inventing takes\\noff."
+   "en": "The Katsura household was\\nin an uproar, but Takasugi\\nfound him.\\n\\n[Young Adulthood]\\n\\nStudied in various\\ndomains. In Nagasaki he\\ndiscovered the elekiter,\\nand his inventing took\\noff."
   },
   {
    "id": "ui_profile:0x1450",
@@ -544,7 +544,7 @@
    "max": 256,
    "kind": "bio",
    "jp": "■幼少期\n\n豪農の子であったが、\n両親が侍に殺され\n孤児となってしまう。\n近藤の家の道場に\n引き取られて育つ。\n\nこの頃から近藤に隠れ\n親の仇を捜し始める。\n\n荒れていたため\nバラガキと呼ばれる。",
-   "en": "[Childhood]\\n\\nBorn to a wealthy farming\\nfamily, he was orphaned\\nwhen samurai killed his\\nparents, and raised at the\\nKondo family's dojo.\\n\\nHe began hunting his\\nparents' killer, hidden\\nfrom Kondo.\\n\\nSo wild he was called the\\nThorny Brat."
+   "en": "[Childhood]\\n\\nBorn to a wealthy farming\\nfamily, he was orphaned\\nwhen samurai killed his\\nparents, and raised at the\\nKondo family's dojo.\\n\\nHe began hunting his\\nparents' killer behind\\nKondo's back.\\n\\nSo wild he was called the\\nThorny Brat."
   },
   {
    "id": "ui_profile:0x19e8",
@@ -560,7 +560,7 @@
    "max": 256,
    "kind": "bio",
    "jp": "■少年期\n\n新選組の前身、\n壬生組が結成される。",
-   "en": "[Adolescence]\\n\\nThe Mibu-gumi, forerunner\\nof the Shinsengumi, is\\nformed."
+   "en": "[Adolescence]\\n\\nThe Mibu-gumi, forerunner\\nof the Shinsengumi, was\\nformed."
   },
   {
    "id": "ui_profile:0x1b10",
@@ -576,7 +576,7 @@
    "max": 256,
    "kind": "bio",
    "jp": "■青年期\n\n新選組が愛獲として、\n正式デビューが決定。",
-   "en": "[Young Adulthood]\\n\\nThe Shinsengumi are set to\\nmake their official idol\\ndebut."
+   "en": "[Young Adulthood]\\n\\nThe Shinsengumi were set to\\nmake their official idol\\ndebut."
   },
   {
    "id": "ui_profile:0x1c38",
@@ -712,7 +712,7 @@
    "max": 256,
    "kind": "bio",
    "jp": "■少年期\n\n新選組の前身、\n壬生組が結成される。\n\n近藤にスタミナをつけるため、\nにんにくを食べろといわれるが\n全く受け付けない。\n影で吸血鬼と呼ばれていた。",
-   "en": "[Adolescence]\\n\\nThe Mibu-gumi, forerunner\\nof the Shinsengumi, is\\nformed.\\n\\nTold by Kondo to eat\\ngarlic for stamina, he\\ncouldn't stomach it.\\nBehind his back, he was\\ncalled a vampire."
+   "en": "[Adolescence]\\n\\nThe Mibu-gumi, forerunner\\nof the Shinsengumi, was\\nformed.\\n\\nTold by Kondo to eat\\ngarlic for stamina, he\\ncouldn't stomach it.\\nBehind his back, he was\\ncalled a vampire."
   },
   {
    "id": "ui_profile:0x22f8",
@@ -728,7 +728,7 @@
    "max": 256,
    "kind": "bio",
    "jp": "■青年期\n\nオーディションで選ばれた\n新選組１期生。\n\n新選組が愛獲として、\n正式デビューが決定。\n\n煌の間でも人気は急上昇。\n一番隊組長となる。",
-   "en": "[Young Adulthood]\\n\\nA first-generation\\nShinsengumi member, chosen\\nby audition.\\n\\nThe Shinsengumi's official\\nidol debut is set.\\n\\nSoaring in popularity with\\nfans, he becomes\\nFirst Unit Captain."
+   "en": "[Young Adulthood]\\n\\nA first-generation\\nShinsengumi member, chosen\\nby audition.\\n\\nThe Shinsengumi's official\\nidol debut was set.\\n\\nSoaring in popularity with\\nfans, he became\\nFirst Unit Captain."
   },
   {
    "id": "ui_profile:0x2420",
@@ -864,7 +864,7 @@
    "max": 256,
    "kind": "bio",
    "jp": "■少年期\n\n自分は世界にこそふさわしい。\n世界の女性を自分の物に\nするため、\n海軍に入る決意をする。\n\nかなりの数の女性と\n付き合っており、\n元彼から喧嘩を\nふっかけられる日々を過ごす。",
-   "en": "[Adolescence]\\n\\n\"Only the world is worthy\\nof me.\" Resolves to join\\nthe navy to win the\\nworld's women.\\n\\nDates a great many women\\nand spends his days\\nfending off their angry\\nexes."
+   "en": "[Adolescence]\\n\\n\"I was made for the\\nworld.\" Resolved to join\\nthe navy to win the\\nworld's women.\\n\\nDated a great many women\\nand spent his days\\nfending off their angry\\nexes."
   },
   {
    "id": "ui_profile:0x2ae0",
@@ -880,7 +880,7 @@
    "max": 256,
    "kind": "bio",
    "jp": "■青年期\n\n海軍に入隊。\n頭角を顕し、階級を上げていく。\nしばしば海外への遠征隊に\n出かけ、武勲を上げる。\n\nロックフェスにて、ある男から\n人生で初めての敗北を味わう。\n以来、本気でロックに\n取り組む。\n\n海外基地でのコンサートにて、\nセッションに入ったJと出会う。",
-   "en": "[Young Adulthood]\\n\\nJoins the navy and rises\\nfast, winning honors on\\noverseas missions.\\n\\nAt a rock fest, a certain\\nman hands him his first\\ndefeat. He takes rock\\nseriously ever since.\\n\\nMeets J at a base concert,\\nwhen J joins the session."
+   "en": "[Young Adulthood]\\n\\nJoined the navy and rose\\nfast, winning honors on\\noverseas missions.\\n\\nAt a rock fest, a certain\\nman handed him his first\\ndefeat. He has taken rock\\nseriously ever since.\\n\\nMet J at a base concert,\\nwhen J joined the session."
   },
   {
    "id": "ui_profile:0x2c08",
@@ -1032,7 +1032,7 @@
    "max": 256,
    "kind": "bio",
    "jp": "■青年期\n\n分かっているのは、この頃から\n軍に記録官として配属され、\n各地を転々と\nしているという事。",
-   "en": "[Young Adulthood]\\n\\nAll that's known: around\\nthis time he was assigned\\nto the military as a\\nrecords officer and moves\\nfrom post to post."
+   "en": "[Young Adulthood]\\n\\nAll that's known: around\\nthis time he was assigned\\nto the military as a\\nrecords officer and moved\\nfrom post to post."
   },
   {
    "id": "ui_profile:0x33f0",
@@ -1664,7 +1664,7 @@
    "max": 32,
    "kind": "dislikes",
    "jp": "らっきょ",
-   "en": "Pickled shallots"
+   "en": "Pickled rakkyo"
   },
   {
    "id": "ui_profile:0x6ec4",

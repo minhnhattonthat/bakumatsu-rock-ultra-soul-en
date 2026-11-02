@@ -188,7 +188,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "紹介状なら\\nアテがあるぜよ",
-   "en": "If it's a letter\\nof introduction\\nyou need, I got\\nan idea.",
+   "en": "If it's a letter\\nof introduction\\nyou need, I got\\nsomebody in\\nmind.",
    "op": "0x62",
    "msg": "0x01f7"
   },
@@ -248,7 +248,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "よし　その先生とやらの\\n似顔絵を描いてくれれば\\nオレも捜してみる",
-   "en": "Alright, if you\\ndraw me a\\npicture of this\\nteacher, I'll look\\nfor him too.",
+   "en": "All right, if you\\ndraw me a\\npicture of this\\nteacher, I'll look\\nfor him too.",
    "op": "0x62",
    "msg": "0x01fd"
   },
@@ -328,7 +328,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "よーし　明日から\\nこの人を捜しに\\n行くぜよ！",
-   "en": "Alright! Startin'\\ntomorrow, I'm\\ngoin' lookin' for\\nthis guy!",
+   "en": "All right! Startin'\\ntomorrow, I'm\\ngoin' lookin' for\\nthis guy!",
    "op": "0x62",
    "msg": "0x0205"
   },
@@ -458,7 +458,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "よっしゃ！　明日は\\nあっちの方を捜すぜよ！",
-   "en": "Alright!\\nTomorrow I'll\\nsearch over\\nthat way!",
+   "en": "All right!\\nTomorrow I'll\\nsearch over\\nthat way!",
    "op": "0x62",
    "msg": "0x0212"
   },
@@ -4452,7 +4452,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "おうっ！\\nくうっ　二人の演奏で\\nますます漲ってきたぜよ！",
-   "en": "Alright! Oof, with\\nyou two playin',\\nI'm gettin' even\\nmore fired up!",
+   "en": "All right! Oof,\\nwith you two\\nplayin', I'm\\ngettin' even\\nmore fired up!",
    "op": "0x62",
    "msg": "0x039d"
   },

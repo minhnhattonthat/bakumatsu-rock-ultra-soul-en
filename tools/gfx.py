@@ -239,6 +239,8 @@ def fit(text, bw, bh, align='c', size=None, maxsize=None, **st):
     """The text's ink (cropped to its drawn pixels) at the largest size whose ink fits bw-2 x bh-2. Fitting the ink,
     not the font's line box, keeps Latin caps as tall as the kanji they replace."""
     import typeset
+    if 'Bangers' in st.get('font_name', ''):   # italic overhang past the advance: typeset's layer would cut it off
+        text = '\n'.join(ln + ' ' for ln in text.split('\n'))
     def ink(s):
         c = typeset.text_image(bw * 4 + 64, bh * 4 + 64, text, size=s, align=align, **st)
         return c.crop(c.getbbox() or (0, 0, 1, 1))

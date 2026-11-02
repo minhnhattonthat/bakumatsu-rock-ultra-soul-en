@@ -32,7 +32,7 @@
    "max": 512,
    "kind": "text",
    "jp": "○決定",
-   "en": "O OK"
+   "en": "O Enter"
   },
   {
    "id": "ui_system_text:0x830",
@@ -136,7 +136,7 @@
    "max": 512,
    "kind": "text",
    "jp": "クイックセーブしたセーブデータが\nありません。",
-   "en": "No quick save data\\nfound."
+   "en": "No quick save\\ndata found."
   },
   {
    "id": "ui_system_text:0x2298",
@@ -225,7 +225,7 @@
    "max": 512,
    "kind": "text",
    "jp": "インストールデータのインストールに成功しました。\nインストールデータ使用をONに設定します。\nインストールメニューで、切り替えることができます。",
-   "en": "The install data was installed successfully.\\nUse Install Data is now set to ON.\\nYou can change this in the Install menu.",
+   "en": "Install data installed successfully.\\nUse Install Data is now set to ON.\\nYou can change this in the Install menu.",
    "encoding": "utf-8"
   },
   {
@@ -429,7 +429,7 @@
    "max": 512,
    "kind": "text",
    "jp": "ダウンロードコンテンツのロードを中断しました。\nこの現象が何度も発生する場合は、PlayStation®Storeにてこれまで入手したダウンロードコンテンツを再ダウンロードすると、解決する場合があります。\n\nダウンロードしたことのあるコンテンツは、\nPlayStation®Storeの「ダウンロードリスト」から再ダウンロードできます。 ",
-   "en": "Loading of downloadable content was canceled.\\nIf this keeps happening, re-downloading the downloadable content you have obtained from PlayStation Store may solve it.\\n\\nContent you have downloaded before can be\\nre-downloaded from the \"Download List\" in PlayStation Store.",
+   "en": "Downloadable content loading was interrupted.\\nIf this keeps happening, re-downloading all the downloadable content you have obtained from PlayStation Store may fix the problem.\\n\\nContent you have downloaded before can be\\nre-downloaded from the \"Download List\" in PlayStation Store.",
    "encoding": "utf-8"
   },
   {
@@ -562,7 +562,7 @@
    "max": 512,
    "kind": "text",
    "jp": "読み込み準備が出来るまで\nしばらくお待ちください。",
-   "en": "Please wait until\\nloading is ready.",
+   "en": "Preparing to load.\\nPlease wait a moment.",
    "encoding": "utf-8"
   },
   {
@@ -691,7 +691,7 @@
    "max": 512,
    "kind": "text",
    "jp": "記録メディアの空き容量が不足しています。\n特典データをセーブするには空き容量があと",
-   "en": "Not enough free space on the Memory Stick.\\nSaving the bonus data requires at least",
+   "en": "Not enough free space on the Memory Stick.\\nSaving the bonus data requires at least\\n",
    "encoding": "utf-8"
   },
   {
@@ -829,7 +829,7 @@
    "max": 512,
    "kind": "text",
    "jp": "インストール、削除を行います",
-   "en": "Install or delete install data."
+   "en": "Install or delete the install data."
   },
   {
    "id": "ui_system_text:0xc720",

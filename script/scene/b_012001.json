@@ -48,7 +48,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "ふと　龍馬に負けたことを\\n思い出しちまったのさ",
-   "en": "I just\\nremembered\\nlosing to Ryoma,\\nthat's all.",
+   "en": "Just got to\\nrememberin'\\nhow I lost to\\nRyoma, is all.",
    "op": "0x62",
    "msg": "0x2f0c"
   },
@@ -108,7 +108,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "そうだね\\nおうの　アンタ冴えてるよ",
-   "en": "Right. Ouno,\\nyou're sharp\\ntoday.",
+   "en": "That's it!\\nOuno, you're\\na sharp one.",
    "op": "0x62",
    "msg": "0x2f12"
   },
@@ -148,7 +148,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "帰ったぜよーーー！",
-   "en": "I'm baaack!",
+   "en": "I'm baaack, y'all!",
    "op": "0x62",
    "msg": "0x2f16"
   },
@@ -258,7 +258,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "それはそうだが\\nなんか　驚きぜよ",
-   "en": "Well, that's\\ntrue, but color\\nme surprised.",
+   "en": "Well, that's\\ntrue, but it sure\\nis a surprise.",
    "op": "0x62",
    "msg": "0x2f21"
   },
@@ -1768,7 +1768,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "私に……\\nなんなりと……\\nお申し付け下さい……",
-   "en": "Command me...\\nhowever... you\\nwish...",
+   "en": "Your wish... is\\nmy... command...",
    "op": "0x62",
    "msg": "0x2fb8"
   },
@@ -1828,7 +1828,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "確かにお登勢やんは\\n気っ風も腕力も男前じゃけど",
-   "en": "Sure, Otose-yan's\\ngot the guts and\\nthe muscle of a\\nreal man, but...",
+   "en": "Sure, Otose-yan's\\nguts and muscle\\nare as manly as\\nthey come, but...",
    "op": "0x62",
    "msg": "0x2fbe"
   },

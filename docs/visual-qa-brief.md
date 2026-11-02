@@ -34,6 +34,16 @@ Standing non-bugs, `ok` (the controller adds the game's own below):
   CGs, the 誠 crest (masks, drapes, banners), the 秘 seal on a notebook, 新選組 on the flyer/ticket props, the
   onmyo disk, door calligraphy, and the 幕末Rock title logo. Japanese in a menu, title card, notice, button, SFX or
   label is still an issue.
+- Profile list / NAME bar initials "S. Takasugi", "T. Hijikata", "T. Suzuki", "T. Morikawa", "S. Morikubo" (D15: the
+  slot is 15 bytes).
+- ADV caption-card text faintly visible behind the pause menu panel (the original shows its card text there too).
+- Ending routes (chapter list rows 11-13) start without a chapter card, as in the original.
+- CHAPTER list rows are shorter forms of the chapter-card titles (the rows clip at 241 px), e.g. card "Rock of
+  Passion", row "Passion Rock".
+- Manga SFX built from kana pieces (one sprite per kana, re-arranged by the game) show romaji per piece ("GO O O O
+  O", "DO GO O N", "WA A A"); a ー or ! piece stays as drawn. Whole English words are for one-sprite SFX.
+- Full-size frames: `work/qa/warp/<scene>/f<frame>.png` (every 120 frames) are the English frames the sheets were
+  made from; zoom those before calling a glyph missing.
 
 ## Verdicts
 Write your verdict file once you have read every sheet, one line per id in the chunk:

@@ -258,7 +258,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "そう言って\\nジュニアが微笑んだ\\n時だった",
-   "en": "It happened just\\nas Junior said so\\nwith a smile.",
+   "en": "It was just as\\nJunior said that\\nwith a smile.",
    "op": "0x62",
    "msg": "0x5539"
   },
@@ -518,7 +518,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "バカでもいい\\n一度試させてくれないか？",
-   "en": "Stupid is fine.\\nWon't you let me\\ncheck, just once?",
+   "en": "Stupid is fine.\\nWon't you let me\\ntest it, just once?",
    "op": "0x62",
    "msg": "0x5553"
   },
@@ -528,7 +528,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "試すって\\n何する気",
-   "en": "Check? What\\nare you\\nplanning to do...",
+   "en": "Test it? What\\nare you\\nplanning to do...",
    "op": "0x62",
    "msg": "0x5554"
   },

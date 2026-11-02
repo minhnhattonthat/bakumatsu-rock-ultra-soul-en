@@ -78,7 +78,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "下手が無理しても\\nミスが増えるだけだ\\nからな",
-   "en": "A beginner who\\npushes himself\\nonly makes\\nmore mistakes.",
+   "en": "Pushing it when\\nyou're no good\\njust means\\nmore mistakes.",
    "op": "0x62",
    "msg": "0x2062"
   },
@@ -1098,7 +1098,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "こ　これは\\n目にゴミが入っただけだ！",
-   "en": "Th-this is just\\ndust in my eye!",
+   "en": "Th-this is just\\ndust in my eyes!",
    "op": "0x62",
    "msg": "0x20c8"
   },
@@ -1108,7 +1108,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "そうだ\\n汗がしみただけだ",
-   "en": "That's right.\\nIt's just sweat\\nstinging them.",
+   "en": "That's right. Just\\nsweat stinging\\nmy eyes.",
    "op": "0x62",
    "msg": "0x20c9"
   },
@@ -1168,7 +1168,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "あの言葉には二人の\\nロックが詰まってた\\n感激しました",
-   "en": "Those words were\\npacked with both\\nyour rock. I was\\ndeeply moved.",
+   "en": "Those words\\nwere packed\\nwith both of your\\nrock souls. I was\\ndeeply moved.",
    "op": "0x62",
    "msg": "0x20cf"
   },
@@ -1258,7 +1258,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "そうそう　二度も\\n奇跡（ラッキー）は\\nないだろうし\\n幕府の残党か……",
-   "en": "Yes, yes, we\\ncan't count on\\ngetting lucky\\ntwice. Shogunate\\nholdouts,\\nperhaps...",
+   "en": "Right. We can't\\ncount on getting\\nlucky twice.\\nShogunate\\nholdouts,\\nperhaps...",
    "op": "0x62",
    "msg": "0x20d8"
   },

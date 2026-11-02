@@ -1208,7 +1208,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "出来ないんですか？\\nやっぱりジジ……",
-   "en": "Can't do it? I\\nknew it, you're\\nan old ma...",
+   "en": "Can't do it? I\\nknew it, you're\\nan old geez...",
    "op": "0x62",
    "msg": "0x29d6"
   },
@@ -1338,7 +1338,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "ああ　俺からも頼む",
-   "en": "Yes. I ask as well.",
+   "en": "Same here.\\nI'm asking too.",
    "op": "0x62",
    "msg": "0x29e3"
   },
@@ -1408,7 +1408,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "そんなわけねえだろ！\\nもう二度とこいつと\\n入れ替わるなんざごめんだ",
-   "en": "As if! I am never\\nswapping with\\nthis guy again!",
+   "en": "As if! I'm never\\nswapping with\\nthis guy again!",
    "op": "0x62",
    "msg": "0x29ea"
   },

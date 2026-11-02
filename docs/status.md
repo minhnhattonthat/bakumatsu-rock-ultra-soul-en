@@ -33,10 +33,11 @@ Updated at the end of every session. Keep it to what the next session needs; his
     b_006002 wording. Checked, not bugs: ADV card text behind the pause menu (the original does it too), the
     "--Edo" dash (drawn), ui_system_text 0x5d80. font24 had blank ASCII: `vwf.font24()` now ships Latin glyphs.
   - **Known issue (open):** the ADV back log shows no speaker labels in English (JP: 坂本龍馬 / ト書き left of each
-    entry). Not the names (Japanese names also vanish), not font24, not `ADV_CODE`'s centring pass (never called on
-    the back log): probably the back log keys the label on the speech box's mode, which the scripts now set to 0.
-    Next: find the back log's label printer (it doesn't use 0x08813c7c), e.g. a read watch on the op-0x19 table.
-    Warp row `adv_backlog_talk` shows it.
+    entry). Not the names (Japanese names also vanish), not font24, not the box mode (a build that keeps mode 2:
+    still no labels), not the EBOOT code (a build without ADV_CODE/TEXT_CODE: still none). The English back log also
+    lists fewer entries and opens at the top, where the original opens scrolled to the newest line: so it is in how
+    the scene text is stored per entry. Next: a read watch on the op-0x19 table / the back-log entry buffer.
+    Warp row `adv_backlog_talk` shows it. Listed under Known issues in the release README.
   - jp_left: `tools/textscan.py` (every text record read back from the built ISO) + `jp_left.py` -> 0 runs.
   - **Left in phase 8:** re-tour on the fixed build + visual-QA round 2.
 - **Phase 7 done** (2026-11-03): build green.

@@ -258,7 +258,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "そういう　お前は\\n舞台に出ていて\\n忙しいんじゃなかったか？",
-   "en": "Aren't you\\nsupposed to\\nbe busy out\\non stage?",
+   "en": "Look who's\\ntalking. Aren't\\nyou supposed\\nto be busy out\\non stage?",
    "op": "0x62",
    "msg": "0x2ff3"
   },
@@ -458,7 +458,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "……あ～あ\\n近藤さんも土方さんも\\n本当にチョロいな～",
-   "en": "...Ha~ Kondo-san\\nand Hijikata-san\\nare both such\\npushovers~",
+   "en": "...Sheesh~\\nKondo-san and\\nHijikata-san\\nare both such\\npushovers~",
    "op": "0x62",
    "msg": "0x3007"
   },
@@ -568,7 +568,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "そうだそうだ\\n俺たちは毎日　厳しい\\n練習に耐えて頑張ってる",
-   "en": "Yeah, that's\\nright! We grit our\\nteeth through\\nharsh practice\\nevery single day!",
+   "en": "Yeah, that's right!\\nWe endure harsh\\npractice and give\\nit our all every\\nsingle day!",
    "op": "0x62",
    "msg": "0x3012"
   },
@@ -578,7 +578,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "ふ～ん　頑張ってる　ね",
-   "en": "Hmm~ \"Grit your\\nteeth,\" huh.",
+   "en": "Hmm~ 'Give it\\nour all,' huh.",
    "op": "0x62",
    "msg": "0x3013"
   },
@@ -1758,7 +1758,7 @@
    "max": 116,
    "kind": "dialogue",
    "jp": "砕けて空に散っていった\\n超魂の欠片が二度と\\nひとつにならないように\\n手に入れた片魂をずっと\\n手元で封印していたのだ",
-   "en": "So the Ultra\\nSoul's shards,\\nscattered across\\nthe sky, would\\nnever be one\\nagain, he kept\\neach Piece Soul\\nsealed at his side.",
+   "en": "He kept every\\nPiece Soul he took\\nsealed at his side,\\nso the Ultra Soul's\\nshards, scattered\\nacross the sky,\\ncould never be\\none again.",
    "op": "0x62",
    "msg": "0x3089"
   },
@@ -2198,7 +2198,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "……なに　それ\\n本気で言ってる？",
-   "en": "...What did you\\njust say? Are\\nyou serious?",
+   "en": "...What's that\\nsupposed to\\nmean? You\\nserious?",
    "op": "0x62",
    "msg": "0x30b5"
   },
@@ -2208,7 +2208,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "斬るよ？",
-   "en": "Want me\\nto cut you?",
+   "en": "I'll cut you,\\nyou know?",
    "op": "0x62",
    "msg": "0x30b6"
   },

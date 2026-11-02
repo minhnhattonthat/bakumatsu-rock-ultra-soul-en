@@ -78,7 +78,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "今宵の蘭出舞（ランデブー）も\\n最高か？",
-   "en": "Is tonight's\\nrendezvous\\nthe best?",
+   "en": "Will tonight's\\nrendezvous be\\nthe best too?",
    "op": "0x62",
    "msg": "0x1f51"
   },
@@ -118,7 +118,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "どんどん歌いますから\\nはりきって\\n聴いてくださいね",
-   "en": "We'll play song\\nafter song, so\\nlisten with all\\nyou've got!",
+   "en": "We'll play song\\nafter song, so\\nplease listen with\\nall you've got!",
    "op": "0x62",
    "msg": "0x1f55"
   },
@@ -328,7 +328,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "よーし！\\nシャウト！　シャウト！\\nシャウトじゃ！",
-   "en": "Alright!\\nShout! Shout!\\nLet's SHOUT!",
+   "en": "All right!\\nShout! Shout!\\nLet's SHOUT!",
    "op": "0x62",
    "msg": "0x1f6a"
   },
@@ -668,7 +668,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "それを下ろして\\n軽くなった今\\nどこへでも行ける！",
-   "en": "Now that ya set it\\ndown and you're\\nlighter, you can\\ngo anywhere!",
+   "en": "Now that you've\\nset it down and\\nyou're lighter,\\nyou can go\\nanywhere!",
    "op": "0x62",
    "msg": "0x1f8c"
   },
@@ -888,7 +888,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "よし！　よく言った龍馬！\\nオレ様もそう思ってたんだ",
-   "en": "Alright! Well\\nsaid, Ryoma! I\\nwas thinking\\nthe same thing.",
+   "en": "All right! Well\\nsaid, Ryoma! I\\nwas thinking\\nthe same thing.",
    "op": "0x62",
    "msg": "0x1fa2"
   },
@@ -1118,7 +1118,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "ま　バカのことだから\\n何にも考えずに\\n言ってるんだろうがな",
-   "en": "Well, knowing\\nthis idiot, he\\nsaid it without\\nthinking about\\nanything.",
+   "en": "Well, knowing\\nthis idiot, he\\nprobably said\\nit without a\\nsingle thought\\nin his head.",
    "op": "0x62",
    "msg": "0x1fb9"
   },
@@ -1198,7 +1198,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "バカは承知だ\\n今度ばかりはオレ様も\\nお前と同じ気持ちだぜ",
-   "en": "Sure he's an\\nidiot. But for\\nonce, yours truly\\nfeels the same\\nway you do.",
+   "en": "I know he's an\\nidiot. But for\\nonce, yours truly\\nfeels the same\\nway you do.",
    "op": "0x62",
    "msg": "0x1fc1"
   },
@@ -1258,7 +1258,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "怖じ気づいたんじゃ\\nねえのか？",
-   "en": "Didn't you\\nget cold feet?",
+   "en": "Getting cold\\nfeet, are ya?",
    "op": "0x62",
    "msg": "0x1fc7"
   },
@@ -1338,7 +1338,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "よっしゃー！\\nこれで海の向こうでも\\n五人で音楽がやれるな！",
-   "en": "Alright! Now the\\nfive of us can\\nmake music\\nacross the sea too!",
+   "en": "All right! Now the\\nfive of us can\\nmake music\\nacross the sea too!",
    "op": "0x62",
    "msg": "0x1fcf"
   },

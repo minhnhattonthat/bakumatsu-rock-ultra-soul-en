@@ -188,7 +188,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "おお　おとぎ話か\\nそりゃあええ\\n聞かせてくれ　ソウちん",
-   "en": "Ooh, a fairy\\ntale! Sounds\\ngreat! Let's\\nhear it, So-chin.",
+   "en": "Ooh, a fairy\\ntale! Now that's\\nsomethin'! Let's\\nhear it, So-chin.",
    "op": "0x62",
    "msg": "0x2b8c"
   },
@@ -468,7 +468,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "そ　それで　その女房は\\nどうなったんじゃ？",
-   "en": "Wh-what\\nhappened to\\nthat lady?",
+   "en": "S-so what\\nhappened to\\nthat lady, huh?",
    "op": "0x62",
    "msg": "0x2ba8"
   },
@@ -688,7 +688,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "なんのために殺害を？",
-   "en": "Killed her\\nfor what?",
+   "en": "Why would\\nthey kill her?",
    "op": "0x62",
    "msg": "0x2bbe"
   },
@@ -918,7 +918,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "はは……冗談だろ\\nそんなもんが来た日にゃあ\\n手も足も出ねえぞ？",
-   "en": "Ha ha... You're\\nkidding, right?\\nIf something like\\nthat shows up,\\nwe won't have a\\nleg to stand on!",
+   "en": "Ha ha... You're\\nkidding, right?\\nIf something\\nlike that shows\\nup, we won't\\nbe able to lift a\\nhand or a foot!",
    "op": "0x62",
    "msg": "0x2bd5"
   },
@@ -928,7 +928,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "幽霊は手と足だけだけどね",
-   "en": "Well, legs are\\nabout all she\\ndoes have.",
+   "en": "Hands and feet\\nare all that ghost\\nhas, though.",
    "op": "0x62",
    "msg": "0x2bd6"
   },

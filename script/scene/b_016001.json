@@ -338,7 +338,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "その饅頭を割るということ\\nそれ即ち慶喜様への謀反と\\nみなすが――",
-   "en": "Splitting them\\nwould be\\nconsidered\\ntreason against\\nYoshinobu-sama...",
+   "en": "If you split those\\nmanju, I'll treat it\\nas treason against\\nYoshinobu-sama--",
    "op": "0x62",
    "msg": "0x55c3"
   },
@@ -508,7 +508,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "欲なんかじゃねえ\\n当然の権利を主張した\\nまでだ",
-   "en": "It ain't greed.\\nI'm just\\nclaiming what's\\nrightfully mine.",
+   "en": "It's not greed.\\nI'm just\\nclaiming what's\\nrightfully mine.",
    "op": "0x62",
    "msg": "0x55d4"
   },
@@ -678,7 +678,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "そもそも発想が\\n貧乏くさいんだよね\\nはー　貧乏くさっ",
-   "en": "The whole\\nidea's just so\\ncheapskate.\\nUgh, so cheap.",
+   "en": "The whole\\nidea's just so\\npenny-pinching.\\nUgh, so cheap.",
    "op": "0x62",
    "msg": "0x55e5"
   },
@@ -898,7 +898,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "じゃあ　さっさと\\nカタをつけようよ\\nどうせ僕が勝つけど",
-   "en": "Then let's settle\\nthis already. Not\\nthat it matters--\\nI'm gonna win\\nanyway.",
+   "en": "Then let's settle\\nthis already. I'm\\ngonna win\\nanyway.",
    "op": "0x62",
    "msg": "0x55fb"
   },
@@ -908,7 +908,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "勝負は\\nやってみないと分からない\\nいざ　尋常に勝負ッッ",
-   "en": "You never know\\nwho wins a fight\\nuntil you fight it.\\nNow--have at you,\\nfair and square!",
+   "en": "You never know\\nwho wins a fight\\nuntil you fight\\nit. Now--face me,\\nfair and square!",
    "op": "0x62",
    "msg": "0x55fc"
   },
@@ -948,7 +948,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "は～っ\\nヨッシーの誕生日\\n盛り上がったなぁ",
-   "en": "Whew~ Yosshi's\\nbirthday party\\nsure was a blast!",
+   "en": "Whew~ Yosshi's\\nbirthday festival\\nsure was a blast!",
    "op": "0x62",
    "msg": "0x5600"
   },

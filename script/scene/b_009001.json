@@ -118,7 +118,7 @@
    "max": 8,
    "kind": "dialogue",
    "jp": "ほえ？",
-   "en": "Huh?",
+   "en": "Whuh?",
    "op": "0x62",
    "msg": "0x2aa9"
   },
@@ -518,7 +518,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "いや！　いまのは\\nちょっとじゃない\\nぜよーっ！",
-   "en": "No way! That\\nwas NOT a little!",
+   "en": "No way! That\\nwas NOT a\\nlittle, I tell ya!",
    "op": "0x62",
    "msg": "0x2ad1"
   },
@@ -578,7 +578,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "い……\\nいやじゃああ～～！",
-   "en": "N... Noooo\\nwaaaay!",
+   "en": "N... No way,\\nI tell yaaa~!",
    "op": "0x62",
    "msg": "0x2ad7"
   },
@@ -1188,7 +1188,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "オレ様の大福が\\nどこかに\\n消えてるんだよ！",
-   "en": "My daifuku has\\ngone missing!",
+   "en": "The great\\nTakasugi's\\ndaifuku has\\ngone missing!",
    "op": "0x62",
    "msg": "0x2b14"
   },
@@ -1348,7 +1348,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "こいつ　いま切腹\\nしようとかして\\nなかったかぁーっ",
-   "en": "Was this guy just\\nabout to slice his\\nbelly open!?",
+   "en": "Was this guy just\\nabout to commit\\nseppuku!?",
    "op": "0x62",
    "msg": "0x2b24"
   },
@@ -1548,7 +1548,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "ちっ……　余計なことを\\nこの二人の口を\\n縫いつけてやろうか",
-   "en": "Tch...\\nBlabbermouths.\\nMaybe I should\\nsew these two's\\nmouths shut.",
+   "en": "Tch...\\nBlabbermouths.\\nMaybe I should\\nsew both their\\nmouths shut.",
    "op": "0x62",
    "msg": "0x2b38"
   },
@@ -1958,7 +1958,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "大福がもたらした\\n事件により　仲間達の\\n友情が垣間見られた\\n一幕である――",
-   "en": "...an episode in\\nwhich a daifuku\\nbrought about\\nan incident, and\\na glimpse of the\\nfriendship\\nbetween\\ncomrades--",
+   "en": "...an episode in\\nwhich an\\nincident sparked\\nby a daifuku\\ngave a glimpse\\nof the friendship\\nbetween\\ncomrades--",
    "op": "0x62",
    "msg": "0x2b61"
   }

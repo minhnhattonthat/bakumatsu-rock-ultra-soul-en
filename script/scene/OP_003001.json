@@ -8,7 +8,7 @@
    "max": 88,
    "kind": "dialogue",
    "jp": "太平洋――\\n他国へと繋がるこの大海を\\n荒波も物ともせず突き進む\\n四隻の蒸気船があった",
-   "en": "The Pacific-- On\\nthis great ocean\\nthat links to\\nother lands, four\\nsteamships were\\npressing on,\\nheedless of the\\nrough waves.",
+   "en": "The Pacific--\\nOn this great\\nocean that links\\nto other lands,\\nfour steamships\\nwere pressing on,\\nheedless of the\\nrough waves.",
    "op": "0x62",
    "msg": "0x4e20"
   },
@@ -488,7 +488,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "まあ　大体そんな感じ\\nオレはロックの申し子\\n神と呼んで問題ない",
-   "en": "Yeah, pretty\\nmuch. I'm the\\nchild of rock.\\nCalling me a god\\nis no problem.",
+   "en": "Yeah, pretty\\nmuch. I'm the\\nchild of rock.\\nFeel free to\\ncall me a god.",
    "op": "0x62",
    "msg": "0x4e50"
   },

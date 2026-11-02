@@ -1298,7 +1298,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "……そうかよ",
-   "en": "...Is that so.",
+   "en": "...If you say so.",
    "op": "0x62",
    "msg": "0x220c"
   },
@@ -1398,7 +1398,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "いやっ　オレ様は\\nオレ様のロックを\\n探しに行くんだ！",
-   "en": "N-no! The\\ngreat Takasugi\\nis going to find\\nhis own rock!",
+   "en": "No! The great\\nTakasugi is\\ngoing to find\\nhis own rock!",
    "op": "0x62",
    "msg": "0x2216"
   },
@@ -1598,7 +1598,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "……ギクッ",
-   "en": "...*Gulp*",
+   "en": "...*Flinch*",
    "op": "0x62",
    "msg": "0x222a"
   },

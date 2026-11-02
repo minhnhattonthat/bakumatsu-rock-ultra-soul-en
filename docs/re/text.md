@@ -189,3 +189,49 @@ horizontal (or re-laying out the panels) is EBOOT engine work, not data. Anchors
 
 These are read off the zoomed marker shots, not yet from a per-variant px budget; the ADV panel will be re-measured
 after the horizontal layout lands, and the font is proportional, so the budget is in px (chars are approximate).
+The ADV row is superseded by §8.
+
+## 8. Horizontal ADV dialogue, VWF font, width gate (phase 5, D10/D12)
+
+**Box ops** (scene scripts; s16 args via the reader at 0x088111a8): `4D box mode _ _` sets a box's direction
+(handler 0x08819508, text object +0xC0): 0 = horizontal left to right, 1-2 = tategaki (every story script sets boxes
+0-2 to 2), 3 = horizontal with each line centred (box 3). `4E box pitch _ gap` (0x088195dc): line pitch (+0xC4) and
+glyph gap (+0xCC). `53` selects the current box, `62 id string` shows a line in it (0x0881a540). Panel art
+(rounded / octagon thought / spiky shout / caption card) is fixed per box and scene, not sized by the text: the same
+panel shows for a 1-char and a 26-char line.
+
+**Text object** (one per box; setup 0x088145a4): +0 text pointer, +8 canvas sprite index (0x46 for the speech box;
+sprite table `ctx+0x164`, stride 0x6c, +0xc), +0x98/+0x9c origin, +0xa0/+0xa4 canvas w/h (128x256 for boxes 0-2),
++0xa8/+0xac cursor. Mode 0 starts at (0,0) and wraps at the canvas width; tategaki starts at (w,0) and goes down then
+left. The char printer is 0x088137a0 (a1=0: measure only); 0x08813c7c runs it to the end of a line; control codes are
+`\cls \key \wa \str \val \siz \col \fnt \hi \spd \nosk \se \vc \bgm \pg \locX,Y \sbl \eol \n \r` (table at 0x08a5fefa,
+5-byte names; `\loc` moves the cursor in the canvas, draw pass only).
+
+**The centring patch.** The canvas sprite is placed on the panel by its pivot (sprite entry +0x24/+0x28, floats).
+0x0881430c measures the block (one 0x08813c7c call per line: sum of max(line thickness, pitch), longest line) and sets
+pivot = (canvas w - sum/2, longest/2), i.e. the middle of the tategaki block, so every block is centred on its panel.
+0x0881479c calls it only when mode == 2, so mode-0 text kept pivot (128,128): only the left ~68 px of the panel showed
+text, the rest ran off its left edge. `insert.ADV_CODE` (9 words, applied to the plain ELF; checked against the
+original words) makes 0x0881479c run it for mode 0 with width-wrap/left-to-right measuring, and makes 0x0881430c
+measure rows: pivot = (longest line / 2, sum of pitches / 2). Result: horizontal English centred on every panel
+variant (`work/qa/gate_c.png`). The engine's own char wrap (at 128 px) does not count as a line in the measure, so
+script lines must carry explicit `\n` breaks (the width lint, phase 7) or the block centres as one line.
+
+**Font.** font17.fnt glyph header byte 0 is the advance, byte 4/5 the horizontal-mode x/y offsets (`tools/kfnt.py`
+for the format, byte-identical roundtrip). The engine read every printable ASCII glyph as 8 px wide
+(`tools/debug/widths.py` -> `tools/adv_widths.tsv`). `tools/vwf.py` replaces 0x20-0x7e with PT Serif 12 px (OFL,
+`docs/fonts.md`), proportional advances (~6 px lowercase), BEARING 2 / DROP 4; `insert.plan` ships it whenever any
+text is English. Op 0x4E pitch 24 -> 16 and gap -> 0 for boxes 0-2 (the VWF advance carries the gap).
+
+**Width gate (ADV speech boxes)**, measured with the gate build (every m_001001 line = the pangram wrapped by
+`vwf.wrap`, 12/8/4 lines) on rounded, octagon, spiky and caption panels:
+
+| Panel | Fits | Clips |
+|---|---|---|
+| rounded (left/right of the speaker) | 12 lines x 120 px | - |
+| octagon (thought) | 8 x 112 | 12 lines (corners), lines > ~112 px |
+| spiky (shout) | 8 x 112 | lines > ~112 px; one shaking frame clipped 2-3 px each side |
+| caption card (box for `――京　錦市場`) | 4-8 x 112 | - |
+
+So `vwf.ADV_LINE_PX = 112`, `vwf.ADV_LINES = 8` for every speech line (the panel can't be known from the line).
+Other boxes keep the table in §7.

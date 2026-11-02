@@ -25,6 +25,14 @@ MARK = os.path.join(ROOT, 'work', 'mark')
 
 FULL = '[{id}] The quick brown fox jumps over the lazy dog. 0123456789 abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 SHORT = ['[{id}] fox', '[{id}]', '[{tag}]', '[x]', 'x']
+# --torture: the first ADV lines of m_001001 show every printable ASCII glyph (backslash is the control-code escape,
+# so it is left out) plus double spaces; tools/debug/widths.py reads each glyph's advance from the engine off them.
+TORTURE_FILE = 'scene/m_001001.json'
+TORTURE = [
+    '!"#$%&\'()*+,-./\\n0123456789:;<=>?\\n@ABCDEFGHIJKLMNO\\nPQRSTUVWXYZ[]^_`\\nabcdefghijklmno\\npqrstuvwxyz{|}~',
+    'Two  spaces  here.\\nThree   spaces.\\nWWWWWWWW\\niiiiiiiiiiiiiiiiiiiiiiii\\nMMMMMMMM\\nmmmmmmmmm',
+]
+PANGRAM = "Sphinx of black quartz, judge my vow! The quick brown fox jumps over Ryoma's lazy dog."
 
 
 def fits(text, cap, enc):
@@ -65,6 +73,7 @@ def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument('--dir', default=MARK)
     ap.add_argument('--force', action='store_true', help='overwrite a non-empty target directory')
+    ap.add_argument('--torture', action='store_true', help='first ADV lines of m_001001 = every ASCII glyph')
     a = ap.parse_args()
     if os.path.isdir(a.dir) and os.listdir(a.dir) and not a.force:
         sys.exit(f'{a.dir} exists and is not empty: pass --force (a real translation set would be lost)')
@@ -83,6 +92,12 @@ def main():
                 cap = None if doc['format'] == 'mz-scene' else e['max']
                 e['en'] = marker(e, cap, enc)
                 n += 1
+            if a.torture and rel.replace('\\', '/') == TORTURE_FILE:
+                lines = [e for e in doc['entries'] if e['kind'] == 'dialogue']
+                import vwf      # third line: a full box, every line wrapped to the width gate (vwf.ADV_LINE_PX)
+                full = vwf.wrap(' '.join([PANGRAM] * 8))[:vwf.ADV_LINES]
+                for e, t in zip(lines, TORTURE + ['\\n'.join(full)]):
+                    e['en'] = t
             write_json(os.path.join(a.dir, rel), doc)
     print(f'{n} markers written to {os.path.relpath(a.dir, ROOT)}')
 

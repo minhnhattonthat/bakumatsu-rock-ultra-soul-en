@@ -42,6 +42,46 @@ CHOICE_OP = 0x51      # every word after the choice string is a jump target
 # rhythm charts: 0x47's argument is not an offset (26 of 29 values miss every instruction start)
 PLAY_SKIP = {0x47}
 
+# Horizontal ADV dialogue (D10, docs/re/text.md §8), applied to every scene script that carries English:
+# op 0x4D (box, mode, _, _) sets a text box's direction; mode 2 = vertical tategaki (columns right to left, half-width
+# glyphs rotated), mode 0 = horizontal, left to right (the engine already supports it). Op 0x4E (box, pitch, _, gap)
+# sets the line pitch: 24 px suits the tategaki column, ADV_PITCH the horizontal lines.
+LAYOUT_OP, PITCH_OP, DIALOGUE_OP = 0x4D, 0x4E, 0x62
+VERTICAL, HORIZONTAL = 2, 0
+ADV_PITCH = 16
+
+# EBOOT code patch that goes with it (docs/re/text.md §8). A box draws into a 128x256 canvas sprite; the engine
+# centres the text block on the panel by measuring it (0x0881430c) and setting the canvas pivot, but only for mode 2
+# and with tategaki axes, so mode 0 text kept pivot (128,128) and sat off the panel's left edge. These words run the
+# measure pass for mode 0 and measure rows: pivot = (widest line / 2, sum of line pitches / 2).
+# (vaddr, original word, patched word); the plain ELF maps vaddr 0x08804000 to file offset 0xc0.
+ADV_CODE = [
+    (0x088147d8, 0x34050002, 0x34050000),  # 0x0881479c: run the centring pass when mode == 0 (was 2)
+    (0x088147e4, 0x8e0400a4, 0x8e0400a0),  #   measure wrap limit = canvas width (was height)
+    (0x088147f0, 0x34070003, 0x34070001),  #   measure direction 1 = left to right (was 3, down)
+    (0x0881434c, 0xae1400ac, 0xae1300a8),  # 0x0881430c: each measured line restarts at x (was y)
+    (0x0881436c, 0x8e0400ac, 0x8e0400a8),  #   block width = max line end x (was column length)
+    (0x088143fc, 0x00a62823, 0x00c02821),  #   first value = sum of pitches / 2 (was canvas w - that)
+    (0x08814418, 0x02b42823, 0x02b32823),  #   second value = (max x - start x) / 2
+    (0x08814430, 0xe48c0024, 0xe48c0028),  #   first -> pivot y
+    (0x08814438, 0xe48c0028, 0xe48c0024),  #   second -> pivot x
+]
+ELF_BASE = 0x08804000 - 0xc0
+
+
+def _s16pair(w):
+    lo, hi = w & 0xffff, w >> 16
+    return lo - 0x10000 * (lo >> 15), hi - 0x10000 * (hi >> 15)
+
+
+def _layout(ins):
+    """Horizontal-layout rewrite of one instruction's int tokens, in place (op 0x4D mode, op 0x4E pitch)."""
+    if ins.op == LAYOUT_OP and isinstance(ins.tokens[0], int) and _s16pair(ins.tokens[0])[1] == VERTICAL:
+        ins.tokens[0] = (ins.tokens[0] & 0xffff) | HORIZONTAL << 16
+    elif ins.op == PITCH_OP and isinstance(ins.tokens[0], int) and _s16pair(ins.tokens[0]) in ((0, 24), (1, 24), (2, 24)):
+        ins.tokens[0] = (ins.tokens[0] & 0xffff) | ADV_PITCH << 16
+        ins.tokens[1] = ins.tokens[1] & 0xffff     # glyph gap 0: the VWF advances carry their own gap (vwf.py)
+
 
 def jump_positions(ins, kind='scene'):
     """-> word indexes of the instruction's jump arguments (CHOICE_OP: all words after the string)."""
@@ -83,6 +123,9 @@ def patch_script(name, data, texts, kind='scene', shared=None):
                     texts.setdefault(slot.off, shared[k])
     if not any(texts.get(s.off, s.text) != s.text for s in sc.slots):
         return None
+    if kind == 'scene':   # English present: horizontal ADV boxes (see LAYOUT_OP)
+        for ins in sc.instrs:
+            _layout(ins)
     # 1. new capacity per slot: keep the original when the text still fits (no shift, no need to re-map)
     caps = {}
     for s in sc.slots:
@@ -183,8 +226,8 @@ def load_texts(directory=SCRIPT):
 
 def plan(directory=SCRIPT, log=None, eboot=False):
     """-> the build edits: {'INST': {...}, 'NOINST': {...}, 'iso': {...}}.
-    EBOOT=False keeps the disc's (encrypted) EBOOT.BIN: its save-dialog titles stay Japanese unless the owner accepts a
-    plain-ELF EBOOT, which PPSSPP and CFW run but real hardware may not (docs/decisions.md D11)."""
+    English scene text ships the plain-ELF EBOOT with ADV_CODE and the save titles (D12); EBOOT=True patches the
+    titles even without scene text. Otherwise the disc's encrypted EBOOT.BIN is kept."""
     texts, names = load_texts(directory)
     ed = {'INST': {}, 'NOINST': {}, 'iso': {}}
     shared = {i: t for i, t in names.items() if isinstance(i, int)}
@@ -224,8 +267,13 @@ def plan(directory=SCRIPT, log=None, eboot=False):
             continue    # handled below from their own sources (they are not table files)
         elif not (rel.startswith('scene/') or rel.startswith('play/')):
             raise ValueError(f'unknown text file {rel}')
-    if eboot and 'eboot.json' in texts:
-        ed['iso']['/PSP_GAME/SYSDIR/EBOOT.BIN'] = _eboot_patch(texts['eboot.json'])
+    if any(ed[k] for k in ('INST', 'NOINST')):   # English somewhere: proportional ASCII in the game font
+        import vwf
+        ed['NOINST']['font/font17.fnt'] = vwf.font17()
+    # horizontal ADV needs the code patch, so the EBOOT ships as a plain ELF and its save titles come along (D12)
+    horizontal = any(k.startswith('scene/script/') for k in ed['INST'])
+    if horizontal or (eboot and 'eboot.json' in texts):
+        ed['iso']['/PSP_GAME/SYSDIR/EBOOT.BIN'] = _eboot_patch(texts.get('eboot.json', {}), horizontal)
     if 'param_sfo.json' in texts:
         with open(SFO, 'rb') as f:
             ed['iso']['/PSP_GAME/PARAM.SFO'] = uitable.write_sfo(f.read(), list(texts['param_sfo.json'].values())[0])
@@ -241,13 +289,18 @@ def _ui_path(stem):
     raise ValueError(f'no systemdata file for ui/{stem}.json')
 
 
-def _eboot_patch(texts):
-    """The EBOOT is a plain ELF we patch in place (string slots only: code addresses stay valid, docs/re/debug.md)."""
+def _eboot_patch(texts, code=False):
+    """The EBOOT is a plain ELF patched in place: string slots, plus ADV_CODE words (same size, no code moves, so the
+    debug addresses in docs/re/debug.md stay valid)."""
     with open(EBOOT, 'rb') as f:
         eboot = f.read()
-    got = uitable.write_eboot(eboot, texts)
+    got = bytearray(uitable.write_eboot(eboot, texts) if texts else eboot)
+    for va, old, new in ADV_CODE if code else ():
+        o = va - ELF_BASE
+        assert int.from_bytes(got[o:o + 4], 'little') == old, f'EBOOT word at {va:#x} is not the expected original'
+        got[o:o + 4] = new.to_bytes(4, 'little')
     assert len(got) == len(eboot)
-    return got
+    return bytes(got)
 
 
 def main():

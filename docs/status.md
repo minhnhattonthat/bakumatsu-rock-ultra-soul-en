@@ -2,9 +2,10 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 5 (engine spike + marker build) **in progress**. Done: insertion pipeline, marker build (boots, ids show in
-  every toured box), horizontal-vs-vertical renderer finding, provisional width table. Open: make ADV dialogue
-  horizontal in the EBOOT (the phase-5 blocker), then the real width gate and the glyph torture line.
+- **Phase:** 5 (engine spike + marker build) **nearly done**. Done: insertion pipeline, marker build, **horizontal ADV
+  dialogue centred on every panel** (script ops + 9-word EBOOT patch, D12), PT Serif VWF in font17, ADV width gate
+  112 px x 8 lines measured on all four panel variants, torture line. Open (small): measure the profile / system
+  dialog / chapter-card text boxes (§7 table "not measured yet"), then phase 6.
 - **Done:**
   - Step 0: repo, hooks, check, `rom.sha1`, PPSSPPHeadless boot route (`tools/routes/boot.txt`; `menu.txt` = to top MENU).
   - Phase 1 (`docs/re/README.md` indexes it): no earlier patch exists. ISO/CPK layout, CRILAYLA, unpacker, GIM sweep, plain
@@ -39,12 +40,21 @@ Updated at the end of every session. Keep it to what the next session needs; his
       **vertical rotated** text (ADV panels) with the same KFNT font. ASCII exists in the font, so English needs the
       horizontal path, i.e. ADV engine work in the EBOOT (D10).
     - `tools/measure.py`: text-extent measurement from shots (crop/zoom via sheet.py for the visual read).
-- **Next (finish phase 5):** make the ADV text horizontal. `python -X utf8 tools/debug/textprobe.py diff` / `watch` is the
-  way in (RAM diff across a line change -> write breakpoint on the four 0x500-byte column buffers at 0x95ea410; writers
-  0x088f7040 and 0x08945fb4-0x08946024 copy from a computed source - follow their callers for the layout that produces
-  the glyph cells). Font metric read: `0x088066a4` from `0x0880543c`; KFNT RAM copies 0x96fdaec / 0x978445c. Then: widen
-  or re-lay the box (panel art `msgBord*.gim`, D2C layouts may carry the rect), re-measure the width gate per variant, boot
-  a **glyph torture line** (all printable ASCII + double spaces), and run `jp_left.py` on the marker build.
+    - **Horizontal ADV** (`docs/re/text.md` §8): `insert.py` rewrites op 0x4D mode 2 -> 0 and op 0x4E pitch 24 -> 16 /
+      gap 0 for boxes 0-2, and patches 9 EBOOT words (`ADV_CODE`) so the engine's block-centring pass (0x0881430c)
+      runs for mode 0 with row axes. English sits centred in rounded, octagon, spiky and caption panels
+      (`work/qa/gate_c.png`, gate build from a scratch script: every m_001001 line = the wrapped pangram). The EBOOT now
+      ships as plain ELF whenever scene text is English (D12), save titles included.
+    - `tools/kfnt.py` (KFNT decode/encode, byte-identical), `tools/vwf.py` (PT Serif 12 px into font17, `wrap()`, gate
+      constants `ADV_LINE_PX = 112`, `ADV_LINES = 8`), `tools/debug/widths.py` (engine glyph widths ->
+      `tools/adv_widths.tsv`), `tools/debug/mips.py` (EBOOT disassembly: `dis`, `func`, `callers`).
+      `tools/mark.py --torture` puts ASCII/double-space/full-box torture lines in m_001001.
+    - **`build/bakumatsu_rock_us_en.iso` = marker build** (`tools/mark.py --force --torture`, then `tools/build.py --texts
+      work/mark`), sha1 fb5de67e08cb5d1686dc9889dc5713e6a05756e6; smoke exit 0.
+- **Next:** (1) finish phase 5: measure profile / system dialog / chapter-card boxes (warp `m_profile`-type scenes from
+  `scenes.tsv` on the marker ISO, read the shots), run `jp_left.py` on the marker build; (2) phase 6: width lint must
+  enforce `vwf.ADV_LINE_PX`/`ADV_LINES` with explicit `\n` breaks (engine char-wrap breaks centring); menus using font24
+  are still monospace 8 px (only font17 has the VWF).
 - **Phase 4+ notes:** script insertion re-maps jump args (`text.md` §1/§7) when string lengths change; the marker build
   proves it in game. Debug addresses in `docs/re/debug.md` assume an unchanged EBOOT code segment (string-only edits are
   fine; the EBOOT is not patched at all by default now).
@@ -58,6 +68,6 @@ Updated at the end of every session. Keep it to what the next session needs; his
   - Rhythm-game lyric fragments (words on notes, timed to sung syllables): default romanized Hepburn, since English word order
     can't follow the syllable timing.
   - 誠 on 誠仮面's mask / Shinsengumi crests: default keep (costume/crest art).
-  - **PSP save-dialog titles (EBOOT)**: translating them means shipping a plain-ELF EBOOT.BIN (fine in PPSSPP/CFW, not
-    guaranteed on real hardware). Default: keep the encrypted EBOOT, those 8 titles stay Japanese (D11). Say the word and
-    the build switches to `insert.py --eboot`.
+  - **Plain-ELF EBOOT (D12, replaces D11)**: English dialogue needs a small EBOOT code patch, so the build ships the
+    decrypted EBOOT.BIN (PPSSPP and CFW run it; a patched ISO can't run elsewhere anyway) and translates its 8 save
+    titles too. Default in use; say so if you want a different trade-off.

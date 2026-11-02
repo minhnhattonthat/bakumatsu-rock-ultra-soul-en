@@ -49,6 +49,11 @@ def test_longer_text_keeps_every_jump_valid(fn):
     new_t = [s for s in new.text_slots if s.kind != "speaker"]
     assert [s.kind for s in old_t] == [s.kind for s in new_t]
     assert all(s.text.startswith("[") for s in new_t)
+    # horizontal ADV layout: no box left vertical, speech-box pitch changed (docs/re/text.md §8)
+    modes = [insert._s16pair(i.tokens[0]) for i in new.instrs if i.op == insert.LAYOUT_OP]
+    assert modes and all(m != insert.VERTICAL for _, m in modes)
+    pitches = [insert._s16pair(i.tokens[0]) for i in new.instrs if i.op == insert.PITCH_OP]
+    assert all(p == insert.ADV_PITCH for b, p in pitches if b < 3)
 
 
 @need
@@ -76,4 +81,5 @@ def test_marker_set_fits_every_slot():
     if not mark.exists():
         pytest.skip("no marker set (python tools/mark.py --force)")
     ed = insert.plan(str(mark))
-    assert len(ed["INST"]) == 109 and len(ed["NOINST"]) == 9 and len(ed["iso"]) == 1   # PARAM.SFO only (D11)
+    # NOINST: 9 UI tables + font17 (VWF); iso: PARAM.SFO + the plain EBOOT with the ADV code patch (D12)
+    assert len(ed["INST"]) == 109 and len(ed["NOINST"]) == 10 and len(ed["iso"]) == 2

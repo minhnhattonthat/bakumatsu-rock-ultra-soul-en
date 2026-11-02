@@ -5,5 +5,4 @@ per file; a font with no known licence doesn't go into a release.
 
 | File | Source (URL, version) | Licence | Redistributable in a patch | Used for | Changes made |
 |---|---|---|---|---|---|
-| <fonts/vwf_8px.png> | <drawn for this project> | <MIT, same as repo> | yes | <dialogue VWF> | <-> |
-| <fonts/Title.ttf> | <url, v1.2> | <OFL 1.1> | <yes, as rendered glyphs> | <typeset.py title cards> | <-> |
+| fonts/PT_Serif-Web-Regular.ttf (licence: fonts/PT_Serif-OFL.txt) | ParaType PT Serif, Google Fonts (github.com/google/fonts, ofl/ptserif) | OFL 1.1 | yes, as rendered glyphs in font17.fnt | proportional ASCII in the game font (`tools/vwf.py`): ADV dialogue, back log, font17 menus | rendered at 12 px, 2 bpp, into the 17x17 KFNT cell; advances in header byte 0 |

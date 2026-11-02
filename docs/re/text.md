@@ -160,6 +160,13 @@ the text; the dialogue `msg` id can be used for later voice/QA lookups.
   (a bare `47` end marker has no args) and in `play/` charts 0x47's argument is not an offset at all (26 of 29 miss every
   instruction start), so charts skip it. Values 0 and 1 are ambiguous and stay unchanged. After the rebuild the file is
   re-parsed and every jump re-checked, so a bad map fails the build instead of the game (`tests/test_insert.py`).
+- **Op 0x37 `217, 0xD200D4, W`** (once in each of the 80 scene scripts, just before the op-0x19 table's handlers): W =
+  word offset of the op-0x19 table's **first slot** (not an instruction start, so the jump scan missed it). The back log
+  stores each entry as `#NN<text>` (NN = speaker index; buffer header u32 ptr, u16 4, u16 ?, u32 bytes, u32 count) and
+  draws the label from the table at W. Unmapped, any slot growing before the table made the labels read other script
+  bytes ("sceneraphicsys_15...") or nothing. `insert.patch_script` re-maps W by slot (`TABLE_REF_OP`) and re-checks
+  it. Found by RAM: value table_off/4 sits in the script and in engine RAM (`tools/debug/ramdump.py`). Label column:
+  96 px per line, 2 lines (`\n`) work; lint `LABEL_PX`.
 - The shared op-0x19 speaker table (`scene/_speaker_names.json`, ids `name:NNN`) is applied **by index** to all 80 scene
   scripts; a file's own `name:NNN` entries (staffroll2's two) win for that file.
 - UI tables are fixed slots: `uitable.write_table` writes them in place and raises on overflow (`ui_event.evt` test).

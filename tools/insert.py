@@ -41,6 +41,9 @@ JUMP_WORDS = {
 CHOICE_OP = 0x51      # every word after the choice string is a jump target
 # rhythm charts: 0x47's argument is not an offset (26 of 29 values miss every instruction start)
 PLAY_SKIP = {0x47}
+# Op 0x37 217, x, W (once per scene script): W = word offset of the op-0x19 speaker table's first slot, which the back
+# log reads its "#NN" speaker labels from. It lands on a slot, not an instruction, so it is re-mapped by slot.
+TABLE_REF_OP, TABLE_REF_TAG = 0x37, 217
 
 # Horizontal ADV dialogue (D10, docs/re/text.md §8), applied to every scene script that carries English:
 # op 0x4D (box, mode, _, _) sets a text box's direction; mode 2 = vertical tategaki (columns right to left, half-width
@@ -169,18 +172,24 @@ def patch_script(name, data, texts, kind='scene', shared=None, names=None):
         n = len(encode(t))
         caps[s.off] = s.capacity if n < s.capacity else _pad(n + 1)
     # 2. old -> new instruction offsets (bytes and words)
-    off_map, new_off, sizes = {}, 4, []
+    off_map, new_off, sizes, slot_map = {}, 4, [], {}
     for ins in sc.instrs:
-        size = 4 + sum((4 + caps[t.off]) if isinstance(t, mzscript.Slot) else 4 for t in ins.tokens)
-        if ins.table:
-            size += sum(4 + caps[t.off] for t in ins.table)
+        pos = new_off + 4
+        for t in list(ins.tokens) + list(ins.table or ()):
+            if isinstance(t, mzscript.Slot):
+                slot_map[t.off // 4] = pos // 4
+            pos += (4 + caps[t.off]) if isinstance(t, mzscript.Slot) else 4
         off_map[ins.off] = new_off
-        sizes.append(size)
-        new_off += size
+        sizes.append(pos - new_off)
+        new_off = pos
     word_map = {k // 4: v // 4 for k, v in off_map.items()}
     starts = set(word_map)
-    # 3. rewrite jump arguments
+    # 3. rewrite jump arguments (and the speaker-table reference, by slot)
     for ins in sc.instrs:
+        if ins.op == TABLE_REF_OP and ins.tokens[:1] == [TABLE_REF_TAG]:
+            if ins.tokens[2] not in slot_map:
+                raise ValueError(f'{name} 0x{ins.off:x} op 0x37: {ins.tokens[2]:#x} is not a slot')
+            ins.tokens[2] = slot_map[ins.tokens[2]]
         js = jump_positions(ins, kind)
         if not js:
             continue
@@ -223,6 +232,10 @@ def patch_script(name, data, texts, kind='scene', shared=None, names=None):
             v = ins.tokens[wi.index(w)]
             if isinstance(v, int) and v > 1 and v not in starts:
                 raise ValueError(f'{name}: rebuilt jump 0x{ins.off:x} word {w} -> {v:#x} misses every instruction')
+    table = [t.table[0].off // 4 for t in new.instrs if t.table]
+    for ins in new.instrs:
+        if ins.op == TABLE_REF_OP and ins.tokens[:1] == [TABLE_REF_TAG] and [ins.tokens[2]] != table:
+            raise ValueError(f'{name}: rebuilt op 0x37 at 0x{ins.off:x} misses the speaker table')
     return bytes(out)
 
 

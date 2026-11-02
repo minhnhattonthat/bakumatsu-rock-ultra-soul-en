@@ -52,6 +52,10 @@ def test_longer_text_keeps_every_jump_valid(fn):
                 continue
             v = ins.tokens[widx.index(w)]
             assert not isinstance(v, int) or v <= 1 or v in starts, f"{fn}: jump at {ins.off:#x} word {w} -> {v:#x}"
+    # the back log's speaker labels: op 0x37 217 still points at the (moved) op-0x19 table's first slot
+    ref = [i.tokens[2] for i in new.instrs if i.op == insert.TABLE_REF_OP and i.tokens[:1] == [insert.TABLE_REF_TAG]]
+    assert ref == [t.table[0].off // 4 for t in new.instrs if t.table]
+    assert ref != [i.tokens[2] for i in sc.instrs if i.op == insert.TABLE_REF_OP and i.tokens[:1] == [insert.TABLE_REF_TAG]]
     # the text slots survived in order, and the untouched data slots were not re-encoded
     old_t = [s for s in sc.text_slots if s.kind != "speaker"]
     new_t = [s for s in new.text_slots if s.kind != "speaker"]

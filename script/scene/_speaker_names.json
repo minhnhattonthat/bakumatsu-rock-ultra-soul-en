@@ -16,7 +16,7 @@
    "max": 12,
    "kind": "speaker",
    "jp": "坂本龍馬",
-   "en": "Ryoma Sakamoto"
+   "en": "Ryoma\\nSakamoto"
   },
   {
    "id": "name:002",
@@ -24,7 +24,7 @@
    "max": 12,
    "kind": "speaker",
    "jp": "高杉晋作",
-   "en": "Shinsaku Takasugi"
+   "en": "Shinsaku\\nTakasugi"
   },
   {
    "id": "name:003",
@@ -40,7 +40,7 @@
    "max": 12,
    "kind": "speaker",
    "jp": "土方歳三",
-   "en": "Toshizo Hijikata"
+   "en": "Toshizo\\nHijikata"
   },
   {
    "id": "name:005",
@@ -56,7 +56,7 @@
    "max": 12,
    "kind": "speaker",
    "jp": "徳川慶喜",
-   "en": "Yoshinobu Tokugawa"
+   "en": "Yoshinobu\\nTokugawa"
   },
   {
    "id": "name:007",
@@ -208,7 +208,7 @@
    "max": 12,
    "kind": "speaker",
    "jp": "一橋慶喜",
-   "en": "Yoshinobu Hitotsubashi"
+   "en": "Yoshinobu\\nHitotsubashi"
   },
   {
    "id": "name:026",
@@ -320,7 +320,7 @@
    "max": 16,
    "kind": "speaker",
    "jp": "新選組隊士Ｃ",
-   "en": "Shinsengumi Member C"
+   "en": "Shinsengumi\\nMember C"
   },
   {
    "id": "name:040",
@@ -352,7 +352,7 @@
    "max": 12,
    "kind": "speaker",
    "jp": "幕府軍Ｄ",
-   "en": "Shogunate Soldier D"
+   "en": "Shogunate\\nSoldier D"
   },
   {
    "id": "name:044",
@@ -392,7 +392,7 @@
    "max": 12,
    "kind": "speaker",
    "jp": "残党武士",
-   "en": "Holdout Samurai"
+   "en": "Holdout\\nSamurai"
   },
   {
    "id": "name:049",
@@ -488,7 +488,7 @@
    "max": 12,
    "kind": "speaker",
    "jp": "龍馬/高杉",
-   "en": "Ryoma/Takasugi"
+   "en": "Ryoma/\\nTakasugi"
   },
   {
    "id": "name:061",
@@ -504,7 +504,7 @@
    "max": 8,
    "kind": "speaker",
    "jp": "桂/高杉",
-   "en": "Katsura/Takasugi"
+   "en": "Katsura/\\nTakasugi"
   },
   {
    "id": "name:063",
@@ -552,7 +552,7 @@
    "max": 12,
    "kind": "speaker",
    "jp": "幾松/おうの",
-   "en": "Ikumatsu/Ouno"
+   "en": "Ikumatsu/\\nOuno"
   },
   {
    "id": "name:069",
@@ -584,7 +584,7 @@
    "max": 12,
    "kind": "speaker",
    "jp": "高杉/土方",
-   "en": "Takasugi/Hijikata"
+   "en": "Takasugi/\\nHijikata"
   },
   {
    "id": "name:073",
@@ -600,7 +600,7 @@
    "max": 12,
    "kind": "speaker",
    "jp": "池永/蔵前",
-   "en": "Ikenaga/Kuramae"
+   "en": "Ikenaga/\\nKuramae"
   },
   {
    "id": "name:075",
@@ -760,7 +760,7 @@
    "max": 12,
    "kind": "speaker",
    "jp": "町田/花田",
-   "en": "Machida/Hanada"
+   "en": "Machida/\\nHanada"
   },
   {
    "id": "name:095",

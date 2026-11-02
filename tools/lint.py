@@ -21,6 +21,7 @@ SCRIPT = os.path.join(ROOT, 'script')
 JP = re.compile(r'[぀-ヿ㐀-鿿！-｠]')
 STUB = 6
 CHAPTER_ROW_PX = 241   # measured: 241 fits, 249 clips (CHAPTER select, 2026-11-03)
+LABEL_PX, LABEL_LINES = 96, 2   # back log speaker label: 103 px runs into the text (adv_backlog_talk, 2026-11-03)
 
 
 def keep_list(directory):
@@ -56,6 +57,10 @@ def entry_problems(rel, fmt, e, gl):
         n = len(en.encode('utf-8' if e.get('encoding') == 'utf-8' or fmt == 'utf-8-slots' else 'cp932', 'replace'))
         if n > e['max'] - 1:
             p.append(f'{n} bytes > {e["max"] - 1}')
+    if e['kind'] == 'speaker' and en:   # op-0x19 names = the back log's label column; `\n` gives a 2nd line
+        lines = en.split('\\n')
+        if max(vwf.line_px(ln) for ln in lines) > LABEL_PX or len(lines) > LABEL_LINES:
+            p.append(f'back log label {lines!r}: > {LABEL_PX} px or > {LABEL_LINES} lines')
     # CHAPTER select rows clip at ~241 px (font17 units); cast lines (、) show elsewhere
     if rel.endswith('ui_chapter.json') and '\n' not in jp and '、' not in jp and vwf.line_px(en) > CHAPTER_ROW_PX:
         p.append(f'{vwf.line_px(en)} px > {CHAPTER_ROW_PX}: chapter list row clips')

@@ -8,7 +8,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "全部　俺の奢りだ！\\nじゃんじゃん\\n持ってきてくれ！",
-   "en": "",
+   "en": "It's all on me!\\nKeep it coming!",
    "op": "0x62",
    "msg": "0x1aaa"
   },
@@ -18,7 +18,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "あらぁ　こちら\\nずいぶんと男前ねえ！\\n惚れちゃいそうだわぁ",
-   "en": "",
+   "en": "Oh my, aren't you\\na handsome one! I\\nmight just fall for\\nyou!",
    "op": "0x62",
    "msg": "0x1aab"
   },
@@ -28,7 +28,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "おう　嬉しいことを\\n言ってくれるなぁ！",
-   "en": "",
+   "en": "Ho, now that's\\nnice to hear!",
    "op": "0x62",
    "msg": "0x1aac"
   },
@@ -38,7 +38,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "俺の愛人になるか？\\nん？",
-   "en": "",
+   "en": "How'd you like to\\nbe my mistress?\\nHm?",
    "op": "0x62",
    "msg": "0x1aad"
   },
@@ -48,7 +48,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "またまた\\n本気にしちゃうわよ～！",
-   "en": "",
+   "en": "Oh, you! I might\\ntake that\\nseriously~!",
    "op": "0x62",
    "msg": "0x1aae"
   },
@@ -58,7 +58,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "げほっ　げほげほっ！\\n給仕のお嬢さん達も\\nずいぶんと可愛らしいな",
-   "en": "",
+   "en": "*Cough, cough!*\\nThe young ladies\\nserving here are\\nquite the lookers,\\ntoo.",
    "op": "0x62",
    "msg": "0x1ab0"
   },
@@ -68,7 +68,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "あ……あの……\\n愛人は\\n結構ですので……",
-   "en": "",
+   "en": "Um... uh... I'll pass\\non being a\\nmistress, thank\\nyou...",
    "op": "0x62",
    "msg": "0x1ab1"
   },
@@ -78,7 +78,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "注文のピッツァを置くと\\n幾松は逃げるようにして\\n厨房へと戻っていった",
-   "en": "",
+   "en": "Setting down the\\npizza they'd\\nordered,\\nIkumatsu fled\\nback to the\\nkitchen.",
    "op": "0x62",
    "msg": "0x1ab2"
   },
@@ -88,7 +88,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "これがぴっつぁか\\n初めて食うが……",
-   "en": "",
+   "en": "So this is a pitsa...\\nFirst time I've\\never had it...",
    "op": "0x62",
    "msg": "0x1ab3"
   },
@@ -98,7 +98,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "先生　これはな\\n端を　ちょいとつまみ\\nこうクルクルと丸めたら",
-   "en": "",
+   "en": "Sensei, see, you\\npinch the edge a\\nbit and roll it up\\nlike this...",
    "op": "0x62",
    "msg": "0x1ab4"
   },
@@ -108,7 +108,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "口を　あーんと開けて\\n一気に頬張るぜよ！",
-   "en": "",
+   "en": "...then open wide\\nand chomp it\\ndown in one go!",
    "op": "0x62",
    "msg": "0x1ab5"
   },
@@ -118,7 +118,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "ほほう\\nこうして　こうか？\\nでは　いただこう",
-   "en": "",
+   "en": "Ho ho. Like this,\\nthen like this?\\nWell, let's dig in.",
    "op": "0x62",
    "msg": "0x1ab6"
   },
@@ -128,7 +128,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "うまいっ",
-   "en": "",
+   "en": "Delicious!",
    "op": "0x62",
    "msg": "0x1ab7"
   },
@@ -138,7 +138,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "じゃろ？　この食べ方は\\nテンちゃん……いや\\n松陰先生に教わったぜよ",
-   "en": "",
+   "en": "Right? I learned\\nto eat it this way\\nfrom Ten-chan... I\\nmean,\\nShoin-sensei!",
    "op": "0x62",
    "msg": "0x1ab8"
   },
@@ -148,7 +148,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "そうか　これも\\nショウの教えか\\nそうか……",
-   "en": "",
+   "en": "I see. So this was\\nShow's teaching\\ntoo... I see...",
    "op": "0x62",
    "msg": "0x1ab9"
   },
@@ -158,7 +158,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "勝先生\\nそろそろいいか？\\n話を聞かせてくれ",
-   "en": "",
+   "en": "Katsu-sensei, is it\\ntime yet? Tell us\\nwhat you came to\\nsay.",
    "op": "0x62",
    "msg": "0x1aba"
   },

@@ -21,6 +21,14 @@ def test_terms_longest_match_and_honorifics():
     assert batches.term_problems("徳川慶喜", "the shogun", gl) == ['glossary 徳川慶喜 -> "Yoshinobu Tokugawa" missing']
 
 
+def test_wrap_breaks_after_a_dash():
+    text = "the pacification--tears flowing--again"
+    lines = vwf.wrap(text)
+    assert vwf.line_px("pacification--tears") > vwf.ADV_LINE_PX     # one unbreakable word before the change
+    assert all(vwf.line_px(ln) <= vwf.ADV_LINE_PX for ln in lines)
+    assert any(ln.endswith("--") for ln in lines)
+
+
 def test_dialogue_wraps_to_the_gate():
     lines = batches.wrap_dialogue("Can you believe it? The capital is so lively!\\nNothing like Tosa.")
     assert all(vwf.line_px(ln) <= vwf.ADV_LINE_PX for ln in lines)

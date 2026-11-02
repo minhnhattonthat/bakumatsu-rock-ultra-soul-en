@@ -12,7 +12,7 @@ back log and dialogue space letters the same way).
 
 Font: fonts/PT_Serif-Web-Regular.ttf (OFL 1.1, docs/fonts.md), chosen to sit next to the game's Mincho kana/kanji.
 """
-import argparse, functools, os, sys
+import argparse, functools, os, re, sys
 from PIL import Image, ImageDraw, ImageFont
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -89,15 +89,17 @@ def line_px(line, w=None):
 
 
 def wrap(text, px=ADV_LINE_PX, w=None):
-    """Greedy word wrap to PX -> list of lines (a word longer than PX gets its own line)."""
+    """Greedy word wrap to PX -> list of lines (a word longer than PX gets its own line). A line may also break
+    after an unspaced dash ("Kyoto--the" -> "Kyoto--" / "the")."""
     w = w or widths()
     lines, cur = [], ''
     for word in text.split(' '):
-        t = word if not cur else cur + ' ' + word
-        if line_px(t, w) <= px or not cur:
-            cur = t
-        else:
-            lines.append(cur); cur = word
+        for k, piece in enumerate(p for p in re.split(r'(?<=--)', word) if p):
+            t = piece if not cur else cur + ('' if k else ' ') + piece
+            if line_px(t, w) <= px or not cur:
+                cur = t
+            else:
+                lines.append(cur); cur = piece
     if cur:
         lines.append(cur)
     return lines

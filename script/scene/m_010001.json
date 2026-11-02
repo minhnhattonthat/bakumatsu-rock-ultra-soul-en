@@ -1645,7 +1645,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "…………",
-   "en": "",
+   "en": "......",
    "op": "0x62",
    "msg": "0x1d3a"
   },
@@ -1655,7 +1655,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "そうじゃ　お前さん\\nなんで奥座敷で\\n倒れてたんじゃ？",
-   "en": "",
+   "en": "That's right,\\nma'am. How come\\nyou were out cold\\nin the back room?",
    "op": "0x62",
    "msg": "0x1d3b"
   },
@@ -1665,7 +1665,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "それは…………\\nあっ……",
-   "en": "",
+   "en": "That's... Oh...",
    "op": "0x62",
    "msg": "0x1d3c"
   },
@@ -1675,7 +1675,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "思い当たることが\\nあるようだな",
-   "en": "",
+   "en": "Looks like\\nsomething comes\\nto mind.",
    "op": "0x62",
    "msg": "0x1d3d"
   },
@@ -1685,7 +1685,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "あれは確か……\\n夜明け前の事でした……",
-   "en": "",
+   "en": "I think it was...\\njust before\\ndawn...",
    "op": "0x62",
    "msg": "0x1d3e"
   },
@@ -1695,7 +1695,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "う～ん\\nムニャムニャ",
-   "en": "",
+   "en": "Mmmm... mumble\\nmumble...",
    "op": "0x62",
    "msg": "0x1d3f"
   },
@@ -1705,7 +1705,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "あいたっ……！",
-   "en": "",
+   "en": "Ow...!",
    "op": "0x62",
    "msg": "0x1d40"
   },
@@ -1715,7 +1715,7 @@
    "max": 80,
    "kind": "dialogue",
    "jp": "もう……おうのは本当に\\n寝相が悪いんだから……\\nおかげで目が覚め\\nちゃった……",
-   "en": "",
+   "en": "Honestly... Ouno\\nis such a terrible\\nsleeper... Now I'm\\nwide awake.",
    "op": "0x62",
    "msg": "0x1d41"
   },
@@ -1725,7 +1725,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "ぐぁ～ごぉ～\\nぐぁ～ごぉ～",
-   "en": "",
+   "en": "Ghaaa... ghooo...\\nGhaaa... ghooo...",
    "op": "0x62",
    "msg": "0x1d42"
   },
@@ -1735,7 +1735,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "お龍姐さんも大口開けて\\n……またいびきかいてるし…",
-   "en": "",
+   "en": "And Sis Oryo's\\nsleeping with her\\nmouth wide\\nopen... snoring\\nagain...",
    "op": "0x62",
    "msg": "0x1d43"
   },
@@ -1745,7 +1745,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "なんだか私も喉が\\n渇いてきたわ……",
-   "en": "",
+   "en": "I'm getting kind\\nof thirsty too...",
    "op": "0x62",
    "msg": "0x1d44"
   },
@@ -1755,7 +1755,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "うっ……何これ……\\n耳鳴り……？",
-   "en": "",
+   "en": "Ugh... what is\\nthis...? Ringing in\\nmy ears...?",
    "op": "0x62",
    "msg": "0x1d45"
   },
@@ -1765,7 +1765,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "……淋しい\\n淋しいよ",
-   "en": "",
+   "en": "...I'm lonely... so\\nlonely...",
    "op": "0x62",
    "msg": "0x1d46"
   },
@@ -1775,7 +1775,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "だ　誰の声……？",
-   "en": "",
+   "en": "Wh-whose voice is\\nthat...?",
    "op": "0x62",
    "msg": "0x1d47"
   },
@@ -1785,7 +1785,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "悲しいよ\\n寂しいよ\\n一人はイヤだよ……",
-   "en": "",
+   "en": "I'm sad... I'm\\nlonely... I don't\\nwant to be alone...",
    "op": "0x62",
    "msg": "0x1d48"
   },
@@ -1795,7 +1795,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "うっ……\\nこれは天歌……？\\nどこから聴こえてくるの…？",
-   "en": "",
+   "en": "Ugh... Is this the\\nHeaven's Song...?\\nWhere is it\\ncoming from...?",
    "op": "0x62",
    "msg": "0x1d49"
   },
@@ -1805,7 +1805,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "誰か　話を聞いてよ……\\n誰でもいい……\\n誰でも……",
-   "en": "",
+   "en": "Someone, please\\nlisten to me...\\nAnyone... Anyone\\nat all...",
    "op": "0x62",
    "msg": "0x1d4a"
   },
@@ -1815,7 +1815,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "それから先は意識が無くて\\n……気がついたら\\n奥座敷に倒れていたの……",
-   "en": "",
+   "en": "After that, I lost\\nconsciousness...\\nand when I came\\nto, I was lying in\\nthe back room...",
    "op": "0x62",
    "msg": "0x1d4b"
   },
@@ -1825,7 +1825,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "不思議な声と\\n天歌ですか……",
-   "en": "",
+   "en": "A mysterious\\nvoice, and the\\nHeaven's Song...",
    "op": "0x62",
    "msg": "0x1d4c"
   },
@@ -1835,7 +1835,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "だが井伊はもういないぜ\\n一体　誰が天歌を",
-   "en": "",
+   "en": "But Ii's gone now.\\nSo who the hell is\\nsinging the\\nHeaven's Song?",
    "op": "0x62",
    "msg": "0x1d4d"
   },
@@ -1845,7 +1845,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "しかし　どうして\\n幾松だけが\\n無事じゃったんじゃ？",
-   "en": "",
+   "en": "But how come\\nIkumatsu was the\\nonly one who\\ncame through\\nfine?",
    "op": "0x62",
    "msg": "0x1d4e"
   },
@@ -1855,7 +1855,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "それは多分……\\n桂さんにもらった\\nこれのおかげかも……",
-   "en": "",
+   "en": "That's probably...\\nthanks to these\\nthat Katsura-san\\ngave me...",
    "op": "0x62",
    "msg": "0x1d4f"
   },
@@ -1865,7 +1865,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "そう言って\\n幾松は懐から\\n耳栓を取り出す",
-   "en": "",
+   "en": "With that,\\nIkumatsu took a\\npair of earplugs\\nfrom the fold of\\nher kimono.",
    "op": "0x62",
    "msg": "0x1d50"
   },
@@ -1875,7 +1875,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "耳栓？\\nなんで　こんなものを\\n持っとるんじゃ？",
-   "en": "",
+   "en": "Earplugs? Now\\nwhy would you be\\ncarryin' somethin'\\nlike that?",
    "op": "0x62",
    "msg": "0x1d51"
   },
@@ -1885,7 +1885,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "お龍姐さんのいびきが\\n酷いから……\\n桂さんから借りてたの……",
-   "en": "",
+   "en": "Because Sis Oryo\\nsnores so\\nterribly... I\\nborrowed them\\nfrom\\nKatsura-san...",
    "op": "0x62",
    "msg": "0x1d52"
   },
@@ -1895,7 +1895,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "とても悲しそうな\\n声だった……\\n不安そうな子供の――",
-   "en": "",
+   "en": "It was such a sad\\nvoice... like a\\nfrightened child--",
    "op": "0x62",
    "msg": "0x1d53"
   },
@@ -1905,7 +1905,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "子供……？",
-   "en": "",
+   "en": "A child...?",
    "op": "0x62",
    "msg": "0x1d54"
   },
@@ -1915,7 +1915,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "どうした\\n土方",
-   "en": "",
+   "en": "What is it,\\nHijikata?",
    "op": "0x62",
    "msg": "0x1d55"
   },
@@ -1925,7 +1925,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "いや　しかし\\nまさかな……",
-   "en": "",
+   "en": "No. But... it\\ncouldn't be...",
    "op": "0x62",
    "msg": "0x1d56"
   },
@@ -1935,7 +1935,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "何か思い当たることが\\nあるなら　教えてくれ\\n土方",
-   "en": "",
+   "en": "If something\\ncomes to mind,\\nspit it out,\\nHijikata.",
    "op": "0x62",
    "msg": "0x1d57"
   },
@@ -1945,7 +1945,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "慶喜様……",
-   "en": "",
+   "en": "Yoshinobu-sama...",
    "op": "0x62",
    "msg": "0x1d58"
   },
@@ -1955,7 +1955,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "何だと",
-   "en": "",
+   "en": "What did you say?",
    "op": "0x62",
    "msg": "0x1d59"
   },
@@ -1965,7 +1965,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "俺も近藤さんの\\n付き添いでチラリと\\nお顔を拝見したくらいだが",
-   "en": "",
+   "en": "I only caught a\\nglimpse of him\\nmyself, once,\\nwhen I went with\\nKondo-san...",
    "op": "0x62",
    "msg": "0x1d5a"
   },
@@ -1975,7 +1975,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "まだ　お若い方だった\\n若いと言うよりも\\nまさに幼子だ",
-   "en": "",
+   "en": "But he was still\\nyoung. Not just\\nyoung. A small\\nchild, truly.",
    "op": "0x62",
    "msg": "0x1d5b"
   },
@@ -1985,7 +1985,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "確かに代替わりした\\nばかりだけど　そんなに\\n若かったんですね……",
-   "en": "",
+   "en": "It's true he only\\njust took over, but\\nI had no idea he\\nwas that young...",
    "op": "0x62",
    "msg": "0x1d5c"
   },
@@ -1995,7 +1995,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "確かめにいかなくちゃ\\nならんぜよ",
-   "en": "",
+   "en": "Then we gotta go\\nfind out for sure,\\nI tell ya.",
    "op": "0x62",
    "msg": "0x1d5d"
   },
@@ -2005,7 +2005,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "確かめるって\\nなにをだ？",
-   "en": "",
+   "en": "Find out what?",
    "op": "0x62",
    "msg": "0x1d5e"
   },
@@ -2015,7 +2015,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "決まっとる\\nその悲しげな子供の声が\\n将軍様の声かどうかじゃ",
-   "en": "",
+   "en": "Ain't it obvious?\\nWhether that sad\\nchild's voice\\nbelongs to the\\nshogun!",
    "op": "0x62",
    "msg": "0x1d5f"
   },
@@ -2025,7 +2025,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "おい　お前は\\n何を言っているのか\\nわかってるのか？",
-   "en": "",
+   "en": "Hey. Do you even\\nunderstand what\\nyou're saying?",
    "op": "0x62",
    "msg": "0x1d60"
   },
@@ -2035,7 +2035,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "井伊が去り\\n弱体化したとはいえ\\n相手は幕府の将軍だぞ！",
-   "en": "",
+   "en": "Ii may be gone\\nand the\\nshogunate weaker\\nfor it, but this is\\nthe shogun!",
    "op": "0x62",
    "msg": "0x1d61"
   },
@@ -2045,7 +2045,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "だからなんじゃ？",
-   "en": "",
+   "en": "So what?",
    "op": "0x62",
    "msg": "0x1d62"
   },
@@ -2055,7 +2055,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "目も鼻も口も耳も\\nついとるヤツなんじゃろ？",
-   "en": "",
+   "en": "He's still a fella\\nwith eyes, a nose,\\na mouth and ears,\\nain't he?",
    "op": "0x62",
    "msg": "0x1d63"
   },
@@ -2065,7 +2065,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "もし将軍様が寂しいと\\n言ってるなら　わしの\\nロックを聴かせてやるぜよ",
-   "en": "",
+   "en": "If the shogun's\\nsayin' he's lonely,\\nthen I'll just have\\nto let him hear\\nmy rock!",
    "op": "0x62",
    "msg": "0x1d64"
   },
@@ -2075,7 +2075,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "驚いた\\nトサカくんはバカなのか\\n大物なのか……",
-   "en": "",
+   "en": "Wow. I can't tell if\\nTosaka-kun is an\\nidiot or a really\\nbig deal...",
    "op": "0x62",
    "msg": "0x1d65"
   },
@@ -2085,7 +2085,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "まあ　ここまで来れば\\nそろそろ大物ってことで\\nいいんじゃないですか",
-   "en": "",
+   "en": "Well, after\\nmaking it this far,\\nI think we can call\\nhim a big deal by\\nnow, don't you?",
    "op": "0x62",
    "msg": "0x1d66"
   },
@@ -2095,7 +2095,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "しかし　どうやって\\n将軍に会う？",
-   "en": "",
+   "en": "Still, how do we\\nget to see the\\nshogun?",
    "op": "0x62",
    "msg": "0x1d67"
   },
@@ -2105,7 +2105,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "二条城に踏み入るのか？\\nさすがの勝先生も\\nかばっちゃくれねえぞ",
-   "en": "",
+   "en": "Storm Nijo Castle?\\nNot even\\nKatsu-sensei will\\ncover for us this\\ntime.",
    "op": "0x62",
    "msg": "0x1d68"
   },
@@ -2115,7 +2115,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "それとも　忍び込む？\\nでも城ともなると\\nそう簡単にはいかないですよ",
-   "en": "",
+   "en": "Or sneak in? But\\na castle won't be\\nthat simple, you\\nknow.",
    "op": "0x62",
    "msg": "0x1d69"
   },
@@ -2125,7 +2125,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "それでなくたって\\nキミ達はお尋ね者なんだ",
-   "en": "",
+   "en": "Besides, you guys\\nare wanted men.",
    "op": "0x62",
    "msg": "0x1d6a"
   },
@@ -2135,7 +2135,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "僕らと一緒に行動すること\\n自体が難しいと思うけど",
-   "en": "",
+   "en": "I'd say even\\nmoving around\\ntogether with us\\nis going to be\\ntricky.",
    "op": "0x62",
    "msg": "0x1d6b"
   },
@@ -2145,7 +2145,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "将軍様に会うにしても\\nわしら全員揃ってなければ\\n意味がないぜよ",
-   "en": "",
+   "en": "Even if we see\\nthe shogun, it\\ndon't mean a\\nthing unless all of\\nus are there\\ntogether!",
    "op": "0x62",
    "msg": "0x1d6c"
   },
@@ -2155,7 +2155,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "それだ！",
-   "en": "",
+   "en": "That's it!",
    "op": "0x62",
    "msg": "0x1d6d"
   },
@@ -2165,7 +2165,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "何かいい考えでも\\n思いついたのか？",
-   "en": "",
+   "en": "You thought of\\nsomething good?",
    "op": "0x62",
    "msg": "0x1d6e"
   },
@@ -2175,7 +2175,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "土方さん\\n私達を捕まえてください！",
-   "en": "",
+   "en": "Hijikata-san,\\nplease arrest us!",
    "op": "0x62",
    "msg": "0x1d6f"
   },
@@ -2185,7 +2185,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "セ　センセー\\n考えすぎて　おかしく\\nなってしまったのか？",
-   "en": "",
+   "en": "S-Sensei... did all\\nthat thinkin'\\nfinally make you\\ncrack?",
    "op": "0x62",
    "msg": "0x1d70"
   },
@@ -2195,7 +2195,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "し　失礼だな\\nおかしくなんて\\nなってません！",
-   "en": "",
+   "en": "H-how rude! I\\nhave not cracked!",
    "op": "0x62",
    "msg": "0x1d71"
   },
@@ -2205,7 +2205,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "なるほど\\n桂の考えはわかった",
-   "en": "",
+   "en": "I see. I get what\\nKatsura has in\\nmind.",
    "op": "0x62",
    "msg": "0x1d72"
   },
@@ -2215,7 +2215,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "俺と総司が\\nお前達三人を捕らえ\\n二条城に連行する",
-   "en": "",
+   "en": "Soji and I capture\\nyou three and\\nhaul you to Nijo\\nCastle.",
    "op": "0x62",
    "msg": "0x1d73"
   },
@@ -2225,7 +2225,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "そういう筋書きか\\n俺達の立場を逆手に\\n取った　うまい手だ",
-   "en": "",
+   "en": "That's the script,\\nis it? Turning our\\nposition to our\\nadvantage. Smart\\nmove.",
    "op": "0x62",
    "msg": "0x1d74"
   },
@@ -2235,7 +2235,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "これなら怪しまれずに\\n私達全員が揃ったまま\\n二条城に入れるはずです",
-   "en": "",
+   "en": "This way, we\\nshould be able to\\nenter Nijo Castle\\nall together\\nwithout raising\\nsuspicion.",
    "op": "0x62",
    "msg": "0x1d75"
   },
@@ -2245,7 +2245,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "どうする\\n坂本\\n高杉",
-   "en": "",
+   "en": "Well? Sakamoto.\\nTakasugi.",
    "op": "0x62",
    "msg": "0x1d76"
   },
@@ -2255,7 +2255,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "まかり間違えば\\n二条城に入る前に斬首――\\nということもありうるが",
-   "en": "",
+   "en": "One wrong step,\\nand you could be\\nbeheaded before\\nyou even reach\\nNijo Castle.",
    "op": "0x62",
    "msg": "0x1d77"
   },
@@ -2265,7 +2265,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "忘れたのか？\\nオレ様達は\\nロックンローラーだぜ",
-   "en": "",
+   "en": "Forgot already?\\nThe great\\nTakasugi and co.\\nare rock 'n'\\nrollers.",
    "op": "0x62",
    "msg": "0x1d78"
   },
@@ -2275,7 +2275,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "ノるか　ソるかは\\n望むところだ\\nなあ　龍馬",
-   "en": "",
+   "en": "All or nothing?\\nThat's just how\\nyours truly likes\\nit. Right, Ryoma?",
    "op": "0x62",
    "msg": "0x1d79"
   },
@@ -2285,7 +2285,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "斬首は怖いが\\nそれしかないなら\\nそれしかないぜよ",
-   "en": "",
+   "en": "Gettin' beheaded's\\nscary, but if that's\\nthe only way,\\nthen that's the\\nonly way!",
    "op": "0x62",
    "msg": "0x1d7a"
   },
@@ -2295,7 +2295,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "わしは　センセーや\\nヒジゾーさんを信じる\\nだけじゃ",
-   "en": "",
+   "en": "I'm just gonna\\nbelieve in Sensei\\nand Hijizo-san,\\nthat's all!",
    "op": "0x62",
    "msg": "0x1d7b"
   },
@@ -2305,7 +2305,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "井伊が死んで　天歌の\\n脅威はなくなったと\\n思っていたが",
-   "en": "",
+   "en": "I thought that\\nwith Ii dead, the\\nthreat of the\\nHeaven's Song\\nwas gone.",
    "op": "0x62",
    "msg": "0x1d7c"
   },
@@ -2315,7 +2315,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "どうやら　そうでは\\nなさそうだ",
-   "en": "",
+   "en": "Apparently not.",
    "op": "0x62",
    "msg": "0x1d7d"
   },
@@ -2325,7 +2325,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "今の京の状態は\\n近藤さんが目指した\\n世の中とは言えん",
-   "en": "",
+   "en": "The state of\\nKyoto now is not\\nthe world\\nKondo-san was\\nstriving for.",
    "op": "0x62",
    "msg": "0x1d7e"
   },
@@ -2335,7 +2335,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "新選組　局長としても\\n見過ごすわけにはいかん",
-   "en": "",
+   "en": "As Commander of\\nthe Shinsengumi,\\nI can't let it pass.",
    "op": "0x62",
    "msg": "0x1d7f"
   },
@@ -2345,7 +2345,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "俺の方からも頼む\\n協力して欲しい",
-   "en": "",
+   "en": "I'm asking you\\ntoo. I want your\\nhelp.",
    "op": "0x62",
    "msg": "0x1d80"
   },
@@ -2355,7 +2355,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "わしらは仲間じゃろ\\n頭を下げる必要なんて\\nないぜよ",
-   "en": "",
+   "en": "We're comrades,\\nain't we? No need\\nto bow your head\\nto us!",
    "op": "0x62",
    "msg": "0x1d81"
   },
@@ -2365,7 +2365,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "斬首になったらなったで\\n首から上だけでも\\nロックは歌えるかな？",
-   "en": "",
+   "en": "And if I do get\\nbeheaded, I\\nwonder if I can\\nstill sing rock\\nwith just my\\nhead?",
    "op": "0x62",
    "msg": "0x1d82"
   },
@@ -2375,7 +2375,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "龍馬くんなら\\n歌えそうですねぇ",
-   "en": "",
+   "en": "If anyone could,\\nRyoma-kun, it'd\\nbe you.",
    "op": "0x62",
    "msg": "0x1d83"
   },
@@ -2385,7 +2385,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "首を切り落としたら\\n少しはバカが治るかもな",
-   "en": "",
+   "en": "Maybe chopping\\nyour head off\\nwould cure a little\\nof that stupidity.",
    "op": "0x62",
    "msg": "0x1d84"
   },
@@ -2395,7 +2395,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "シンディ！\\nそら酷いぜよ",
-   "en": "",
+   "en": "Shindy! That's\\njust cruel!",
    "op": "0x62",
    "msg": "0x1d85"
   },
@@ -2405,7 +2405,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "……ありがとう",
-   "en": "",
+   "en": "...Thank you.",
    "op": "0x62",
    "msg": "0x1d86"
   },
@@ -2415,7 +2415,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "この土方歳三\\n何が何でもお前達を――",
-   "en": "",
+   "en": "I, Toshizo\\nHijikata, will get\\nyou through this\\nno matter what--",
    "op": "0x62",
    "msg": "0x1d87"
   },
@@ -2425,7 +2425,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "いや　俺達全員で\\n将軍の前に立つと\\n約束しよう",
-   "en": "",
+   "en": "No. I promise all\\nof us will stand\\nbefore the\\nshogun together.",
    "op": "0x62",
    "msg": "0x1d88"
   },
@@ -2435,7 +2435,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "頼んだぜよ\\nヒジゾーさん",
-   "en": "",
+   "en": "Countin' on ya,\\nHijizo-san!",
    "op": "0x62",
    "msg": "0x1d89"
   },
@@ -2445,7 +2445,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "早速　準備を始めよう\\n総司　戻るぞ！",
-   "en": "",
+   "en": "We'll start\\npreparing right\\naway. Soji, we're\\ngoing back!",
    "op": "0x62",
    "msg": "0x1d8a"
   },
@@ -2455,7 +2455,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "はいっ\\n土方さん！",
-   "en": "",
+   "en": "Yes, Hijikata-san!",
    "op": "0x62",
    "msg": "0x1d8b"
   },
@@ -2465,7 +2465,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "改めて捕まえに来るから\\n首を洗って待っててね～",
-   "en": "",
+   "en": "I'll come back to\\narrest you\\nproperly, so scrub\\nyour necks and\\nwait for me~",
    "op": "0x62",
    "msg": "0x1d8c"
   },
@@ -2475,7 +2475,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "土方と沖田は　早足で\\nテラーダを出て行った",
-   "en": "",
+   "en": "Hijikata and Okita\\nhurried out of the\\nTerada.",
    "op": "0x62",
    "msg": "0x1d8d"
   },
@@ -2485,7 +2485,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "ちっ\\n沖田の野郎\\n笑えねえ冗談だぜ……",
-   "en": "",
+   "en": "Tch. That Okita...\\nThat joke isn't\\nfunny...",
    "op": "0x62",
    "msg": "0x1d8e"
   }

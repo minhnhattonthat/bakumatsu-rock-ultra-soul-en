@@ -103,6 +103,7 @@ an `Avoid` spelling fails. Name + honorific (龍馬さん) must come out as `Ryo
 | 黄泉の歌姫 | Divas of the Underworld | | | |
 | スカシくん | Mr. Poser | | Okita's name for Takasugi | Dud-kun |
 | 苺慶喜 | cake | | ichigo keiki pun (慶喜 also reads Keiki): free adaptation, must say "cake" | |
+| 姐さん | Sis | | お龍姐さん -> Sis Oryo | Big Sis |
 | ヨッシー | Yosshi | | Ryoma's nickname for Yoshinobu | |
 | ショウ | Show | | Shoin's stage name (Tengu, old rockers) | |
 | 御前試合 | Royal Concert | | 御前試合（ロイヤルコンサート） | |
@@ -138,7 +139,13 @@ an `Avoid` spelling fails. Name + honorific (龍馬さん) must come out as `Ryo
   lord; ゲーベル銃 Geweer rifle; 茶店（カフェ） cafe. "Oi" is British: Takasugi says "Hey".
   黄泉路の歌姫 the Diva of the Underworld; 幾松姐さん Sis Ikumatsu; 地下愛獲 underground idol; 看板娘 poster girls;
   一人雷舞（ソロライブ） solo live; お白州 the court; 総ちゃん (Otose) So-chan; カイ (Katsu's old stage name) Kai; 勝先生
-  Katsu-sensei; ケツの穴の小せえ "tight-assed". 烈シンギング -> "Let's SING!".
+  Katsu-sensei; ケツの穴の小せえ "chickenshit" (timid, not uptight).
+- 上様: "Ue-sama" only in m_010002 where Ryoma takes the title for a name; elsewhere "His Highness"/"my lord".
+  将軍様 -> Lord Shogun. Junior's names: ナデシコ Nadeshiko (Okita), レッドボーイ Red Boy, モンキー Monkey (Ryoma); Ｊ J.
+  ヱゲレス/エゲレス English; ヨタ話 tall tale; 龍河洞 Ryugado; カスティラ castella; 蘭出舞 rendezvous; 判じ物 hanjimono;
+  誠仮面 Makoto Mask; 勝老中 Elder Katsu; ペリージュニア Perry Junior; 贔屓倶楽部 fan club; 眠り病 sleeping sickness;
+  小姓 page; 徳川の怨念 the Tokugawa grudge; 魂友（ソウルメイト） soulmates; 千利休 Sen no Rikyu; メリケン America.
+  大江戸天歌祭 the Great Edo Heaven's Song Festival; なか吉屋 Nakayoshiya Beef Bowls; 戒厳令 martial law. 烈シンギング -> "Let's SING!".
 - 雷舞屋（ライブハウス） live house; 最高雷舞屋（メジャーライブハウス） major live house; 愛獲笑顔（アイドルスマイル） idol smile;
   癒声（ヒーリングボイス） healing voice; 雷光（スパーク） spark; 稽古（リハーサル） rehearsal; 稽古場（スタジオ） studio;
   エレキテル elekiter (エレキ electricity); 平賀源内 Gennai Hiraga; 超スベールＸ Super Slipperoo X; 隊士 troopers;

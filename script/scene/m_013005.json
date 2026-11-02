@@ -8,7 +8,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "龍馬の熱い超魂に\\n呼応するように\\nジュニアの超魂が震えた",
-   "en": "As if answering\\nRyoma's burning\\nUltra Soul,\\nJunior's Ultra Soul\\ntrembled.",
+   "en": "As if answering\\nRyoma's burning\\nUltra Soul,\\nJunior's Ultra\\nSoul trembled.",
    "op": "0x62",
    "msg": "0x54c9"
   },
@@ -18,7 +18,7 @@
    "max": 104,
    "kind": "dialogue",
    "jp": "暴走すると思われた\\nジュニアの超魂は\\n龍馬の超魂に強く反応し\\n何十倍にも膨らんで\\n聴くものを圧倒する",
-   "en": "Junior's Ultra Soul\\nseemed set to run\\nwild, yet it\\nreacted strongly\\nto Ryoma's and\\ngrew dozens of\\ntimes greater,\\noverwhelming all.",
+   "en": "Junior's Ultra\\nSoul seemed set\\nto run wild, yet it\\nreacted strongly\\nto Ryoma's and\\ngrew dozens of\\ntimes greater,\\noverwhelming all.",
    "op": "0x62",
    "msg": "0x54ca"
   },
@@ -38,7 +38,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "レッドボーイ\\nお前たちの熱い想いを\\n感じる",
-   "en": "Red Boy. I can\\nfeel your burning\\nfeelings.",
+   "en": "Red Boy. I can\\nfeel your\\nburning feelings.",
    "op": "0x62",
    "msg": "0x54cc"
   },
@@ -48,7 +48,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "ああ　熱い！\\n身体が燃えるようだ",
-   "en": "Ah, it's hot! My\\nbody feels like it's\\non fire.",
+   "en": "Ah, it's hot! My\\nbody feels like\\nit's on fire.",
    "op": "0x62",
    "msg": "0x54cd"
   },
@@ -68,7 +68,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "……って\\n本当に燃えとる",
-   "en": "...Wait, he's really\\non fire!",
+   "en": "...Wait, he's\\nreally on fire!",
    "op": "0x62",
    "msg": "0x54cf"
   },
@@ -78,7 +78,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "じゅ　じゅにあが\\n炎に包まれとるぜよ",
-   "en": "J-Junior's gone up\\nin flames!",
+   "en": "J-Junior's gone\\nup in flames!",
    "op": "0x62",
    "msg": "0x54d0"
   },
@@ -88,7 +88,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "止めるなレッドボーイ！",
-   "en": "Don't stop me,\\nRed Boy!",
+   "en": "Don't stop\\nme, Red Boy!",
    "op": "0x62",
    "msg": "0x54d1"
   },
@@ -98,7 +98,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "オレは今　最高に\\n熱くなっている",
-   "en": "I'm hotter right\\nnow than I've\\never been.",
+   "en": "I'm hotter\\nright now than\\nI've ever been.",
    "op": "0x62",
    "msg": "0x54d2"
   },
@@ -118,7 +118,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "お　おい\\n舞台に燃え移ってるぞ\\nヤバイんじゃないか？",
-   "en": "H-hey, it's\\nspreading to the\\nstage. Isn't this\\nbad?",
+   "en": "H-hey, it's\\nspreading to\\nthe stage.\\nIsn't this bad?",
    "op": "0x62",
    "msg": "0x54d4"
   },
@@ -138,7 +138,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "イェェェェエエエ！\\nワーオ！　最高だ",
-   "en": "Yeeeeeaaaah!\\nWow! This is the\\nbest!",
+   "en": "Yeeeeeaaaah!\\nWow! This\\nis the best!",
    "op": "0x62",
    "msg": "0x54d6"
   },
@@ -188,7 +188,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "少なくとも\\n僕は逃げる気だよ",
-   "en": "I'm running away,\\nat least.",
+   "en": "I'm running\\naway, at least.",
    "op": "0x62",
    "msg": "0x54db"
   },
@@ -198,7 +198,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "あんなの\\n手の付けようがないもの",
-   "en": "There's no\\nhandling\\nsomething like\\nthat.",
+   "en": "There's no\\nhandling\\nsomething\\nlike that.",
    "op": "0x62",
    "msg": "0x54dc"
   },
@@ -218,7 +218,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "じゃ　命があったら\\nまた会おうね\\nバイバーイ！",
-   "en": "Well then, if we\\nlive through this,\\nsee you again.\\nBye-byeee!",
+   "en": "Well then, if we\\nlive through\\nthis, see you\\nagain. Bye-byeee!",
    "op": "0x62",
    "msg": "0x54de"
   },
@@ -248,7 +248,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "あちちち！\\n舞台が火の海ぜよ！",
-   "en": "Hot hot hot! The\\nstage is a sea of\\nfire!",
+   "en": "Hot hot hot!\\nThe stage is\\na sea of fire!",
    "op": "0x62",
    "msg": "0x54e1"
   },
@@ -258,7 +258,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "逃げろって　お前\\nジュニアは放っておいて\\nいいのかよ",
-   "en": "Run, you say?\\nYou're fine just\\nleaving Junior\\nhere?",
+   "en": "Run, you say?\\nYou're fine\\njust leaving\\nJunior here?",
    "op": "0x62",
    "msg": "0x54e2"
   },
@@ -278,7 +278,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "どんだけ迷惑な\\nスター様なんだ！\\nあの野郎は",
-   "en": "What a pain in\\nthe neck of a star\\nthat guy is!",
+   "en": "What a pain in\\nthe neck of a\\nstar that guy is!",
    "op": "0x62",
    "msg": "0x54e4"
   },
@@ -288,7 +288,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "いずれここも\\n燃え崩れます\\n避難しましょう！",
-   "en": "This place will\\nburn down before\\nlong. Let's get out\\nof here!",
+   "en": "This place will\\nburn down\\nbefore long. Let's\\nget out of here!",
    "op": "0x62",
    "msg": "0x54e5"
   },
@@ -308,7 +308,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "うぉおおおおお\\nわしも負けんぞ！",
-   "en": "Raaaaahhh! I ain't\\nlosin' either!",
+   "en": "Raaaaahhh! I\\nain't losin' either!",
    "op": "0x62",
    "msg": "0x54e7"
   },

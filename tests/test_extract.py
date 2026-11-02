@@ -70,8 +70,9 @@ def test_ui_roundtrip():
 def test_eboot_roundtrip():
     eboot = Path(extract.EBOOT).read_bytes()
     slots = uitable.eboot_slots(eboot)
-    assert len(slots) == 8
+    assert len(slots) == 18   # 8 UTF-8 save titles + 9 profile labels + the play-time label
     assert uitable.write_eboot(eboot, {}) == eboot
+    assert uitable.write_eboot(eboot, {s.off: s.text for s in slots}) == eboot
     sfo = Path(extract.SFO).read_bytes()
     assert uitable.write_sfo(sfo, uitable.sfo_title(sfo).text) == sfo
 

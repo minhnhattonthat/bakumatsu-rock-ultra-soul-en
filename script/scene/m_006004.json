@@ -28,7 +28,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "何が\\nどうなってるんだ！　",
-   "en": "What on earth is\\ngoing on!?",
+   "en": "What on earth\\nis going on!?",
    "op": "0x62",
    "msg": "0x129f"
   },
@@ -48,7 +48,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "うおおおっ！\\n魂にずんと来るな！",
-   "en": "Whoaaa! That hits\\nme right in the\\nsoul!",
+   "en": "Whoaaa! That\\nhits me right\\nin the soul!",
    "op": "0x62",
    "msg": "0x12a1"
   },
@@ -68,7 +68,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "うん\\nみんな正気に戻ったね",
-   "en": "Yeah. Everyone's\\nback to their\\nsenses.",
+   "en": "Yeah.\\nEveryone's back\\nto their senses.",
    "op": "0x62",
    "msg": "0x12a3"
   },
@@ -88,7 +88,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "よくやった　総司\\n井伊を追うぞ",
-   "en": "Well done, Soji.\\nWe're going after\\nIi.",
+   "en": "Well done,\\nSoji. We're\\ngoing after Ii.",
    "op": "0x62",
    "msg": "0x12a5"
   },
@@ -108,7 +108,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "井伊を追おうとする\\n土方だったが\\n傷ついた桂たちを見て\\n思いとどまった",
-   "en": "Hijikata moved to\\npursue Ii, but\\nwhen he saw\\nKatsura and the\\nothers wounded,\\nhe held back.",
+   "en": "Hijikata moved\\nto pursue Ii, but\\nwhen he saw\\nKatsura and the\\nothers wounded,\\nhe held back.",
    "op": "0x62",
    "msg": "0x12c4"
   },
@@ -138,7 +138,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "おう　皆で逃げよう！",
-   "en": "Right, let's all get\\noutta here!",
+   "en": "Right, let's all\\nget outta here!",
    "op": "0x62",
    "msg": "0x12a7"
   },
@@ -158,7 +158,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "メガネくん\\n僕につかまって",
-   "en": "Glasses-kun, hold\\non to me.",
+   "en": "Glasses-kun,\\nhold on to me.",
    "op": "0x62",
    "msg": "0x12a9"
   },
@@ -168,7 +168,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "オレ様は助けなんぞ\\nいらねぇからなっ",
-   "en": "Yours truly\\ndoesn't need\\nanybody's help,\\ngot it!?",
+   "en": "Yours truly\\ndoesn't need\\nanybody's\\nhelp, got it!?",
    "op": "0x62",
    "msg": "0x12aa"
   },
@@ -198,7 +198,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "シンディ\\nこっからさっさと\\n逃げるぞ！",
-   "en": "Shindy! Let's\\nhightail it outta\\nhere!",
+   "en": "Shindy! Let's\\nhightail it\\noutta here!",
    "op": "0x62",
    "msg": "0x12ad"
   },
@@ -228,7 +228,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "オレ様がお前を支えて\\nやるっつってんだ",
-   "en": "I'm saying the\\ngreat Takasugi is\\ngonna hold you\\nup!",
+   "en": "I'm saying the\\ngreat Takasugi\\nis gonna hold\\nyou up!",
    "op": "0x62",
    "msg": "0x12b0"
   },
@@ -238,7 +238,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "動けなくなってたのに\\n平気なのか？",
-   "en": "You couldn't even\\nmove a minute\\nago. You sure\\nyou're okay?",
+   "en": "You couldn't\\neven move a\\nminute ago. You\\nsure you're okay?",
    "op": "0x62",
    "msg": "0x12b1"
   },
@@ -248,7 +248,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "だから\\nオレ様は大丈夫だって\\n言ってるだろうが！",
-   "en": "I told you, yours\\ntruly is fine,\\ndammit!",
+   "en": "I told you,\\nyours truly is\\nfine, dammit!",
    "op": "0x62",
    "msg": "0x12b2"
   },

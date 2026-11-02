@@ -23,7 +23,8 @@ def test_every_script_has_a_scene():
     if not SCRIPTS.exists():
         pytest.skip("no work/cpk")
     rows = warp.load_scenes()
-    named = {r["arg"].partition(";")[0] for r in rows.values() if r["kind"] == "script"}
+    args = [r["arg"].partition(";")[0] for r in rows.values() if r["kind"] == "script"]   # FILE.bin[>NEXT.bin]
+    named = {n for a in args for n in a.split(">")}
     on_disc = {p.name for p in SCRIPTS.glob("*.bin")}
     assert named <= on_disc, named - on_disc       # a missing name crashes the game on load
     assert on_disc <= named, on_disc - named

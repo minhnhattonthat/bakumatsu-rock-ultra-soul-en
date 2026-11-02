@@ -8,7 +8,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "一致団結し　五人で\\nロックをすることにした\\n龍馬たちは",
-   "en": "United as one,\\nRyoma and the\\nothers decided to\\nrock as five...",
+   "en": "United as one,\\nRyoma and the\\nothers decided\\nto rock as five...",
    "op": "0x62",
    "msg": "0x2c06"
   },
@@ -28,7 +28,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "これはそんな五人の\\n日常の一コマである……",
-   "en": "This is one slice\\nof the five's daily\\nlife...",
+   "en": "This is one slice\\nof the five's\\ndaily life...",
    "op": "0x62",
    "msg": "0x2c08"
   },
@@ -38,7 +38,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "あ～あ……\\nたいくつだなぁ",
-   "en": "Haaah... I'm so\\nbored.",
+   "en": "Haaah... I'm\\nso bored.",
    "op": "0x62",
    "msg": "0x2c09"
   },
@@ -68,7 +68,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "スカシくんもいないし\\n遊ぶ相手ゼロってのは\\nちょっとね～",
-   "en": "Mr. Poser's gone\\ntoo. Zero\\nplaymates is kind\\nof a drag~",
+   "en": "Mr. Poser's\\ngone too. Zero\\nplaymates is\\nkind of a drag~",
    "op": "0x62",
    "msg": "0x2c0c"
   },
@@ -78,7 +78,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "あ　そうだ\\n屋敷に一人なんて\\n滅多にないし",
-   "en": "Oh, I know. It's\\nnot often I get\\nthe house to\\nmyself...",
+   "en": "Oh, I know.\\nIt's not often I\\nget the house\\nto myself...",
    "op": "0x62",
    "msg": "0x2c0d"
   },
@@ -88,7 +88,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "メガネくんのお部屋でも\\n探検しちゃおっかな～？",
-   "en": "Maybe I'll go\\nexplore\\nGlasses-kun's\\nroom~?",
+   "en": "Maybe I'll\\ngo explore\\nGlasses-kun's\\nroom~?",
    "op": "0x62",
    "msg": "0x2c0e"
   },
@@ -108,7 +108,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "じゃじゃーん！\\n突撃！　隣のメガネくん！",
-   "en": "Ta-daaa! Surprise\\nraid!\\nGlasses-kun's\\nroom next door!",
+   "en": "Ta-daaa!\\nSurprise raid!\\nGlasses-kun's\\nroom next door!",
    "op": "0x62",
    "msg": "0x2c10"
   },
@@ -118,7 +118,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "うわ　きっちり片付いてて\\nつまんないな～",
-   "en": "Wow, it's all neat\\nand tidy. How\\nboring~",
+   "en": "Wow, it's all\\nneat and tidy.\\nHow boring~",
    "op": "0x62",
    "msg": "0x2c11"
   },
@@ -128,7 +128,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "でも　ああいうヤツほど\\nムッツリだったりするよね",
-   "en": "But guys like that\\nare always the\\nsecret perverts,\\nright?",
+   "en": "But guys like\\nthat are always\\nthe secret\\nperverts, right?",
    "op": "0x62",
    "msg": "0x2c12"
   },
@@ -138,7 +138,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "たとえばこの辺とかに\\n桃色草紙を隠してたり……\\nん？",
-   "en": "Like, maybe he's\\nhiding naughty\\npicture books\\naround here...\\nHm?",
+   "en": "Like, maybe\\nhe's hiding\\nnaughty picture\\nbooks around\\nhere... Hm?",
    "op": "0x62",
    "msg": "0x2c13"
   },
@@ -178,7 +178,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "こらっ！　\\nわたしの部屋でいったい\\n何をしてるんです",
-   "en": "Hey! What on\\nearth are you\\ndoing in my\\nroom?",
+   "en": "Hey! What\\non earth are\\nyou doing\\nin my room?",
    "op": "0x62",
    "msg": "0x2c17"
   },
@@ -198,7 +198,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "指にホコリがついた\\n掃除が甘いですねー",
-   "en": "Dust on my\\nfinger. Your\\ncleaning's pretty\\nsloppy~",
+   "en": "Dust on my\\nfinger. Your\\ncleaning's\\npretty sloppy~",
    "op": "0x62",
    "msg": "0x2c19"
   },
@@ -258,7 +258,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "お　メガネくんが消えた？\\n時計も……ちょっとだけ\\n巻き戻ってる？",
-   "en": "Oh, Glasses-kun\\nvanished? And\\nthe clock's...\\nwound back just a\\nlittle?",
+   "en": "Oh, Glasses-kun\\nvanished? And\\nthe clock's...\\nwound back just\\na little?",
    "op": "0x62",
    "msg": "0x2c1f"
   },
@@ -268,7 +268,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "ってことはこれって本当に\\n時間が戻せるんだ……",
-   "en": "So this thing\\nreally can rewind\\ntime...",
+   "en": "So this thing\\nreally can\\nrewind time...",
    "op": "0x62",
    "msg": "0x2c20"
   },
@@ -288,7 +288,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "んふふ～　これで退屈が\\nまぎれそうだな",
-   "en": "Hehe~ This\\noughta cure my\\nboredom.",
+   "en": "Hehe~ This\\noughta cure\\nmy boredom.",
    "op": "0x62",
    "msg": "0x2c22"
   },
@@ -318,7 +318,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "うう……ひどい目に\\nあった……",
-   "en": "Ugh... what a\\nrotten time I\\nhad...",
+   "en": "Ugh... what\\na rotten\\ntime I had...",
    "op": "0x62",
    "msg": "0x2c25"
   },
@@ -358,7 +358,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "うんうん　なーに？",
-   "en": "Uh-huh, what is\\nit?",
+   "en": "Uh-huh,\\nwhat is it?",
    "op": "0x62",
    "msg": "0x2c29"
   },
@@ -398,7 +398,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "どうにか受け止めようと\\nしたら　顔面で受け止めて\\nしまって……",
-   "en": "I tried to catch it\\nsomehow, and\\ncaught it with my\\nface...",
+   "en": "I tried to catch\\nit somehow,\\nand caught it\\nwith my face...",
    "op": "0x62",
    "msg": "0x2c2d"
   },
@@ -418,7 +418,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "上から青柿がどさどさ\\n降ってきてこの様ぜよ",
-   "en": "Then a whole pile\\nof green\\npersimmons came\\nrainin' down, and\\nhere I am.",
+   "en": "Then a whole\\npile of green\\npersimmons came\\nrainin' down, and\\nhere I am.",
    "op": "0x62",
    "msg": "0x2c2f"
   },
@@ -448,7 +448,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "やばい　\\n僕その現場　すっごく\\n見たくなっちゃった",
-   "en": "Uh-oh. Now I\\nreally, really\\nwanna see that\\nhappen.",
+   "en": "Uh-oh. Now I\\nreally, really\\nwanna see\\nthat happen.",
    "op": "0x62",
    "msg": "0x2c32"
   },
@@ -468,7 +468,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "ううん　いいよ～\\nこれ　使っちゃうから～",
-   "en": "Nope, it's fine~ I'll\\njust use this~",
+   "en": "Nope, it's fine~\\nI'll just use this~",
    "op": "0x62",
    "msg": "0x2c34"
   },
@@ -488,7 +488,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "えーっとトサカくんは\\nテラーダの方かな……？",
-   "en": "Let's see,\\nTosaka-kun's\\nprobably over by\\nTerada...?",
+   "en": "Let's see,\\nTosaka-kun's\\nprobably over\\nby Terada...?",
    "op": "0x62",
    "msg": "0x2c36"
   },
@@ -518,7 +518,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "お　いたいた\\nこっそり近づいてっと……",
-   "en": "Oh, there he is.\\nSneaking up\\nquietly...",
+   "en": "Oh, there he\\nis. Sneaking\\nup quietly...",
    "op": "0x62",
    "msg": "0x2c39"
   },
@@ -548,7 +548,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "わわわっ！\\n大事な出前のぴっつぁが！\\nこっちか？　こっちか？",
-   "en": "Whoa whoa whoa!\\nThe precious\\ndelivery pizza!\\nThis way? That\\nway?",
+   "en": "Whoa whoa\\nwhoa! The\\nprecious delivery\\npizza! This way?\\nThat way?",
    "op": "0x62",
    "msg": "0x2c3c"
   },
@@ -558,7 +558,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "あっちぃぃぃぃぃ！\\nあっちゃあっちゃあっちゃ\\nあっちゃあああああああ",
-   "en": "HOOOOT! Hot hot\\nhot hot!\\nHot-hot-hooooot!",
+   "en": "HOOOOT! Hot\\nhot hot hot!\\nHot-hot-hooooot!",
    "op": "0x62",
    "msg": "0x2c3d"
   },
@@ -568,7 +568,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "みみみみみっ　水っ！\\n水が欲しいぜよ～っ！",
-   "en": "W-w-w-water! I\\nneed water!",
+   "en": "W-w-w-water!\\nI need water!",
    "op": "0x62",
    "msg": "0x2c3e"
   },
@@ -588,7 +588,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "いてっ　いてててっ！\\n柿がいっぱい落ちてきたっ",
-   "en": "Ow! Ow ow ow! A\\nton of\\npersimmons are\\nfallin' on me!",
+   "en": "Ow! Ow ow ow!\\nA ton of\\npersimmons are\\nfallin' on me!",
    "op": "0x62",
    "msg": "0x2c40"
   },
@@ -608,7 +608,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "志士よりお笑い芸人の方が\\n才能あるんじゃない？",
-   "en": "Don't you have\\nmore talent as a\\ncomedian than as\\na rebel?",
+   "en": "Don't you have\\nmore talent as\\na comedian\\nthan as a rebel?",
    "op": "0x62",
    "msg": "0x2c42"
   },
@@ -658,7 +658,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "ありがたく使わせて……",
-   "en": "Don't mind if I\\ndo...",
+   "en": "Don't mind\\nif I do...",
    "op": "0x62",
    "msg": "0x2c47"
   },
@@ -688,7 +688,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "おい　龍馬どうした\\nあっ　こら　テメェ沖田\\nまた何かしたのか？",
-   "en": "Hey, Ryoma,\\nwhat's wrong? Ah,\\nhey! Okita, you\\nbastard, did you\\ndo something\\nagain?",
+   "en": "Hey, Ryoma,\\nwhat's wrong?\\nAh, hey! Okita,\\nyou bastard, did\\nyou do\\nsomething again?",
    "op": "0x62",
    "msg": "0x2c4a"
   },
@@ -708,7 +708,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "ムカつくからスカシくんも\\n巻き込んじゃえ～",
-   "en": "That ticks me off,\\nso I'll drag Mr.\\nPoser into this\\ntoo~",
+   "en": "That ticks me\\noff, so I'll\\ndrag Mr. Poser\\ninto this too~",
    "op": "0x62",
    "msg": "0x2c4c"
   },
@@ -738,7 +738,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "はいはーい　トサカくん\\n水はここだよ～",
-   "en": "Coming right up,\\nTosaka-kun. The\\nwater's right\\nhere~",
+   "en": "Coming right\\nup, Tosaka-kun.\\nThe water's\\nright here~",
    "op": "0x62",
    "msg": "0x2c4f"
   },
@@ -758,7 +758,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "ありがたく使わせて……",
-   "en": "Don't mind if I\\ndo...",
+   "en": "Don't mind\\nif I do...",
    "op": "0x62",
    "msg": "0x2c51"
   },
@@ -838,7 +838,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "くそっ　この！　\\nなんで往来でテメェと\\n抱き合わにゃいかんのだ！",
-   "en": "Dammit, come on!\\nWhy do I have to\\nbe hugging you in\\nthe middle of the\\nstreet!?",
+   "en": "Dammit, come on!\\nWhy do I have to\\nbe hugging you\\nin the middle of\\nthe street!?",
    "op": "0x62",
    "msg": "0x2c59"
   },
@@ -848,7 +848,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "お登勢やんは喜ぶかも\\nしれんなぁ",
-   "en": "Otose-yan might\\nenjoy the sight,\\nthough.",
+   "en": "Otose-yan\\nmight enjoy the\\nsight, though.",
    "op": "0x62",
    "msg": "0x2c5a"
   },
@@ -858,7 +858,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "そういう問題じゃねえ！",
-   "en": "That's not the\\npoint!",
+   "en": "That's not\\nthe point!",
    "op": "0x62",
    "msg": "0x2c5b"
   },
@@ -868,7 +868,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "あっはっはっはっは！\\nおもしろーい！",
-   "en": "Ahahahaha! So\\nfunny!",
+   "en": "Ahahahaha!\\nSo funny!",
    "op": "0x62",
    "msg": "0x2c5c"
   },
@@ -898,7 +898,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "いたっ　いたたた！\\nシンディ　引っ張らんで\\n欲しいぜよ～！",
-   "en": "Ow! Ow ow ow!\\nShindy, quit\\npullin'!",
+   "en": "Ow! Ow ow\\now! Shindy,\\nquit pullin'!",
    "op": "0x62",
    "msg": "0x2c5f"
   },
@@ -908,7 +908,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "あー　面白かった\\n意外と使えるなあ　これ",
-   "en": "Ahh, that was\\nfun. This thing's\\nhandier than I\\nthought.",
+   "en": "Ahh, that was\\nfun. This\\nthing's handier\\nthan I thought.",
    "op": "0x62",
    "msg": "0x2c60"
   },
@@ -918,7 +918,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "でも……時間が戻せるって\\nことは……もしかして\\n僕の過去なんかも……",
-   "en": "But... if it can\\nrewind time...\\nthen maybe even\\nmy past...",
+   "en": "But... if it can\\nrewind time...\\nthen maybe\\neven my past...",
    "op": "0x62",
    "msg": "0x2c61"
   },
@@ -948,7 +948,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "さっきから使ってるけど\\n五分から三十分ってとこ？",
-   "en": "I've been using it\\na while now... five\\nto thirty minutes,\\nmaybe?",
+   "en": "I've been using\\nit a while now...\\nfive to thirty\\nminutes, maybe?",
    "op": "0x62",
    "msg": "0x2c64"
   },
@@ -958,7 +958,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "この目盛りで戻る時間が\\n調節出来るっぽいけど……",
-   "en": "Looks like this\\ndial adjusts how\\nfar back it goes,\\nbut...",
+   "en": "Looks like this\\ndial adjusts\\nhow far back\\nit goes, but...",
    "op": "0x62",
    "msg": "0x2c65"
   },
@@ -978,7 +978,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "もう一回くらい\\nトサカくんとスカシくんの\\n爆笑喜劇見てもいいなぁ",
-   "en": "Maybe one more\\nround of the\\nTosaka-kun and\\nMr. Poser comedy\\nshow~",
+   "en": "Maybe one\\nmore round of\\nthe Tosaka-kun\\nand Mr. Poser\\ncomedy show~",
    "op": "0x62",
    "msg": "0x2c67"
   },
@@ -1068,7 +1068,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "むぅ……土方さんが僕に\\n隠し事なんて……そんなの\\n許さないんだからね！",
-   "en": "Hmph...\\nHijikata-san\\nkeeping secrets\\nfrom me... I won't\\nallow it!",
+   "en": "Hmph...\\nHijikata-san\\nkeeping secrets\\nfrom me... I\\nwon't allow it!",
    "op": "0x62",
    "msg": "0x2c70"
   },
@@ -1098,7 +1098,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "ん？　屯所じゃないか\\nいったい　\\nここで何が……？",
-   "en": "Hm? Isn't this the\\nbarracks? What\\non earth is going\\non here...?",
+   "en": "Hm? Isn't this\\nthe barracks?\\nWhat on earth is\\ngoing on here...?",
    "op": "0x62",
    "msg": "0x2c73"
   },
@@ -1108,7 +1108,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "こらっ！　やめろ！\\nそいつに手を出すな！",
-   "en": "Hey! Stop! Don't\\ntouch it!",
+   "en": "Hey! Stop!\\nDon't touch it!",
    "op": "0x62",
    "msg": "0x2c74"
   },
@@ -1128,7 +1128,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "土方の叫びに\\n駆けつける沖田",
-   "en": "At Hijikata's\\nshout, Okita came\\nrunning.",
+   "en": "At Hijikata's\\nshout, Okita\\ncame running.",
    "op": "0x62",
    "msg": "0x2c76"
   },
@@ -1138,7 +1138,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "そこには\\n血まみれの雛を\\n抱いてうつむく\\n土方の姿があった",
-   "en": "There stood\\nHijikata, head\\nbowed, cradling a\\nbloodied chick.",
+   "en": "There stood\\nHijikata, head\\nbowed, cradling\\na bloodied chick.",
    "op": "0x62",
    "msg": "0x2c77"
   },
@@ -1158,7 +1158,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "ああ　総司か\\nすまんな　みっともない\\nところを見られてしまった",
-   "en": "Ah, Soji. Sorry\\nyou had to see me\\nlike this.",
+   "en": "Ah, Soji. Sorry\\nyou had to see\\nme like this.",
    "op": "0x62",
    "msg": "0x2c79"
   },
@@ -1178,7 +1178,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "その木に巣があったんだが\\n風で落ちてしまっていて",
-   "en": "There was a nest\\nin that tree, but\\nthe wind knocked\\nit down.",
+   "en": "There was a\\nnest in that tree,\\nbut the wind\\nknocked it down.",
    "op": "0x62",
    "msg": "0x2c7b"
   },
@@ -1188,7 +1188,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "戻そうとしたんだが\\nその前に猫にやられて",
-   "en": "I tried to put it\\nback, but a cat got\\nto it first.",
+   "en": "I tried to put it\\nback, but a cat\\ngot to it first.",
    "op": "0x62",
    "msg": "0x2c7c"
   },
@@ -1218,7 +1218,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "ええっ！\\nじゃあ　とっつかまえて\\n三味線に……！",
-   "en": "What!? Then let's\\ncatch it and turn\\nit into a\\nshamisen...!",
+   "en": "What!? Then\\nlet's catch it\\nand turn it into\\na shamisen...!",
    "op": "0x62",
    "msg": "0x2c7f"
   },
@@ -1228,7 +1228,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "いや　いい　そいつも\\n腹が減ってたんだろう",
-   "en": "No, leave it. It\\nwas probably just\\nhungry too.",
+   "en": "No, leave it. It\\nwas probably\\njust hungry too.",
    "op": "0x62",
    "msg": "0x2c80"
   },
@@ -1238,7 +1238,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "しかし　やりきれんな\\n助けられるはずのものが\\n助けられなかったのは……",
-   "en": "Still... it's hard to\\nbear. Failing to\\nsave something I\\nshould've been\\nable to save...",
+   "en": "Still... it's hard to\\nbear. Failing to\\nsave something\\nI should've been\\nable to save...",
    "op": "0x62",
    "msg": "0x2c81"
   },
@@ -1268,7 +1268,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "総司？\\nいったい何を言ってる？",
-   "en": "Soji? What are\\nyou talking\\nabout?",
+   "en": "Soji? What\\nare you\\ntalking about?",
    "op": "0x62",
    "msg": "0x2c84"
   },
@@ -1288,7 +1288,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "これくらいなら……\\nえいっ！",
-   "en": "But this much, I\\ncan... Hup!",
+   "en": "But this much,\\nI can... Hup!",
    "op": "0x62",
    "msg": "0x2c86"
   },
@@ -1308,7 +1308,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "総司　今　お前　\\nいきなり現れなかったか？",
-   "en": "Soji, did you just\\nappear out of\\nnowhere?",
+   "en": "Soji, did you\\njust appear out\\nof nowhere?",
    "op": "0x62",
    "msg": "0x2c88"
   },
@@ -1318,7 +1318,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "細かいことは気にしないで",
-   "en": "Don't sweat the\\ndetails.",
+   "en": "Don't sweat\\nthe details.",
    "op": "0x62",
    "msg": "0x2c89"
   },
@@ -1338,7 +1338,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "ん　巣だと？\\nなにを言ってるんだ？",
-   "en": "Hm, a nest? What\\nare you talking\\nabout?",
+   "en": "Hm, a nest?\\nWhat are you\\ntalking about?",
    "op": "0x62",
    "msg": "0x2c8b"
   },
@@ -1358,7 +1358,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "土方さん　小鳥を！",
-   "en": "Hijikata-san, the\\nchick!",
+   "en": "Hijikata-san,\\nthe chick!",
    "op": "0x62",
    "msg": "0x2c8d"
   },
@@ -1398,7 +1398,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "土方さんに悲しそうな顔を\\nさせていいのは……",
-   "en": "The only ones\\nallowed to make\\nHijikata-san look\\nsad...",
+   "en": "The only ones\\nallowed to make\\nHijikata-san\\nlook sad...",
    "op": "0x62",
    "msg": "0x2c91"
   },
@@ -1428,7 +1428,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "お　おい総司\\nそこまでしなくても……",
-   "en": "H-hey, Soji, you\\ndon't have to go\\nthat far...",
+   "en": "H-hey, Soji,\\nyou don't have\\nto go that far...",
    "op": "0x62",
    "msg": "0x2c94"
   },
@@ -1438,7 +1438,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "いいから土方さんは\\nさっさと巣を元に戻して",
-   "en": "Never mind that,\\nHijikata-san. Just\\nhurry and put the\\nnest back.",
+   "en": "Never mind that,\\nHijikata-san. Just\\nhurry and put\\nthe nest back.",
    "op": "0x62",
    "msg": "0x2c95"
   },
@@ -1488,7 +1488,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "まるで未来が見えて\\nいるようだった……",
-   "en": "It was like you\\ncould see the\\nfuture...",
+   "en": "It was like\\nyou could see\\nthe future...",
    "op": "0x62",
    "msg": "0x2c9a"
   },
@@ -1508,7 +1508,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "さ　早く帰って\\nごはんにしましょうよ\\n僕　おなか空きました",
-   "en": "Now, let's hurry\\nhome and eat. I'm\\nstarving.",
+   "en": "Now, let's hurry\\nhome and eat.\\nI'm starving.",
    "op": "0x62",
    "msg": "0x2c9c"
   },
@@ -1538,7 +1538,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "最後に僕らしくないこと\\nしちゃった気もするけど",
-   "en": "Though I feel like\\nI did something\\nvery un-me at the\\nend.",
+   "en": "Though I feel\\nlike I did\\nsomething very\\nun-me at the end.",
    "op": "0x62",
    "msg": "0x2c9f"
   },
@@ -1558,7 +1558,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "さーて　後はこれを\\nこっそりメガネくんの\\n部屋に返して……",
-   "en": "Okaaay, now I\\njust sneak this\\nback into\\nGlasses-kun's\\nroom...",
+   "en": "Okaaay, now\\nI just sneak\\nthis back into\\nGlasses-kun's\\nroom...",
    "op": "0x62",
    "msg": "0x2ca1"
   },
@@ -1618,7 +1618,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "これは……お仕置きが\\n必要なようですね",
-   "en": "This... calls for a\\npunishment, it\\nseems.",
+   "en": "This... calls for\\na punishment,\\nit seems.",
    "op": "0x62",
    "msg": "0x2ca7"
   },
@@ -1628,7 +1628,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "げっ！\\nこ　こうなったら時間を\\n戻して逃げるしか……",
-   "en": "Ack! I-in that\\ncase, I'll just\\nrewind time and\\nrun...",
+   "en": "Ack! I-in that\\ncase, I'll just\\nrewind time\\nand run...",
    "op": "0x62",
    "msg": "0x2ca8"
   },
@@ -1648,7 +1648,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "何をしてるんです？",
-   "en": "What are you\\ndoing?",
+   "en": "What are\\nyou doing?",
    "op": "0x62",
    "msg": "0x2caa"
   },
@@ -1658,7 +1658,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "あ　あれれ？\\nもう一回……えいっ！",
-   "en": "H-huh? One more\\ntime... Hup!",
+   "en": "H-huh? One\\nmore time... Hup!",
    "op": "0x62",
    "msg": "0x2cab"
   },
@@ -1678,7 +1678,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "はいはい　あっちで\\nたっぷりお話しましょうね",
-   "en": "Yes, yes. Let's\\nhave a nice long\\ntalk over there,\\nshall we?",
+   "en": "Yes, yes. Let's\\nhave a nice\\nlong talk over\\nthere, shall we?",
    "op": "0x62",
    "msg": "0x2cad"
   },
@@ -1698,7 +1698,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "桂の説教は\\n果てしなく続いた",
-   "en": "Katsura's lecture\\nwent on\\nendlessly.",
+   "en": "Katsura's\\nlecture went\\non endlessly.",
    "op": "0x62",
    "msg": "0x2caf"
   },
@@ -1718,7 +1718,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "自業自得です！",
-   "en": "You brought it on\\nyourself!",
+   "en": "You brought\\nit on yourself!",
    "op": "0x62",
    "msg": "0x2cb1"
   },

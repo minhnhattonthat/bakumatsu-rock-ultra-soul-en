@@ -6,6 +6,7 @@
     python -X utf8 tools/batches.py merge bNNN [bNNN..]                check, then write the English into script/
     python -X utf8 tools/batches.py fit "English text"                 the wrapped ADV box and each line's px
     python -X utf8 tools/batches.py pairs bNNN [bNNN..]                reviewer pairs file work/tl/<first>-<last>.pairs.txt
+    python -X utf8 tools/batches.py rewrap                             balanced re-wrap of merged dialogue (greedy breaks only)
 
 Batch TSV: id, speaker, form, limit, jp (` / ` = the game's \\n). Speaker is a guess (`ryoma?` = the last character
 sprite the script changed before the line); `-` when unknown. Dialogue English is written as one paragraph per box:
@@ -263,6 +264,33 @@ def merge(batches):
     print(f'merged {sum(len(t) for t in by_file.values())} entries into {len(by_file)} files')
 
 
+def join_lines(lines):
+    return ''.join(ln + ('' if ln.endswith('--') or k == len(lines) - 1 else ' ') for k, ln in enumerate(lines))
+
+
+def rewrap():
+    """Re-wrap merged dialogue balanced (vwf.wrap) where every break is a greedy-wrap break; a box whose breaks
+    differ from the greedy wrap has a translator's forced break and is left alone."""
+    n = 0
+    for p in story_files():
+        doc = read_json(p)
+        if doc['format'] != 'mz-scene':
+            continue
+        hit = 0
+        for e in doc['entries']:
+            if e['kind'] not in ('dialogue', 'choice') or not e.get('en'):
+                continue
+            lines = e['en'].split('\\n')
+            text = join_lines(lines)
+            if vwf.greedy(text) == lines and len(lines) > 1:
+                new = '\\n'.join(vwf.wrap(text))
+                if new != e['en']:
+                    e['en'] = new; hit += 1
+        if hit:
+            write_json(p, doc); n += hit
+    print(f'rewrapped {n} boxes')
+
+
 def pairs(batches_, out):
     """Reviewer input: `>> id | speaker | JP` / `EN` (wrapped as the game shows it) for every entry, story order."""
     with open(out, 'w', encoding='utf-8', newline='\n') as f:
@@ -278,7 +306,7 @@ def pairs(batches_, out):
 
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument('cmd', choices=['split', 'check', 'merge', 'fit', 'pairs', 'terms'])
+    ap.add_argument('cmd', choices=['split', 'check', 'merge', 'fit', 'pairs', 'terms', 'rewrap'])
     ap.add_argument('args', nargs='*')
     ap.add_argument('--chars', type=int, default=3500)
     ap.add_argument('--max', type=int, default=150)
@@ -294,6 +322,8 @@ def main():
         merge(a.args)
     elif a.cmd == 'terms':
         refresh_terms()
+    elif a.cmd == 'rewrap':
+        rewrap()
     elif a.cmd == 'pairs':
         pairs(a.args, os.path.join(TL, '%s-%s.pairs.txt' % (a.args[0], a.args[-1])))
     else:

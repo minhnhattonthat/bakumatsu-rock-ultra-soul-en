@@ -48,7 +48,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "マトモに楽器が\\n弾けるんだな\\n曲芸としてはなかなかだ",
-   "en": "So you can\\nactually play\\ninstruments. Not\\nbad, for a circus\\nact.",
+   "en": "So you can\\nactually play\\ninstruments.\\nNot bad, for\\na circus act.",
    "op": "0x62",
    "msg": "0x5037"
   },
@@ -58,7 +58,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "おっ　ホントか\\nじゅにあに褒められると\\n照れるなぁ！",
-   "en": "Oh, really? Gettin'\\npraised by\\nJunior's makin' me\\nblush!",
+   "en": "Oh, really?\\nGettin' praised\\nby Junior's\\nmakin' me blush!",
    "op": "0x62",
    "msg": "0x5038"
   },
@@ -68,7 +68,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "ロックを好きな者同士\\nもうダチぜよ！",
-   "en": "We all love rock,\\nso that makes us\\npals already!",
+   "en": "We all love rock,\\nso that makes\\nus pals already!",
    "op": "0x62",
    "msg": "0x5039"
   },
@@ -78,7 +78,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "ロックを好きな者？\\nユーはモンキーだ",
-   "en": "Love rock? You're\\na monkey.",
+   "en": "Love rock?\\nYou're a monkey.",
    "op": "0x62",
    "msg": "0x503a"
   },
@@ -108,7 +108,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "ロックスター\\nそう　神である\\nオレだけだ",
-   "en": "...is a rock star.\\nYes--me, a god.\\nOnly me.",
+   "en": "...is a rock star.\\nYes--me, a\\ngod. Only me.",
    "op": "0x62",
    "msg": "0x503d"
   },
@@ -118,7 +118,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "なんだと！",
-   "en": "What did you\\nsay!?",
+   "en": "What did\\nyou say!?",
    "op": "0x62",
    "msg": "0x503e"
   },
@@ -158,7 +158,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "ああ　Ｊ\\nバトルタイムだ",
-   "en": "Yeah, J. It's battle\\ntime.",
+   "en": "Yeah, J. It's\\nbattle time.",
    "op": "0x62",
    "msg": "0x5042"
   },
@@ -198,7 +198,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "君達にラブを\\n伝えたくて\\nたまらないんだ！",
-   "en": "I just can't wait to\\ngive you all my\\nlove!",
+   "en": "I just can't wait\\nto give you all\\nmy love!",
    "op": "0x62",
    "msg": "0x5046"
   },
@@ -218,7 +218,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "オレのホットで\\nスパイシーなラブを\\nレディに捧げるよ……！",
-   "en": "My hot and spicy\\nlove, I dedicate to\\nyou, ladies...!",
+   "en": "My hot and spicy\\nlove, I dedicate\\nto you, ladies...!",
    "op": "0x62",
    "msg": "0x5048"
   }

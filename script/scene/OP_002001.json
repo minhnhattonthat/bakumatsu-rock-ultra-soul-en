@@ -18,7 +18,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "歌――\\n古来より『歌』は特別な\\n力を持つものであった",
-   "en": "Song-- Since\\nancient times,\\n\"song\" has held a\\nspecial power.",
+   "en": "Song-- Since\\nancient times,\\n\"song\" has held\\na special power.",
    "op": "0x62",
    "msg": "0x0000"
   },
@@ -38,7 +38,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "また敵すらも味方に\\n取り込み　天下分け目の\\n戦を制したという",
-   "en": "...and even to win\\nhis enemies over\\nto his side, and so\\nprevailed in the\\nbattle that\\ndecided the\\nrealm.",
+   "en": "...and even to\\nwin his enemies\\nover to his side,\\nand so prevailed\\nin the battle\\nthat decided the\\nrealm.",
    "op": "0x62",
    "msg": "0x0055"
   },
@@ -68,7 +68,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "諸外国からの圧力\\nまた日の本各地で起こり\\n始めた倒幕の動きを\\n抑えるため",
-   "en": "To hold back the\\npressure from\\nforeign nations,\\nand the\\nanti-shogunate\\nmovements\\nspringing up\\nacross Japan...",
+   "en": "To hold back\\nthe pressure\\nfrom foreign\\nnations, and the\\nanti-shogunate\\nmovements\\nspringing up\\nacross Japan...",
    "op": "0x62",
    "msg": "0x0004"
   },
@@ -78,7 +78,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "幕府は\\n天歌の封印を解き\\n大衆を魅了することで\\n支配を強めようとしていた",
-   "en": "...the shogunate\\nbroke the seal on\\nHeaven's Song,\\nseeking to tighten\\nits rule by\\nenthralling the\\nmasses.",
+   "en": "...the shogunate\\nbroke the seal\\non Heaven's\\nSong, seeking to\\ntighten its rule\\nby enthralling\\nthe masses.",
    "op": "0x62",
    "msg": "0x0056"
   },
@@ -108,7 +108,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "幕府の音楽による\\n支配は 天歌泰平\\n（ソングオブピースフル）\\nと呼ばれ",
-   "en": "The shogunate's\\nrule through\\nmusic was called\\nHeaven's Song\\nPeace...",
+   "en": "The shogunate's\\nrule through\\nmusic was\\ncalled Heaven's\\nSong Peace...",
    "op": "0x62",
    "msg": "0x0007"
   },
@@ -118,7 +118,7 @@
    "max": 112,
    "kind": "dialogue",
    "jp": "その圧倒的な力で\\n時代の新しい波を\\n呑み込もうとしていた\\nしかし　時の流れを止める\\nことは誰にもできない――",
-   "en": "...and with its\\noverwhelming\\npower, it sought\\nto swallow the\\nnew tide of the\\ntimes. But no one\\ncan stop the flow\\nof time--",
+   "en": "...and with its\\noverwhelming\\npower, it sought\\nto swallow the\\nnew tide of the\\ntimes. But no\\none can stop the\\nflow of time--",
    "op": "0x62",
    "msg": "0x0008"
   },
@@ -128,7 +128,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "選ばせて差し上げよう\\n信念と命　どちらだ？",
-   "en": "Allow me to offer\\nyou a choice. Your\\nconvictions, or\\nyour life--which\\nshall it be?",
+   "en": "Allow me to offer\\nyou a choice.\\nYour convictions,\\nor your life--\\nwhich shall it be?",
    "op": "0x62",
    "msg": "0x0009"
   },
@@ -148,7 +148,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "相変わらず\\n威勢だけはいいようだ",
-   "en": "Spirited as ever, I\\nsee. If nothing\\nelse.",
+   "en": "Spirited as\\never, I see. If\\nnothing else.",
    "op": "0x62",
    "msg": "0x000b"
   },
@@ -158,7 +158,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "懐に抱いた\\n\\fnt1ロックの魂\\fnt0とやらの\\nおかげなのか……",
-   "en": "Is that thanks to\\nthe so-called \\fnt1Soul\\nof Rock\\fnt0 you carry\\nclose to your\\nheart...?",
+   "en": "Is that thanks\\nto the so-called\\n\\fnt1Soul of Rock\\fnt0\\nyou carry close\\nto your heart...?",
    "op": "0x62",
    "msg": "0x000c"
   },
@@ -168,7 +168,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "だがそれも\\n命あっての物種でしょう\\nさあ　それをこちらに",
-   "en": "But even that is\\nworth nothing\\nwithout your life.\\nNow, hand it\\nover.",
+   "en": "But even that is\\nworth nothing\\nwithout your\\nlife. Now, hand\\nit over.",
    "op": "0x62",
    "msg": "0x000d"
   },
@@ -188,7 +188,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "命よりも\\n信念を選ぶか\\nそれもよかろう",
-   "en": "You choose your\\nconvictions over\\nyour life? Very\\nwell.",
+   "en": "You choose\\nyour convictions\\nover your life?\\nVery well.",
    "op": "0x62",
    "msg": "0x000f"
   },
@@ -198,7 +198,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "\\fnt1\\col1超魂\\fnt0\\n（ウルトラソウル）\\col0は\\n断じて渡さん！",
-   "en": "I will never hand\\nover the \\fnt1\\col1Ultra\\nSoul\\fnt0\\col0!",
+   "en": "I will never\\nhand over the\\n\\fnt1\\col1Ultra Soul\\fnt0\\col0!",
    "op": "0x62",
    "msg": "0x0010"
   },
@@ -208,7 +208,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "これは人が明日を\\n夢見る力だ！",
-   "en": "This is the power\\nthat lets people\\ndream of\\ntomorrow!",
+   "en": "This is the\\npower that lets\\npeople dream\\nof tomorrow!",
    "op": "0x62",
    "msg": "0x0011"
   },
@@ -218,7 +218,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "人が明日を\\n信じる力だ！",
-   "en": "The power that\\nlets people\\nbelieve in\\ntomorrow!",
+   "en": "The power\\nthat lets\\npeople believe\\nin tomorrow!",
    "op": "0x62",
    "msg": "0x0012"
   },
@@ -248,7 +248,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "資格というものは\\n力ある者が持つのです！",
-   "en": "The right belongs\\nto those who have\\npower!",
+   "en": "The right\\nbelongs to those\\nwho have power!",
    "op": "0x62",
    "msg": "0x0015"
   },
@@ -258,7 +258,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "侍が　一歩踏み込むと\\n薄闇を走った閃光は",
-   "en": "The samurai\\nstepped in, and a\\nflash raced\\nthrough the\\ngloom...",
+   "en": "The samurai\\nstepped in,\\nand a flash\\nraced through\\nthe gloom...",
    "op": "0x62",
    "msg": "0x0016"
   },
@@ -308,7 +308,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "こっ\\nこんなところで……\\n死ぬものか",
-   "en": "I-I won't... die in a\\nplace like this...",
+   "en": "I-I won't... die in\\na place like this...",
    "op": "0x62",
    "msg": "0x001b"
   },
@@ -338,7 +338,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "その腐った目を\\nひん剥いて\\nようく見ていろっ！",
-   "en": "Open those rotten\\neyes of yours\\nwide and watch\\nclosely!",
+   "en": "Open those\\nrotten eyes of\\nyours wide and\\nwatch closely!",
    "op": "0x62",
    "msg": "0x001e"
   },
@@ -368,7 +368,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "男は満身の力を込め\\n抱えていた六絃琴を\\n地面の石くれに\\n叩きつけた！",
-   "en": "With all his\\nstrength, the man\\nsmashed the\\nsix-string he held\\nagainst the rocks\\non the ground!",
+   "en": "With all his\\nstrength, the\\nman smashed the\\nsix-string he held\\nagainst the rocks\\non the ground!",
    "op": "0x62",
    "msg": "0x0021"
   },
@@ -418,7 +418,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "最期に　大仰な決め台詞を\\n吐いた男はバタリと大地に\\n倒れた",
-   "en": "Having delivered\\none last grand\\nparting line, the\\nman collapsed to\\nthe ground with a\\nthud.",
+   "en": "Having delivered\\none last grand\\nparting line, the\\nman collapsed to\\nthe ground with\\na thud.",
    "op": "0x62",
    "msg": "0x0026"
   },
@@ -438,7 +438,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "やらせるか\\nフンッ！",
-   "en": "I won't allow it!\\nHmph!",
+   "en": "I won't allow\\nit! Hmph!",
    "op": "0x62",
    "msg": "0x0028"
   },
@@ -448,7 +448,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "ところが　敵も然る者",
-   "en": "But the enemy\\nwas no ordinary\\nfoe.",
+   "en": "But the\\nenemy was no\\nordinary foe.",
    "op": "0x62",
    "msg": "0x0029"
   },
@@ -458,7 +458,7 @@
    "max": 100,
    "kind": "dialogue",
    "jp": "はじめは光の勢いに\\nたじろいだ侍だったが\\n懐から一枚の呪符を\\n取り出し　空に向かって\\n放り投げた！",
-   "en": "The samurai, at\\nfirst taken aback\\nby the force of\\nthe lights, drew a\\ntalisman from his\\nrobes and flung it\\ninto the sky!",
+   "en": "The samurai, at\\nfirst taken aback\\nby the force of\\nthe lights, drew a\\ntalisman from his\\nrobes and flung\\nit into the sky!",
    "op": "0x62",
    "msg": "0x002a"
   },
@@ -528,7 +528,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "しかし　一部とは言え\\n超魂は我が手中に落ちた",
-   "en": "But, part though\\nit may be, the\\nUltra Soul has\\nfallen into my\\nhands.",
+   "en": "But, part\\nthough it may\\nbe, the Ultra\\nSoul has fallen\\ninto my hands.",
    "op": "0x62",
    "msg": "0x0031"
   },
@@ -538,7 +538,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "これを利用すれば\\n他の超魂の欠片も\\nいずれ……",
-   "en": "If I make use of\\nthis, the other\\nfragments of the\\nUltra Soul will, in\\ntime...",
+   "en": "If I make use of\\nthis, the other\\nfragments of\\nthe Ultra Soul\\nwill, in time...",
    "op": "0x62",
    "msg": "0x0032"
   },
@@ -568,7 +568,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "海縁の砂浜に座った\\n若者が一人　夜空を\\n見上げている",
-   "en": "A lone young man\\nsat on a beach by\\nthe sea, gazing\\nup at the night\\nsky.",
+   "en": "A lone young\\nman sat on a\\nbeach by the\\nsea, gazing up\\nat the night sky.",
    "op": "0x62",
    "msg": "0x0035"
   },
@@ -578,7 +578,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "一人で歌っても\\nつまらないな……",
-   "en": "Singin' alone sure\\nis dull...",
+   "en": "Singin' alone\\nsure is dull...",
    "op": "0x62",
    "msg": "0x0036"
   },
@@ -588,7 +588,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "どうして自由に歌を\\n歌っちゃいけないんだ？",
-   "en": "Why ain't we\\nallowed to sing\\nfreely?",
+   "en": "Why ain't we\\nallowed to\\nsing freely?",
    "op": "0x62",
    "msg": "0x0037"
   },
@@ -598,7 +598,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "やっぱり　わしが\\n間違っているのか？",
-   "en": "Am I the one\\nwho's wrong after\\nall?",
+   "en": "Am I the one\\nwho's wrong\\nafter all?",
    "op": "0x62",
    "msg": "0x0038"
   },
@@ -608,7 +608,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "わし一人の力では\\nどうにもならないのか？",
-   "en": "Is there nothin' I\\ncan do on my\\nown?",
+   "en": "Is there\\nnothin' I can\\ndo on my own?",
    "op": "0x62",
    "msg": "0x0039"
   },
@@ -618,7 +618,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "夜の海辺には\\n若者一人きり\\n虚勢を張る相手も\\n今はいない",
-   "en": "On the night\\nbeach the young\\nman was all\\nalone; there was\\nno one around to\\nput on a brave\\nface for.",
+   "en": "On the night\\nbeach the young\\nman was all\\nalone; there was\\nno one around\\nto put on a\\nbrave face for.",
    "op": "0x62",
    "msg": "0x003a"
   },
@@ -648,7 +648,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "若者の呟きが届いたのか\\n流れ星はキラリと\\nその輝きを増したように\\n見えた",
-   "en": "As if it had heard\\nthe young man's\\nmurmur, the\\nshooting star\\nseemed to twinkle\\nbrighter.",
+   "en": "As if it had\\nheard the young\\nman's murmur,\\nthe shooting\\nstar seemed to\\ntwinkle brighter.",
    "op": "0x62",
    "msg": "0x003d"
   },
@@ -668,7 +668,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "\\fnt1なっ\\nなんだ\\nうおおおおっ\\fnt0",
-   "en": "\\fnt1Wh-- What the--\\nWhoooaaa!\\fnt0",
+   "en": "\\fnt1Wh-- What\\nthe--Whoooaaa!\\fnt0",
    "op": "0x62",
    "msg": "0x003f"
   },
@@ -718,7 +718,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "若者は　自分の無事を\\n確かめるように　身体の\\nあちこちをまさぐる",
-   "en": "The young man\\npatted himself all\\nover, as if to\\nmake sure he was\\nunharmed.",
+   "en": "The young man\\npatted himself\\nall over, as if to\\nmake sure he\\nwas unharmed.",
    "op": "0x62",
    "msg": "0x0044"
   },
@@ -728,7 +728,7 @@
    "max": 80,
    "kind": "dialogue",
    "jp": "そして　自分の身体に\\nそれまではなかった痣が\\n浮かび上がっているのを\\n見つけた",
-   "en": "And then he\\nfound a mark\\nrising on his body\\nthat had never\\nbeen there\\nbefore.",
+   "en": "And then he\\nfound a mark\\nrising on his\\nbody that had\\nnever been\\nthere before.",
    "op": "0x62",
    "msg": "0x0045"
   },
@@ -738,7 +738,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "なんだ\\nこれは――",
-   "en": "What the... is\\nthis--",
+   "en": "What the...\\nis this--",
    "op": "0x62",
    "msg": "0x0046"
   },
@@ -768,7 +768,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "とてもじゃないが\\n抑えきれない……\\nこれは　そう……",
-   "en": "There's no way I\\ncan hold it in...\\nThis is... yeah...",
+   "en": "There's no way\\nI can hold it in...\\nThis is... yeah...",
    "op": "0x62",
    "msg": "0x0049"
   },
@@ -778,7 +778,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "歌だ！\\nこの魂の熱い滾りこそが\\nロックンロールなんだ！",
-   "en": "It's song! This\\nburnin' fire in my\\nsoul--that's rock\\n'n' roll!",
+   "en": "It's song! This\\nburnin' fire in\\nmy soul--that's\\nrock 'n' roll!",
    "op": "0x62",
    "msg": "0x004a"
   },
@@ -788,7 +788,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "わしの身体が！\\nわしの魂が！\\n歌いたいと叫んでいるぜ！",
-   "en": "My body! My soul!\\nThey're screamin'\\nthat they wanna\\nsing!",
+   "en": "My body! My\\nsoul! They're\\nscreamin' that\\nthey wanna sing!",
    "op": "0x62",
    "msg": "0x004b"
   },
@@ -798,7 +798,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "シャウト！\\nシャウト！\\nシャウトぜよぉぉ",
-   "en": "Shout! Shout!\\nShouuuut, I tell\\nya!",
+   "en": "Shout! Shout!\\nShouuuut, I\\ntell ya!",
    "op": "0x62",
    "msg": "0x004c"
   },
@@ -808,7 +808,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "すぐにでも　わしの歌を\\n大勢の人に聴いてもらわ\\nなくちゃならん！",
-   "en": "I gotta get my\\nsongs heard by a\\nwhole lotta\\npeople, right this\\nminute!",
+   "en": "I gotta get my\\nsongs heard by\\na whole lotta\\npeople, right\\nthis minute!",
    "op": "0x62",
    "msg": "0x004d"
   },
@@ -828,7 +828,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "若者が　砂を蹴り\\n弾かれたように走り出す",
-   "en": "The young man\\nkicked up the\\nsand and dashed\\noff as if\\nlaunched.",
+   "en": "The young\\nman kicked up\\nthe sand and\\ndashed off as\\nif launched.",
    "op": "0x62",
    "msg": "0x004f"
   },

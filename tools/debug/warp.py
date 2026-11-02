@@ -84,7 +84,9 @@ def warp(scene, iso, shot_every=120, frames=None, state=False, log=print):
 
         hooks = {BP_SEQ: on_seq}
         n = frames or scene['frames']
-        script, _, rest = scene['arg'].partition(';')   # script ARG: FILE.bin[;route played after the warp press]
+        script, _, rest = scene['arg'].partition(';')   # script ARG: FILE.bin[>NEXT.bin][;route after the warp press]
+        script, _, want = script.partition('>')          # >NEXT.bin: the run plays on into NEXT (asserted at the end)
+        want = want or script
         if scene['kind'] == 'script':
             name = script.encode('ascii') + b'\0'
             assert len(name) <= 64
@@ -103,7 +105,7 @@ def warp(scene, iso, shot_every=120, frames=None, state=False, log=print):
         errs = []
         obj = D.u32(run, MGR_PTR)   # 0 until the game creates it (boot scenes)
         got = D.cstr(run, obj + SCRIPT_NAME) if obj else ''
-        if scene['kind'] == 'script' and got != script: errs.append(f'script is {got!r}, want {script!r}')
+        if scene['kind'] == 'script' and got != want: errs.append(f'script is {got!r}, want {want!r}')
         if scene['seq'] not in ('', '-'):
             if scene['seq'] not in [s for _, s in seqs]: errs.append(f'sequence {scene["seq"]!r} never entered')
         if D.psp.blank(os.path.join(out, 'final.png')): errs.append('final frame is blank')

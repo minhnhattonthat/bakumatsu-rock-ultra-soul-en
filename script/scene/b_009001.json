@@ -8,7 +8,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "京都　某所",
-   "en": "Somewhere in\\nKyoto",
+   "en": "Somewhere\\nin Kyoto",
    "op": "0x62",
    "msg": "0x2a9e"
   },
@@ -18,7 +18,7 @@
    "max": 92,
    "kind": "dialogue",
    "jp": "数奇な運命により出会った\\nロックな魂を持つ男達は\\n数々の試練を乗り越え\\n強い絆で結ばれた",
-   "en": "Brought together\\nby a strange fate,\\nmen with rock in\\ntheir souls\\novercame trial\\nafter trial and\\nforged strong\\nbonds.",
+   "en": "Brought together\\nby a strange\\nfate, men with\\nrock in their\\nsouls overcame\\ntrial after trial\\nand forged\\nstrong bonds.",
    "op": "0x62",
    "msg": "0x2a9f"
   },
@@ -28,7 +28,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "そして今\\n彼らは互いに\\n切磋琢磨し合いながら\\n一つ屋根の下で\\n暮らしている",
-   "en": "And now, pushing\\none another to\\ngrow, they live\\ntogether under\\none roof.",
+   "en": "And now,\\npushing one\\nanother to grow,\\nthey live together\\nunder one roof.",
    "op": "0x62",
    "msg": "0x2aa0"
   },
@@ -58,7 +58,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "ふぅ～\\nいい陽気ぜよ",
-   "en": "Phew~ Mighty\\nfine weather, I\\ntell ya.",
+   "en": "Phew~ Mighty\\nfine weather,\\nI tell ya.",
    "op": "0x62",
    "msg": "0x2aa3"
   },
@@ -88,7 +88,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "ん～　どうした？\\nシンディ",
-   "en": "Hm~ What's up,\\nShindy?",
+   "en": "Hm~ What's\\nup, Shindy?",
    "op": "0x62",
    "msg": "0x2aa6"
   },
@@ -148,7 +148,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "なんでシンディの\\n部屋に連れてこられた\\nんじゃ……？",
-   "en": "How come ya\\ndragged me to\\nyour room,\\nShindy...?",
+   "en": "How come ya\\ndragged me\\nto your room,\\nShindy...?",
    "op": "0x62",
    "msg": "0x2aac"
   },
@@ -168,7 +168,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "いいか　龍馬\\n隠さずに言え",
-   "en": "Listen, Ryoma.\\nDon't hide\\nanything.",
+   "en": "Listen,\\nRyoma. Don't\\nhide anything.",
    "op": "0x62",
    "msg": "0x2aae"
   },
@@ -188,7 +188,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "オレ様の机の上に\\nあったものを\\n触らなかったか？",
-   "en": "Did you touch\\nwhat was on\\nyours truly's\\ndesk?",
+   "en": "Did you\\ntouch what\\nwas on yours\\ntruly's desk?",
    "op": "0x62",
    "msg": "0x2ab0"
   },
@@ -268,7 +268,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "……もしや　大福が\\n散歩に行ったとか",
-   "en": "...Maybe the\\ndaifuku went out\\nfor a stroll?",
+   "en": "...Maybe the\\ndaifuku went\\nout for a stroll?",
    "op": "0x62",
    "msg": "0x2ab8"
   },
@@ -288,7 +288,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "オレ様もお前の顔を\\n見るまでは　疑っても\\nいなかったが……",
-   "en": "Yours truly didn't\\neven suspect you\\nuntil I saw your\\nface...",
+   "en": "Yours truly\\ndidn't even\\nsuspect you until\\nI saw your face...",
    "op": "0x62",
    "msg": "0x2aba"
   },
@@ -298,7 +298,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "だが　お前の口の端に\\nついてる大福の粉が\\n動かぬ証拠だ！",
-   "en": "But that daifuku\\npowder at the\\ncorner of your\\nmouth is ironclad\\nproof!",
+   "en": "But that\\ndaifuku powder\\nat the corner of\\nyour mouth is\\nironclad proof!",
    "op": "0x62",
    "msg": "0x2abb"
   },
@@ -318,7 +318,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "よくわからんが\\n誤解ぜよ～！",
-   "en": "I dunno what's\\ngoin' on, but\\nyou've got it all\\nwrong~!",
+   "en": "I dunno what's\\ngoin' on, but\\nyou've got it\\nall wrong~!",
    "op": "0x62",
    "msg": "0x2abd"
   },
@@ -328,7 +328,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "ちょっと二人とも\\nうるさいですよ",
-   "en": "Honestly, you\\ntwo, you're being\\nnoisy.",
+   "en": "Honestly, you\\ntwo, you're\\nbeing noisy.",
    "op": "0x62",
    "msg": "0x2abe"
   },
@@ -378,7 +378,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "よし　それではこの\\n名探偵☆カツラ君！\\nが　事件の謎を解いて\\nあげましょう",
-   "en": "Very well! Then I,\\nGreat Detective\\nKatsura-kun,\\nshall solve the\\nmystery of this\\ncase!",
+   "en": "Very well! Then\\nI, Great Detective\\nKatsura-kun,\\nshall solve the\\nmystery of this\\ncase!",
    "op": "0x62",
    "msg": "0x2ac3"
   },
@@ -398,7 +398,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "私のこの優秀なる灰色の\\n頭脳を駆使すれば　難解な\\n事件もすぐに解決ですよ",
-   "en": "With these superb\\nlittle gray cells of\\nmine, even the\\nmost baffling\\ncase is solved in\\nno time.",
+   "en": "With these\\nsuperb little gray\\ncells of mine,\\neven the most\\nbaffling case is\\nsolved in no time.",
    "op": "0x62",
    "msg": "0x2ac5"
   },
@@ -408,7 +408,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "……シンディ\\nセンセーは\\nどうしたんじゃ？",
-   "en": "...Shindy, what's\\ngotten into\\nSensei?",
+   "en": "...Shindy,\\nwhat's gotten\\ninto Sensei?",
    "op": "0x62",
    "msg": "0x2ac6"
   },
@@ -428,7 +428,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "……おおかた　新しい\\nエゲレスの本でそういうの\\nを読んだんだろうよ……",
-   "en": "...Probably read\\nabout it in some\\nnew English\\nbook...",
+   "en": "...Probably\\nread about it\\nin some new\\nEnglish book...",
    "op": "0x62",
    "msg": "0x2ac8"
   },
@@ -438,7 +438,7 @@
    "max": 92,
    "kind": "dialogue",
    "jp": "ちょうどここにあるのが\\n先日発明したばかりの\\n『微理鼻裏ましん』です！\\n（びりびりましん）",
-   "en": "And right here is\\nthe 'Zap-Zap\\nMachine' I\\ninvented just the\\nother day!",
+   "en": "And right here\\nis the 'Zap-Zap\\nMachine' I\\ninvented just\\nthe other day!",
    "op": "0x62",
    "msg": "0x2ac9"
   },
@@ -518,7 +518,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "いや！　いまのは\\nちょっとじゃない\\nぜよーっ！",
-   "en": "No way! That was\\nNOT a little!",
+   "en": "No way! That\\nwas NOT a little!",
    "op": "0x62",
    "msg": "0x2ad1"
   },
@@ -538,7 +538,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "痛くない　痛くない♪",
-   "en": "It doesn't hurt, it\\ndoesn't hurt~",
+   "en": "It doesn't hurt,\\nit doesn't hurt~",
    "op": "0x62",
    "msg": "0x2ad3"
   },
@@ -568,7 +568,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "さあさあ\\n君はロックな男です\\n頑張れます　龍馬くん♪",
-   "en": "Come now, you're\\na man of rock.\\nYou can do this,\\nRyoma-kun~",
+   "en": "Come now,\\nyou're a man of\\nrock. You can do\\nthis, Ryoma-kun~",
    "op": "0x62",
    "msg": "0x2ad6"
   },
@@ -588,7 +588,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "『微理鼻裏ましん』が\\n試せなくて　本当に\\n残念ですよ……",
-   "en": "What a shame we\\ncouldn't try out\\nthe 'Zap-Zap\\nMachine'...",
+   "en": "What a shame\\nwe couldn't try\\nout the 'Zap-Zap\\nMachine'...",
    "op": "0x62",
    "msg": "0x2ad8"
   },
@@ -608,7 +608,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "しかたがないから　知的に\\n推理をして　龍馬くんの\\n潔白を証明してみましょう",
-   "en": "Since there's no\\nother way, let's\\nprove\\nRyoma-kun's\\ninnocence\\nthrough\\nintellectual\\ndeduction.",
+   "en": "Since there's\\nno other way,\\nlet's prove\\nRyoma-kun's\\ninnocence\\nthrough\\nintellectual\\ndeduction.",
    "op": "0x62",
    "msg": "0x2ada"
   },
@@ -618,7 +618,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "そ　それが\\n平和的でいい……",
-   "en": "Y-yeah, that\\nsounds a whole\\nlot more\\npeaceful...",
+   "en": "Y-yeah, that\\nsounds a\\nwhole lot more\\npeaceful...",
    "op": "0x62",
    "msg": "0x2adb"
   },
@@ -628,7 +628,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "では　まず晋作が\\n龍馬くんを大福盗み食い犯\\nだと考えた物証ですが……",
-   "en": "Now then, first,\\nthe physical\\nevidence that led\\nShinsaku to\\nconclude\\nRyoma-kun was\\nthe daifuku\\nthief...",
+   "en": "Now then, first,\\nthe physical\\nevidence that\\nled Shinsaku to\\nconclude\\nRyoma-kun was\\nthe daifuku\\nthief...",
    "op": "0x62",
    "msg": "0x2adc"
   },
@@ -658,7 +658,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "ではここで　私は\\n龍馬くんのお昼ごはんに\\nついて訊ねてみます",
-   "en": "At this point, I\\nshall ask\\nRyoma-kun about\\nhis lunch.",
+   "en": "At this point, I\\nshall ask\\nRyoma-kun\\nabout his lunch.",
    "op": "0x62",
    "msg": "0x2adf"
   },
@@ -698,7 +698,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "食べただけですか？",
-   "en": "Did you only eat\\nit?",
+   "en": "Did you\\nonly eat it?",
    "op": "0x62",
    "msg": "0x2ae3"
   },
@@ -778,7 +778,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "私が推測するに……",
-   "en": "My deduction is\\nthis...",
+   "en": "My deduction\\nis this...",
    "op": "0x62",
    "msg": "0x2aeb"
   },
@@ -788,7 +788,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "龍馬くんの口の端に\\n付着したのはピッツァを\\n作った時の小麦粉です",
-   "en": "What was stuck to\\nthe corner of\\nRyoma-kun's\\nmouth is flour\\nfrom when he\\nmade the pizza.",
+   "en": "What was stuck\\nto the corner of\\nRyoma-kun's\\nmouth is flour\\nfrom when he\\nmade the pizza.",
    "op": "0x62",
    "msg": "0x2aec"
   },
@@ -808,7 +808,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "大福の周りについている\\nのは片栗粉です",
-   "en": "What coats a\\ndaifuku is potato\\nstarch.",
+   "en": "What coats a\\ndaifuku is\\npotato starch.",
    "op": "0x62",
    "msg": "0x2aee"
   },
@@ -918,7 +918,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "うるさいなぁ\\nさっきから何騒いでるの？",
-   "en": "Ugh, you're noisy.\\nWhat's all the\\nfuss about?",
+   "en": "Ugh, you're\\nnoisy. What's all\\nthe fuss about?",
    "op": "0x62",
    "msg": "0x2af9"
   },
@@ -958,7 +958,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "はぁ？　何？\\n何なの？",
-   "en": "Huh? What? What\\nis it?",
+   "en": "Huh? What?\\nWhat is it?",
    "op": "0x62",
    "msg": "0x2afd"
   },
@@ -968,7 +968,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "お前かーっ！\\nオレ様の大福を盗った\\n奴は！",
-   "en": "It was YOU!\\nYou're the one\\nwho stole my\\ndaifuku!",
+   "en": "It was YOU!\\nYou're the\\none who stole\\nmy daifuku!",
    "op": "0x62",
    "msg": "0x2afe"
   },
@@ -988,7 +988,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "オレ様の机の上に\\n置いてあった\\nやつだろうが！",
-   "en": "It's the one that\\nwas sitting on my\\ndesk, isn't it!",
+   "en": "It's the one that\\nwas sitting on\\nmy desk, isn't it!",
    "op": "0x62",
    "msg": "0x2b00"
   },
@@ -1018,7 +1018,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "はいはい\\n僕が食べたよ\\nごめんなさいねー",
-   "en": "Yes, yes, I ate it.\\nSooo sorry.",
+   "en": "Yes, yes, I ate\\nit. Sooo sorry.",
    "op": "0x62",
    "msg": "0x2b03"
   },
@@ -1058,7 +1058,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "そういう問題じゃねえ！",
-   "en": "That's not the\\npoint!",
+   "en": "That's not\\nthe point!",
    "op": "0x62",
    "msg": "0x2b07"
   },
@@ -1218,7 +1218,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "それから土方は\\n申し訳ないという\\n顔をする",
-   "en": "Then an\\napologetic look\\ncame over\\nHijikata's face.",
+   "en": "Then an\\napologetic\\nlook came over\\nHijikata's face.",
    "op": "0x62",
    "msg": "0x2b17"
   },
@@ -1228,7 +1228,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "どうやら俺は部屋を\\n間違えてしまって\\nいたようだ",
-   "en": "It seems I had the\\nwrong room.",
+   "en": "It seems I had\\nthe wrong room.",
    "op": "0x62",
    "msg": "0x2b18"
   },
@@ -1258,7 +1258,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "実直な男　土方は\\n今にも腹を切りそうな\\n雰囲気を醸し出す",
-   "en": "Hijikata, ever the\\nupright man,\\ngave off the air\\nof someone about\\nto commit\\nseppuku at any\\nmoment.",
+   "en": "Hijikata, ever\\nthe upright man,\\ngave off the air\\nof someone\\nabout to commit\\nseppuku at any\\nmoment.",
    "op": "0x62",
    "msg": "0x2b1b"
   },
@@ -1288,7 +1288,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "土方の手が\\n無意識に腰の刀へ\\n伸びているのを見て\\n高杉は血相を変える",
-   "en": "Seeing Hijikata's\\nhand\\nunconsciously\\nreaching for the\\nsword at his hip,\\nTakasugi went\\npale.",
+   "en": "Seeing\\nHijikata's hand\\nunconsciously\\nreaching for\\nthe sword at his\\nhip, Takasugi\\nwent pale.",
    "op": "0x62",
    "msg": "0x2b1e"
   },
@@ -1298,7 +1298,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "いい！\\n大福くらいで\\nどうもこうもない！",
-   "en": "Forget it! It's just\\na daifuku! It's no\\nbig deal!",
+   "en": "Forget it! It's\\njust a daifuku!\\nIt's no big deal!",
    "op": "0x62",
    "msg": "0x2b1f"
   },
@@ -1318,7 +1318,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "今度　買い直せ！\\nそれで十分だ",
-   "en": "Buy me a new one\\nsometime! That's\\nplenty!",
+   "en": "Buy me a new\\none sometime!\\nThat's plenty!",
    "op": "0x62",
    "msg": "0x2b21"
   },
@@ -1358,7 +1358,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "さすがシンディじゃ\\n心が広いのぅ！",
-   "en": "That's Shindy for\\nya! What a big\\nheart!",
+   "en": "That's Shindy\\nfor ya! What\\na big heart!",
    "op": "0x62",
    "msg": "0x2b25"
   },
@@ -1408,7 +1408,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "なるか！\\n大福で！",
-   "en": "As if! Over a\\ndaifuku!",
+   "en": "As if! Over\\na daifuku!",
    "op": "0x62",
    "msg": "0x2b2a"
   },
@@ -1428,7 +1428,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "ていうか沖田！\\nお前も紛らわしいこと\\n言うな！",
-   "en": "And another\\nthing, Okita! Quit\\nsaying misleading\\nstuff!",
+   "en": "And another\\nthing, Okita!\\nQuit saying\\nmisleading stuff!",
    "op": "0x62",
    "msg": "0x2b2c"
   },
@@ -1438,7 +1438,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "あれじゃ　お前が\\n大福盗み食い犯みたい\\nだっただろうが",
-   "en": "The way you\\ntalked, it sounded\\nlike YOU were the\\ndaifuku thief!",
+   "en": "The way you\\ntalked, it sounded\\nlike YOU were\\nthe daifuku thief!",
    "op": "0x62",
    "msg": "0x2b2d"
   },
@@ -1448,7 +1448,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "うるさいな\\n余計なこと言わないでよ\\nスカシくん",
-   "en": "Shut up. Don't say\\nanything\\nunnecessary, Mr.\\nPoser.",
+   "en": "Shut up. Don't\\nsay anything\\nunnecessary,\\nMr. Poser.",
    "op": "0x62",
    "msg": "0x2b2e"
   },
@@ -1458,7 +1458,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "ん？\\n総司がどうかしたのか？",
-   "en": "Hm? Is something\\nthe matter with\\nSoji?",
+   "en": "Hm? Is\\nsomething the\\nmatter with Soji?",
    "op": "0x62",
    "msg": "0x2b2f"
   },
@@ -1478,7 +1478,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "笑顔の総司を見て　土方は\\n彼も大福を手に持っている\\nことに気がつく",
-   "en": "Looking at Soji's\\nsmiling face,\\nHijikata noticed\\nthat he, too, held\\na daifuku.",
+   "en": "Looking at Soji's\\nsmiling face,\\nHijikata noticed\\nthat he, too,\\nheld a daifuku.",
    "op": "0x62",
    "msg": "0x2b31"
   },
@@ -1488,7 +1488,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "……ああ　総司に大福を\\nわけたのは俺だ",
-   "en": "...Ah. I'm the one\\nwho gave Soji a\\ndaifuku.",
+   "en": "...Ah. I'm the\\none who gave\\nSoji a daifuku.",
    "op": "0x62",
    "msg": "0x2b32"
   },
@@ -1498,7 +1498,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "総司が俺の代わりに\\n誤解を受けていたのか\\nすまなかったな",
-   "en": "So Soji was\\nmisunderstood in\\nmy place. I'm\\nsorry.",
+   "en": "So Soji was\\nmisunderstood\\nin my place.\\nI'm sorry.",
    "op": "0x62",
    "msg": "0x2b33"
   },
@@ -1508,7 +1508,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "全然問題なかったですよ",
-   "en": "It was no problem\\nat all.",
+   "en": "It was no\\nproblem at all.",
    "op": "0x62",
    "msg": "0x2b34"
   },
@@ -1518,7 +1518,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "ね　そうでしょう？",
-   "en": "Right? Isn't that\\nso?",
+   "en": "Right? Isn't\\nthat so?",
    "op": "0x62",
    "msg": "0x2b35"
   },
@@ -1528,7 +1528,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "いいや～　ソウちんは\\n自分が盗ったみたいな\\nことを言ったぜよ？",
-   "en": "Nope~ So-chin\\ntalked like he was\\nthe one who took\\nit, y'know?",
+   "en": "Nope~ So-chin\\ntalked like he\\nwas the one who\\ntook it, y'know?",
    "op": "0x62",
    "msg": "0x2b36"
   },
@@ -1558,7 +1558,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "総司？\\nどういうことだ？",
-   "en": "Soji? What's this\\nabout?",
+   "en": "Soji? What's\\nthis about?",
    "op": "0x62",
    "msg": "0x2b39"
   },
@@ -1568,7 +1568,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "それは　この\\n名探偵☆カツラ君！\\nが推理しましょう！",
-   "en": "That, Great\\nDetective\\nKatsura-kun! shall\\nnow deduce!",
+   "en": "That, Great\\nDetective\\nKatsura-kun!\\nshall now deduce!",
    "op": "0x62",
    "msg": "0x2b3a"
   },
@@ -1588,7 +1588,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "余計なことしないで\\nくれないかなぁ\\nメガネくん",
-   "en": "Could you not\\nbutt in,\\nGlasses-kun?",
+   "en": "Could you\\nnot butt in,\\nGlasses-kun?",
    "op": "0x62",
    "msg": "0x2b3c"
   },
@@ -1618,7 +1618,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "もちろん土方クンの\\n性格からして　盗った\\nわけがないとも思いました",
-   "en": "Of course,\\nknowing\\nHijikata-kun's\\ncharacter, he also\\nknew there was\\nno way\\nHijikata-kun\\nwould steal it.",
+   "en": "Of course,\\nknowing\\nHijikata-kun's\\ncharacter, he\\nalso knew there\\nwas no way\\nHijikata-kun\\nwould steal it.",
    "op": "0x62",
    "msg": "0x2b3f"
   },
@@ -1638,7 +1638,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "事実　土方クンは\\n勘違いをして晋作の\\n大福を食べてしまいました",
-   "en": "In fact,\\nHijikata-kun ate\\nShinsaku's\\ndaifuku by\\nmistake.",
+   "en": "In fact,\\nHijikata-kun\\nate Shinsaku's\\ndaifuku by\\nmistake.",
    "op": "0x62",
    "msg": "0x2b41"
   },
@@ -1658,7 +1658,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "別にもう　かまわねえよ\\nそもそも勘違いだろ",
-   "en": "I said it's fine\\nalready. It was a\\nmix-up to begin\\nwith.",
+   "en": "I said it's fine\\nalready. It\\nwas a mix-up\\nto begin with.",
    "op": "0x62",
    "msg": "0x2b43"
   },
@@ -1678,7 +1678,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "声でかいよ　桂さん！\\nびっくりした！",
-   "en": "Too loud,\\nKatsura-san! You\\nscared me!",
+   "en": "Too loud,\\nKatsura-san!\\nYou scared me!",
    "op": "0x62",
    "msg": "0x2b45"
   },
@@ -1688,7 +1688,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "沖田クンは　土方クンが\\n勘違いで盗み食いを\\nしてしまったと悟った……",
-   "en": "Okita-kun\\nrealized\\nHijikata-kun had\\neaten it by\\nmistake...",
+   "en": "Okita-kun\\nrealized\\nHijikata-kun\\nhad eaten it\\nby mistake...",
    "op": "0x62",
    "msg": "0x2b46"
   },
@@ -1708,7 +1708,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "そういうことかー！\\n感動的な話ぜよー！\\n……ずずっ！",
-   "en": "So that's how it\\nwas! What a\\ntouchin' story!\\n...*Sniff!*",
+   "en": "So that's how\\nit was! What a\\ntouchin' story!\\n...*Sniff!*",
    "op": "0x62",
    "msg": "0x2b48"
   },
@@ -1718,7 +1718,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "食べたのは事実だから\\nあながち\\n間違ってないでしょ",
-   "en": "I did eat it, so it's\\nnot exactly\\nwrong.",
+   "en": "I did eat it, so\\nit's not exactly\\nwrong.",
    "op": "0x62",
    "msg": "0x2b49"
   },
@@ -1728,7 +1728,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "ていうか　メガネうざい\\n斬っていいかな",
-   "en": "Seriously, Glasses\\nis annoying. Can I\\ncut him down?",
+   "en": "Seriously, Glasses\\nis annoying. Can\\nI cut him down?",
    "op": "0x62",
    "msg": "0x2b4a"
   },
@@ -1758,7 +1758,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "その不自然さに気づかず\\n一緒に食べてしまった\\n僕にも罪はあります",
-   "en": "I didn't notice\\nhow odd it was\\nand ate some with\\nyou, so I'm guilty\\ntoo.",
+   "en": "I didn't notice\\nhow odd it was\\nand ate some\\nwith you, so\\nI'm guilty too.",
    "op": "0x62",
    "msg": "0x2b4d"
   },
@@ -1778,7 +1778,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "俺を庇おうと思った\\nお前の気持ちは\\nありがたい",
-   "en": "I appreciate that\\nyou wanted to\\nprotect me.",
+   "en": "I appreciate\\nthat you wanted\\nto protect me.",
    "op": "0x62",
    "msg": "0x2b4f"
   },
@@ -1788,7 +1788,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "だがそんな風に\\n自分を貶めてまで\\n俺をかばわなくていいぞ",
-   "en": "But you don't\\nneed to drag\\nyourself down\\njust to cover for\\nme.",
+   "en": "But you don't\\nneed to drag\\nyourself\\ndown just to\\ncover for me.",
    "op": "0x62",
    "msg": "0x2b50"
   },
@@ -1808,7 +1808,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "謝るな総司",
-   "en": "Don't apologize,\\nSoji.",
+   "en": "Don't\\napologize, Soji.",
    "op": "0x62",
    "msg": "0x2b52"
   },
@@ -1828,7 +1828,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "お前の気持ちは嬉しい\\nありがとう",
-   "en": "I'm glad of how\\nyou feel. Thank\\nyou.",
+   "en": "I'm glad of\\nhow you feel.\\nThank you.",
    "op": "0x62",
    "msg": "0x2b54"
   },
@@ -1838,7 +1838,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "……子供扱いしないで\\n下さいよ\\n怒りますよー　もうー",
-   "en": "...Don't treat me\\nlike a kid. I'll get\\nmad, jeez~",
+   "en": "...Don't treat me\\nlike a kid. I'll\\nget mad, jeez~",
    "op": "0x62",
    "msg": "0x2b55"
   },
@@ -1888,7 +1888,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "トサカくんもうるさい",
-   "en": "You're noisy too,\\nTosaka-kun.",
+   "en": "You're noisy\\ntoo, Tosaka-kun.",
    "op": "0x62",
    "msg": "0x2b5a"
   },
@@ -1898,7 +1898,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "さぁ\\nこれにて大福盗難事件の\\n謎は解き明かされました",
-   "en": "There! The\\nmystery of the\\nGreat Daifuku\\nTheft has been\\nsolved.",
+   "en": "There! The\\nmystery of the\\nGreat Daifuku\\nTheft has\\nbeen solved.",
    "op": "0x62",
    "msg": "0x2b5b"
   },
@@ -1928,7 +1928,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "解決したから\\nいいぜよ～",
-   "en": "It's solved, so who\\ncares~",
+   "en": "It's solved, so\\nwho cares~",
    "op": "0x62",
    "msg": "0x2b5e"
   },
@@ -1958,7 +1958,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "大福がもたらした\\n事件により　仲間達の\\n友情が垣間見られた\\n一幕である――",
-   "en": "...an episode in\\nwhich a daifuku\\nbrought about an\\nincident, and a\\nglimpse of the\\nfriendship\\nbetween\\ncomrades--",
+   "en": "...an episode in\\nwhich a daifuku\\nbrought about\\nan incident, and\\na glimpse of the\\nfriendship\\nbetween\\ncomrades--",
    "op": "0x62",
    "msg": "0x2b61"
   }

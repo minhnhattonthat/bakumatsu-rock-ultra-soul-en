@@ -18,7 +18,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "あらぁ　こちら\\nずいぶんと男前ねえ！\\n惚れちゃいそうだわぁ",
-   "en": "Oh my, aren't you\\na handsome one! I\\nmight just fall for\\nyou!",
+   "en": "Oh my, aren't\\nyou a handsome\\none! I might\\njust fall for you!",
    "op": "0x62",
    "msg": "0x1aab"
   },
@@ -38,7 +38,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "俺の愛人になるか？\\nん？",
-   "en": "How'd you like to\\nbe my mistress?\\nHm?",
+   "en": "How'd you\\nlike to be my\\nmistress? Hm?",
    "op": "0x62",
    "msg": "0x1aad"
   },
@@ -48,7 +48,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "またまた\\n本気にしちゃうわよ～！",
-   "en": "Oh, you! I might\\ntake that\\nseriously~!",
+   "en": "Oh, you! I\\nmight take\\nthat seriously~!",
    "op": "0x62",
    "msg": "0x1aae"
   },
@@ -58,7 +58,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "げほっ　げほげほっ！\\n給仕のお嬢さん達も\\nずいぶんと可愛らしいな",
-   "en": "*Cough, cough!*\\nThe young ladies\\nserving here are\\nquite the lookers,\\ntoo.",
+   "en": "*Cough, cough!*\\nThe young\\nladies serving\\nhere are quite\\nthe lookers, too.",
    "op": "0x62",
    "msg": "0x1ab0"
   },
@@ -68,7 +68,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "あ……あの……\\n愛人は\\n結構ですので……",
-   "en": "Um... uh... I'll pass\\non being a\\nmistress, thank\\nyou...",
+   "en": "Um... uh... I'll\\npass on being\\na mistress,\\nthank you...",
    "op": "0x62",
    "msg": "0x1ab1"
   },
@@ -78,7 +78,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "注文のピッツァを置くと\\n幾松は逃げるようにして\\n厨房へと戻っていった",
-   "en": "Setting down the\\npizza they'd\\nordered,\\nIkumatsu fled\\nback to the\\nkitchen.",
+   "en": "Setting down\\nthe pizza\\nthey'd ordered,\\nIkumatsu fled\\nback to the\\nkitchen.",
    "op": "0x62",
    "msg": "0x1ab2"
   },
@@ -88,7 +88,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "これがぴっつぁか\\n初めて食うが……",
-   "en": "So this is a pitsa...\\nFirst time I've\\never had it...",
+   "en": "So this is a\\npitsa... First time\\nI've ever had it...",
    "op": "0x62",
    "msg": "0x1ab3"
   },
@@ -98,7 +98,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "先生　これはな\\n端を　ちょいとつまみ\\nこうクルクルと丸めたら",
-   "en": "Sensei, see, you\\npinch the edge a\\nbit and roll it up\\nlike this...",
+   "en": "Sensei, see, you\\npinch the edge\\na bit and roll it\\nup like this...",
    "op": "0x62",
    "msg": "0x1ab4"
   },
@@ -138,7 +138,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "じゃろ？　この食べ方は\\nテンちゃん……いや\\n松陰先生に教わったぜよ",
-   "en": "Right? I learned\\nto eat it this way\\nfrom Ten-chan... I\\nmean,\\nShoin-sensei!",
+   "en": "Right? I learned\\nto eat it this way\\nfrom Ten-chan...\\nI mean,\\nShoin-sensei!",
    "op": "0x62",
    "msg": "0x1ab8"
   },
@@ -158,7 +158,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "勝先生\\nそろそろいいか？\\n話を聞かせてくれ",
-   "en": "Katsu-sensei, is it\\ntime yet? Tell us\\nwhat you came to\\nsay.",
+   "en": "Katsu-sensei, is\\nit time yet? Tell\\nus what you\\ncame to say.",
    "op": "0x62",
    "msg": "0x1aba"
   },
@@ -168,7 +168,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "む？　ああ\\nそうだったな",
-   "en": "Hm? Ah, that's\\nright.",
+   "en": "Hm? Ah,\\nthat's right.",
    "op": "0x62",
    "msg": "0x1abb"
   },
@@ -178,7 +178,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "まず　俺の立場を\\n説明しておいた方が\\n良さそうだ",
-   "en": "Guess I'd better\\nstart by\\nexplaining where\\nI stand.",
+   "en": "Guess I'd\\nbetter start by\\nexplaining\\nwhere I stand.",
    "op": "0x62",
    "msg": "0x1abc"
   },
@@ -198,7 +198,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "龍馬達も知っての通り\\nお前達の雷舞を\\n俺は毎日のように観ていた",
-   "en": "As you all know,\\nRyoma, I've\\nwatched your live\\nshows just about\\nevery day.",
+   "en": "As you all know,\\nRyoma, I've\\nwatched your\\nlive shows just\\nabout every day.",
    "op": "0x62",
    "msg": "0x1abe"
   },
@@ -218,7 +218,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "佐幕も倒幕も越えて\\nお前達の歌は　今の\\n時代に必要だと感じた",
-   "en": "Pro-shogunate,\\nanti-shogunate,\\nnone of that\\nmatters. I felt this\\nera needs your\\nsongs.",
+   "en": "Pro-shogunate,\\nanti-shogunate,\\nnone of that\\nmatters. I felt\\nthis era needs\\nyour songs.",
    "op": "0x62",
    "msg": "0x1ac0"
   },
@@ -228,7 +228,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "だが　見ていたところ\\n少々旗色が悪そうじゃ\\nねえか？",
-   "en": "But from what\\nI've seen, the\\ntide's turning\\nagainst you a bit,\\nain't it?",
+   "en": "But from what\\nI've seen, the\\ntide's turning\\nagainst you a\\nbit, ain't it?",
    "op": "0x62",
    "msg": "0x1ac1"
   },
@@ -238,7 +238,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "……勝先生の\\n言うとおりだ\\n悔しいが",
-   "en": "...Katsu-sensei's\\nright. Much as it\\ngalls me.",
+   "en": "...Katsu-sensei's\\nright. Much\\nas it galls me.",
    "op": "0x62",
    "msg": "0x1ac2"
   },
@@ -248,7 +248,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "ここで　お前さん達が\\n幕府に潰されちまうのは\\n面白くねえ",
-   "en": "It'd be no fun\\nwatching you kids\\nget crushed by\\nthe shogunate\\nhere.",
+   "en": "It'd be no fun\\nwatching you\\nkids get\\ncrushed by the\\nshogunate here.",
    "op": "0x62",
    "msg": "0x1ac3"
   },
@@ -268,7 +268,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "助け船のひとつも\\n出そうかと思って\\nやってきた",
-   "en": "So I came by\\nthinking I'd throw\\nyou a lifeline or\\ntwo.",
+   "en": "So I came by\\nthinking I'd\\nthrow you a\\nlifeline or two.",
    "op": "0x62",
    "msg": "0x1ac5"
   },
@@ -278,7 +278,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "ええと　それは\\n勝先生が　私達に\\n協力してくれる……",
-   "en": "Um, so\\nKatsu-sensei will\\ncooperate with\\nus...",
+   "en": "Um, so\\nKatsu-sensei\\nwill cooperate\\nwith us...",
    "op": "0x62",
    "msg": "0x1ac6"
   },
@@ -318,7 +318,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "勝先生の助力があれば\\n八方塞がりだった\\n状況を打破できます",
-   "en": "With your help,\\nKatsu-sensei, we\\ncan break out of\\nthis dead end\\nwe've been backed\\ninto.",
+   "en": "With your help,\\nKatsu-sensei,\\nwe can break\\nout of this dead\\nend we've been\\nbacked into.",
    "op": "0x62",
    "msg": "0x1aca"
   },
@@ -338,7 +338,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "それで勝先生\\nどんなご助力を\\nいただけるのです？",
-   "en": "So, Katsu-sensei.\\nWhat kind of help\\ncan we expect\\nfrom you?",
+   "en": "So, Katsu-sensei.\\nWhat kind of\\nhelp can we\\nexpect from you?",
    "op": "0x62",
    "msg": "0x1acc"
   },
@@ -368,7 +368,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "勝の言葉に\\n五人はお互いの\\n顔を見合わせる",
-   "en": "At Katsu's words,\\nthe five\\nexchanged\\nglances.",
+   "en": "At Katsu's\\nwords, the five\\nexchanged\\nglances.",
    "op": "0x62",
    "msg": "0x1acf"
   },
@@ -398,7 +398,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "お前達を付け狙っていた\\n井伊直弼は　今　京には\\nいない",
-   "en": "Naosuke Ii, the\\nman who's been\\nhunting you, isn't\\nin Kyoto right\\nnow.",
+   "en": "Naosuke Ii, the\\nman who's been\\nhunting you,\\nisn't in Kyoto\\nright now.",
    "op": "0x62",
    "msg": "0x1ad2"
   },
@@ -418,7 +418,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "じゃあ　もう少し\\n我慢すれば　雷舞も\\nやり放題ってことか",
-   "en": "So if we just hang\\non a little longer,\\nwe can do as\\nmany lives as we\\nlike!",
+   "en": "So if we just\\nhang on a little\\nlonger, we can\\ndo as many\\nlives as we like!",
    "op": "0x62",
    "msg": "0x1ad4"
   },
@@ -428,7 +428,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "それはどうだろうな",
-   "en": "I wouldn't be so\\nsure.",
+   "en": "I wouldn't\\nbe so sure.",
    "op": "0x62",
    "msg": "0x1ad5"
   },
@@ -448,7 +448,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "では　悪い話というのを\\n聞かせてもらえますか",
-   "en": "Then may we\\nhear the bad\\nnews?",
+   "en": "Then may\\nwe hear the\\nbad news?",
    "op": "0x62",
    "msg": "0x1ad7"
   },
@@ -498,7 +498,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "天歌の歌い手を一堂に集め\\n民衆の泰平化を　一気に\\n推し進めるつもりらしい",
-   "en": "Seems he wants\\nto gather all the\\nHeaven's Song\\nsingers in one\\nplace and pacify\\nthe people in one\\nfell swoop.",
+   "en": "Seems he wants\\nto gather all the\\nHeaven's Song\\nsingers in one\\nplace and pacify\\nthe people in\\none fell swoop.",
    "op": "0x62",
    "msg": "0x1adc"
   },
@@ -518,7 +518,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "その天歌祭とやら\\n乗り込んでブッ潰すしか\\nねえな……",
-   "en": "Guess there's\\nnothing for it but\\nto storm this\\nHeaven's Song\\nFestival and\\nsmash it...",
+   "en": "Guess there's\\nnothing for it\\nbut to storm\\nthis Heaven's\\nSong Festival\\nand smash it...",
    "op": "0x62",
    "msg": "0x1ade"
   },
@@ -528,7 +528,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "でも　全国の五箇所で\\n同時に行われるんですよ？\\nひとつだけ潰しても……",
-   "en": "But it's being held\\nin five places\\nacross the\\ncountry at the\\nsame time, you\\nknow? Even if we\\nonly crush one...",
+   "en": "But it's being\\nheld in five\\nplaces across the\\ncountry at the\\nsame time, you\\nknow? Even if we\\nonly crush one...",
    "op": "0x62",
    "msg": "0x1adf"
   },
@@ -538,7 +538,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "話は最後まで聞け",
-   "en": "Hear me out to\\nthe end.",
+   "en": "Hear me out\\nto the end.",
    "op": "0x62",
    "msg": "0x1ae0"
   },
@@ -548,7 +548,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "天歌祭は　どうやら\\n江戸の会場が中心に\\nなるらしい",
-   "en": "Seems the Edo\\nvenue will be the\\nheart of the\\nHeaven's Song\\nFestival.",
+   "en": "Seems the Edo\\nvenue will be\\nthe heart of\\nthe Heaven's\\nSong Festival.",
    "op": "0x62",
    "msg": "0x1ae1"
   },
@@ -568,7 +568,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "天歌祭が執り行われれば\\n泰平化は　取り返しが\\nつかんほど進行するだろう",
-   "en": "If the Heaven's\\nSong Festival\\ngoes ahead, the\\npacification will\\nspread past any\\nhope of undoing\\nit.",
+   "en": "If the Heaven's\\nSong Festival\\ngoes ahead,\\nthe pacification\\nwill spread\\npast any hope\\nof undoing it.",
    "op": "0x62",
    "msg": "0x1ae3"
   },
@@ -578,7 +578,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "そんな計画が\\n進んでいたなんて\\n全く知りませんでした",
-   "en": "I had no idea a\\nplan like that was\\nunderway.",
+   "en": "I had no idea a\\nplan like that\\nwas underway.",
    "op": "0x62",
    "msg": "0x1ae4"
   },
@@ -598,7 +598,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "もはや　お前達のロック\\nなど　井伊の眼中に\\nないというわけだ",
-   "en": "In other words,\\nyour rock isn't\\neven on Ii's radar\\nanymore.",
+   "en": "In other words,\\nyour rock isn't\\neven on Ii's\\nradar anymore.",
    "op": "0x62",
    "msg": "0x1ae6"
   },
@@ -618,7 +618,7 @@
    "max": 80,
    "kind": "dialogue",
    "jp": "勝から聞かされた\\n天歌祭の計画は\\n龍馬達　志士にとって\\n死刑宣告に他ならない",
-   "en": "The Heaven's\\nSong Festival plan\\nKatsu described\\nwas nothing short\\nof a death\\nsentence for\\nRyoma and his\\nfellow rebels.",
+   "en": "The Heaven's\\nSong Festival\\nplan Katsu\\ndescribed was\\nnothing short of\\na death sentence\\nfor Ryoma and\\nhis fellow rebels.",
    "op": "0x62",
    "msg": "0x1ae8"
   },
@@ -628,7 +628,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "龍馬達の間を\\n重い沈黙が流れる",
-   "en": "A heavy silence\\nsettled over\\nRyoma and the\\nothers.",
+   "en": "A heavy\\nsilence settled\\nover Ryoma\\nand the others.",
    "op": "0x62",
    "msg": "0x1ae9"
   },
@@ -648,7 +648,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "勝先生\\n話はみっつあると\\n言ったはずだ",
-   "en": "Katsu-sensei, you\\nsaid you had\\nthree pieces of\\nnews.",
+   "en": "Katsu-sensei,\\nyou said you\\nhad three\\npieces of news.",
    "op": "0x62",
    "msg": "0x1aeb"
   },
@@ -658,7 +658,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "最後の　オレ様達が\\nぶっ飛ぶ話ってのは\\n何なんだ？",
-   "en": "So what's this last\\none, the one\\nthat's supposed to\\nknock the great\\nTakasugi's socks\\noff?",
+   "en": "So what's this\\nlast one, the one\\nthat's supposed\\nto knock the\\ngreat Takasugi's\\nsocks off?",
    "op": "0x62",
    "msg": "0x1aec"
   },
@@ -678,7 +678,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "お前達　幕府と\\n真っ正面からケンカを\\nする気はあるか？",
-   "en": "Have you kids got\\nthe guts to pick a\\nfight with the\\nshogunate\\nhead-on?",
+   "en": "Have you kids\\ngot the guts to\\npick a fight with\\nthe shogunate\\nhead-on?",
    "op": "0x62",
    "msg": "0x1aee"
   },
@@ -688,7 +688,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "当たり前だ！\\nオレ様達は　これまでも\\nそのつもりでやってきた！",
-   "en": "Obviously! That's\\nwhat yours truly\\nand the rest of us\\nhave been doing\\nall along!",
+   "en": "Obviously! That's\\nwhat yours truly\\nand the rest of\\nus have been\\ndoing all along!",
    "op": "0x62",
    "msg": "0x1aef"
   },
@@ -698,7 +698,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "突風雷舞や　新選組の\\n舞台に飛び込むのとは\\nケタが違う話だ",
-   "en": "This is a whole\\nother league from\\nguerrilla lives or\\ncrashing the\\nShinsengumi's\\nstage.",
+   "en": "This is a whole\\nother league\\nfrom guerrilla\\nlives or crashing\\nthe Shinsengumi's\\nstage.",
    "op": "0x62",
    "msg": "0x1af0"
   },
@@ -748,7 +748,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "よし　お前達\\n天歌祭を乗っ取れ",
-   "en": "All right, you\\nkids. Hijack the\\nHeaven's Song\\nFestival.",
+   "en": "All right, you\\nkids. Hijack\\nthe Heaven's\\nSong Festival.",
    "op": "0x62",
    "msg": "0x1af5"
   },
@@ -768,7 +768,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "俺が何とかして\\n天歌の歌い手として\\nお前達をねじ込んでやる",
-   "en": "One way or\\nanother, I'll\\nsqueeze you in as\\nHeaven's Song\\nsingers.",
+   "en": "One way or\\nanother, I'll\\nsqueeze you\\nin as Heaven's\\nSong singers.",
    "op": "0x62",
    "msg": "0x1af7"
   },
@@ -798,7 +798,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "そうすれば　お前達の\\nロックは　井伊の術で\\n全国にばらまかれる！",
-   "en": "Do that, and Ii's\\nown technique\\nwill scatter your\\nrock all across the\\ncountry!",
+   "en": "Do that, and Ii's\\nown technique\\nwill scatter your\\nrock all across\\nthe country!",
    "op": "0x62",
    "msg": "0x1afa"
   },
@@ -838,7 +838,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "井伊と　正面から\\nぶつかり合う局面に\\nなるやもしれん",
-   "en": "It may well come\\ndown to a\\nhead-on clash\\nwith Ii.",
+   "en": "It may well\\ncome down\\nto a head-on\\nclash with Ii.",
    "op": "0x62",
    "msg": "0x1afe"
   },
@@ -848,7 +848,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "それこそ\\n望むところだぜ",
-   "en": "That's exactly\\nwhat I'm hoping\\nfor.",
+   "en": "That's exactly\\nwhat I'm\\nhoping for.",
    "op": "0x62",
    "msg": "0x1aff"
   },
@@ -858,7 +858,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "地道に突風雷舞を\\n重ねていくのも\\n考えのひとつだろう",
-   "en": "Sure, steadily\\npiling up\\nguerrilla lives is\\none way to go\\nabout it.",
+   "en": "Sure, steadily\\npiling up\\nguerrilla lives\\nis one way to\\ngo about it.",
    "op": "0x62",
    "msg": "0x1b00"
   },
@@ -868,7 +868,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "ですが　天歌祭が\\n行われてしまえば\\n私達にも後はありません",
-   "en": "But once the\\nHeaven's Song\\nFestival happens,\\nthere'll be no\\nfuture left for us\\neither.",
+   "en": "But once the\\nHeaven's Song\\nFestival\\nhappens, there'll\\nbe no future left\\nfor us either.",
    "op": "0x62",
    "msg": "0x1b01"
   },
@@ -898,7 +898,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "ノるか　ソるか\\nそういう話なら　ノらない\\nヤツは　ここにはいねえ",
-   "en": "If it's hit it or quit\\nit, there's nobody\\nhere who'd sit it\\nout.",
+   "en": "If it's hit it or\\nquit it, there's\\nnobody here\\nwho'd sit it out.",
    "op": "0x62",
    "msg": "0x1b04"
   },
@@ -928,7 +928,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "はあ？　僕はスカシくんの\\nヘボい技術を　心配して\\nやってるだけだろ！",
-   "en": "Hah? I'm only\\nworried about\\nyour lousy skills,\\nMr. Poser!",
+   "en": "Hah? I'm only\\nworried about\\nyour lousy\\nskills, Mr. Poser!",
    "op": "0x62",
    "msg": "0x1b07"
   },
@@ -938,7 +938,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "ゴタクはいらねえ\\nノるのか？　降りるのか？\\nそれだけを答えろ",
-   "en": "Spare me the\\nblather. You in or\\nout? That's all I\\nwanna hear.",
+   "en": "Spare me the\\nblather. You in\\nor out? That's all\\nI wanna hear.",
    "op": "0x62",
    "msg": "0x1b08"
   },
@@ -968,7 +968,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "江戸のみならず\\n日本中を　ロックの\\n虜にしてやるぜよ！",
-   "en": "Not just Edo... I'll\\nget all of Japan\\nhooked on rock, I\\ntell ya!",
+   "en": "Not just Edo...\\nI'll get all of\\nJapan hooked on\\nrock, I tell ya!",
    "op": "0x62",
    "msg": "0x1b0b"
   },
@@ -988,7 +988,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "お前達\\n江戸へ向かえ！",
-   "en": "You kids, head\\nfor Edo!",
+   "en": "You kids,\\nhead for Edo!",
    "op": "0x62",
    "msg": "0x1b0d"
   },
@@ -998,7 +998,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "天歌祭に潜り込む\\n手立ては追って報せる",
-   "en": "I'll send word\\nlater on how to\\nsneak you into\\nthe Heaven's Song\\nFestival.",
+   "en": "I'll send word\\nlater on how to\\nsneak you into\\nthe Heaven's\\nSong Festival.",
    "op": "0x62",
    "msg": "0x1b0e"
   },
@@ -1008,7 +1008,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "井伊の企み\\n何としても潰さなければ\\nなりません！",
-   "en": "We must crush Ii's\\nscheme, no\\nmatter what!",
+   "en": "We must crush\\nIi's scheme, no\\nmatter what!",
    "op": "0x62",
    "msg": "0x1b0f"
   },
@@ -1038,7 +1038,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "何しろ僕は天才だからね\\n任せておいてよ",
-   "en": "I'm a genius,\\nafter all. Leave it\\nto me.",
+   "en": "I'm a genius,\\nafter all.\\nLeave it to me.",
    "op": "0x62",
    "msg": "0x1b12"
   },
@@ -1058,7 +1058,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "大江戸天歌祭を\\n大江戸ロック祭に\\nしてやるぜよ",
-   "en": "--we'll turn the\\nGreat Edo\\nHeaven's Song\\nFestival into the\\nGreat Edo Rock\\nFestival!",
+   "en": "--we'll turn\\nthe Great Edo\\nHeaven's Song\\nFestival into\\nthe Great Edo\\nRock Festival!",
    "op": "0x62",
    "msg": "0x1b14"
   },
@@ -1068,7 +1068,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "そうして五人は勝海舟の\\n命を受け　さっそく江戸へ\\n向かって出立したのだった",
-   "en": "And so, under\\norders from\\nKaishu Katsu, the\\nfive set out for\\nEdo without\\ndelay.",
+   "en": "And so, under\\norders from\\nKaishu Katsu,\\nthe five set\\nout for Edo\\nwithout delay.",
    "op": "0x62",
    "msg": "0x1b15"
   },
@@ -1088,7 +1088,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "そして　数日後――\\n大江戸天歌祭の当日",
-   "en": "Then, a few days\\nlater-- the day of\\nthe Great Edo\\nHeaven's Song\\nFestival.",
+   "en": "Then, a few\\ndays later-- the\\nday of the Great\\nEdo Heaven's\\nSong Festival.",
    "op": "0x62",
    "msg": "0x1b17"
   },
@@ -1098,7 +1098,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "龍馬達は　江戸の本会場の\\n舞台へ乗り込んだ",
-   "en": "Ryoma and the\\nothers marched\\nonto the stage of\\nthe main venue in\\nEdo.",
+   "en": "Ryoma and the\\nothers marched\\nonto the stage\\nof the main\\nvenue in Edo.",
    "op": "0x62",
    "msg": "0x1b18"
   },
@@ -1108,7 +1108,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "祭会場の舞台袖では\\n早馬で駆けつけた\\n勝海舟が　五人を\\n待ちかまえていた",
-   "en": "In the wings of\\nthe festival stage,\\nKaishu Katsu,\\nwho had rushed\\nthere on a fast\\nhorse, was\\nwaiting for the\\nfive.",
+   "en": "In the wings of\\nthe festival\\nstage, Kaishu\\nKatsu, who had\\nrushed there\\non a fast horse,\\nwas waiting for\\nthe five.",
    "op": "0x62",
    "msg": "0x1b19"
   },
@@ -1118,7 +1118,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "お前達\\nよく来たな",
-   "en": "Good, you made\\nit.",
+   "en": "Good, you\\nmade it.",
    "op": "0x62",
    "msg": "0x1b1a"
   },
@@ -1138,7 +1138,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "天歌で民衆が泰平化\\nされちまう前に",
-   "en": "Before Heaven's\\nSong pacifies the\\ncrowd...",
+   "en": "Before Heaven's\\nSong pacifies\\nthe crowd...",
    "op": "0x62",
    "msg": "0x1b1c"
   },
@@ -1148,7 +1148,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "お前達のロックを\\nぶちかませ！",
-   "en": "...blast 'em with\\nyour rock!",
+   "en": "...blast 'em\\nwith your rock!",
    "op": "0x62",
    "msg": "0x1b1d"
   },
@@ -1178,7 +1178,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "さすがは　江戸ぜよ\\nこんなに大勢のお客が\\n入っとるのか",
-   "en": "That's Edo for ya!\\nLook at all these\\nfolks packed in\\nhere!",
+   "en": "That's Edo for\\nya! Look at all\\nthese folks\\npacked in here!",
    "op": "0x62",
    "msg": "0x1b20"
   },
@@ -1188,7 +1188,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "緊張しますね……\\n他のみんなは\\n大丈夫でしょうか",
-   "en": "I'm nervous... I\\nwonder if\\neveryone else is\\nall right.",
+   "en": "I'm nervous...\\nI wonder if\\neveryone else\\nis all right.",
    "op": "0x62",
    "msg": "0x1b21"
   },
@@ -1207,7 +1207,7 @@
    "max": 20,
    "kind": "choice",
    "jp": "沖田の心配をする",
-   "en": "Worry about\\nOkita",
+   "en": "Worry\\nabout Okita",
    "op": "0x51"
   },
   {
@@ -1235,7 +1235,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "早く歌いたくて\\nうずうずするぜよ！",
-   "en": "I'm just itchin' to\\nget out there and\\nsing!",
+   "en": "I'm just itchin'\\nto get out\\nthere and sing!",
    "op": "0x62",
    "msg": "0x1b23"
   },
@@ -1265,7 +1265,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "僕が緊張なんて\\nするわけないでしょ",
-   "en": "As if I'd ever get\\nnervous.",
+   "en": "As if I'd ever\\nget nervous.",
    "op": "0x62",
    "msg": "0x1b26"
   },
@@ -1275,7 +1275,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "でも\\n震えてますよ？",
-   "en": "But you're\\nshaking, you\\nknow?",
+   "en": "But you're\\nshaking,\\nyou know?",
    "op": "0x62",
    "msg": "0x1b27"
   },
@@ -1285,7 +1285,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "こ　これは\\n武者震いだよ！",
-   "en": "Th-this is just me\\nraring to go!",
+   "en": "Th-this is just\\nme raring to go!",
    "op": "0x62",
    "msg": "0x1b28"
   },
@@ -1305,7 +1305,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "カボチャ以下のボンクラ\\n相手に緊張する必要も\\nないだろ",
-   "en": "No need to get\\nnervous in front\\nof a bunch of\\nblockheads worth\\nless than\\npumpkins.",
+   "en": "No need to get\\nnervous in front\\nof a bunch of\\nblockheads\\nworth less than\\npumpkins.",
    "op": "0x62",
    "msg": "0x1b2a"
   },
@@ -1325,7 +1325,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "他人の心配をしている\\n場合じゃないですね",
-   "en": "This is no time to\\nbe worrying about\\nothers.",
+   "en": "This is no time\\nto be worrying\\nabout others.",
    "op": "0x62",
    "msg": "0x1b2c"
   },
@@ -1345,7 +1345,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "少し落ち着いたかな……",
-   "en": "I think I've\\ncalmed down a\\nlittle...",
+   "en": "I think I've\\ncalmed down\\na little...",
    "op": "0x62",
    "msg": "0x1b2e"
   },
@@ -1365,7 +1365,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "この大勢の観客が\\nロックに目覚めるか\\n否かは　お前達次第だ",
-   "en": "Whether this\\nhuge crowd\\nwakes up to rock\\nor not is up to\\nyou.",
+   "en": "Whether this\\nhuge crowd\\nwakes up to\\nrock or not\\nis up to you.",
    "op": "0x62",
    "msg": "0x1b30"
   },
@@ -1375,7 +1375,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "舞台に上がってしまえば\\n俺はもう手助けは出来ねえ",
-   "en": "Once you're on\\nthat stage, I can't\\nhelp you\\nanymore.",
+   "en": "Once you're\\non that stage,\\nI can't help\\nyou anymore.",
    "op": "0x62",
    "msg": "0x1b31"
   },
@@ -1395,7 +1395,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "頼んだぞ",
-   "en": "I'm counting on\\nyou.",
+   "en": "I'm counting\\non you.",
    "op": "0x62",
    "msg": "0x1b33"
   },
@@ -1425,7 +1425,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "松陰先生\\n見ていてください\\nオレの本気を……！",
-   "en": "Shoin-sensei,\\nwatch me... This is\\nme for real...!",
+   "en": "Shoin-sensei,\\nwatch me... This\\nis me for real...!",
    "op": "0x62",
    "msg": "0x1b36"
   },
@@ -1445,7 +1445,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "わかりました\\nでも土方さん\\n肩に力入り過ぎですよ？",
-   "en": "Got it. But\\nHijikata-san,\\naren't your\\nshoulders a bit\\ntoo tense?",
+   "en": "Got it. But\\nHijikata-san,\\naren't your\\nshoulders a\\nbit too tense?",
    "op": "0x62",
    "msg": "0x1b38"
   },
@@ -1455,7 +1455,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "うっ……　きょ\\n今日はこのくらいで\\n丁度いいんだ",
-   "en": "Ugh... T-today,\\nthis much is just\\nright.",
+   "en": "Ugh... T-today,\\nthis much is\\njust right.",
    "op": "0x62",
    "msg": "0x1b39"
   },
@@ -1465,7 +1465,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "本日は\\n大江戸天歌祭に\\nご来場いただきまして",
-   "en": "Thank you all for\\nattending the\\nGreat Edo\\nHeaven's Song\\nFestival today...",
+   "en": "Thank you all\\nfor attending\\nthe Great Edo\\nHeaven's Song\\nFestival today...",
    "op": "0x62",
    "msg": "0x1b3a"
   },
@@ -1525,7 +1525,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "幕府のお膝元　江戸で\\n前代未聞のロック祭が\\nいよいよ\\n始まろうとしていた",
-   "en": "In Edo, the\\nshogunate's own\\nbackyard, an\\nunprecedented\\nrock festival was\\nfinally about to\\nbegin.",
+   "en": "In Edo, the\\nshogunate's own\\nbackyard, an\\nunprecedented\\nrock festival\\nwas finally\\nabout to begin.",
    "op": "0x62",
    "msg": "0x1b40"
   },
@@ -1535,7 +1535,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "巨大な会場を埋め尽くした\\n観客達の視線が　龍馬達に\\n注がれている",
-   "en": "The eyes of the\\naudience filling\\nthe enormous\\nvenue were fixed\\non Ryoma and the\\nothers.",
+   "en": "The eyes of the\\naudience filling\\nthe enormous\\nvenue were\\nfixed on Ryoma\\nand the others.",
    "op": "0x62",
    "msg": "0x1b41"
   },
@@ -1545,7 +1545,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "それじゃ……\\n始めるぜよ",
-   "en": "Well then... let's\\nget this started, I\\ntell ya.",
+   "en": "Well then... let's\\nget this started,\\nI tell ya.",
    "op": "0x62",
    "msg": "0x1b42"
   },
@@ -1555,7 +1555,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "高らかに鳴り響いた\\nギターの音に\\n観客も警備の武士達も\\n一斉に目を丸くした",
-   "en": "At the guitar\\nringing out loud\\nand clear, the\\naudience and the\\nsamurai guards\\nalike went\\nwide-eyed all at\\nonce.",
+   "en": "At the guitar\\nringing out\\nloud and clear,\\nthe audience\\nand the samurai\\nguards alike\\nwent wide-eyed\\nall at once.",
    "op": "0x62",
    "msg": "0x1b43"
   },
@@ -1585,7 +1585,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "自由を！\\n熱情を！\\n魂を取り戻せ",
-   "en": "Freedom! Passion!\\nTake back your\\nsouls!",
+   "en": "Freedom!\\nPassion! Take\\nback your souls!",
    "op": "0x62",
    "msg": "0x1b46"
   },
@@ -1595,7 +1595,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "よぉぉぉぉしゃああ！\\n燃えてきた燃えてきた\\n燃えてきたぜよぉぉぉ",
-   "en": "Yeeeeaaaah! I'm\\nfired up, fired\\nup, I'm all fired\\nuuuup!",
+   "en": "Yeeeeaaaah!\\nI'm fired up,\\nfired up, I'm all\\nfired uuuup!",
    "op": "0x62",
    "msg": "0x1b47"
   },
@@ -1615,7 +1615,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "みんなに届けたいと\\n叫ぶんじゃ",
-   "en": "It's screamin' that\\nit wants to reach\\neverybody!",
+   "en": "It's screamin'\\nthat it wants to\\nreach everybody!",
    "op": "0x62",
    "msg": "0x1b49"
   },

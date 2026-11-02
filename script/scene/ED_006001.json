@@ -8,7 +8,7 @@
    "max": 96,
    "kind": "dialogue",
    "jp": "龍馬　高杉　桂の三人と\\n土方　沖田の二人は\\nジュニアの船が停泊している\\n港まで見送りに来ていた",
-   "en": "Ryoma, Takasugi\\nand Katsura, with\\nHijikata and\\nOkita, had come\\nto see Junior off\\nat the harbor\\nwhere his ship lay\\nmoored.",
+   "en": "Ryoma, Takasugi\\nand Katsura,\\nwith Hijikata\\nand Okita, had\\ncome to see\\nJunior off at the\\nharbor where his\\nship lay moored.",
    "op": "0x62",
    "msg": "0x5520"
   },
@@ -18,7 +18,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "サンキュー　フレンズ\\n見送りに来てくれて\\n嬉しいよ",
-   "en": "Thank you,\\nfriends. I'm glad\\nyou came to see\\nme off.",
+   "en": "Thank you,\\nfriends. I'm\\nglad you came\\nto see me off.",
    "op": "0x62",
    "msg": "0x5521"
   },
@@ -28,7 +28,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "ジュニアは秋空のような\\n晴れ渡った笑顔を\\n龍馬達に向けた",
-   "en": "Junior turned a\\nsmile as clear as\\nan autumn sky on\\nRyoma and the\\nothers.",
+   "en": "Junior turned\\na smile as clear\\nas an autumn\\nsky on Ryoma\\nand the others.",
    "op": "0x62",
    "msg": "0x5522"
   },
@@ -38,7 +38,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "レッドボーイ\\nいやリョーマ",
-   "en": "Red Boy... no,\\nRyoma.",
+   "en": "Red Boy...\\nno, Ryoma.",
    "op": "0x62",
    "msg": "0x5523"
   },
@@ -68,7 +68,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "そうだな　Ｊ\\nいい気分だ",
-   "en": "That's right, J. It\\nfeels good.",
+   "en": "That's right, J.\\nIt feels good.",
    "op": "0x62",
    "msg": "0x5526"
   },
@@ -88,7 +88,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "そうですね　急いで帰らず\\nもう少し滞在してても\\n良かったのに",
-   "en": "Indeed. You could\\nhave stayed a\\nlittle longer\\ninstead of\\nhurrying home.",
+   "en": "Indeed. You\\ncould have\\nstayed a little\\nlonger instead of\\nhurrying home.",
    "op": "0x62",
    "msg": "0x5528"
   },
@@ -98,7 +98,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "ジュニアは\\n遊びに来てた\\nわけじゃない",
-   "en": "Junior didn't come\\nhere to play\\naround.",
+   "en": "Junior didn't\\ncome here to\\nplay around.",
    "op": "0x62",
    "msg": "0x5529"
   },
@@ -108,7 +108,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "平等な条約を締結できた\\n本国の連中は文句を\\n言うだろうが――",
-   "en": "We concluded an\\nequal treaty. The\\npeople back home\\nwill complain,\\nbut--",
+   "en": "We concluded\\nan equal treaty.\\nThe people\\nback home will\\ncomplain, but--",
    "op": "0x62",
    "msg": "0x552a"
   },
@@ -118,7 +118,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "オレ個人としては\\n満足している",
-   "en": "Personally, I'm\\nsatisfied.",
+   "en": "Personally,\\nI'm satisfied.",
    "op": "0x62",
    "msg": "0x552b"
   },
@@ -128,7 +128,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "この国から　自由な\\nロックが生まれる土壌を\\n奪わずに済んだ",
-   "en": "I didn't have to\\nrob this country\\nof the soil where\\nfree rock can\\ngrow.",
+   "en": "I didn't have to\\nrob this\\ncountry of the\\nsoil where free\\nrock can grow.",
    "op": "0x62",
    "msg": "0x552c"
   },
@@ -138,7 +138,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "まあ　あと二　三回\\n舞台を共にする機会が\\nあっても良かったがな",
-   "en": "Still, two or three\\nmore chances to\\nshare a stage\\nwouldn't have\\nhurt.",
+   "en": "Still, two or\\nthree more\\nchances to share\\na stage wouldn't\\nhave hurt.",
    "op": "0x62",
    "msg": "0x552d"
   },
@@ -148,7 +148,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "それは次にニッポンへ\\n来た時の楽しみに\\nとっておこう",
-   "en": "Let's save that for\\nthe next time I\\ncome to Nippon.",
+   "en": "Let's save that\\nfor the next time\\nI come to Nippon.",
    "op": "0x62",
    "msg": "0x552e"
   },
@@ -168,7 +168,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "オレは　何もかもを\\n失ってしまったからな",
-   "en": "After all, I've lost\\neverything.",
+   "en": "After all, I've\\nlost everything.",
    "op": "0x62",
    "msg": "0x5530"
   },
@@ -178,7 +178,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "あの舞台で　超魂の\\n力を　使い果たして\\nしまったんですね",
-   "en": "You used up all\\nthe power of your\\nUltra Souls on\\nthat stage, didn't\\nyou?",
+   "en": "You used up all\\nthe power of\\nyour Ultra Souls\\non that stage,\\ndidn't you?",
    "op": "0x62",
    "msg": "0x5531"
   },
@@ -188,7 +188,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "この通り\\nもう超魂はひとつも\\n残っていない",
-   "en": "As you can see,\\nnot a single Ultra\\nSoul is left.",
+   "en": "As you can see,\\nnot a single\\nUltra Soul is left.",
    "op": "0x62",
    "msg": "0x5532"
   },
@@ -208,7 +208,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "ああ\\nこれは趣味だ",
-   "en": "Ah. This is a\\nhobby.",
+   "en": "Ah. This\\nis a hobby.",
    "op": "0x62",
    "msg": "0x5534"
   },
@@ -238,7 +238,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "超魂は失ったが\\n後悔はしていない",
-   "en": "I lost my Ultra\\nSouls, but I have\\nno regrets.",
+   "en": "I lost my Ultra\\nSouls, but I\\nhave no regrets.",
    "op": "0x62",
    "msg": "0x5537"
   },
@@ -268,7 +268,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "ジュニアの胸に　小さな\\n暖かい光が\\n宿っているのを\\n龍馬たちは見た",
-   "en": "Ryoma and the\\nothers saw a\\nsmall, warm light\\ndwelling in\\nJunior's chest.",
+   "en": "Ryoma and the\\nothers saw a\\nsmall, warm\\nlight dwelling\\nin Junior's chest.",
    "op": "0x62",
    "msg": "0x553a"
   },
@@ -298,7 +298,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "ワッツ？\\nなんだって？",
-   "en": "What? What did\\nyou say?",
+   "en": "What? What\\ndid you say?",
    "op": "0x62",
    "msg": "0x553d"
   },
@@ -328,7 +328,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "そうじゃ！\\n誰かから奪ったもの\\nじゃない",
-   "en": "That's right! It\\nain't somethin' ya\\nstole from\\nsomebody.",
+   "en": "That's right! It\\nain't somethin'\\nya stole from\\nsomebody.",
    "op": "0x62",
    "msg": "0x5540"
   },
@@ -408,7 +408,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "あらっ　\\n最後まで　ニクいこと\\n言うんだから！",
-   "en": "Oh my! Such a\\nsmooth talker,\\nright to the very\\nend!",
+   "en": "Oh my! Such a\\nsmooth talker,\\nright to the\\nvery end!",
    "op": "0x62",
    "msg": "0x5548"
   },
@@ -418,7 +418,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "龍ちゃんの歌も\\nジュニアちゃんの歌も\\n最高だったわぁ",
-   "en": "Ryo-chan's\\nsinging and\\nJunior-chan's\\nsinging were both\\nsimply the best,\\ndear!",
+   "en": "Ryo-chan's\\nsinging and\\nJunior-chan's\\nsinging were\\nboth simply\\nthe best, dear!",
    "op": "0x62",
    "msg": "0x5549"
   },
@@ -438,7 +438,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "オレの新しい超魂が\\nどこまで熱く燃やせるのか",
-   "en": "How hot can my\\nnew Ultra Soul\\nburn?",
+   "en": "How hot can\\nmy new Ultra\\nSoul burn?",
    "op": "0x62",
    "msg": "0x554b"
   },
@@ -458,7 +458,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "それから\\nワールドツアーの\\n再開だ",
-   "en": "After that, I'll\\nresume my world\\ntour.",
+   "en": "After that, I'll\\nresume my\\nworld tour.",
    "op": "0x62",
    "msg": "0x554d"
   },
@@ -468,7 +468,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "それでいい\\nお互い大きく成長して\\n再び会いたいものだ",
-   "en": "Good. I hope we\\nmeet again, both\\nof us having\\ngrown a great\\ndeal.",
+   "en": "Good. I hope\\nwe meet again,\\nboth of us\\nhaving grown\\na great deal.",
    "op": "0x62",
    "msg": "0x554e"
   },
@@ -478,7 +478,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "本当に燃えるのは\\nやめて欲しいけどね",
-   "en": "Though I'd rather\\nyou didn't\\nliterally go up in\\nflames.",
+   "en": "Though I'd\\nrather you\\ndidn't literally\\ngo up in flames.",
    "op": "0x62",
    "msg": "0x554f"
   },
@@ -488,7 +488,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "そう言えば　ナデシコ\\nいや　ソージ",
-   "en": "By the way,\\nNadeshiko... no,\\nSoji.",
+   "en": "By the way,\\nNadeshiko...\\nno, Soji.",
    "op": "0x62",
    "msg": "0x5550"
   },
@@ -498,7 +498,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "ソージは\\n本当に男なのか？\\nウソなんだろう？",
-   "en": "Soji, are you\\nreally a man?\\nThat's a lie, isn't\\nit?",
+   "en": "Soji, are you\\nreally a\\nman? That's\\na lie, isn't it?",
    "op": "0x62",
    "msg": "0x5551"
   },
@@ -508,7 +508,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "げっ\\nまだ疑ってるの？\\nバカじゃない",
-   "en": "Ugh. You still\\ndoubt it? Are you\\nstupid?",
+   "en": "Ugh. You still\\ndoubt it? Are\\nyou stupid?",
    "op": "0x62",
    "msg": "0x5552"
   },
@@ -528,7 +528,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "試すって\\n何する気",
-   "en": "Check? What are\\nyou planning to\\ndo...",
+   "en": "Check? What\\nare you\\nplanning to do...",
    "op": "0x62",
    "msg": "0x5554"
   },
@@ -538,7 +538,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "ぎゃーっ！\\n土方さん助けて\\nこいつヘンタイだよ！",
-   "en": "Gyaaah!\\nHijikata-san, help!\\nThis guy's a\\npervert!",
+   "en": "Gyaaah!\\nHijikata-san,\\nhelp! This\\nguy's a pervert!",
    "op": "0x62",
    "msg": "0x5555"
   },
@@ -548,7 +548,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "ヘンタイ？\\nニッポンの褒め言葉か？\\n嬉しいね",
-   "en": "Pervert? Is that a\\ncompliment in\\nNippon? I'm\\nflattered.",
+   "en": "Pervert? Is that\\na compliment\\nin Nippon? I'm\\nflattered.",
    "op": "0x62",
    "msg": "0x5556"
   },
@@ -588,7 +588,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "出発の合図だ\\n行かなければ",
-   "en": "That's the signal\\nto depart. I must\\ngo.",
+   "en": "That's the\\nsignal to depart.\\nI must go.",
    "op": "0x62",
    "msg": "0x555a"
   },
@@ -598,7 +598,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "ジュニアが\\n手を差し伸べる",
-   "en": "Junior held out\\nhis hand.",
+   "en": "Junior held\\nout his hand.",
    "op": "0x62",
    "msg": "0x555b"
   },
@@ -608,7 +608,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "一人一人と握手を交わし\\nやがて龍馬の番になった",
-   "en": "He shook hands\\nwith each of them\\nin turn, until at\\nlast it was\\nRyoma's turn.",
+   "en": "He shook hands\\nwith each of\\nthem in turn,\\nuntil at last it\\nwas Ryoma's turn.",
    "op": "0x62",
    "msg": "0x555c"
   },
@@ -648,7 +648,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "シーユー　アゲイン\\n……またな　リョーマ\\nオレのライバル",
-   "en": "See you again...\\nLater, Ryoma. My\\nrival.",
+   "en": "See you again...\\nLater, Ryoma.\\nMy rival.",
    "op": "0x62",
    "msg": "0x5560"
   },
@@ -658,7 +658,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "なっ　あのジュニアが\\n男相手に抱擁だと",
-   "en": "Wha-- THE\\nJunior, hugging a\\nman?",
+   "en": "Wha-- THE\\nJunior, hugging\\na man?",
    "op": "0x62",
    "msg": "0x5561"
   },
@@ -708,7 +708,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "本当にそうなら\\nこれほど嬉しい\\nことはない",
-   "en": "If that's really\\ntrue, nothing\\ncould make me\\nhappier.",
+   "en": "If that's really\\ntrue, nothing\\ncould make\\nme happier.",
    "op": "0x62",
    "msg": "0x5566"
   },
@@ -758,7 +758,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "さあ　全員揃ってるな？\\nステイツでレディたちが\\n待ってるぞ！",
-   "en": "Now, is everyone\\nhere? The ladies\\nare waiting for us\\nin the States!",
+   "en": "Now, is everyone\\nhere? The ladies\\nare waiting for\\nus in the States!",
    "op": "0x62",
    "msg": "0x556b"
   },

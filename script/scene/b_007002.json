@@ -48,7 +48,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "……けれど\\n君達には祈るよ",
-   "en": "...But for you two,\\nI'll pray.",
+   "en": "...But for you\\ntwo, I'll pray.",
    "op": "0x62",
    "msg": "0x30ce"
   },
@@ -78,7 +78,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "そしたら　君達は\\n僕を出し抜けるよ",
-   "en": "Then you'll have\\ngotten one over\\non me.",
+   "en": "Then you'll\\nhave gotten\\none over on me.",
    "op": "0x62",
    "msg": "0x30d1"
   },
@@ -88,7 +88,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "近藤さんに一足早く\\n会えるんだから……",
-   "en": "Since you'll get to\\nsee Kondo-san\\nbefore I do...",
+   "en": "Since you'll get\\nto see Kondo-san\\nbefore I do...",
    "op": "0x62",
    "msg": "0x30d2"
   },
@@ -158,7 +158,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "沖田は空を見上げて\\nもう一度\\n月へと語りかける",
-   "en": "Okita looked up\\nat the sky and\\nspoke to the moon\\nonce more.",
+   "en": "Okita looked up\\nat the sky and\\nspoke to the\\nmoon once more.",
    "op": "0x62",
    "msg": "0x30d9"
   },
@@ -168,7 +168,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "どんなに闇が暗くても\\nどんなに道が険しくても\\nもう　見失うことはない",
-   "en": "No matter how\\ndark the night, no\\nmatter how steep\\nthe road, I won't\\nlose my way\\nagain.",
+   "en": "No matter how\\ndark the night,\\nno matter how\\nsteep the road,\\nI won't lose my\\nway again.",
    "op": "0x62",
    "msg": "0x30da"
   },
@@ -178,7 +178,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "僕の心に……闇の中にも\\n貴方という月は\\n輝き続けるから",
-   "en": "Because in my\\nheart... even in\\nthe dark, the\\nmoon that is you\\nwill keep on\\nshining.",
+   "en": "Because in my\\nheart... even in\\nthe dark, the\\nmoon that is\\nyou will keep\\non shining.",
    "op": "0x62",
    "msg": "0x30db"
   }

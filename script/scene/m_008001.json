@@ -18,7 +18,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "井伊の罠にかかり\\n龍馬は捕らえられてしまった\\nその行方は杳として\\n知れない",
-   "en": "Ryoma had fallen\\ninto Ii's trap and\\nbeen captured.\\nWhere he was, no\\none could say.",
+   "en": "Ryoma had fallen\\ninto Ii's trap and\\nbeen captured.\\nWhere he was,\\nno one could say.",
    "op": "0x62",
    "msg": "0x169f"
   },
@@ -108,7 +108,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "幕府は　どこに\\n龍馬くんを隠して\\nしまったんでしょうか",
-   "en": "Where could the\\nshogunate have\\nhidden\\nRyoma-kun?",
+   "en": "Where could\\nthe shogunate\\nhave hidden\\nRyoma-kun?",
    "op": "0x62",
    "msg": "0x16a8"
   },
@@ -138,7 +138,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "ああ\\n噂をすれば……",
-   "en": "Ah... Speak of the\\ndevil...",
+   "en": "Ah... Speak\\nof the devil...",
    "op": "0x62",
    "msg": "0x16ab"
   },
@@ -188,7 +188,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "そうやって　余裕を\\n見せていられるのも\\n今の内だけさ",
-   "en": "You can play it\\ncool now, but not\\nfor long.",
+   "en": "You can play it\\ncool now, but\\nnot for long.",
    "op": "0x62",
    "msg": "0x16b0"
   },
@@ -208,7 +208,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "ボウヤが高杉晋作だね？\\nで　そっちが桂小五郎",
-   "en": "You're Shinsaku\\nTakasugi, aren't\\nyou, boy? And\\nthat one's Kogoro\\nKatsura.",
+   "en": "You're Shinsaku\\nTakasugi, aren't\\nyou, boy? And\\nthat one's\\nKogoro Katsura.",
    "op": "0x62",
    "msg": "0x16b2"
   },
@@ -228,7 +228,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "晋作\\n用心して",
-   "en": "Shinsaku, be\\ncareful.",
+   "en": "Shinsaku,\\nbe careful.",
    "op": "0x62",
    "msg": "0x16b4"
   },
@@ -238,7 +238,7 @@
    "max": 84,
    "kind": "dialogue",
    "jp": "少女が　ただ迷い込んで\\nきただけの人物ではないと\\nわかり二人の間には\\n緊張が走る",
-   "en": "Realizing the girl\\nwas no mere stray\\nwho had\\nwandered in, the\\ntwo tensed up.",
+   "en": "Realizing the\\ngirl was no mere\\nstray who had\\nwandered in, the\\ntwo tensed up.",
    "op": "0x62",
    "msg": "0x16b5"
   },
@@ -258,7 +258,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "でもね　用心なんて\\n必要ないわ",
-   "en": "But you know,\\nthere's no need to\\nbe careful.",
+   "en": "But you know,\\nthere's no need\\nto be careful.",
    "op": "0x62",
    "msg": "0x16b7"
   },
@@ -308,7 +308,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "……名乗っておいた\\n方がいいぞ",
-   "en": "...You'd do well to\\ntell us.",
+   "en": "...You'd do\\nwell to tell us.",
    "op": "0x62",
    "msg": "0x16bc"
   },
@@ -318,7 +318,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "今　オレ様に遊んでやる\\n余裕はないからな",
-   "en": "Yours truly has\\nno time to play\\ngames with you\\nright now.",
+   "en": "Yours truly has\\nno time to play\\ngames with\\nyou right now.",
    "op": "0x62",
    "msg": "0x16bd"
   },
@@ -348,7 +348,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "身構える高杉達に対し\\n少女達には余裕がある\\n微笑んでさえいた",
-   "en": "Takasugi and\\nKatsura were on\\nguard, but the\\ngirls were\\nrelaxed. They\\nwere even\\nsmiling.",
+   "en": "Takasugi and\\nKatsura were\\non guard,\\nbut the girls\\nwere relaxed.\\nThey were\\neven smiling.",
    "op": "0x62",
    "msg": "0x16c0"
   },
@@ -368,7 +368,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "このバカ\\n正直に答えるんじゃ\\nないよ！",
-   "en": "You idiot, don't\\nanswer him\\nhonestly!",
+   "en": "You idiot,\\ndon't answer\\nhim honestly!",
    "op": "0x62",
    "msg": "0x16c2"
   },
@@ -388,7 +388,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "……名前を聞かなくちゃ\\n女も口説けないボウヤなら\\n仕方ないわね",
-   "en": "...Well, if you're a\\nboy who can't\\neven sweet-talk a\\ngirl without\\nasking her name,\\nI guess it can't be\\nhelped.",
+   "en": "...Well, if you're\\na boy who can't\\neven sweet-talk\\na girl without\\nasking her\\nname, I guess it\\ncan't be helped.",
    "op": "0x62",
    "msg": "0x16c4"
   },
@@ -428,7 +428,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "三人揃って――",
-   "en": "Together, we\\nare--",
+   "en": "Together,\\nwe are--",
    "op": "0x62",
    "msg": "0x16c8"
   },
@@ -438,7 +438,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "黄泉の歌姫！\\n\\col1暗黒桜桃隊！\\n（ダークチェリーズ）\\col0",
-   "en": "Divas of the\\nUnderworld! \\col1Dark\\nCherries!\\col0",
+   "en": "Divas of the\\nUnderworld!\\n\\col1Dark Cherries!\\col0",
    "op": "0x62",
    "msg": "0x16c9"
   },
@@ -448,7 +448,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "なんなんだ\\nてめぇらは……",
-   "en": "What the hell are\\nyou people...",
+   "en": "What the hell\\nare you people...",
    "op": "0x62",
    "msg": "0x16ca"
   },
@@ -458,7 +458,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "だーくちぇりーずだか\\n万願寺とうがらしだか\\n知らねえが",
-   "en": "Dark Cherries,\\ndark chili\\npeppers, I don't\\ncare what you call\\nyourselves...",
+   "en": "Dark Cherries,\\ndark chili\\npeppers, I don't\\ncare what you\\ncall yourselves...",
    "op": "0x62",
    "msg": "0x16cb"
   },
@@ -488,7 +488,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "うるさい男ね\\nせっかちな男は\\n嫌われるよ",
-   "en": "What a noisy man.\\nImpatient men\\ndon't get the girl,\\nyou know.",
+   "en": "What a noisy\\nman. Impatient\\nmen don't get the\\ngirl, you know.",
    "op": "0x62",
    "msg": "0x16ce"
   },
@@ -498,7 +498,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "……な　なんだとっ！",
-   "en": "...Wh-what did\\nyou say!?",
+   "en": "...Wh-what\\ndid you say!?",
    "op": "0x62",
    "msg": "0x16cf"
   },
@@ -508,7 +508,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "アタシたちは　アンタらの\\nためを思って足を運んで\\nやったんだからさ",
-   "en": "We came all the\\nway out here for\\nyour sake, you\\nknow.",
+   "en": "We came all\\nthe way out\\nhere for your\\nsake, you know.",
    "op": "0x62",
    "msg": "0x16d0"
   },
@@ -538,7 +538,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "まぁ　引き延ばしても\\n仕方ないね\\n本題に入ろうじゃないか",
-   "en": "Well, no point\\ndragging it out.\\nLet's get down to\\nbusiness.",
+   "en": "Well, no point\\ndragging it out.\\nLet's get down\\nto business.",
    "op": "0x62",
    "msg": "0x16d3"
   },
@@ -588,7 +588,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "あら……\\nそちらの殿方は……\\nおわかりのようね……",
-   "en": "Oh... The\\ngentleman over\\nthere... seems to\\nunderstand...",
+   "en": "Oh... The\\ngentleman over\\nthere... seems\\nto understand...",
    "op": "0x62",
    "msg": "0x16d8"
   },
@@ -628,7 +628,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "そぉそぉ！\\n姐さんを怒らせるとぉ\\nすっごく怖いんだからぁ！",
-   "en": "Yup, yup! If you\\nmake Sis mad, she\\ngets suuuper\\nscary!",
+   "en": "Yup, yup! If\\nyou make Sis\\nmad, she gets\\nsuuuper scary!",
    "op": "0x62",
    "msg": "0x16dc"
   },
@@ -648,7 +648,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "でもね\\nこの子達の言うとおりさ",
-   "en": "But you know,\\nthese girls are\\nright.",
+   "en": "But you know,\\nthese girls\\nare right.",
    "op": "0x62",
    "msg": "0x16de"
   },
@@ -658,7 +658,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "次に会ったとき　もしも\\nまだアンタらが　幕府の敵\\nだったとしたら……",
-   "en": "If, next time we\\nmeet, you're still\\nenemies of the\\nshogunate...",
+   "en": "If, next time\\nwe meet, you're\\nstill enemies of\\nthe shogunate...",
    "op": "0x62",
    "msg": "0x16df"
   },
@@ -708,7 +708,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "龍馬くんへ繋がる\\n手がかりが\\n途絶えてしまいます！",
-   "en": "We'll lose our only\\nlead to\\nRyoma-kun!",
+   "en": "We'll lose our\\nonly lead to\\nRyoma-kun!",
    "op": "0x62",
    "msg": "0x16e4"
   },
@@ -728,7 +728,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "男と女の関係は\\n駆け引きが大事なのさ\\n覚えておきなさい",
-   "en": "Between a man\\nand a woman, it's\\nall about the\\ngame of give and\\ntake. Remember\\nthat...",
+   "en": "Between a man\\nand a woman,\\nit's all about the\\ngame of give\\nand take.\\nRemember that...",
    "op": "0x62",
    "msg": "0x16e6"
   },
@@ -758,7 +758,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "伝えることはこれだけ\\nじゃあ　引きあげるよ",
-   "en": "That's all we came\\nto say. Let's head\\nout.",
+   "en": "That's all we\\ncame to say.\\nLet's head out.",
    "op": "0x62",
    "msg": "0x16e9"
   },
@@ -778,7 +778,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "ぁのねぇ\\n帰りにちょっとぉ\\n茶店（カフェ）に\\n寄りたいなぁ～",
-   "en": "Ummm, on the\\nway back, can we\\nstop by a cafe for\\na bit~?",
+   "en": "Ummm, on the\\nway back, can\\nwe stop by a\\ncafe for a bit~?",
    "op": "0x62",
    "msg": "0x16eb"
   },
@@ -808,7 +808,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "待てと言われて\\n待つ女は二流よ",
-   "en": "A woman who\\nwaits just because\\nshe's told to is\\nsecond-rate.",
+   "en": "A woman who\\nwaits just\\nbecause she's told\\nto is second-rate.",
    "op": "0x62",
    "msg": "0x16ee"
   },
@@ -838,7 +838,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "高杉と桂は険しい\\n表情で少女達を\\n睨み付ける",
-   "en": "Takasugi and\\nKatsura glared at\\nthe girls with\\ngrim faces.",
+   "en": "Takasugi and\\nKatsura glared\\nat the girls with\\ngrim faces.",
    "op": "0x62",
    "msg": "0x16f1"
   },
@@ -848,7 +848,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "だが\\nお龍はむしろ\\n陽気で楽しげな\\n笑みを見せた",
-   "en": "But if anything,\\nOryo flashed a\\ncheerful, amused\\nsmile.",
+   "en": "But if anything,\\nOryo flashed a\\ncheerful,\\namused smile.",
    "op": "0x62",
    "msg": "0x16f2"
   },
@@ -858,7 +858,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "そっちの都合なんて\\n知ったこっちゃないよ",
-   "en": "What you want is\\nnone of my\\nconcern.",
+   "en": "What you\\nwant is none\\nof my concern.",
    "op": "0x62",
    "msg": "0x16f3"
   },
@@ -868,7 +868,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "そして　坂本龍馬の安否も\\nアタシらには関係ないのさ",
-   "en": "And whether\\nRyoma Sakamoto\\nlives or dies\\ndoesn't matter to\\nus either.",
+   "en": "And whether\\nRyoma Sakamoto\\nlives or dies\\ndoesn't matter\\nto us either.",
    "op": "0x62",
    "msg": "0x16f4"
   },
@@ -898,7 +898,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "ん？\\nおまえら\\nまさか……",
-   "en": "Hm? You... don't\\ntell me...",
+   "en": "Hm? You...\\ndon't tell me...",
    "op": "0x62",
    "msg": "0x16f7"
   },
@@ -918,7 +918,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "沖田と\\n三人の娘達の間に\\n緊張が走る",
-   "en": "Tension ran\\nbetween Okita\\nand the three\\ngirls.",
+   "en": "Tension ran\\nbetween\\nOkita and the\\nthree girls.",
    "op": "0x62",
    "msg": "0x16f9"
   },
@@ -928,7 +928,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "沖田の手は\\nとっさに刀の柄へと\\nかかっている",
-   "en": "Okita's hand had\\nalready flown to\\nthe hilt of his\\nsword.",
+   "en": "Okita's hand\\nhad already\\nflown to the hilt\\nof his sword.",
    "op": "0x62",
    "msg": "0x16fa"
   },
@@ -948,7 +948,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "今はやり合わないよ\\n沖田さん\\nそれはまたの機会だ",
-   "en": "We won't fight\\nnow, Okita-san.\\nThat's for another\\ntime.",
+   "en": "We won't fight\\nnow, Okita-san.\\nThat's for\\nanother time.",
    "op": "0x62",
    "msg": "0x16fc"
   },
@@ -1008,7 +1008,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "……ありえねえ\\nあっという間に消えた",
-   "en": "...No way. They\\nvanished just like\\nthat.",
+   "en": "...No way.\\nThey vanished\\njust like that.",
    "op": "0x62",
    "msg": "0x1702"
   },
@@ -1018,7 +1018,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "さもありなん\\nだね",
-   "en": "Figures they\\nwould.",
+   "en": "Figures\\nthey would.",
    "op": "0x62",
    "msg": "0x1703"
   },
@@ -1028,7 +1028,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "なんだったんた\\nあいつら！",
-   "en": "What the hell was\\nthat about!?",
+   "en": "What the hell\\nwas that about!?",
    "op": "0x62",
    "msg": "0x1704"
   },
@@ -1038,7 +1038,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "沖田くんは知っていた\\nみたいですが",
-   "en": "It seemed like you\\nknew them,\\nOkita-kun.",
+   "en": "It seemed like\\nyou knew them,\\nOkita-kun.",
    "op": "0x62",
    "msg": "0x1705"
   },
@@ -1058,7 +1058,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "だけど説明は後\\nそれよりも\\nここを出るよ",
-   "en": "But I'll explain\\nlater. More\\nimportantly, we're\\ngetting out of\\nhere.",
+   "en": "But I'll explain\\nlater. More\\nimportantly,\\nwe're getting\\nout of here.",
    "op": "0x62",
    "msg": "0x1707"
   },
@@ -1088,7 +1088,7 @@
    "max": 124,
    "kind": "dialogue",
    "jp": "三人娘に\\n見つかったからには\\nこの潜伏場所は無駄だと\\n沖田に主張され　高杉達は\\n人目を避けつつテラーダへ\\nと戻ってきていた",
-   "en": "Since the three\\ngirls had found\\nthem, Okita called\\nthe hideout\\nuseless, so\\nTakasugi's group\\nslipped back to\\nTerada unseen.",
+   "en": "Since the three\\ngirls had found\\nthem, Okita\\ncalled the hideout\\nuseless, so\\nTakasugi's group\\nslipped back to\\nTerada unseen.",
    "op": "0x62",
    "msg": "0x170a"
   },
@@ -1155,7 +1155,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "ちょっとしたって\\nなんだよ",
-   "en": "What do you\\nmean, \"just\\nsome\"?",
+   "en": "What do\\nyou mean,\\n\"just some\"?",
    "op": "0x62",
    "msg": "0x170e"
   },
@@ -1165,7 +1165,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "ちょっとは\\nちょっとだよ",
-   "en": "\"Just some\" means\\njust some.",
+   "en": "\"Just some\"\\nmeans just some.",
    "op": "0x62",
    "msg": "0x170f"
   },
@@ -1185,7 +1185,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "そんなわけないだろう\\n土方さんが合流したら\\nその時に話すよ",
-   "en": "Of course not. I'll\\ntell you once\\nHijikata-san joins\\nus.",
+   "en": "Of course not.\\nI'll tell you once\\nHijikata-san\\njoins us.",
    "op": "0x62",
    "msg": "0x1711"
   },
@@ -1215,7 +1215,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "今でいいだろ",
-   "en": "Now works just\\nfine.",
+   "en": "Now works\\njust fine.",
    "op": "0x62",
    "msg": "0x1714"
   },
@@ -1225,7 +1225,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "スカシくんはせっかちだね\\nそういう男は女性に\\n嫌われるものだよ",
-   "en": "You're so\\nimpatient, Mr.\\nPoser. Women\\ndon't like that\\nkind of man, you\\nknow.",
+   "en": "You're so\\nimpatient, Mr.\\nPoser. Women\\ndon't like that\\nkind of man,\\nyou know.",
    "op": "0x62",
    "msg": "0x1715"
   },
@@ -1245,7 +1245,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "今は女の話なんて\\n関係ない！",
-   "en": "Women have\\nnothing to do\\nwith this right\\nnow!",
+   "en": "Women have\\nnothing to\\ndo with this\\nright now!",
    "op": "0x62",
    "msg": "0x1717"
   },
@@ -1305,7 +1305,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "僕　そういう無駄なこと\\nするの嫌いなんだよね",
-   "en": "And I really hate\\nwasting effort\\nlike that.",
+   "en": "And I really\\nhate wasting\\neffort like that.",
    "op": "0x62",
    "msg": "0x171d"
   },
@@ -1315,7 +1315,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "たしかにお前なんかに\\n聞くよりは　土方に聞く\\n方がいいだろう",
-   "en": "Sure, asking\\nHijikata beats\\nasking the likes\\nof you.",
+   "en": "Sure, asking\\nHijikata beats\\nasking the\\nlikes of you.",
    "op": "0x62",
    "msg": "0x171e"
   },
@@ -1335,7 +1335,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "お前には嫌味も\\n通じないのかっ",
-   "en": "Does sarcasm not\\neven get through\\nto you!?",
+   "en": "Does sarcasm\\nnot even get\\nthrough to you!?",
    "op": "0x62",
    "msg": "0x1720"
   },
@@ -1375,7 +1375,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "そして　そこのお子様にも\\nお行儀よくしてもらえると\\n助かるんですけど",
-   "en": "And I'd\\nappreciate it if\\nthe child over\\nthere could mind\\nhis manners as\\nwell.",
+   "en": "And I'd\\nappreciate it if\\nthe child over\\nthere could\\nmind his\\nmanners as well.",
    "op": "0x62",
    "msg": "0x1724"
   },
@@ -1405,7 +1405,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "あは　ごめんなさい\\n聞こえました？",
-   "en": "Aha, my\\napologies. Did you\\nhear that?",
+   "en": "Aha, my\\napologies. Did\\nyou hear that?",
    "op": "0x62",
    "msg": "0x1727"
   },
@@ -1455,7 +1455,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "ちっ\\nこのオレ様にケンカの\\n仲裁なんかさせやがって",
-   "en": "Tch. Making the\\ngreat Takasugi\\nbreak up a\\nsquabble...",
+   "en": "Tch. Making\\nthe great\\nTakasugi break\\nup a squabble...",
    "op": "0x62",
    "msg": "0x172c"
   },
@@ -1485,7 +1485,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "おまえたち\\n無事だったか",
-   "en": "You're all safe,\\nthen.",
+   "en": "You're all\\nsafe, then.",
    "op": "0x62",
    "msg": "0x172f"
   },
@@ -1515,7 +1515,7 @@
    "max": 80,
    "kind": "dialogue",
    "jp": "疲れた様子の高杉を見て\\n土方は首をかしげるが\\nその興味は余り長く\\n続かなかった",
-   "en": "Hijikata tilted his\\nhead at the\\nworn-out\\nTakasugi, but his\\ninterest didn't\\nlast long.",
+   "en": "Hijikata tilted\\nhis head at the\\nworn-out\\nTakasugi, but\\nhis interest\\ndidn't last long.",
    "op": "0x62",
    "msg": "0x1732"
   },
@@ -1535,7 +1535,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "暗黒桜桃隊が\\n現れたという\\n書き置きを見た",
-   "en": "I saw the note\\nsaying the Dark\\nCherries showed\\nup.",
+   "en": "I saw the note\\nsaying the\\nDark Cherries\\nshowed up.",
    "op": "0x62",
    "msg": "0x1734"
   },
@@ -1565,7 +1565,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "お前達の顔色を\\n見る限りじゃ\\n楽しい話じゃなさそうだが",
-   "en": "Judging by your\\nfaces, it's not\\ngoing to be a fun\\nstory.",
+   "en": "Judging by\\nyour faces, it's\\nnot going to\\nbe a fun story.",
    "op": "0x62",
    "msg": "0x1737"
   },
@@ -1575,7 +1575,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "そうだね\\n説明をしよう",
-   "en": "Right. Let me\\nexplain.",
+   "en": "Right. Let\\nme explain.",
    "op": "0x62",
    "msg": "0x1738"
   },
@@ -1585,7 +1585,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "あいつらは幕府直轄の\\n愛獲三娘（ユニット）だよ",
-   "en": "They're an idol\\nunit under the\\nshogunate's direct\\ncontrol.",
+   "en": "They're an idol\\nunit under the\\nshogunate's\\ndirect control.",
    "op": "0x62",
    "msg": "0x1739"
   },
@@ -1595,7 +1595,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "愛獲だと？\\nそれにしちゃ\\n聞いたことがないな",
-   "en": "Idols? Funny, I've\\nnever heard of\\n'em.",
+   "en": "Idols? Funny,\\nI've never\\nheard of 'em.",
    "op": "0x62",
    "msg": "0x173a"
   },
@@ -1605,7 +1605,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "あいつらは新選組の\\n妹分として新たに\\n発足したばかりだが……",
-   "en": "They were only\\njust formed, as a\\nlittle sister group\\nto the\\nShinsengumi,\\nbut...",
+   "en": "They were only\\njust formed, as\\na little sister\\ngroup to the\\nShinsengumi,\\nbut...",
    "op": "0x62",
    "msg": "0x173b"
   },
@@ -1625,7 +1625,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "あいつらの宣伝文句は\\n――黄泉の歌姫",
-   "en": "Their tagline is...\\n\"Divas of the\\nUnderworld.\"",
+   "en": "Their tagline\\nis... \"Divas of the\\nUnderworld.\"",
    "op": "0x62",
    "msg": "0x173d"
   },
@@ -1635,7 +1635,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "正直　僕でもちょっと\\nひいちゃうくらいに\\nヤバイんだよね",
-   "en": "Honestly, they're\\nso bad news even\\nI get a little\\ncreeped out.",
+   "en": "Honestly, they're\\nso bad news\\neven I get a little\\ncreeped out.",
    "op": "0x62",
    "msg": "0x173e"
   },
@@ -1645,7 +1645,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "ヤバイ？\\nどうヤバイんだ",
-   "en": "Bad news? Bad\\nhow?",
+   "en": "Bad news?\\nBad how?",
    "op": "0x62",
    "msg": "0x173f"
   },
@@ -1655,7 +1655,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "彼女達の歌唱力は\\n決して高いとは\\n言えない",
-   "en": "Their singing\\nability is far from\\nimpressive.",
+   "en": "Their singing\\nability is far\\nfrom impressive.",
    "op": "0x62",
    "msg": "0x1740"
   },
@@ -1665,7 +1665,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "だったら　オレ様達の\\n敵じゃねえ　何をそんなに\\nビビってるんだ？",
-   "en": "Then they're no\\nmatch for the\\nlikes of us. What\\nare you so\\nspooked about?",
+   "en": "Then they're no\\nmatch for the\\nlikes of us.\\nWhat are you so\\nspooked about?",
    "op": "0x62",
    "msg": "0x1741"
   },
@@ -1675,7 +1675,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "新選組を光とすれば\\n奴らは闇を背負う者\\nとでも言おうか",
-   "en": "If the\\nShinsengumi are\\nthe light, then\\nthey're the ones\\nwho carry the\\ndarkness, you\\nmight say.",
+   "en": "If the\\nShinsengumi\\nare the light,\\nthen they're the\\nones who carry\\nthe darkness,\\nyou might say.",
    "op": "0x62",
    "msg": "0x1742"
   },
@@ -1695,7 +1695,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "見かけは美しい少女だ",
-   "en": "On the outside,\\nthey're beautiful\\ngirls.",
+   "en": "On the outside,\\nthey're\\nbeautiful girls.",
    "op": "0x62",
    "msg": "0x1744"
   },
@@ -1715,7 +1715,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "平たく言えば\\n暗殺専門の愛獲なのさ",
-   "en": "Put simply,\\nthey're idols who\\nspecialize in\\nassassination.",
+   "en": "Put simply,\\nthey're idols\\nwho specialize\\nin assassination.",
    "op": "0x62",
    "msg": "0x1746"
   },
@@ -1725,7 +1725,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "僕に言わせれば\\n愛獲とは名ばかりで仕事の\\n内容はゲスの極みだけどね",
-   "en": "If you ask me,\\nthey're idols in\\nname only. The\\nwork they do is\\nthe lowest of the\\nlow.",
+   "en": "If you ask me,\\nthey're idols in\\nname only. The\\nwork they do is\\nthe lowest of\\nthe low.",
    "op": "0x62",
    "msg": "0x1747"
   },
@@ -1735,7 +1735,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "暗殺だと？\\n穏やかじゃねえな",
-   "en": "Assassination?\\nNow that ain't\\npretty.",
+   "en": "Assassination?\\nNow that\\nain't pretty.",
    "op": "0x62",
    "msg": "0x1748"
   },
@@ -1745,7 +1745,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "目的を達するためなら\\nどんなエグい手でも\\n使うんだ",
-   "en": "They'll use any\\ndirty trick there\\nis to get the job\\ndone.",
+   "en": "They'll use\\nany dirty trick\\nthere is to get\\nthe job done.",
    "op": "0x62",
    "msg": "0x1749"
   },
@@ -1755,7 +1755,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "お前らが無事だったのは\\n運良く　その命が下りて\\nいなかっただけだろう",
-   "en": "You lot are only\\nsafe because, by\\nluck, they weren't\\nordered to kill\\nyou yet.",
+   "en": "You lot are only\\nsafe because,\\nby luck, they\\nweren't ordered\\nto kill you yet.",
    "op": "0x62",
    "msg": "0x174a"
   },
@@ -1765,7 +1765,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "オレ様があんな女どもに\\n後れを取るとでも？",
-   "en": "You think yours\\ntruly would lose\\nto women like\\nthat?",
+   "en": "You think yours\\ntruly would\\nlose to women\\nlike that?",
    "op": "0x62",
    "msg": "0x174b"
   },
@@ -1775,7 +1775,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "女と言って\\nあいつらを甘く見るな\\n容赦のない連中だ",
-   "en": "Don't go easy on\\nthem just because\\nthey're women.\\nThey show no\\nmercy.",
+   "en": "Don't go easy\\non them just\\nbecause they're\\nwomen. They\\nshow no mercy.",
    "op": "0x62",
    "msg": "0x174c"
   },
@@ -1815,7 +1815,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "数日中に……",
-   "en": "In the next few\\ndays...",
+   "en": "In the next\\nfew days...",
    "op": "0x62",
    "msg": "0x1750"
   },
@@ -1875,7 +1875,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "て……てめえっ！\\nそんなことなら悠長に\\n話してる場合かよ！",
-   "en": "Y-you bastard! If\\nthat's the case,\\nwhy are you\\ndawdling with all\\nthis talk!?",
+   "en": "Y-you bastard! If\\nthat's the case,\\nwhy are you\\ndawdling with\\nall this talk!?",
    "op": "0x62",
    "msg": "0x1756"
   },
@@ -1885,7 +1885,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "くそ……っ！　あいつら\\nあの時　素直に帰すんじゃ\\nなかったぜ！",
-   "en": "Dammit...! I never\\nshould've let\\nthose girls walk\\nout of here so\\neasily!",
+   "en": "Dammit...! I\\nnever should've\\nlet those girls\\nwalk out of\\nhere so easily!",
    "op": "0x62",
    "msg": "0x1757"
   },
@@ -1915,7 +1915,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "そういうところまで\\n見透かされてるんだよ",
-   "en": "See? They've seen\\nright through\\nyou, even that\\npart.",
+   "en": "See? They've\\nseen right\\nthrough you,\\neven that part.",
    "op": "0x62",
    "msg": "0x175a"
   },
@@ -1935,7 +1935,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "それでも捕まえるくらいは\\nしておけばよかったですね",
-   "en": "Still, we should at\\nleast have\\ncaptured them.",
+   "en": "Still, we should\\nat least have\\ncaptured them.",
    "op": "0x62",
    "msg": "0x175c"
   },
@@ -1945,7 +1945,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "そうしていたら\\n私の発明で　何が何でも\\n吐かせてみせたのに",
-   "en": "Then I could have\\nused my\\ninventions to\\nmake them talk,\\nwhatever it took.",
+   "en": "Then I could\\nhave used my\\ninventions to\\nmake them talk,\\nwhatever it took.",
    "op": "0x62",
    "msg": "0x175d"
   },
@@ -1955,7 +1955,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "焦燥感を募らせる\\n二人に土方が\\n声をかける",
-   "en": "Hijikata spoke up\\nto the two of\\nthem as their\\nfrustration\\nmounted.",
+   "en": "Hijikata spoke\\nup to the two of\\nthem as their\\nfrustration\\nmounted.",
    "op": "0x62",
    "msg": "0x175e"
   },
@@ -2005,7 +2005,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "そうだ\\nそして　そこで\\n坂本を奪い返す！",
-   "en": "Exactly. And\\nthat's where we\\ntake Sakamoto\\nback!",
+   "en": "Exactly. And\\nthat's where\\nwe take\\nSakamoto back!",
    "op": "0x62",
    "msg": "0x1763"
   },
@@ -2025,7 +2025,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "十中八九\\n君達をおびき寄せる\\nためじゃないかな",
-   "en": "...is ten to one to\\nlure you guys out,\\nI'd say.",
+   "en": "...is ten to one\\nto lure you guys\\nout, I'd say.",
    "op": "0x62",
    "msg": "0x1765"
   },
@@ -2075,7 +2075,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "でも　問題は\\n暗黒桜桃隊だよ",
-   "en": "But the problem\\nis the Dark\\nCherries.",
+   "en": "But the\\nproblem is the\\nDark Cherries.",
    "op": "0x62",
    "msg": "0x176a"
   },
@@ -2095,7 +2095,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "真っ正面からやり合えば\\n沖田くんがケガを覚悟する\\nほどの相手なんですか……",
-   "en": "They're\\nopponents who\\ncould hurt even\\nyou in a head-on\\nfight,\\nOkita-kun...?",
+   "en": "They're\\nopponents who\\ncould hurt\\neven you in a\\nhead-on fight,\\nOkita-kun...?",
    "op": "0x62",
    "msg": "0x176c"
   },
@@ -2105,7 +2105,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "それについては\\n俺と総司で　どうにか\\nするしかあるまい",
-   "en": "As for that, Soji\\nand I will just\\nhave to handle it\\nsomehow.",
+   "en": "As for that, Soji\\nand I will just\\nhave to handle\\nit somehow.",
    "op": "0x62",
    "msg": "0x176d"
   },
@@ -2165,7 +2165,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "その頃\\n城内では……",
-   "en": "Meanwhile, inside\\nthe castle...",
+   "en": "Meanwhile,\\ninside the castle...",
    "op": "0x62",
    "msg": "0x1773"
   },
@@ -2175,7 +2175,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "捕らえた坂本の様子は\\nどうだ？　お龍",
-   "en": "How fares our\\ncaptive Sakamoto,\\nOryo?",
+   "en": "How fares our\\ncaptive\\nSakamoto, Oryo?",
    "op": "0x62",
    "msg": "0x1774"
   },
@@ -2205,7 +2205,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "坂本龍馬には　日がな一日\\n天歌を聴かせ　逆らう\\n気力を奪っております",
-   "en": "We make Ryoma\\nSakamoto listen to\\nHeaven's Song all\\nday long,\\ndraining his will\\nto resist.",
+   "en": "We make Ryoma\\nSakamoto listen\\nto Heaven's\\nSong all day\\nlong, draining\\nhis will to resist.",
    "op": "0x62",
    "msg": "0x1777"
   },
@@ -2215,7 +2215,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "あの様子では\\n逃亡を図ることなど\\n夢のまた夢",
-   "en": "In that state,\\nescape is nothing\\nbut a distant\\ndream.",
+   "en": "In that state,\\nescape is\\nnothing but a\\ndistant dream.",
    "op": "0x62",
    "msg": "0x1778"
   },
@@ -2245,7 +2245,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "それまで　奴を殺すな\\nだが　出来るだけ\\n苦しませろ",
-   "en": "Don't let him die\\nbefore then. But\\nmake him suffer\\nas much as you\\ncan.",
+   "en": "Don't let him\\ndie before then.\\nBut make him\\nsuffer as much\\nas you can.",
    "op": "0x62",
    "msg": "0x177b"
   },
@@ -2255,7 +2255,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "苦しめば苦しむほど\\n解放されたとき　魂は\\n大きく輝くものだ",
-   "en": "The more a soul\\nsuffers, the\\nbrighter it shines\\nwhen it is\\nreleased.",
+   "en": "The more a\\nsoul suffers,\\nthe brighter it\\nshines when\\nit is released.",
    "op": "0x62",
    "msg": "0x177c"
   },
@@ -2285,7 +2285,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "城内　別所――",
-   "en": "Elsewhere in the\\ncastle--",
+   "en": "Elsewhere in\\nthe castle--",
    "op": "0x62",
    "msg": "0x177f"
   },
@@ -2305,7 +2305,7 @@
    "max": 96,
    "kind": "dialogue",
    "jp": "龍馬は周囲を\\n武士達に取り囲まれ\\n常にそらんじられる\\n天歌によって逃亡する\\n気力を奪われていた",
-   "en": "Surrounded by\\nsamurai, Ryoma\\nwas robbed of the\\nwill to escape by\\nHeaven's Song,\\nwhich they\\nrecited nonstop.",
+   "en": "Surrounded by\\nsamurai, Ryoma\\nwas robbed of\\nthe will to escape\\nby Heaven's\\nSong, which they\\nrecited nonstop.",
    "op": "0x62",
    "msg": "0x1781"
   },
@@ -2355,7 +2355,7 @@
    "max": 92,
    "kind": "dialogue",
    "jp": "その必死のつぶやきも\\n室内にあふれかえる\\n天歌によって打ち消され\\n彼自身の耳にすら届かない",
-   "en": "But his desperate\\nmurmur was\\ndrowned out by\\nHeaven's Song,\\nwhich filled the\\nroom, never\\nreaching even his\\nown ears.",
+   "en": "But his desperate\\nmurmur was\\ndrowned out by\\nHeaven's Song,\\nwhich filled the\\nroom, never\\nreaching even\\nhis own ears.",
    "op": "0x62",
    "msg": "0x1786"
   },
@@ -2385,7 +2385,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "しかし\\nとうとう抗いの\\n呟きは途絶え　\\n龍馬のまぶたは\\n閉ざされた",
-   "en": "But at last, his\\nmurmurs of\\ndefiance faded,\\nand Ryoma's eyes\\nfell shut.",
+   "en": "But at last, his\\nmurmurs of\\ndefiance faded,\\nand Ryoma's\\neyes fell shut.",
    "op": "0x62",
    "msg": "0x1789"
   },
@@ -2395,7 +2395,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "すると　今まで\\n武士達の陰に隠れて\\nいた人物が部屋の隅で\\nそっと立ち上がる",
-   "en": "Then, in a corner\\nof the room, a\\nfigure who had\\nbeen hidden\\nbehind the\\nsamurai quietly\\nstood up.",
+   "en": "Then, in a\\ncorner of the\\nroom, a figure\\nwho had been\\nhidden behind\\nthe samurai\\nquietly stood up.",
    "op": "0x62",
    "msg": "0x178a"
   },
@@ -2405,7 +2405,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "さっさとくたばっちまえば\\n楽になるのに　どうして\\nそんなに頑張るのか……",
-   "en": "You'd have it so\\nmuch easier if\\nyou'd just hurry\\nup and croak.\\nWhy fight so\\nhard...?",
+   "en": "You'd have it\\nso much easier\\nif you'd just\\nhurry up and\\ncroak. Why\\nfight so hard...?",
    "op": "0x62",
    "msg": "0x178b"
   },
@@ -2415,7 +2415,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "何をして　井伊様を\\nこれほど怒らせたか\\n知らないけれど",
-   "en": "I don't know what\\nyou did to make\\nIi-sama this\\nangry...",
+   "en": "I don't know\\nwhat you did to\\nmake Ii-sama\\nthis angry...",
    "op": "0x62",
    "msg": "0x178c"
   },
@@ -2425,7 +2425,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "お上にたてついた\\nアンタが悪いよ",
-   "en": "...but it's your own\\nfault for defying\\nthe powers that\\nbe.",
+   "en": "...but it's your\\nown fault for\\ndefying the\\npowers that be.",
    "op": "0x62",
    "msg": "0x178d"
   },
@@ -2475,7 +2475,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "アタシが一番大事なのは\\nアンタ達と一緒に\\n愛獲として成功することよ",
-   "en": "What matters\\nmost to me is\\nmaking it as idols\\ntogether with you\\ngirls.",
+   "en": "What matters\\nmost to me is\\nmaking it as\\nidols together\\nwith you girls.",
    "op": "0x62",
    "msg": "0x1792"
   },
@@ -2525,7 +2525,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "心配かけちゃったね\\nおうの　ごめん",
-   "en": "Sorry for\\nworrying you,\\nOuno.",
+   "en": "Sorry for\\nworrying\\nyou, Ouno.",
    "op": "0x62",
    "msg": "0x1797"
   },
@@ -2565,7 +2565,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "死んだら死んだで\\n出来ることもないしね",
-   "en": "And if he does\\ndie, well, there's\\nnothing we can\\ndo about it\\nanyway.",
+   "en": "And if he does\\ndie, well,\\nthere's nothing\\nwe can do about\\nit anyway.",
    "op": "0x62",
    "msg": "0x179b"
   },
@@ -2615,7 +2615,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "井伊様と　アタシ達の\\nために　あと五日間\\n生き延びなさい",
-   "en": "Stay alive five\\nmore days, for\\nIi-sama's sake and\\nours.",
+   "en": "Stay alive five\\nmore days,\\nfor Ii-sama's\\nsake and ours.",
    "op": "0x62",
    "msg": "0x17a0"
   },
@@ -2625,7 +2625,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "アンタのゴミみたいな命\\n有効利用してあげるわ\\nうふふ……",
-   "en": "We'll put that\\ngarbage life of\\nyours to good use.\\nHehe...",
+   "en": "We'll put that\\ngarbage life of\\nyours to good\\nuse. Hehe...",
    "op": "0x62",
    "msg": "0x17a1"
   },

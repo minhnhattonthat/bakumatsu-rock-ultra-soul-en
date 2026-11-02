@@ -28,7 +28,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "予の側にずっと\\nいてくれるって\\n約束したじゃないか",
-   "en": "You promised\\nyou'd always stay\\nby my side, didn't\\nyou?",
+   "en": "You promised\\nyou'd always\\nstay by my side,\\ndidn't you?",
    "op": "0x62",
    "msg": "0x1ede"
   },
@@ -38,7 +38,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "もう貴方は\\nこの闇に留まっていては\\nいけないのです",
-   "en": "You must not\\nremain in this\\ndarkness any\\nlonger.",
+   "en": "You must not\\nremain in\\nthis darkness\\nany longer.",
    "op": "0x62",
    "msg": "0x1edf"
   },
@@ -58,7 +58,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "慶喜様には\\n未来があるのですから",
-   "en": "Because you have\\na future,\\nYoshinobu-sama.",
+   "en": "Because you\\nhave a future,\\nYoshinobu-sama.",
    "op": "0x62",
    "msg": "0x1ee1"
   },
@@ -68,7 +68,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "でも　予は一人では\\nなにもできないんだ",
-   "en": "But I can't do\\nanything on my\\nown.",
+   "en": "But I can't\\ndo anything\\non my own.",
    "op": "0x62",
    "msg": "0x1ee2"
   },
@@ -78,7 +78,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "そんなことはありません\\n徳川の怨念を　退けたでは\\nありませんか",
-   "en": "That is not so. Did\\nyou not drive\\nback the grudge\\nof the Tokugawa?",
+   "en": "That is not so.\\nDid you not drive\\nback the grudge\\nof the Tokugawa?",
    "op": "0x62",
    "msg": "0x1ee3"
   },
@@ -88,7 +88,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "それは予の力じゃない！\\nそれは坂本達が――",
-   "en": "That wasn't my\\nstrength! That\\nwas Sakamoto and\\nthe others--",
+   "en": "That wasn't my\\nstrength! That\\nwas Sakamoto\\nand the others--",
    "op": "0x62",
    "msg": "0x1ee4"
   },
@@ -108,7 +108,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "さあ　お行きなさい\\nご自分の足で歩いて\\nご自分の歌を歌うのです",
-   "en": "Now, go. Walk on\\nyour own feet,\\nand sing your\\nown song.",
+   "en": "Now, go. Walk\\non your own\\nfeet, and sing\\nyour own song.",
    "op": "0x62",
    "msg": "0x1ee6"
   },
@@ -128,7 +128,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "予は　予だけは\\nずっと直弼のことを\\n忘れないよ",
-   "en": "I... I alone... will\\nnever forget you,\\nNaosuke.",
+   "en": "I... I alone... will\\nnever forget\\nyou, Naosuke.",
    "op": "0x62",
    "msg": "0x1ee8"
   },
@@ -158,7 +158,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "もう　直弼は\\nいないんだね",
-   "en": "Naosuke's really\\ngone now, isn't\\nhe?",
+   "en": "Naosuke's\\nreally gone\\nnow, isn't he?",
    "op": "0x62",
    "msg": "0x1eeb"
   },
@@ -188,7 +188,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "ええ……\\n怨念は　私達の歌の力で\\n霧散したようです",
-   "en": "Yes... It seems the\\ngrudge was\\nscattered by the\\npower of our\\nsong.",
+   "en": "Yes... It seems\\nthe grudge\\nwas scattered\\nby the power\\nof our song.",
    "op": "0x62",
    "msg": "0x1eee"
   },
@@ -198,7 +198,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "そう……\\nこれでよかったんだよね？",
-   "en": "I see... This was\\nfor the best,\\nwasn't it?",
+   "en": "I see... This\\nwas for the\\nbest, wasn't it?",
    "op": "0x62",
    "msg": "0x1eef"
   },
@@ -238,7 +238,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "いいや\\nそれは違うぜよ",
-   "en": "Nope. That ain't\\nso.",
+   "en": "Nope. That\\nain't so.",
    "op": "0x62",
    "msg": "0x1ef3"
   },
@@ -248,7 +248,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "いや　幕府のことは\\nわしにはよくわからん",
-   "en": "Well, I don't\\nreally know much\\nabout the\\nshogunate...",
+   "en": "Well, I don't\\nreally know\\nmuch about the\\nshogunate...",
    "op": "0x62",
    "msg": "0x1ef4"
   },
@@ -278,7 +278,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "誰も慶喜様のことを\\n嫌ってなんかおらんじゃろう",
-   "en": "Ain't nobody who\\nhates you,\\nYoshinobu-sama!",
+   "en": "Ain't nobody\\nwho hates you,\\nYoshinobu-sama!",
    "op": "0x62",
    "msg": "0x1ef7"
   },
@@ -298,7 +298,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "お前達は何を言ってるんだ？\\n予のことを好いてくれる\\n者などいるはずが……",
-   "en": "What are you all\\nsaying? There\\ncouldn't be\\nanyone who likes\\nme...",
+   "en": "What are you\\nall saying?\\nThere couldn't\\nbe anyone\\nwho likes me...",
    "op": "0x62",
    "msg": "0x1ef9"
   },
@@ -308,7 +308,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "ここにいるじゃないか",
-   "en": "We're right here,\\nain't we?",
+   "en": "We're right\\nhere, ain't we?",
    "op": "0x62",
    "msg": "0x1efa"
   },
@@ -318,7 +318,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "歌が好きな奴は\\n皆　仲間――",
-   "en": "Anybody who\\nloves singin' is a\\nfriend--",
+   "en": "Anybody who\\nloves singin'\\nis a friend--",
    "op": "0x62",
    "msg": "0x1efb"
   },
@@ -328,7 +328,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "つまり慶喜様も\\nわしのダチぜよ！",
-   "en": "Which means\\nyou're my buddy\\ntoo,\\nYoshinobu-sama!",
+   "en": "Which means\\nyou're my\\nbuddy too,\\nYoshinobu-sama!",
    "op": "0x62",
    "msg": "0x1efc"
   },
@@ -338,7 +338,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "お　おい　坂本\\nなんて畏れおおいことを",
-   "en": "H-hey, Sakamoto!\\nHow dare you say\\nsomething so\\npresumptuous!",
+   "en": "H-hey, Sakamoto!\\nHow dare you\\nsay something so\\npresumptuous!",
    "op": "0x62",
    "msg": "0x1efd"
   },
@@ -348,7 +348,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "ヒジゾーさんは\\nそういう堅苦しいところが\\nいかんぜよ",
-   "en": "Hijizo-san, that\\nstiffness of yours\\nis no good, I tell\\nya.",
+   "en": "Hijizo-san,\\nthat stiffness\\nof yours is no\\ngood, I tell ya.",
    "op": "0x62",
    "msg": "0x1efe"
   },
@@ -368,7 +368,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "歌は身分の差も超える\\nそこにあるのは\\n魂の響きだけじゃ",
-   "en": "Song goes beyond\\nrank. All that's\\nthere is souls\\nringin' out\\ntogether!",
+   "en": "Song goes\\nbeyond rank.\\nAll that's there\\nis souls ringin'\\nout together!",
    "op": "0x62",
    "msg": "0x1f00"
   },
@@ -378,7 +378,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "一緒に歌った仲じゃろう\\nわしらは　歌が好きな\\n魂友（ソウルメイト）じゃ",
-   "en": "We sang\\ntogether, didn't\\nwe? That makes\\nus soulmates who\\nlove singin'!",
+   "en": "We sang\\ntogether, didn't\\nwe? That makes\\nus soulmates\\nwho love singin'!",
    "op": "0x62",
    "msg": "0x1f01"
   },
@@ -388,7 +388,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "坂本……\\n本当に予と友達に\\nなってくれるの？",
-   "en": "Sakamoto... Will\\nyou really be my\\nfriend?",
+   "en": "Sakamoto...\\nWill you really\\nbe my friend?",
    "op": "0x62",
    "msg": "0x1f02"
   },
@@ -468,7 +468,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "冗談ですよ\\n慶喜様　不束者ですが\\nよろしくお願いします",
-   "en": "I'm joking.\\nYoshinobu-sama,\\nI may be\\nunworthy, but I\\nhumbly ask for\\nyour favor.",
+   "en": "I'm joking.\\nYoshinobu-sama,\\nI may be\\nunworthy, but\\nI humbly ask\\nfor your favor.",
    "op": "0x62",
    "msg": "0x1f0a"
   },
@@ -478,7 +478,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "と　友達もいいけどよ\\nお兄ちゃんって呼んでも\\nいいんだぜ　慶喜様",
-   "en": "F-friends are fine\\nand all, but you\\ncan call me big\\nbrother too,\\ny'know,\\nYoshinobu-sama.",
+   "en": "F-friends are\\nfine and all,\\nbut you can call\\nme big brother\\ntoo, y'know,\\nYoshinobu-sama.",
    "op": "0x62",
    "msg": "0x1f0b"
   },
@@ -488,7 +488,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "我々は将軍慶喜様に\\nお仕えする身でございます\\nしかし　歌では友達です",
-   "en": "We are the\\nservants of the\\nshogun,\\nYoshinobu-sama.\\nBut in song, we\\nare friends.",
+   "en": "We are the\\nservants of the\\nshogun,\\nYoshinobu-sama.\\nBut in song,\\nwe are friends.",
    "op": "0x62",
    "msg": "0x1f0c"
   },
@@ -498,7 +498,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "じゃ\\n握手をしよう！",
-   "en": "Then let's shake\\nhands!",
+   "en": "Then let's\\nshake hands!",
    "op": "0x62",
    "msg": "0x1f0d"
   },
@@ -508,7 +508,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "ってことで\\nあらためて皆で\\n歌うぜよ",
-   "en": "So with that, let's\\nall sing together\\nagain!",
+   "en": "So with that,\\nlet's all sing\\ntogether again!",
    "op": "0x62",
    "msg": "0x1f0e"
   },
@@ -538,7 +538,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "慶喜様も平和のために\\nそれこそ天歌泰平のために\\n歌が歌えるはず",
-   "en": "You can sing for\\npeace too,\\nYoshinobu-sama!\\nFor the very\\nHeaven's Song\\nPeace!",
+   "en": "You can sing\\nfor peace too,\\nYoshinobu-sama!\\nFor the very\\nHeaven's\\nSong Peace!",
    "op": "0x62",
    "msg": "0x1f11"
   },
@@ -548,7 +548,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "ってことで\\n一発かますぜよ！",
-   "en": "So with that, let's\\nlet 'er rip!",
+   "en": "So with that,\\nlet's let 'er rip!",
    "op": "0x62",
    "msg": "0x1f12"
   },

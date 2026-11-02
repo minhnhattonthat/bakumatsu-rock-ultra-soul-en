@@ -8,7 +8,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "――江戸城　月明かりの下\\n勝海舟と徳川慶喜は\\n顔を付き合わせていた",
-   "en": "--Edo Castle,\\nunder the\\nmoonlight. Kaishu\\nKatsu and\\nYoshinobu\\nTokugawa sat\\nface to face.",
+   "en": "--Edo Castle,\\nunder the\\nmoonlight.\\nKaishu Katsu\\nand Yoshinobu\\nTokugawa sat\\nface to face.",
    "op": "0x62",
    "msg": "0x4f94"
   },
@@ -38,7 +38,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "何を……でしょうか",
-   "en": "Tell them... what,\\nexactly?",
+   "en": "Tell them...\\nwhat, exactly?",
    "op": "0x62",
    "msg": "0x4f97"
   },
@@ -48,7 +48,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "ペリージュニアが超魂の\\n持ち主であることだよ",
-   "en": "That Perry Junior\\npossesses an\\nUltra Soul.",
+   "en": "That Perry\\nJunior possesses\\nan Ultra Soul.",
    "op": "0x62",
    "msg": "0x4f98"
   },
@@ -88,7 +88,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "信じましょう\\n彼らはあなた様を\\n救いだした志士",
-   "en": "Let us believe in\\nthem. They are\\nthe rebels who\\nrescued you, my\\nlord.",
+   "en": "Let us believe\\nin them. They\\nare the rebels\\nwho rescued\\nyou, my lord.",
    "op": "0x62",
    "msg": "0x4f9c"
   },
@@ -98,7 +98,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "あとは\\n出たとこ勝負……\\nですかな",
-   "en": "Beyond that, we'll\\njust have to see\\nhow the dice fall...\\nI suppose.",
+   "en": "Beyond that,\\nwe'll just have to\\nsee how the dice\\nfall... I suppose.",
    "op": "0x62",
    "msg": "0x4f9d"
   },
@@ -108,7 +108,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "うん……\\nそうだね\\n彼らを信じよう",
-   "en": "Yes... You're right.\\nLet's believe in\\nthem.",
+   "en": "Yes... You're\\nright. Let's\\nbelieve in them.",
    "op": "0x62",
    "msg": "0x4f9e"
   },
@@ -118,7 +118,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "勝海舟が去った後\\n慶喜は不安げに\\n月を見上げた",
-   "en": "After Kaishu\\nKatsu had left,\\nYoshinobu looked\\nup at the moon\\nuneasily.",
+   "en": "After Kaishu\\nKatsu had left,\\nYoshinobu\\nlooked up at the\\nmoon uneasily.",
    "op": "0x62",
    "msg": "0x4f9f"
   },
@@ -158,7 +158,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "祈りを捧げる慶喜を\\n月だけが見下ろしていた",
-   "en": "Only the moon\\nlooked down on\\nYoshinobu as he\\nprayed.",
+   "en": "Only the moon\\nlooked down\\non Yoshinobu\\nas he prayed.",
    "op": "0x62",
    "msg": "0x4fa3"
   },
@@ -168,7 +168,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "おっしゃ～！　\\n雷舞じゃ　雷舞じゃ\\nワクワクしてきたぜよ！",
-   "en": "Aw yeah~! It's a\\nlive, it's a live! I'm\\ngettin' all fired\\nup!",
+   "en": "Aw yeah~! It's\\na live, it's a\\nlive! I'm gettin'\\nall fired up!",
    "op": "0x62",
    "msg": "0x4fa4"
   },
@@ -178,7 +178,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "うろうろすんじゃねえ\\n落ち着いていられねえのか\\nテメェは",
-   "en": "Quit pacing\\naround. Can't you\\ncalm down for\\nonce?",
+   "en": "Quit pacing\\naround. Can't\\nyou calm down\\nfor once?",
    "op": "0x62",
    "msg": "0x4fa5"
   },
@@ -188,7 +188,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "そう言う晋作こそ\\nずいぶんそわそわして\\n見えますが？",
-   "en": "You say that,\\nShinsaku, but you\\nseem rather\\nfidgety yourself.",
+   "en": "You say that,\\nShinsaku, but\\nyou seem rather\\nfidgety yourself.",
    "op": "0x62",
    "msg": "0x4fa6"
   },
@@ -218,7 +218,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "そう言うときはこう手に\\n人って書いてだな\\n飲み込むといいぜよ",
-   "en": "At times like this,\\nya write the\\ncharacter for\\n\"person\" on your\\npalm like this and\\nswallow it.",
+   "en": "At times like\\nthis, ya write the\\ncharacter for\\n\"person\" on your\\npalm like this\\nand swallow it.",
    "op": "0x62",
    "msg": "0x4fa9"
   },
@@ -258,7 +258,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "汗くさいのは\\n特訓の証ぜよ",
-   "en": "A sweaty stink is\\nproof of hard\\ntrainin'!",
+   "en": "A sweaty stink\\nis proof of\\nhard trainin'!",
    "op": "0x62",
    "msg": "0x4fad"
   },
@@ -268,7 +268,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "だったらオレ様の\\n手の方がくさいはずだ",
-   "en": "Then my hand\\noughta stink way\\nworse.",
+   "en": "Then my hand\\noughta stink\\nway worse.",
    "op": "0x62",
    "msg": "0x4fae"
   },
@@ -298,7 +298,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "二人とも\\n少しは落ち着いたら\\nどうです",
-   "en": "Why don't you\\ntwo calm down a\\nlittle?",
+   "en": "Why don't\\nyou two calm\\ndown a little?",
    "op": "0x62",
    "msg": "0x4fb1"
   },
@@ -328,7 +328,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "ヒジゾーさんにソウちん！\\n二人も雷舞に出るんか",
-   "en": "Hijizo-san and\\nSo-chin! You two\\nplayin' in the live\\ntoo?",
+   "en": "Hijizo-san and\\nSo-chin! You\\ntwo playin' in\\nthe live too?",
    "op": "0x62",
    "msg": "0x4fb4"
   },
@@ -338,7 +338,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "いや　俺達は雷舞の\\n警備係だ",
-   "en": "No. We're on\\nsecurity for the\\nlive.",
+   "en": "No. We're\\non security\\nfor the live.",
    "op": "0x62",
    "msg": "0x4fb5"
   },
@@ -348,7 +348,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "だるいんだよね～\\nはぁ……\\nサボっちゃおかな",
-   "en": "It's such a drag~\\nHaah... Maybe I'll\\njust skip out.",
+   "en": "It's such a drag~\\nHaah... Maybe\\nI'll just skip out.",
    "op": "0x62",
    "msg": "0x4fb6"
   },
@@ -388,7 +388,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "なっ\\nお前はまた……",
-   "en": "Wha-- You're at it\\nagain...",
+   "en": "Wha-- You're\\nat it again...",
    "op": "0x62",
    "msg": "0x4fba"
   },
@@ -428,7 +428,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "恥ずかしがらなくても\\nいいじゃないですか\\n私も好きですよ",
-   "en": "There's no need\\nto be\\nembarrassed. I\\nlike them too.",
+   "en": "There's no\\nneed to be\\nembarrassed. I\\nlike them too.",
    "op": "0x62",
    "msg": "0x4fbe"
   },
@@ -488,7 +488,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "雷舞の前に\\nいっちょ挨拶して\\nおきたいんじゃが",
-   "en": "I'd like to go say a\\nquick hello before\\nthe live.",
+   "en": "I'd like to go say\\na quick hello\\nbefore the live.",
    "op": "0x62",
    "msg": "0x4fc4"
   },
@@ -498,7 +498,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "ジュニアに挨拶？\\nそれ　面白そうだね",
-   "en": "Say hello to\\nJunior? Ooh, that\\nsounds fun.",
+   "en": "Say hello to\\nJunior? Ooh,\\nthat sounds fun.",
    "op": "0x62",
    "msg": "0x4fc5"
   },
@@ -508,7 +508,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "そうだな\\n雷舞前に顔合わせは\\nしておいた方がいいだろう",
-   "en": "True. It's best to\\nmeet him before\\nthe live.",
+   "en": "True. It's best\\nto meet him\\nbefore the live.",
    "op": "0x62",
    "msg": "0x4fc6"
   },
@@ -518,7 +518,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "俺が案内しよう",
-   "en": "I'll show you the\\nway.",
+   "en": "I'll show you\\nthe way.",
    "op": "0x62",
    "msg": "0x4fc7"
   },
@@ -528,7 +528,7 @@
    "max": 104,
    "kind": "dialogue",
    "jp": "土方に案内された先には\\nまるでそこが自分の城で\\nあるかのごとく\\n傲慢に　そして尊大に\\nくつろぐ男がいた",
-   "en": "Where Hijikata\\nled them, a man\\nlounged\\narrogantly and\\nhaughtily, as\\nthough the place\\nwere his own\\ncastle.",
+   "en": "Where Hijikata\\nled them, a\\nman lounged\\narrogantly and\\nhaughtily, as\\nthough the\\nplace were his\\nown castle.",
    "op": "0x62",
    "msg": "0x4fc8"
   },
@@ -538,7 +538,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "その後ろには\\nまるで影のように\\n一人のギタリストが\\n付き添っている",
-   "en": "Behind him, like a\\nshadow, a lone\\nguitarist stood in\\nattendance.",
+   "en": "Behind him, like\\na shadow, a lone\\nguitarist stood\\nin attendance.",
    "op": "0x62",
    "msg": "0x4fc9"
   },
@@ -548,7 +548,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "頼もーう！",
-   "en": "Hellooo! Anybody\\nhome!?",
+   "en": "Hellooo!\\nAnybody home!?",
    "op": "0x62",
    "msg": "0x4fca"
   },
@@ -588,7 +588,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "ぜ　前座だとっ\\nテメェ　何様のつもりだ！",
-   "en": "O-opening act!?\\nWho the hell do\\nyou think you\\nare!?",
+   "en": "O-opening\\nact!? Who the\\nhell do you\\nthink you are!?",
    "op": "0x62",
    "msg": "0x4fce"
   },
@@ -598,7 +598,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "ペリージュニア様だが？",
-   "en": "Perry\\nJunior-sama. Who\\nelse?",
+   "en": "Perry\\nJunior-sama.\\nWho else?",
    "op": "0x62",
    "msg": "0x4fcf"
   },
@@ -658,7 +658,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "ゴミの名前なんて\\nどうでもいい\\n無意味だ",
-   "en": "Garbage doesn't\\nneed names. Who\\ncares. It's\\nmeaningless.",
+   "en": "Garbage doesn't\\nneed names.\\nWho cares. It's\\nmeaningless.",
    "op": "0x62",
    "msg": "0x4fd5"
   },
@@ -678,7 +678,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "とびっきりの\\nヤマトナデシコ以外と\\n話をする気はない",
-   "en": "I have no\\nintention of\\ntalking to anyone\\nbut the finest\\nYamato\\nNadeshiko.",
+   "en": "I have no\\nintention of\\ntalking to\\nanyone but the\\nfinest Yamato\\nNadeshiko.",
    "op": "0x62",
    "msg": "0x4fd7"
   },
@@ -698,7 +698,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "テメェ　ふざけてるのか！\\nオレ様達をゴミ扱い\\nしやがって……",
-   "en": "Are you screwing\\nwith me!?\\nTreating us like\\ngarbage...",
+   "en": "Are you\\nscrewing with\\nme!? Treating us\\nlike garbage...",
    "op": "0x62",
    "msg": "0x4fd9"
   },
@@ -708,7 +708,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "うふふふ\\n思った通り\\n面白くなってきた",
-   "en": "Ufufufu. Just as I\\nthought. This is\\ngetting fun.",
+   "en": "Ufufufu. Just as\\nI thought. This\\nis getting fun.",
    "op": "0x62",
    "msg": "0x4fda"
   },
@@ -718,7 +718,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "ん？\\nユー　カモン",
-   "en": "Hm? You. Come\\non.",
+   "en": "Hm? You.\\nCome on.",
    "op": "0x62",
    "msg": "0x4fdb"
   },
@@ -748,7 +748,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "雷舞の後に\\nオレのラグジュアリーな\\nＶＩＰルームに招待しよう",
-   "en": "After the live, I'll\\ninvite you to my\\nluxurious VIP\\nroom.",
+   "en": "After the live,\\nI'll invite you to\\nmy luxurious\\nVIP room.",
    "op": "0x62",
    "msg": "0x4fde"
   },
@@ -758,7 +758,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "甘美なドリームを\\n魅せてあげよう",
-   "en": "I'll show you a\\nsweet, sweet\\ndream.",
+   "en": "I'll show you\\na sweet,\\nsweet dream.",
    "op": "0x62",
    "msg": "0x4fdf"
   },
@@ -788,7 +788,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "まだ雷舞まで時間がある\\nさぁ……",
-   "en": "There's still time\\nbefore the live.\\nCome now...",
+   "en": "There's still\\ntime before the\\nlive. Come now...",
    "op": "0x62",
    "msg": "0x4fe2"
   },
@@ -838,7 +838,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "それを言うなら\\n慎み深いでは……",
-   "en": "I believe the word\\nyou want is\\n\"demure\"...",
+   "en": "I believe the\\nword you want\\nis \"demure\"...",
    "op": "0x62",
    "msg": "0x4fe7"
   },
@@ -858,7 +858,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "テメェ\\n適当に言ってる\\nだけだろ",
-   "en": "You're just saying\\nwhatever comes\\nto mind.",
+   "en": "You're just\\nsaying whatever\\ncomes to mind.",
    "op": "0x62",
    "msg": "0x4fe9"
   },
@@ -878,7 +878,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "おい　龍馬\\n何笑ってやがる",
-   "en": "Hey, Ryoma. What\\nare you laughing\\nat?",
+   "en": "Hey, Ryoma.\\nWhat are you\\nlaughing at?",
    "op": "0x62",
    "msg": "0x4feb"
   },
@@ -948,7 +948,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "貴殿がメリケン最高の\\nロッカーであることは\\n承知しているが",
-   "en": "I'm aware that\\nyou are America's\\nfinest rocker,\\nbut...",
+   "en": "I'm aware that\\nyou are\\nAmerica's finest\\nrocker, but...",
    "op": "0x62",
    "msg": "0x4ff2"
   },
@@ -958,7 +958,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "彼らにも敬意を払って\\nいただきたい",
-   "en": "I would ask that\\nyou show them\\nsome respect as\\nwell.",
+   "en": "I would ask\\nthat you show\\nthem some\\nrespect as well.",
    "op": "0x62",
    "msg": "0x4ff3"
   },
@@ -998,7 +998,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "……そうだな\\nこれ以上コイツの相手を\\nしていても無駄だ",
-   "en": "...Yeah. Wasting\\nany more time on\\nthis guy is\\npointless.",
+   "en": "...Yeah. Wasting\\nany more time\\non this guy is\\npointless.",
    "op": "0x62",
    "msg": "0x4ff7"
   },
@@ -1058,7 +1058,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "それじゃ　また後でな！\\nじゅにあ！",
-   "en": "Well then, see ya\\nlater! Junior!",
+   "en": "Well then, see\\nya later! Junior!",
    "op": "0x62",
    "msg": "0x4ffd"
   },
@@ -1088,7 +1088,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "私たちのロックを\\n浅瀬に仇波とでも\\n思ってるんでしょうが",
-   "en": "He probably\\nthinks our rock is\\njust the noisy\\nbabble of a\\nshallow stream.",
+   "en": "He probably\\nthinks our rock\\nis just the noisy\\nbabble of a\\nshallow stream.",
    "op": "0x62",
    "msg": "0x5000"
   },
@@ -1108,7 +1108,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "認めたくはないが\\n実力は本物だぞ",
-   "en": "I hate to admit it,\\nbut his skill is the\\nreal deal.",
+   "en": "I hate to admit\\nit, but his skill\\nis the real deal.",
    "op": "0x62",
    "msg": "0x5002"
   },
@@ -1138,7 +1138,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "あのメリケン共に\\nお前たちのロックを\\n聴かせてやれ",
-   "en": "Let those\\nAmericans hear\\nyour rock.",
+   "en": "Let those\\nAmericans\\nhear your rock.",
    "op": "0x62",
    "msg": "0x5005"
   },
@@ -1148,7 +1148,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "言われるまでもねえ",
-   "en": "You don't need to\\ntell me.",
+   "en": "You don't need\\nto tell me.",
    "op": "0x62",
    "msg": "0x5006"
   },
@@ -1178,7 +1178,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "おや　珍しい\\n沖田くんが素直に私達の\\n応援をするだなんて",
-   "en": "My, how rare.\\nOkita-kun\\ncheering for us so\\nhonestly?",
+   "en": "My, how rare.\\nOkita-kun\\ncheering for\\nus so honestly?",
    "op": "0x62",
    "msg": "0x5009"
   },
@@ -1188,7 +1188,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "だって　あいつ　\\n僕のこと　\\n変な目で見るし……",
-   "en": "Well, that guy\\nlooks at me\\nfunny...",
+   "en": "Well, that\\nguy looks at\\nme funny...",
    "op": "0x62",
    "msg": "0x500a"
   },
@@ -1198,7 +1198,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "そう言えば　ソウちんは\\nずいぶんと気に入られて\\nいたようじゃなあ",
-   "en": "Come to think of\\nit, he sure\\nseemed to take a\\nshine to you,\\nSo-chin.",
+   "en": "Come to think\\nof it, he sure\\nseemed to\\ntake a shine to\\nyou, So-chin.",
    "op": "0x62",
    "msg": "0x500b"
   },
@@ -1218,7 +1218,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "ええ～っ　そりゃ僕は\\nそのへんの女の子より\\n可愛いですけど？",
-   "en": "Ehhh? Well, sure,\\nI'm cuter than\\nyour average girl,\\nbut...",
+   "en": "Ehhh? Well, sure,\\nI'm cuter than\\nyour average\\ngirl, but...",
    "op": "0x62",
    "msg": "0x500d"
   },
@@ -1248,7 +1248,7 @@
    "max": 20,
    "kind": "choice",
    "jp": "三人で勝ってくる",
-   "en": "The three of us\\nwill win",
+   "en": "The three of\\nus will win",
    "op": "0x51"
   },
   {
@@ -1257,7 +1257,7 @@
    "max": 20,
    "kind": "choice",
    "jp": "日本のために頑張る",
-   "en": "I'll do my best for\\nJapan",
+   "en": "I'll do my best\\nfor Japan",
    "op": "0x51"
   },
   {
@@ -1266,7 +1266,7 @@
    "max": 20,
    "kind": "choice",
    "jp": "沖田のために頑張る",
-   "en": "I'll do my best for\\nOkita",
+   "en": "I'll do my best\\nfor Okita",
    "op": "0x51"
   },
   {
@@ -1305,7 +1305,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "ええ　目にモノ見せて\\nやりましょう！",
-   "en": "Yes. Let's show\\nhim what we're\\nmade of!",
+   "en": "Yes. Let's show\\nhim what\\nwe're made of!",
    "op": "0x62",
    "msg": "0x5013"
   },
@@ -1325,7 +1325,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "ああ　任せたぞ　坂本",
-   "en": "Yeah. I'm\\ncounting on you,\\nSakamoto.",
+   "en": "Yeah. I'm\\ncounting on\\nyou, Sakamoto.",
    "op": "0x62",
    "msg": "0x5015"
   },
@@ -1355,7 +1355,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "うんうん　僕のために\\n死ぬ気でやって　\\nトサカくん！",
-   "en": "Yup, yup. Do it\\nfor me, and go at\\nit like your life's\\non the line,\\nTosaka-kun!",
+   "en": "Yup, yup. Do it\\nfor me, and go\\nat it like your\\nlife's on the line,\\nTosaka-kun!",
    "op": "0x62",
    "msg": "0x5018"
   },
@@ -1405,7 +1405,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "勝たないと僕が殺すよ",
-   "en": "If you don't win,\\nI'll kill you.",
+   "en": "If you don't\\nwin, I'll kill you.",
    "op": "0x62",
    "msg": "0x501d"
   },
@@ -1445,7 +1445,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "まあ　任せておけ\\nお前のためじゃなくても\\n絶対に勝つ！",
-   "en": "Well, leave it to\\nus. Even if it's not\\nfor you, we're\\ngonna win!",
+   "en": "Well, leave it to\\nus. Even if it's\\nnot for you,\\nwe're gonna win!",
    "op": "0x62",
    "msg": "0x5021"
   },
@@ -1455,7 +1455,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "おう！\\n絶対勝つぜよ！",
-   "en": "Yeah! We're\\ngonna win for\\nsure!",
+   "en": "Yeah! We're\\ngonna win\\nfor sure!",
    "op": "0x62",
    "msg": "0x5022"
   },
@@ -1465,7 +1465,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "龍馬達が舞台に姿を\\n現すと大きな歓声が\\n起こった",
-   "en": "When Ryoma and\\nthe others\\nappeared on\\nstage, a huge\\ncheer rose up.",
+   "en": "When Ryoma\\nand the others\\nappeared on\\nstage, a huge\\ncheer rose up.",
    "op": "0x62",
    "msg": "0x5023"
   },
@@ -1485,7 +1485,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "観客からの\\n心地良い熱気に\\n龍馬達は魂をさらに\\n燃え上がらせた",
-   "en": "The crowd's\\npleasant heat set\\nRyoma and the\\nothers' souls\\nburning even\\nbrighter.",
+   "en": "The crowd's\\npleasant heat\\nset Ryoma and\\nthe others'\\nsouls burning\\neven brighter.",
    "op": "0x62",
    "msg": "0x5025"
   },
@@ -1495,7 +1495,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "いける……いけるぜよ\\n今日のお客さんは\\nノリノリぜよ！",
-   "en": "We got this... we\\ngot this! Today's\\ncrowd is totally\\ninto it!",
+   "en": "We got this...\\nwe got this!\\nToday's crowd\\nis totally into it!",
    "op": "0x62",
    "msg": "0x5026"
   },
@@ -1505,7 +1505,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "ああ　この空気　\\nヒリヒリするぜ",
-   "en": "Yeah. This\\natmosphere... it's\\nelectric.",
+   "en": "Yeah. This\\natmosphere...\\nit's electric.",
    "op": "0x62",
    "msg": "0x5027"
   },
@@ -1525,7 +1525,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "わたしの声は小さくて\\nまだまだ　世界の皆には\\n届けられない",
-   "en": "My voice is still\\nsmall, and it can't\\nreach everyone in\\nthe world yet.",
+   "en": "My voice is still\\nsmall, and it can't\\nreach everyone\\nin the world yet.",
    "op": "0x62",
    "msg": "0x5029"
   },
@@ -1565,7 +1565,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "来い来い　来い\\nクールに行くぜ！",
-   "en": "Come on, come\\non, come on!\\nWe're going in\\ncool!",
+   "en": "Come on,\\ncome on, come\\non! We're\\ngoing in cool!",
    "op": "0x62",
    "msg": "0x502d"
   },
@@ -1605,7 +1605,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "みんなに届けたいと\\n叫んでるぜよ！",
-   "en": "It's screamin' that\\nit wants to reach\\neverybody!",
+   "en": "It's screamin'\\nthat it wants to\\nreach everybody!",
    "op": "0x62",
    "msg": "0x5031"
   },
@@ -1615,7 +1615,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "シャウト　シャウト\\nシャウトぉぉ！\\nわしのロックを\\n聴くぜよぉぉ！",
-   "en": "Shout, shout,\\nshouuut! Listen to\\nmy rooock!",
+   "en": "Shout, shout,\\nshouuut! Listen\\nto my rooock!",
    "op": "0x62",
    "msg": "0x5032"
   }

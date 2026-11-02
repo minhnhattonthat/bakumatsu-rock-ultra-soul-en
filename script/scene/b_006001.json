@@ -58,7 +58,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "しかも泊まりがけ",
-   "en": "And overnight, no\\nless.",
+   "en": "And overnight,\\nno less.",
    "op": "0x62",
    "msg": "0x27ab"
   },
@@ -88,7 +88,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "何も\\n一人で行かなくても……",
-   "en": "He didn't have to\\ngo alone...",
+   "en": "He didn't have\\nto go alone...",
    "op": "0x62",
    "msg": "0x27ae"
   },
@@ -108,7 +108,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "うるっさいなあ\\nそんなの起こしてくれれば\\nいいじゃん",
-   "en": "Oh, shut up. You\\ncould've just\\nwoken me.",
+   "en": "Oh, shut up.\\nYou could've\\njust woken me.",
    "op": "0x62",
    "msg": "0x27b0"
   },
@@ -148,7 +148,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "いったー！\\n何をするんですか！",
-   "en": "Owww! What was\\nthat for!?",
+   "en": "Owww! What\\nwas that for!?",
    "op": "0x62",
    "msg": "0x27b4"
   },
@@ -158,7 +158,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "ふんっ\\nメガネくんの分際で",
-   "en": "Hmph. Who do\\nyou think you are,\\nGlasses-kun?",
+   "en": "Hmph. Who do\\nyou think you\\nare, Glasses-kun?",
    "op": "0x62",
    "msg": "0x27b5"
   },
@@ -188,7 +188,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "はぁ～　土方さんも\\n土方さんだよ\\n僕に黙って行くなんて……",
-   "en": "Sigh...\\nHijikata-san's just\\nas bad. Leaving\\nwithout telling\\nme...",
+   "en": "Sigh...\\nHijikata-san's\\njust as bad.\\nLeaving without\\ntelling me...",
    "op": "0x62",
    "msg": "0x27b8"
   },
@@ -198,7 +198,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "……お土産いっぱい\\n買ってこなかったら\\n許さないんですからね",
-   "en": "...If he doesn't\\nbring back tons of\\nsouvenirs, I'll\\nnever forgive\\nhim.",
+   "en": "...If he doesn't\\nbring back tons\\nof souvenirs,\\nI'll never\\nforgive him.",
    "op": "0x62",
    "msg": "0x27b9"
   },
@@ -238,7 +238,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "そう言いながらも土方の顔に\\n苦笑に似た笑みが浮かぶ",
-   "en": "Even as he said it,\\na smile much like\\na wry grin\\ncrossed Hijikata's\\nface.",
+   "en": "Even as he said\\nit, a smile much\\nlike a wry grin\\ncrossed\\nHijikata's face.",
    "op": "0x62",
    "msg": "0x27bd"
   },
@@ -248,7 +248,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "しかし　総司は今頃\\n怒っているだろうな……",
-   "en": "Still, Soji's\\nprobably angry by\\nnow...",
+   "en": "Still, Soji's\\nprobably\\nangry by now...",
    "op": "0x62",
    "msg": "0x27be"
   },
@@ -268,7 +268,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "沖田のふくれっ面を考えると\\n口角がわずかに上がる",
-   "en": "Picturing Okita's\\npout, the corners\\nof his mouth rose\\nslightly.",
+   "en": "Picturing Okita's\\npout, the corners\\nof his mouth\\nrose slightly.",
    "op": "0x62",
    "msg": "0x27bf"
   },
@@ -298,7 +298,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "ふと　土方は立ち止まった\\nそして　自らに刻まれた\\n刻印のある場所に触れる",
-   "en": "Suddenly Hijikata\\nstopped, and\\ntouched the place\\nwhere the mark\\nwas carved into\\nhim.",
+   "en": "Suddenly\\nHijikata stopped,\\nand touched the\\nplace where the\\nmark was carved\\ninto him.",
    "op": "0x62",
    "msg": "0x27c2"
   },
@@ -308,7 +308,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "……今　近藤さんの片魂は\\nここにあるんだな",
-   "en": "...So Kondo-san's\\nPiece Soul is here\\nnow.",
+   "en": "...So Kondo-san's\\nPiece Soul is\\nhere now.",
    "op": "0x62",
    "msg": "0x27c3"
   },
@@ -318,7 +318,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "近藤さん　俺は貴方のように\\nなれるのだろうか……？",
-   "en": "Kondo-san, can I\\never become like\\nyou...?",
+   "en": "Kondo-san, can\\nI ever become\\nlike you...?",
    "op": "0x62",
    "msg": "0x27c4"
   },
@@ -348,7 +348,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "近藤さん　俺は迷っている",
-   "en": "Kondo-san, I'm\\nlost.",
+   "en": "Kondo-san,\\nI'm lost.",
    "op": "0x62",
    "msg": "0x27c7"
   },
@@ -358,7 +358,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "このまま　あいつらと\\n行動を共にして\\nいいのだろうか",
-   "en": "Is it right for me\\nto keep going\\nalong with those\\nguys?",
+   "en": "Is it right for\\nme to keep\\ngoing along\\nwith those guys?",
    "op": "0x62",
    "msg": "0x27c8"
   },
@@ -378,7 +378,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "俺は本当は弱い人間で\\n貴方に救われたから多少は\\nまっとうな道を行けた",
-   "en": "The truth is, I'm a\\nweak man. You\\nsaved me, so I\\nmanaged to walk\\na halfway decent\\npath.",
+   "en": "The truth is,\\nI'm a weak man.\\nYou saved me,\\nso I managed to\\nwalk a halfway\\ndecent path.",
    "op": "0x62",
    "msg": "0x27ca"
   },
@@ -388,7 +388,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "総司のことも　あんなに\\nなるまで気付いては\\nやれなかった",
-   "en": "I didn't notice\\nwhat was\\nhappening to Soji\\nuntil it had gone\\nthat far.",
+   "en": "I didn't notice\\nwhat was\\nhappening to\\nSoji until it had\\ngone that far.",
    "op": "0x62",
    "msg": "0x27cb"
   },
@@ -418,7 +418,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "立っていていいのか……？",
-   "en": "...is that really all\\nright...?",
+   "en": "...is that really\\nall right...?",
    "op": "0x62",
    "msg": "0x27ce"
   },
@@ -438,7 +438,7 @@
    "max": 96,
    "kind": "dialogue",
    "jp": "ざぁっと風が土方の頬を\\n撫でるように吹いた\\nその風に混じった煙の臭いに\\n土方ははっと顔を上げた",
-   "en": "A gust of wind\\nbrushed Hijikata's\\ncheek. Catching\\nthe smell of\\nsmoke on it,\\nHijikata looked up\\nwith a start.",
+   "en": "A gust of wind\\nbrushed Hijikata's\\ncheek. Catching\\nthe smell of\\nsmoke on it,\\nHijikata looked\\nup with a start.",
    "op": "0x62",
    "msg": "0x27d0"
   },
@@ -488,7 +488,7 @@
    "max": 112,
    "kind": "dialogue",
    "jp": "土方が走っていった先では\\n山小屋から火が出ていた\\n山小屋の周囲はやや開けて\\nいて延焼の心配は\\nあまり無さそうだ",
-   "en": "Hijikata found a\\nmountain hut on\\nfire. The ground\\naround it was\\nfairly open, so\\nthe fire seemed\\nunlikely to\\nspread.",
+   "en": "Hijikata found a\\nmountain hut on\\nfire. The\\nground around\\nit was fairly\\nopen, so the fire\\nseemed unlikely\\nto spread.",
    "op": "0x62",
    "msg": "0x27d5"
   },
@@ -498,7 +498,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "ごほっごほっごほっ",
-   "en": "*Cough, cough,\\ncough*",
+   "en": "*Cough,\\ncough, cough*",
    "op": "0x62",
    "msg": "0x27d6"
   },
@@ -518,7 +518,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "逃げ損ねたのか\\n子供が一人\\n山小屋の中で\\nうずくまっている\\n",
-   "en": "A child, perhaps\\ntoo slow to\\nescape, was\\ncrouched inside\\nthe hut.",
+   "en": "A child,\\nperhaps too\\nslow to escape,\\nwas crouched\\ninside the hut.",
    "op": "0x62",
    "msg": "0x27d8"
   },
@@ -538,7 +538,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "待っていろ！\\n今　助けてやる！",
-   "en": "Hang on! I'll save\\nyou!",
+   "en": "Hang on! I'll\\nsave you!",
    "op": "0x62",
    "msg": "0x27d9"
   },
@@ -608,7 +608,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "間一髪だったか\\n二人が飛び出すと火勢は\\n勢いを増し　広がった",
-   "en": "It was close. The\\nmoment the two\\nburst out, the fire\\nflared up and\\nspread.",
+   "en": "It was close.\\nThe moment the\\ntwo burst out,\\nthe fire flared\\nup and spread.",
    "op": "0x62",
    "msg": "0x27e0"
   },
@@ -668,7 +668,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "これで問題はないだろう\\n……坊主　怪我はないか",
-   "en": "That should do it.\\n...Kid, are you\\nhurt?",
+   "en": "That should\\ndo it. ...Kid,\\nare you hurt?",
    "op": "0x62",
    "msg": "0x27e6"
   },
@@ -678,7 +678,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "うん！\\nでもおっちゃんが……",
-   "en": "Nope! But Uncle,\\nyou...",
+   "en": "Nope! But\\nUncle, you...",
    "op": "0x62",
    "msg": "0x27e7"
   },
@@ -708,7 +708,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "心配するな\\nこのくらいの火傷\\nたいしたことはない",
-   "en": "Don't worry. A\\nburn like this is\\nnothing.",
+   "en": "Don't worry. A\\nburn like this\\nis nothing.",
    "op": "0x62",
    "msg": "0x27ea"
   },
@@ -728,7 +728,7 @@
    "max": 84,
    "kind": "dialogue",
    "jp": "無邪気に笑う子供を\\n見ていると　土方の脳裏に\\n会ったばかりの頃の沖田が\\n浮かんだ",
-   "en": "Watching the\\nchild laugh so\\ninnocently,\\nHijikata\\nremembered\\nOkita as he was\\nwhen they first\\nmet.",
+   "en": "Watching the\\nchild laugh so\\ninnocently,\\nHijikata\\nremembered\\nOkita as he\\nwas when\\nthey first met.",
    "op": "0x62",
    "msg": "0x27ec"
   },
@@ -738,7 +738,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "そういえば　あの時の\\n総司はこれくらいだったか",
-   "en": "Come to think of\\nit, Soji was about\\nthis size back\\nthen.",
+   "en": "Come to think\\nof it, Soji was\\nabout this size\\nback then.",
    "op": "0x62",
    "msg": "0x27ed"
   },
@@ -748,7 +748,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "だが\\nこんなにかわいげは\\nなかったがな……",
-   "en": "Though he was\\nnowhere near this\\ncute...",
+   "en": "Though he was\\nnowhere near\\nthis cute...",
    "op": "0x62",
    "msg": "0x27ee"
   },
@@ -758,7 +758,7 @@
    "max": 84,
    "kind": "dialogue",
    "jp": "泥棒どもに置き去りにされた\\n子供を火事の中から\\n助けてみれば\\nとんだクソガキだった",
-   "en": "We pulled a kid\\nabandoned by\\nthieves out of a\\nfire, and he\\nturned out to be a\\ntotal brat.",
+   "en": "We pulled a kid\\nabandoned by\\nthieves out of a\\nfire, and he\\nturned out to\\nbe a total brat.",
    "op": "0x62",
    "msg": "0x27ef"
   },
@@ -768,7 +768,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "離せっ　離せよ！\\nこのクソジジーどもっ！",
-   "en": "Let go! Let go of\\nme, you damn old\\ngeezers!",
+   "en": "Let go! Let go of\\nme, you damn\\nold geezers!",
    "op": "0x62",
    "msg": "0x27f0"
   },
@@ -828,7 +828,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "とにかくすすで真っ黒だ\\n家に連れてって\\n洗ってやろう",
-   "en": "Anyway, he's\\nblack with soot.\\nLet's take him\\nhome and wash\\nhim up.",
+   "en": "Anyway, he's\\nblack with\\nsoot. Let's take\\nhim home and\\nwash him up.",
    "op": "0x62",
    "msg": "0x27f6"
   },
@@ -848,7 +848,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "だから　引っ張んなよー！",
-   "en": "I said quit pulling\\nme!",
+   "en": "I said quit\\npulling me!",
    "op": "0x62",
    "msg": "0x27f8"
   },
@@ -868,7 +868,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "なんでもない\\nそれより坊主　お前\\n親はどうした？",
-   "en": "Nothing. More\\nimportantly, kid,\\nwhere are your\\nparents?",
+   "en": "Nothing. More\\nimportantly,\\nkid, where are\\nyour parents?",
    "op": "0x62",
    "msg": "0x27fa"
   },
@@ -878,7 +878,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "……流行病でみんな\\n死んじゃった……",
-   "en": "...They all died of\\nthe sickness that\\nwas going\\naround...",
+   "en": "...They all died\\nof the sickness\\nthat was going\\naround...",
    "op": "0x62",
    "msg": "0x27fb"
   },
@@ -898,7 +898,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "そんで山ん中の村にある\\n親戚んちに行く途中なんだ",
-   "en": "So I'm on my way\\nto my relatives'\\nplace in a village\\nup in the\\nmountains.",
+   "en": "So I'm on my\\nway to my\\nrelatives' place\\nin a village up in\\nthe mountains.",
    "op": "0x62",
    "msg": "0x27fd"
   },
@@ -928,7 +928,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "なら　その山中の村まで\\n俺が送ってやろう",
-   "en": "Then I'll take you\\nto that mountain\\nvillage.",
+   "en": "Then I'll take\\nyou to that\\nmountain village.",
    "op": "0x62",
    "msg": "0x2800"
   },
@@ -978,7 +978,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "はーい　土方さんだね\\nおいらは三太！\\nよろしくね！",
-   "en": "Okaaay,\\nHijikata-san! I'm\\nSanta! Nice to\\nmeet you!",
+   "en": "Okaaay,\\nHijikata-san!\\nI'm Santa! Nice\\nto meet you!",
    "op": "0x62",
    "msg": "0x2805"
   },
@@ -998,7 +998,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "ひょんなことから始まった\\n三太との旅だったが\\n予想外に楽しいものだった",
-   "en": "His journey with\\nSanta had begun\\nby sheer chance,\\nbut it turned out\\nto be\\nunexpectedly\\npleasant.",
+   "en": "His journey\\nwith Santa had\\nbegun by sheer\\nchance, but it\\nturned out to be\\nunexpectedly\\npleasant.",
    "op": "0x62",
    "msg": "0x2807"
   },
@@ -1018,7 +1018,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "そんでねー　そんでねー",
-   "en": "And then, and\\nthen--",
+   "en": "And then,\\nand then--",
    "op": "0x62",
    "msg": "0x2809"
   },
@@ -1028,7 +1028,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "なんだ　腹が減ったのか",
-   "en": "What, are you\\nhungry?",
+   "en": "What, are\\nyou hungry?",
    "op": "0x62",
    "msg": "0x280a"
   },
@@ -1048,7 +1048,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "握り飯なら持ってる\\nそこで食うか？",
-   "en": "I've got rice balls.\\nWant to eat over\\nthere?",
+   "en": "I've got rice\\nballs. Want to\\neat over there?",
    "op": "0x62",
    "msg": "0x280c"
   },
@@ -1068,7 +1068,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "二人は路端の石に並んで座り\\n握り飯を頬張った",
-   "en": "The two sat side\\nby side on a\\nroadside rock and\\nstuffed their\\ncheeks with rice\\nballs.",
+   "en": "The two sat\\nside by side on\\na roadside rock\\nand stuffed\\ntheir cheeks\\nwith rice balls.",
    "op": "0x62",
    "msg": "0x280e"
   },
@@ -1078,7 +1078,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "あむっ　あむあむっ",
-   "en": "*Munch, munch\\nmunch*",
+   "en": "*Munch,\\nmunch munch*",
    "op": "0x62",
    "msg": "0x280f"
   },
@@ -1088,7 +1088,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "そんなにがっつくと\\n喉に詰めるぞ",
-   "en": "Wolf it down like\\nthat and you'll\\nchoke.",
+   "en": "Wolf it down\\nlike that and\\nyou'll choke.",
    "op": "0x62",
    "msg": "0x2810"
   },
@@ -1108,7 +1108,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "ほら　言わんこっちゃない",
-   "en": "See? What did I\\ntell you.",
+   "en": "See? What\\ndid I tell you.",
    "op": "0x62",
    "msg": "0x2812"
   },
@@ -1118,7 +1118,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "土方が差しだした水を\\n三太はごくごくと飲んだ",
-   "en": "Santa gulped\\ndown the water\\nHijikata offered\\nhim.",
+   "en": "Santa gulped\\ndown the\\nwater Hijikata\\noffered him.",
    "op": "0x62",
    "msg": "0x2813"
   },
@@ -1158,7 +1158,7 @@
    "max": 88,
    "kind": "dialogue",
    "jp": "言った側からがっついて\\n食べる子供を土方は\\n沖田に向けるような\\n優しい目で眺めていた",
-   "en": "The boy went\\nright back to\\nwolfing it down,\\nand Hijikata\\nwatched him with\\nthe same gentle\\neyes he turned on\\nOkita.",
+   "en": "The boy went\\nright back to\\nwolfing it down,\\nand Hijikata\\nwatched him\\nwith the same\\ngentle eyes he\\nturned on Okita.",
    "op": "0x62",
    "msg": "0x2817"
   },
@@ -1228,7 +1228,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "今日はどじょうがいっぱい\\n取れたから　美味い鍋が\\n出来たんだがな",
-   "en": "We caught a ton\\nof loach today, so\\nI made a delicious\\nhot pot.",
+   "en": "We caught a ton\\nof loach today,\\nso I made a\\ndelicious hot pot.",
    "op": "0x62",
    "msg": "0x281e"
   },
@@ -1238,7 +1238,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "ほれほれ　美味いぞ～",
-   "en": "C'mon, c'mon, it's\\ntasty~",
+   "en": "C'mon, c'mon,\\nit's tasty~",
    "op": "0x62",
    "msg": "0x281f"
   },
@@ -1278,7 +1278,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "……もぐ　こんなに\\n美味いのにな",
-   "en": "...*Munch* And it's\\nso good, too.",
+   "en": "...*Munch* And\\nit's so good, too.",
    "op": "0x62",
    "msg": "0x2823"
   },
@@ -1308,7 +1308,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "……どうしても\\n食べて欲しいってなら\\n食べてあげてもいいよ？",
-   "en": "...If you really,\\nreally want me to\\neat, I guess I\\ncould eat some?",
+   "en": "...If you really,\\nreally want me\\nto eat, I guess I\\ncould eat some?",
    "op": "0x62",
    "msg": "0x2826"
   },
@@ -1328,7 +1328,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "まあまあ　いいじゃないか\\n食う気になったんだ\\nほら　食え　たんと食え",
-   "en": "Now, now, who\\ncares? He's in the\\nmood to eat.\\nHere, eat. Eat\\nyour fill!",
+   "en": "Now, now, who\\ncares? He's in\\nthe mood to\\neat. Here, eat.\\nEat your fill!",
    "op": "0x62",
    "msg": "0x2828"
   },
@@ -1358,7 +1358,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "っ\\nもぐもぐもぐ\\nあむあむっ！",
-   "en": "--! *Munch munch\\nmunch, chomp\\nchomp!*",
+   "en": "--! *Munch\\nmunch munch,\\nchomp chomp!*",
    "op": "0x62",
    "msg": "0x282b"
   },
@@ -1368,7 +1368,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "おい\\nそんなにがっつくと……",
-   "en": "Hey, if you wolf it\\ndown like that...",
+   "en": "Hey, if you wolf\\nit down like that...",
    "op": "0x62",
    "msg": "0x282c"
   },
@@ -1398,7 +1398,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "言わんこっちゃない……\\nほら　これを飲め",
-   "en": "What did I tell\\nyou... Here, drink\\nthis.",
+   "en": "What did I tell\\nyou... Here,\\ndrink this.",
    "op": "0x62",
    "msg": "0x282f"
   },
@@ -1418,7 +1418,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "沖田は土方が差しだした水を\\nごくごくと飲んだ",
-   "en": "Okita gulped\\ndown the water\\nHijikata offered\\nhim.",
+   "en": "Okita gulped\\ndown the\\nwater Hijikata\\noffered him.",
    "op": "0x62",
    "msg": "0x2831"
   },
@@ -1458,7 +1458,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "思えばあれからか\\n総司が少しずつでも\\n俺たちに",
-   "en": "Come to think of\\nit, that was when\\nSoji started, little\\nby little...",
+   "en": "Come to think of\\nit, that was when\\nSoji started,\\nlittle by little...",
    "op": "0x62",
    "msg": "0x2835"
   },
@@ -1478,7 +1478,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "まあ\\n毒舌は変わらなかったが",
-   "en": "Not that his sharp\\ntongue ever\\nchanged.",
+   "en": "Not that his\\nsharp tongue\\never changed.",
    "op": "0x62",
    "msg": "0x2837"
   },
@@ -1488,7 +1488,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "しかし\\nあいつにはずいぶんと\\n手をかけさせられたもんだ",
-   "en": "Still, he sure gave\\nus a lot of\\ntrouble.",
+   "en": "Still, he sure\\ngave us a lot\\nof trouble.",
    "op": "0x62",
    "msg": "0x2838"
   },
@@ -1518,7 +1518,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "何度も夜中に家を\\n抜け出しては近藤さんに\\n見つかった……",
-   "en": "Time and again\\nI'd sneak out of\\nthe house at\\nnight, and\\nKondo-san would\\nfind me...",
+   "en": "Time and again\\nI'd sneak out of\\nthe house at\\nnight, and\\nKondo-san\\nwould find me...",
    "op": "0x62",
    "msg": "0x283b"
   },
@@ -1558,7 +1558,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "……そんなんじゃない\\nガキ扱いするな",
-   "en": "...It's not that.\\nDon't treat me\\nlike a kid.",
+   "en": "...It's not that.\\nDon't treat\\nme like a kid.",
    "op": "0x62",
    "msg": "0x283f"
   },
@@ -1568,7 +1568,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "じゃあ　その棒っきれで\\n何をするつもりだった？",
-   "en": "Then what were\\nyou planning to\\ndo with that\\nstick?",
+   "en": "Then what\\nwere you\\nplanning to do\\nwith that stick?",
    "op": "0x62",
    "msg": "0x2840"
   },
@@ -1608,7 +1608,7 @@
    "max": 96,
    "kind": "dialogue",
    "jp": "土方は近藤に打ちかかった\\nだがあっさりといなされて\\nしまう\\nそれは何度やっても\\n同じことだった",
-   "en": "Hijikata swung at\\nKondo, but was\\neasily turned\\naside. No matter\\nhow many times\\nhe tried, it was\\nthe same.",
+   "en": "Hijikata swung\\nat Kondo, but\\nwas easily\\nturned aside. No\\nmatter how many\\ntimes he tried, it\\nwas the same.",
    "op": "0x62",
    "msg": "0x2844"
   },
@@ -1628,7 +1628,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "トシ　強くなれ　真に強い\\n誠の武士になりたいのなら\\n俺が手を貸してやる",
-   "en": "Toshi, get strong.\\nIf you want to\\nbecome a truly\\nstrong man of\\nsincerity, I'll lend\\nyou a hand.",
+   "en": "Toshi, get\\nstrong. If you\\nwant to become a\\ntruly strong man\\nof sincerity, I'll\\nlend you a hand.",
    "op": "0x62",
    "msg": "0x2846"
   },
@@ -1648,7 +1648,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "あの時　とった手の\\n大きさを\\n俺は一生忘れない",
-   "en": "The size of the\\nhand I took that\\nday... I'll never\\nforget it as long\\nas I live.",
+   "en": "The size of the\\nhand I took that\\nday... I'll never\\nforget it as\\nlong as I live.",
    "op": "0x62",
    "msg": "0x2848"
   },
@@ -1678,7 +1678,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "はー　食った　食った\\n土方さん　\\nそろそろ行こうよ",
-   "en": "Ahh, I'm stuffed!\\nHijikata-san, let's\\nget going.",
+   "en": "Ahh, I'm stuffed!\\nHijikata-san,\\nlet's get going.",
    "op": "0x62",
    "msg": "0x284b"
   },
@@ -1708,7 +1708,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "あの沢を越えたら村まで\\nあと少しだ　",
-   "en": "Once we cross\\nthat stream, it's\\nnot far to the\\nvillage.",
+   "en": "Once we cross\\nthat stream,\\nit's not far to\\nthe village.",
    "op": "0x62",
    "msg": "0x284e"
   },
@@ -1728,7 +1728,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "だが　村は霧に包まれ\\n嫌な気配が漂っていた",
-   "en": "But the village\\nwas shrouded in\\nfog, and an\\nominous air hung\\nover it.",
+   "en": "But the village\\nwas shrouded\\nin fog, and an\\nominous air\\nhung over it.",
    "op": "0x62",
    "msg": "0x2850"
   },
@@ -1758,7 +1758,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "村人たちはみなうつろな目で\\nぼんやりと幽鬼のように\\nさまよっている",
-   "en": "The villagers all\\nwandered about\\nvacantly,\\nhollow-eyed, like\\nghosts.",
+   "en": "The villagers\\nall wandered\\nabout vacantly,\\nhollow-eyed,\\nlike ghosts.",
    "op": "0x62",
    "msg": "0x2853"
   },
@@ -1838,7 +1838,7 @@
    "max": 88,
    "kind": "dialogue",
    "jp": "村人たちから守ろうと\\n土方が三太の前に\\n立った瞬間\\n土方の刻印から\\n強い光が迸った！",
-   "en": "As Hijikata\\nstepped in front\\nof Santa to shield\\nhim from the\\nvillagers, a fierce\\nlight burst from\\nhis mark!",
+   "en": "As Hijikata\\nstepped in front\\nof Santa to\\nshield him from\\nthe villagers, a\\nfierce light burst\\nfrom his mark!",
    "op": "0x62",
    "msg": "0x285b"
   },
@@ -1878,7 +1878,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "我らから何もかも\\n奪っていった……",
-   "en": "...and took\\neverything from\\nus...",
+   "en": "...and took\\neverything\\nfrom us...",
    "op": "0x62",
    "msg": "0x285f"
   },
@@ -1908,7 +1908,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "案ずるな\\n俺がなんとかする",
-   "en": "Don't worry. I'll\\nhandle this.",
+   "en": "Don't worry.\\nI'll handle this.",
    "op": "0x62",
    "msg": "0x2862"
   },
@@ -1928,7 +1928,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "我らは今やただ人の魂を\\n啜り食らうだけのモノ……\\nお前の魂も啜ってやろう",
-   "en": "Now we are\\nnothing but\\nthings that feed\\non human souls...\\nWe shall feast on\\nyours as well.",
+   "en": "Now we are\\nnothing but\\nthings that feed\\non human souls...\\nWe shall feast\\non yours as well.",
    "op": "0x62",
    "msg": "0x2864"
   },
@@ -1938,7 +1938,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "そのようなことを\\nさせてたまるか！\\n誅罰してくれる！",
-   "en": "Like hell I'll let\\nyou! I'll strike you\\ndown!",
+   "en": "Like hell I'll let\\nyou! I'll strike\\nyou down!",
    "op": "0x62",
    "msg": "0x2865"
   },
@@ -1948,7 +1948,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "ほう　お主の最も敬愛する\\n者でもか……？",
-   "en": "Oh? Even if it is\\nthe one you\\nrevere most...?",
+   "en": "Oh? Even if it\\nis the one you\\nrevere most...?",
    "op": "0x62",
    "msg": "0x2866"
   },
@@ -1968,7 +1968,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "土方の目の前で魔物は\\nぐにゃりとその姿を変えた",
-   "en": "Before Hijikata's\\neyes, the monster\\nwrithed and\\ntwisted into a\\nnew form.",
+   "en": "Before Hijikata's\\neyes, the\\nmonster writhed\\nand twisted into\\na new form.",
    "op": "0x62",
    "msg": "0x2868"
   },
@@ -1988,7 +1988,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "その姿は　幽霊でもいいから\\n会いたいと願った近藤の姿",
-   "en": "It was the form of\\nKondo, whom\\nHijikata had\\nlonged to see\\nagain, even as a\\nghost.",
+   "en": "It was the form\\nof Kondo,\\nwhom Hijikata\\nhad longed to\\nsee again, even\\nas a ghost.",
    "op": "0x62",
    "msg": "0x286a"
   },
@@ -2018,7 +2018,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "トシぃ……お前のその魂\\n俺にくれ……",
-   "en": "Toshiii... Give me\\nthat soul of\\nyours...",
+   "en": "Toshiii... Give\\nme that soul\\nof yours...",
    "op": "0x62",
    "msg": "0x286d"
   },
@@ -2098,7 +2098,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "俺の魂で近藤さんが\\n蘇るなら……\\n……それでいい",
-   "en": "If my soul can\\nbring Kondo-san\\nback... ...then so be\\nit.",
+   "en": "If my soul can\\nbring Kondo-san\\nback... ...then so\\nbe it.",
    "op": "0x62",
    "msg": "0x2875"
   },
@@ -2108,7 +2108,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "土方が目を閉じかけた\\nその時",
-   "en": "Just as Hijikata\\nbegan to close his\\neyes...",
+   "en": "Just as Hijikata\\nbegan to close\\nhis eyes...",
    "op": "0x62",
    "msg": "0x2876"
   },
@@ -2128,7 +2128,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "三太の声と共に土方の\\n刻印が強く光り始めた",
-   "en": "At Santa's cry,\\nHijikata's mark\\nbegan to shine\\nbrightly.",
+   "en": "At Santa's cry,\\nHijikata's\\nmark began to\\nshine brightly.",
    "op": "0x62",
    "msg": "0x2878"
   },
@@ -2148,7 +2148,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "トシ\\n強い武士になれ\\n真に強い誠の武士に……",
-   "en": "Toshi. Become a\\nstrong samurai. A\\ntruly strong\\nsamurai of\\nsincerity...",
+   "en": "Toshi. Become a\\nstrong samurai.\\nA truly strong\\nsamurai of\\nsincerity...",
    "op": "0x62",
    "msg": "0x287a"
   },
@@ -2168,7 +2168,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "そうだ　\\nお前は近藤さんじゃない",
-   "en": "That's right. You\\nare not\\nKondo-san.",
+   "en": "That's right.\\nYou are not\\nKondo-san.",
    "op": "0x62",
    "msg": "0x287c"
   },
@@ -2178,7 +2178,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "近藤さんは俺の中に……\\nあの人の魂は俺が\\n受け継いだのだから！",
-   "en": "Kondo-san is\\ninside me...\\nBecause I am the\\none who inherited\\nhis soul!",
+   "en": "Kondo-san is\\ninside me...\\nBecause I am the\\none who\\ninherited his soul!",
    "op": "0x62",
    "msg": "0x287d"
   },
@@ -2188,7 +2188,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "刀を抜くと　光はますます\\n強くなった",
-   "en": "As he drew his\\nsword, the light\\ngrew stronger\\nstill.",
+   "en": "As he drew\\nhis sword, the\\nlight grew\\nstronger still.",
    "op": "0x62",
    "msg": "0x287e"
   },
@@ -2248,7 +2248,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "ならば！　立ち向かうのが\\n誠の武士！",
-   "en": "Then standing up\\nto them is what a\\nsamurai of\\nsincerity does!",
+   "en": "Then standing\\nup to them is\\nwhat a samurai\\nof sincerity does!",
    "op": "0x62",
    "msg": "0x2884"
   },
@@ -2258,7 +2258,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "それが近藤さんの想いを\\n継ぐということだろう！",
-   "en": "That is what\\ncarrying on\\nKondo-san's will\\nmeans!",
+   "en": "That is what\\ncarrying on\\nKondo-san's\\nwill means!",
    "op": "0x62",
    "msg": "0x2885"
   },
@@ -2298,7 +2298,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "静まれ！\\nそして聴くがいい\\n俺の歌に酔いしれろ！",
-   "en": "Be still! Now\\nlisten! Lose\\nyourselves in my\\nsong!",
+   "en": "Be still! Now\\nlisten! Lose\\nyourselves\\nin my song!",
    "op": "0x62",
    "msg": "0x2889"
   },
@@ -2308,7 +2308,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "俺の歌が　お前達を\\n光へと導く！",
-   "en": "My song will lead\\nyou all into the\\nlight!",
+   "en": "My song will\\nlead you all\\ninto the light!",
    "op": "0x62",
    "msg": "0x288a"
   }

@@ -28,7 +28,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "ユーは歌の天使だ\\nいや　女神だ！\\nファンタスティック！",
-   "en": "You're an angel\\nof song. No, a\\ngoddess!\\nFantastic!",
+   "en": "You're an\\nangel of song.\\nNo, a goddess!\\nFantastic!",
    "op": "0x62",
    "msg": "0x5201"
   },
@@ -38,7 +38,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "トサカくん達の歌への\\nテキトーな態度とは\\nずいぶん違うんじゃない",
-   "en": "That's a far cry\\nfrom your\\ncareless attitude\\ntoward\\nTosaka-kun and\\nthe others' songs,\\nisn't it?",
+   "en": "That's a far cry\\nfrom your\\ncareless\\nattitude toward\\nTosaka-kun\\nand the others'\\nsongs, isn't it?",
    "op": "0x62",
    "msg": "0x5202"
   },
@@ -58,7 +58,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "可憐なヤマトナデシコの\\nアイドルソングと\\n比べるまでもない",
-   "en": "They're not even\\nworth comparing\\nto the idol song\\nof a lovely\\nYamato\\nNadeshiko.",
+   "en": "They're not\\neven worth\\ncomparing to\\nthe idol song of\\na lovely Yamato\\nNadeshiko.",
    "op": "0x62",
    "msg": "0x5204"
   },
@@ -88,7 +88,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "やっぱりこいつ　僕を\\n女と勘違いしてたのか！",
-   "en": "I knew it. This\\nguy thinks I'm a\\ngirl!",
+   "en": "I knew it. This\\nguy thinks I'm\\na girl!",
    "op": "0x62",
    "msg": "0x5207"
   },
@@ -108,7 +108,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "アンコール\\nイこうか\\nＪ！",
-   "en": "Let's go for an\\nencore, J!",
+   "en": "Let's go for\\nan encore, J!",
    "op": "0x62",
    "msg": "0x5209"
   },
@@ -128,7 +128,7 @@
    "max": 92,
    "kind": "dialogue",
    "jp": "沖田渾身の歌さえも\\n自らの糧とするように\\nジュニアがすさまじい程の\\n熱量で観客を圧倒する",
-   "en": "As if feeding\\neven on Okita's\\nall-out song,\\nJunior\\noverwhelmed the\\naudience with a\\ntremendous burst\\nof energy.",
+   "en": "As if feeding\\neven on Okita's\\nall-out song,\\nJunior\\noverwhelmed the\\naudience with a\\ntremendous\\nburst of energy.",
    "op": "0x62",
    "msg": "0x520b"
   },
@@ -138,7 +138,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "抗うつもりだった\\n龍馬達ですら\\n思わず聴き惚れる",
-   "en": "Even Ryoma and\\nthe others, who\\nhad meant to\\nresist, found\\nthemselves\\nenraptured.",
+   "en": "Even Ryoma\\nand the others,\\nwho had meant\\nto resist, found\\nthemselves\\nenraptured.",
    "op": "0x62",
    "msg": "0x520c"
   },
@@ -158,7 +158,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "すごい……やっぱり\\nじゅにあはすごいぜよ",
-   "en": "Amazing... Junior\\nreally is amazin', I\\ntell ya.",
+   "en": "Amazing...\\nJunior really is\\namazin', I tell ya.",
    "op": "0x62",
    "msg": "0x520e"
   },
@@ -168,7 +168,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "くそっ！\\nこんなんじゃ全然ダメだ！\\nチクショウ！",
-   "en": "Damn it! This is\\nno good at all!\\nDammit!",
+   "en": "Damn it! This\\nis no good at\\nall! Dammit!",
    "op": "0x62",
    "msg": "0x520f"
   },
@@ -198,7 +198,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "え？\\nあきらめるんか？",
-   "en": "Huh? You're givin'\\nup?",
+   "en": "Huh? You're\\ngivin' up?",
    "op": "0x62",
    "msg": "0x5212"
   },
@@ -208,7 +208,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "わしは何度だって\\nじゅにあに挑むつもりぜよ",
-   "en": "I aim to challenge\\nJunior as many\\ntimes as it takes, I\\ntell ya.",
+   "en": "I aim to\\nchallenge Junior\\nas many times as\\nit takes, I tell ya.",
    "op": "0x62",
    "msg": "0x5213"
   },
@@ -248,7 +248,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "どうすりゃいいんだよ！",
-   "en": "What the hell are\\nwe supposed to\\ndo!?",
+   "en": "What the hell\\nare we\\nsupposed to do!?",
    "op": "0x62",
    "msg": "0x5217"
   },
@@ -268,7 +268,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "なんだって\\n桂さんは　それで\\nいいのかよ",
-   "en": "What!?\\nKatsura-san,\\nyou're fine with\\nthat?",
+   "en": "What!?\\nKatsura-san,\\nyou're fine\\nwith that?",
    "op": "0x62",
    "msg": "0x5219"
   },
@@ -278,7 +278,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "良いわけないでしょう\\nでも他に　方法が\\nないんです！",
-   "en": "Of course I'm not!\\nBut there's no\\nother way!",
+   "en": "Of course I'm\\nnot! But there's\\nno other way!",
    "op": "0x62",
    "msg": "0x521a"
   },
@@ -358,7 +358,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "わぁ～\\nすっごぉい\\nゴージャスぅ～",
-   "en": "Wow~\\nAmaaazing~ So\\ngorgeous~",
+   "en": "Wow~\\nAmaaazing~\\nSo gorgeous~",
    "op": "0x62",
    "msg": "0x5222"
   },
@@ -388,7 +388,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "女の子紹介してって\\n頼んできたのは\\nジュニアの方なんですから",
-   "en": "Junior's the one\\nwho asked me to\\nintroduce him to\\nsome girls, after\\nall.",
+   "en": "Junior's the one\\nwho asked me\\nto introduce\\nhim to some\\ngirls, after all.",
    "op": "0x62",
    "msg": "0x5225"
   },
@@ -438,7 +438,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "ストーップ！\\nヤマトナデシコは簡単に\\n唇を許さないよ",
-   "en": "Stooop! A Yamato\\nNadeshiko doesn't\\ngive away her lips\\nthat easily.",
+   "en": "Stooop! A Yamato\\nNadeshiko doesn't\\ngive away her\\nlips that easily.",
    "op": "0x62",
    "msg": "0x522a"
   },
@@ -448,7 +448,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "オー　そうだったな\\nそんなところも可憐だ",
-   "en": "Oh, that's right.\\nEven that side of\\nyou is lovely.",
+   "en": "Oh, that's right.\\nEven that side\\nof you is lovely.",
    "op": "0x62",
    "msg": "0x522b"
   },
@@ -468,7 +468,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "アタシの熱いキッスじゃ\\nダメかしら？",
-   "en": "Wouldn't a hot\\nkiss from me do,\\ndear?",
+   "en": "Wouldn't a\\nhot kiss from\\nme do, dear?",
    "op": "0x62",
    "msg": "0x522d"
   },
@@ -488,7 +488,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "もちろん\\n大歓迎だとも",
-   "en": "Of course. You're\\nmore than\\nwelcome.",
+   "en": "Of course.\\nYou're more\\nthan welcome.",
    "op": "0x62",
    "msg": "0x522f"
   },
@@ -508,7 +508,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "むしろオレから\\nサービスしよう",
-   "en": "In fact, let me\\ngive YOU some\\nservice.",
+   "en": "In fact, let\\nme give YOU\\nsome service.",
    "op": "0x62",
    "msg": "0x5231"
   },
@@ -558,7 +558,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "わかってる\\n今は雷舞が大事",
-   "en": "I know. The live\\ncomes first right\\nnow.",
+   "en": "I know. The\\nlive comes first\\nright now.",
    "op": "0x62",
    "msg": "0x5236"
   },
@@ -588,7 +588,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "すぐに　この国は\\nオレにひれ伏すさ",
-   "en": "Soon this country\\nwill bow down\\nbefore me.",
+   "en": "Soon this\\ncountry will bow\\ndown before me.",
    "op": "0x62",
    "msg": "0x5239"
   },
@@ -608,7 +608,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "オッケー\\nならば　もっと\\nアグレッシブにイこう",
-   "en": "Okay. Then let's\\nget more\\naggressive.",
+   "en": "Okay. Then\\nlet's get more\\naggressive.",
    "op": "0x62",
    "msg": "0x523b"
   },
@@ -638,7 +638,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "ムカつく～っ！\\nアイツ　何様のつもり\\nなんでしょーね？",
-   "en": "He makes me so\\nmad~! Who does\\nthat guy think he\\nis?",
+   "en": "He makes me\\nso mad~! Who\\ndoes that guy\\nthink he is?",
    "op": "0x62",
    "msg": "0x523e"
   },
@@ -648,7 +648,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "仕方ないだろう\\n彼は今や日本においても\\nトップスターだ",
-   "en": "Can't be helped.\\nHe's a top star\\nhere in Japan\\nnow, too.",
+   "en": "Can't be\\nhelped. He's a\\ntop star here in\\nJapan now, too.",
    "op": "0x62",
    "msg": "0x523f"
   },
@@ -678,7 +678,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "あ～　早く男だって\\nバラしたいな～",
-   "en": "Ugh~ I wanna tell\\nhim I'm a guy\\nalready~",
+   "en": "Ugh~ I wanna\\ntell him I'm a\\nguy already~",
    "op": "0x62",
    "msg": "0x5242"
   },
@@ -708,7 +708,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "……察しがいいな",
-   "en": "...Quick on the\\nuptake, aren't\\nyou.",
+   "en": "...Quick on\\nthe uptake,\\naren't you.",
    "op": "0x62",
    "msg": "0x5245"
   },
@@ -738,7 +738,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "……あのギタリストか\\nわかった　気をつけよう",
-   "en": "...That guitarist,\\neh? All right, we'll\\nkeep an eye on\\nhim.",
+   "en": "...That guitarist,\\neh? All right,\\nwe'll keep an\\neye on him.",
    "op": "0x62",
    "msg": "0x5248"
   },
@@ -778,7 +778,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "分かってます\\nこの先ずっとジュニアの\\n言いなりもゴメンですし",
-   "en": "I know. I don't\\nwant to be at\\nJunior's beck and\\ncall forever,\\neither.",
+   "en": "I know. I don't\\nwant to be at\\nJunior's beck\\nand call\\nforever, either.",
    "op": "0x62",
    "msg": "0x524c"
   },
@@ -798,7 +798,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "頼んだぞ",
-   "en": "I'm counting on\\nyou.",
+   "en": "I'm counting\\non you.",
    "op": "0x62",
    "msg": "0x524e"
   },
@@ -808,7 +808,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "勝海舟と別れると\\n沖田は江戸の街を\\n眺めながら拳を握った",
-   "en": "After parting\\nwith Kaishu\\nKatsu, Okita\\nclenched his fist\\nas he gazed out\\nover the streets\\nof Edo.",
+   "en": "After parting\\nwith Kaishu\\nKatsu, Okita\\nclenched his\\nfist as he gazed\\nout over the\\nstreets of Edo.",
    "op": "0x62",
    "msg": "0x524f"
   },
@@ -818,7 +818,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "ったく\\nトサカくん達\\n本当に駄目だな",
-   "en": "Geez. Tosaka-kun\\nand the others\\nare really\\nhopeless.",
+   "en": "Geez.\\nTosaka-kun and\\nthe others are\\nreally hopeless.",
    "op": "0x62",
    "msg": "0x5250"
   },
@@ -828,7 +828,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "落ち込んでる時間なんて\\nないのに　全くもう",
-   "en": "There's no time to\\nsit around\\nmoping. Honestly.",
+   "en": "There's no time\\nto sit around\\nmoping. Honestly.",
    "op": "0x62",
    "msg": "0x5251"
   },
@@ -848,7 +848,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "僕にできることなら\\nなんでもするさ……",
-   "en": "If there's\\nanything I can do,\\nI'll do it...",
+   "en": "If there's\\nanything I can\\ndo, I'll do it...",
    "op": "0x62",
    "msg": "0x5253"
   },
@@ -858,7 +858,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "そう呟いて\\n沖田は顔を上げると\\n江戸の街の喧騒へ\\n紛れて消えた",
-   "en": "Murmuring this,\\nOkita raised his\\nhead and\\nvanished into the\\nbustle of Edo's\\nstreets.",
+   "en": "Murmuring\\nthis, Okita\\nraised his head\\nand vanished\\ninto the bustle\\nof Edo's streets.",
    "op": "0x62",
    "msg": "0x5254"
   },
@@ -898,7 +898,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "それが　名前どころか\\n中を見ても　ちんぷん\\nかんぷんなんじゃ",
-   "en": "Thing is, forget a\\nname, I looked\\ninside and it's all\\ngibberish.",
+   "en": "Thing is, forget\\na name, I looked\\ninside and it's\\nall gibberish.",
    "op": "0x62",
    "msg": "0x5258"
   },
@@ -958,7 +958,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "読めない？\\nどういうことだ？",
-   "en": "Couldn't read it?\\nWhat do you\\nmean?",
+   "en": "Couldn't read\\nit? What do\\nyou mean?",
    "op": "0x62",
    "msg": "0x525e"
   },
@@ -968,7 +968,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "危険な薬品や　火薬の\\n調合方法を　大っぴらに\\n書き残せないでしょう",
-   "en": "I can hardly write\\ndown how to mix\\ndangerous\\nchemicals and\\ngunpowder for\\nanyone to see,\\ncan I?",
+   "en": "I can hardly\\nwrite down how\\nto mix dangerous\\nchemicals and\\ngunpowder for\\nanyone to see,\\ncan I?",
    "op": "0x62",
    "msg": "0x525f"
   },
@@ -1008,7 +1008,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "発明に打ち込み\\nましょうかね",
-   "en": "and throw myself\\ninto my\\ninventions.",
+   "en": "and throw\\nmyself into\\nmy inventions.",
    "op": "0x62",
    "msg": "0x5263"
   },
@@ -1028,7 +1028,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "二人とも\\nこんなに言っても\\n練習する気は起きんのか",
-   "en": "After all I've said,\\nyou two still don't\\nfeel like\\npracticin'?",
+   "en": "After all I've\\nsaid, you two\\nstill don't feel\\nlike practicin'?",
    "op": "0x62",
    "msg": "0x5265"
   },
@@ -1048,7 +1048,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "一朝一夕の練習で\\nジュニアの実力に\\n追いつけるわけでも\\nありませんし……",
-   "en": "Besides, a little\\nlast-minute\\npractice won't let\\nus catch up to\\nJunior's skill...",
+   "en": "Besides, a little\\nlast-minute\\npractice won't\\nlet us catch up\\nto Junior's skill...",
    "op": "0x62",
    "msg": "0x5267"
   },
@@ -1058,7 +1058,7 @@
    "max": 84,
    "kind": "dialogue",
    "jp": "そんなことはないぜよ！\\nロックは魂が\\n一番大事なんじゃ！\\n技術なんて二の次じゃろ？",
-   "en": "That ain't true! In\\nrock, soul's the\\nmost important\\nthing! Technique\\ncomes second,\\nright?",
+   "en": "That ain't true!\\nIn rock, soul's\\nthe most\\nimportant thing!\\nTechnique comes\\nsecond, right?",
    "op": "0x62",
    "msg": "0x5268"
   },
@@ -1068,7 +1068,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "龍馬くん……\\n私たちは負けたんです",
-   "en": "Ryoma-kun... We\\nlost.",
+   "en": "Ryoma-kun...\\nWe lost.",
    "op": "0x62",
    "msg": "0x5269"
   },
@@ -1108,7 +1108,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "うぐ……\\nと　とにかくわしは\\nあきらめてないぜよ！",
-   "en": "Urk... A-anyway, I\\nain't givin' up!",
+   "en": "Urk... A-anyway,\\nI ain't givin' up!",
    "op": "0x62",
    "msg": "0x526d"
   },
@@ -1138,7 +1138,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "分かってる\\n分かってんだよ！",
-   "en": "I know. I know,\\ndammit!",
+   "en": "I know. I\\nknow, dammit!",
    "op": "0x62",
    "msg": "0x5270"
   },
@@ -1148,7 +1148,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "高杉はそう言うと\\nごろりと畳に横たわって\\n煤けた天井を見つめた",
-   "en": "With that,\\nTakasugi flopped\\ndown on the\\ntatami and stared\\nup at the sooty\\nceiling.",
+   "en": "With that,\\nTakasugi\\nflopped down on\\nthe tatami and\\nstared up at the\\nsooty ceiling.",
    "op": "0x62",
    "msg": "0x5271"
   },
@@ -1158,7 +1158,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "ジュニアに敗れた\\n三人の心は\\n今や　散り散りに\\nなっていた……",
-   "en": "Defeated by\\nJunior, the three\\nof them had\\ndrifted apart at\\nheart...",
+   "en": "Defeated by\\nJunior, the\\nthree of them\\nhad drifted\\napart at heart...",
    "op": "0x62",
    "msg": "0x5272"
   },
@@ -1168,7 +1168,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "クソッ\\n最低の気分だぜ……",
-   "en": "Damn. I feel like\\ngarbage...",
+   "en": "Damn. I feel\\nlike garbage...",
    "op": "0x62",
    "msg": "0x5273"
   },
@@ -1218,7 +1218,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "私たちがここにいるのは\\n一握りの人間しか知らない\\nはずです！",
-   "en": "Only a handful of\\npeople are\\nsupposed to know\\nwe're here!",
+   "en": "Only a handful\\nof people are\\nsupposed to\\nknow we're here!",
    "op": "0x62",
    "msg": "0x5278"
   },
@@ -1238,7 +1238,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "だ　誰だ\\n名を名乗りやがれ！",
-   "en": "Wh-who are you!?\\nTell us your\\nname!",
+   "en": "Wh-who are\\nyou!? Tell us\\nyour name!",
    "op": "0x62",
    "msg": "0x527a"
   },
@@ -1258,7 +1258,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "しかし\\n名乗れと言うのなら\\n敢えて名乗ろう",
-   "en": "But if you insist\\non a name, I shall\\ngive one.",
+   "en": "But if you insist\\non a name, I\\nshall give one.",
    "op": "0x62",
    "msg": "0x527c"
   },
@@ -1308,7 +1308,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "土方などという男とは\\n縁もゆかりもない！",
-   "en": "I have no ties\\nwhatsoever to any\\nman named\\nHijikata!",
+   "en": "I have no ties\\nwhatsoever to\\nany man\\nnamed Hijikata!",
    "op": "0x62",
    "msg": "0x5281"
   },
@@ -1318,7 +1318,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "熱きロックの魂に呼ばれて\\n来た　通りすがりの\\nロックの使者　誠仮面だ！",
-   "en": "Summoned by the\\nburning soul of\\nrock, I am a\\npassing\\nmessenger of\\nrock: Makoto\\nMask!",
+   "en": "Summoned by\\nthe burning\\nsoul of rock, I\\nam a passing\\nmessenger of\\nrock: Makoto\\nMask!",
    "op": "0x62",
    "msg": "0x5282"
   },
@@ -1338,7 +1338,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "いや\\nどこからどう見ても\\n土方だろ",
-   "en": "No, any way you\\nlook at it, that's\\nHijikata.",
+   "en": "No, any way\\nyou look at it,\\nthat's Hijikata.",
    "op": "0x62",
    "msg": "0x5284"
   },
@@ -1348,7 +1348,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "違う！\\n断じて違う！",
-   "en": "Wrong! Absolutely\\nwrong!",
+   "en": "Wrong!\\nAbsolutely wrong!",
    "op": "0x62",
    "msg": "0x5285"
   },
@@ -1358,7 +1358,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "シンディ\\nあんまり人を疑うのは\\nよくないぜよ",
-   "en": "Shindy, it ain't\\nnice to go\\ndoubtin' folks so\\nmuch.",
+   "en": "Shindy, it\\nain't nice to\\ngo doubtin'\\nfolks so much.",
    "op": "0x62",
    "msg": "0x5286"
   },
@@ -1368,7 +1368,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "本人が違うと\\n言うとるんだから\\n違うんじゃろう",
-   "en": "If the man\\nhimself says he\\nain't, then he\\nain't.",
+   "en": "If the man\\nhimself says\\nhe ain't,\\nthen he ain't.",
    "op": "0x62",
    "msg": "0x5287"
   },
@@ -1378,7 +1378,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "それにヒジゾーさんとは\\n全然顔が違うじゃないか",
-   "en": "Besides, his face\\nlooks nothin' like\\nHijizo-san's!",
+   "en": "Besides, his face\\nlooks nothin'\\nlike Hijizo-san's!",
    "op": "0x62",
    "msg": "0x5288"
   },
@@ -1428,7 +1428,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "しばらく　お前たちの\\n様子を見させてもらった",
-   "en": "I have been\\nwatching you for\\nsome time.",
+   "en": "I have been\\nwatching you\\nfor some time.",
    "op": "0x62",
    "msg": "0x528d"
   },
@@ -1458,7 +1458,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "今こそ危機を乗り越え\\n志士として　いや人として\\n成長する時だろう",
-   "en": "Now is the time to\\novercome this\\ncrisis and grow as\\nrebels -- no, as\\nhuman beings!",
+   "en": "Now is the time\\nto overcome this\\ncrisis and grow\\nas rebels -- no,\\nas human beings!",
    "op": "0x62",
    "msg": "0x5290"
   },
@@ -1468,7 +1468,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "ご説はいちいち\\nごもっともだがよ\\n誠仮面さんとやら",
-   "en": "Every word of\\nthat sermon's\\nspot-on, Makoto\\nMask-san, or\\nwhatever you call\\nyourself,",
+   "en": "Every word of\\nthat sermon's\\nspot-on, Makoto\\nMask-san, or\\nwhatever you\\ncall yourself,",
    "op": "0x62",
    "msg": "0x5291"
   },
@@ -1478,7 +1478,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "じゃあ　オレ様たちに\\nどうしろって言うんだ？",
-   "en": "but what do you\\nexpect yours truly\\nand the others to\\ndo?",
+   "en": "but what do you\\nexpect yours\\ntruly and the\\nothers to do?",
    "op": "0x62",
    "msg": "0x5292"
   },
@@ -1498,7 +1498,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "先だっての雷舞で\\n私は諸君の演奏を\\n聴いた",
-   "en": "At your last live, I\\nheard you\\nperform.",
+   "en": "At your last\\nlive, I heard\\nyou perform.",
    "op": "0x62",
    "msg": "0x5294"
   },
@@ -1508,7 +1508,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "実に素晴らしい\\n演奏だった……\\n技術も申し分ない",
-   "en": "It was a truly\\nsplendid\\nperformance...\\nYour technique\\nleaves nothing to\\nbe desired.",
+   "en": "It was a truly\\nsplendid\\nperformance...\\nYour technique\\nleaves nothing\\nto be desired.",
    "op": "0x62",
    "msg": "0x5295"
   },
@@ -1528,7 +1528,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "それが何かわかるか？",
-   "en": "Do you know what\\nit is?",
+   "en": "Do you know\\nwhat it is?",
    "op": "0x62",
    "msg": "0x5297"
   },
@@ -1556,7 +1556,7 @@
    "max": 16,
    "kind": "choice",
    "jp": "心の絆……か？",
-   "en": "The bond of our\\nhearts...?",
+   "en": "The bond of\\nour hearts...?",
    "op": "0x51"
   },
   {
@@ -1575,7 +1575,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "胸を張って言うな！\\nカッコわりい！",
-   "en": "Don't say it so\\nproudly! That's\\nlame!",
+   "en": "Don't say it\\nso proudly!\\nThat's lame!",
    "op": "0x62",
    "msg": "0x5299"
   },
@@ -1585,7 +1585,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "わからんものをわからんと\\n言って何が悪い",
-   "en": "What's wrong\\nwith sayin' I don't\\nknow when I don't\\nknow?",
+   "en": "What's wrong\\nwith sayin' I\\ndon't know when\\nI don't know?",
    "op": "0x62",
    "msg": "0x529a"
   },
@@ -1615,7 +1615,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "確かにそれもある……\\nかも知れない\\nいや　だが　しかし",
-   "en": "That is certainly\\npart of it...\\nperhaps. No, but,\\nhowever...",
+   "en": "That is certainly\\npart of it...\\nperhaps. No,\\nbut, however...",
    "op": "0x62",
    "msg": "0x529d"
   },
@@ -1635,7 +1635,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "もしかして\\n心の絆……か？",
-   "en": "Could it be... the\\nbond of our\\nhearts?",
+   "en": "Could it be...\\nthe bond of\\nour hearts?",
    "op": "0x62",
    "msg": "0x529f"
   },
@@ -1675,7 +1675,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "私たちは大切なことを\\n見失っていた……？",
-   "en": "Have we lost\\nsight of\\nsomething\\nimportant...?",
+   "en": "Have we\\nlost sight of\\nsomething\\nimportant...?",
    "op": "0x62",
    "msg": "0x52a3"
   },
@@ -1685,7 +1685,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "それが何なのか……",
-   "en": "As for what that\\nis...",
+   "en": "As for what\\nthat is...",
    "op": "0x62",
    "msg": "0x52a4"
   },
@@ -1695,7 +1695,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "私にも分からん！",
-   "en": "Even I do not\\nknow!",
+   "en": "Even I do\\nnot know!",
    "op": "0x62",
    "msg": "0x52a5"
   },
@@ -1725,7 +1725,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "愚か者が\\n何でも人に頼るな",
-   "en": "Fools. Don't rely\\non others for\\neverything.",
+   "en": "Fools. Don't\\nrely on others\\nfor everything.",
    "op": "0x62",
    "msg": "0x52a8"
   },
@@ -1765,7 +1765,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "そんな方法があるなら\\n教えて欲しいもんだ",
-   "en": "If there's a way,\\nI'd sure love to\\nhear it.",
+   "en": "If there's a\\nway, I'd sure\\nlove to hear it.",
    "op": "0x62",
    "msg": "0x52ac"
   },
@@ -1805,7 +1805,7 @@
    "max": 12,
    "kind": "dialogue",
    "jp": "特訓か",
-   "en": "Special trainin',\\nhuh.",
+   "en": "Special\\ntrainin', huh.",
    "op": "0x62",
    "msg": "0x52b0"
   },
@@ -1815,7 +1815,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "いや待て待て\\n特訓って\\nどういうことだ",
-   "en": "Whoa, wait, wait.\\nWhat do you\\nmean, special\\ntraining?",
+   "en": "Whoa, wait,\\nwait. What do\\nyou mean,\\nspecial training?",
    "op": "0x62",
    "msg": "0x52b1"
   },
@@ -1835,7 +1835,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "そうじゃなくてだな\\nどんな特訓をすりゃ\\nいいのかってことだ",
-   "en": "That's not what\\nI'm asking. I mean\\nwhat kind of\\nspecial training\\nare we supposed\\nto do?",
+   "en": "That's not what\\nI'm asking. I\\nmean what kind\\nof special\\ntraining are we\\nsupposed to do?",
    "op": "0x62",
    "msg": "0x52b3"
   },
@@ -1865,7 +1865,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "すべては特訓で\\nどうにかなる！",
-   "en": "special training\\ncan fix\\neverything!",
+   "en": "special\\ntraining can\\nfix everything!",
    "op": "0x62",
    "msg": "0x52b6"
   },
@@ -1875,7 +1875,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "それが私が近藤さ――\\n音楽の神から\\n教えられたことだ",
-   "en": "That is what I\\nwas taught by\\nKondo-sa-- by the\\ngod of music.",
+   "en": "That is what I\\nwas taught by\\nKondo-sa-- by\\nthe god of music.",
    "op": "0x62",
    "msg": "0x52b7"
   },
@@ -1885,7 +1885,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "そうだったんか……\\nさすがはロックの使者じゃ\\n言うことに重みがあるぜよ",
-   "en": "So that's how it\\nis... That's a\\nmessenger of\\nrock for ya. Your\\nwords sure carry\\nweight.",
+   "en": "So that's how it\\nis... That's a\\nmessenger of\\nrock for ya.\\nYour words sure\\ncarry weight.",
    "op": "0x62",
    "msg": "0x52b8"
   },
@@ -1905,7 +1905,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "桂さん\\nこのバカ共に　何とか\\n言ってやってくれ！",
-   "en": "Katsura-san, say\\nsomething to\\nthese idiots!",
+   "en": "Katsura-san,\\nsay something\\nto these idiots!",
    "op": "0x62",
    "msg": "0x52ba"
   },
@@ -1915,7 +1915,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "ええ　あの　うん\\nでも誠仮面さんが\\n刀を抜いてるんですけど",
-   "en": "Yes, well, um,\\nright... But\\nMakoto Mask-san\\nhas his sword\\ndrawn.",
+   "en": "Yes, well, um,\\nright... But\\nMakoto\\nMask-san has his\\nsword drawn.",
    "op": "0x62",
    "msg": "0x52bb"
   },
@@ -1935,7 +1935,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "言っておくが\\n特訓を怠けたり\\n逃げ出した者は――",
-   "en": "Let me be clear.\\nAnyone who\\nslacks off in\\ntraining or runs\\naway--",
+   "en": "Let me be\\nclear. Anyone\\nwho slacks off\\nin training or\\nruns away--",
    "op": "0x62",
    "msg": "0x52bd"
   },
@@ -1985,7 +1985,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "あれは\\n本物の漢の目じゃ",
-   "en": "Those are the\\neyes of a real\\nman.",
+   "en": "Those are\\nthe eyes of\\na real man.",
    "op": "0x62",
    "msg": "0x52c2"
   },
@@ -2015,7 +2015,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "仕方がありません\\nしばらく特訓とやらに\\n付き合いましょう",
-   "en": "It can't be helped.\\nLet's go along\\nwith this \"special\\ntraining\" for a\\nwhile.",
+   "en": "It can't be\\nhelped. Let's go\\nalong with this\\n\"special training\"\\nfor a while.",
    "op": "0x62",
    "msg": "0x52c5"
   },
@@ -2025,7 +2025,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "斬って捨てられては\\n堪りませんからね",
-   "en": "Being cut down\\nwould be rather\\nunpleasant, after\\nall.",
+   "en": "Being cut down\\nwould be rather\\nunpleasant,\\nafter all.",
    "op": "0x62",
    "msg": "0x52c6"
   },
@@ -2035,7 +2035,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "まあ\\nやることもないしな……",
-   "en": "Well, it's not like\\nwe've got\\nanything better to\\ndo...",
+   "en": "Well, it's not\\nlike we've\\ngot anything\\nbetter to do...",
    "op": "0x62",
    "msg": "0x52c7"
   },
@@ -2055,7 +2055,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "誠仮面！　わしらは\\n何をすればええんじゃ？",
-   "en": "Makoto Mask!\\nWhat should we\\ndo?",
+   "en": "Makoto Mask!\\nWhat should\\nwe do?",
    "op": "0x62",
    "msg": "0x52c9"
   },
@@ -2065,7 +2065,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "古今東西\\n特訓と言えば\\n走り込みからだ！",
-   "en": "East or west, past\\nor present,\\nspecial training\\nstarts with\\nrunning!",
+   "en": "East or west,\\npast or\\npresent, special\\ntraining starts\\nwith running!",
    "op": "0x62",
    "msg": "0x52ca"
   },
@@ -2095,7 +2095,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "おいおいおい\\n十里ってなんだ\\n殺す気か",
-   "en": "Whoa, whoa,\\nwhoa!\\nTwenty-five\\nmiles!? You trying\\nto kill us!?",
+   "en": "Whoa, whoa,\\nwhoa!\\nTwenty-five\\nmiles!? You\\ntrying to kill us!?",
    "op": "0x62",
    "msg": "0x52cd"
   },
@@ -2125,7 +2125,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "さあ\\n行きますよ\\n晋作",
-   "en": "Come on, let's go,\\nShinsaku.",
+   "en": "Come on, let's\\ngo, Shinsaku.",
    "op": "0x62",
    "msg": "0x52d0"
   },
@@ -2135,7 +2135,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "分かった\\n分かったよ！\\n走ればいいんだろ！",
-   "en": "Fine! Fine already!\\nI just gotta run,\\nright!?",
+   "en": "Fine! Fine\\nalready! I just\\ngotta run, right!?",
    "op": "0x62",
    "msg": "0x52d1"
   },
@@ -2155,7 +2155,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "私は土方ではない！\\n誠仮面だ！",
-   "en": "I am not Hijikata!\\nI am Makoto\\nMask!",
+   "en": "I am not\\nHijikata! I am\\nMakoto Mask!",
    "op": "0x62",
    "msg": "0x52d3"
   },
@@ -2185,7 +2185,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "それも全て三人で呼吸を\\n合わせて　ですからね\\nさすがに堪えます……",
-   "en": "And all of it with\\nthe three of us in\\nsync. Even I'm\\nfeeling it...",
+   "en": "And all of it with\\nthe three of us\\nin sync. Even I'm\\nfeeling it...",
    "op": "0x62",
    "msg": "0x52d6"
   },
@@ -2205,7 +2205,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "これで演奏が\\n上手くなるなら\\n世話ないぜ……",
-   "en": "If this made us\\nbetter players,\\nit'd be way too\\neasy...",
+   "en": "If this made\\nus better\\nplayers, it'd be\\nway too easy...",
    "op": "0x62",
    "msg": "0x52d8"
   },
@@ -2225,7 +2225,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "まだ信じていないのか\\nよかろう",
-   "en": "You still don't\\nbelieve? Very\\nwell.",
+   "en": "You still\\ndon't believe?\\nVery well.",
    "op": "0x62",
    "msg": "0x52da"
   },
@@ -2245,7 +2245,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "マジかよ！\\n腕も足もガタガタで\\nベースなんて持てないぜ",
-   "en": "Seriously!? My\\narms and legs are\\nshot. I can't even\\nhold a bass.",
+   "en": "Seriously!? My\\narms and legs\\nare shot. I can't\\neven hold a bass.",
    "op": "0x62",
    "msg": "0x52dc"
   },
@@ -2255,7 +2255,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "ベースが持てないなら\\nその両腕は必要ないな\\n今すぐ斬り落とそう",
-   "en": "If you cannot\\nhold a bass, you\\ndon't need those\\narms. I shall cut\\nthem off right\\nnow.",
+   "en": "If you cannot\\nhold a bass,\\nyou don't need\\nthose arms. I\\nshall cut them\\noff right now.",
    "op": "0x62",
    "msg": "0x52dd"
   },
@@ -2265,7 +2265,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "うおい！　待て待て！\\nすぐに準備する！\\n桂さんも早く",
-   "en": "Whoa! Wait, wait!\\nI'll get ready\\nright now!\\nKatsura-san,\\nhurry up!",
+   "en": "Whoa! Wait,\\nwait! I'll get\\nready right now!\\nKatsura-san,\\nhurry up!",
    "op": "0x62",
    "msg": "0x52de"
   },
@@ -2275,7 +2275,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "わしは演奏に\\n加わらなくても\\nええんか？",
-   "en": "I don't need to\\njoin in the\\nplayin'?",
+   "en": "I don't need\\nto join in\\nthe playin'?",
    "op": "0x62",
    "msg": "0x52df"
   },
@@ -2305,7 +2305,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "準備はいいな？\\nアーユーレディ",
-   "en": "Ready? Are you\\nready!?",
+   "en": "Ready? Are\\nyou ready!?",
    "op": "0x62",
    "msg": "0x52e2"
   },
@@ -2335,7 +2335,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "魂を燃やせ！\\nロックンロールの真髄を\\n今ここで見せてみろ！",
-   "en": "Burn your souls!\\nShow me the very\\nessence of rock 'n'\\nroll, here and\\nnow!",
+   "en": "Burn your souls!\\nShow me the\\nvery essence of\\nrock 'n' roll,\\nhere and now!",
    "op": "0x62",
    "msg": "0x52e5"
   },

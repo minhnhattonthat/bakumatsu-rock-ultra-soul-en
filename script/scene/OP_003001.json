@@ -8,7 +8,7 @@
    "max": 88,
    "kind": "dialogue",
    "jp": "太平洋――\\n他国へと繋がるこの大海を\\n荒波も物ともせず突き進む\\n四隻の蒸気船があった",
-   "en": "The Pacific-- On\\nthis great ocean\\nthat links to other\\nlands, four\\nsteamships were\\npressing on,\\nheedless of the\\nrough waves.",
+   "en": "The Pacific-- On\\nthis great ocean\\nthat links to\\nother lands, four\\nsteamships were\\npressing on,\\nheedless of the\\nrough waves.",
    "op": "0x62",
    "msg": "0x4e20"
   },
@@ -28,7 +28,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "イッツ　ロケンロゥ！\\nゴキゲンな荒波だ",
-   "en": "It's rock 'n' rolll!\\nThese waves are\\ngroovy!",
+   "en": "It's rock 'n' rolll!\\nThese waves\\nare groovy!",
    "op": "0x62",
    "msg": "0x4e22"
   },
@@ -48,7 +48,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "だが　どんな荒波よりも\\nオレのロックの方が\\n激しい……",
-   "en": "But my rock is\\nwilder than any\\nrough sea...",
+   "en": "But my rock is\\nwilder than\\nany rough sea...",
    "op": "0x62",
    "msg": "0x4e24"
   },
@@ -58,7 +58,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "どんな障害も　オレを\\n止めることは出来ない\\nそうだろう？　Ｊ",
-   "en": "No obstacle can\\nstop me. Isn't that\\nright, J?",
+   "en": "No obstacle can\\nstop me. Isn't\\nthat right, J?",
    "op": "0x62",
    "msg": "0x4e25"
   },
@@ -68,7 +68,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "男が振り返ると\\nそこには一人の\\nギタリストが立っていた",
-   "en": "When the man\\nturned around, a\\nguitarist was\\nstanding there.",
+   "en": "When the man\\nturned around,\\na guitarist was\\nstanding there.",
    "op": "0x62",
    "msg": "0x4e26"
   },
@@ -98,7 +98,7 @@
    "max": 88,
    "kind": "dialogue",
    "jp": "Ｊと呼ばれた男は\\n口を一文字に\\n引き結んだまま\\n一言も発さず\\n代わりにギターを奏でる",
-   "en": "The man called J\\nkept his mouth\\npressed in a tight\\nline and said not\\na word; instead,\\nhe played his\\nguitar.",
+   "en": "The man called J\\nkept his mouth\\npressed in a\\ntight line and\\nsaid not a word;\\ninstead, he\\nplayed his guitar.",
    "op": "0x62",
    "msg": "0x4e29"
   },
@@ -108,7 +108,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "オレたちがこれから行く国\\nニッポンは　小さな島国",
-   "en": "The country we're\\nheaded for,\\nNippon, is a tiny\\nisland nation.",
+   "en": "The country\\nwe're headed for,\\nNippon, is a tiny\\nisland nation.",
    "op": "0x62",
    "msg": "0x4e2a"
   },
@@ -118,7 +118,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "我がステイツに比べれば\\nあまりにちっぽけだ……",
-   "en": "Next to our\\nStates, it's just too\\npuny...",
+   "en": "Next to our\\nStates, it's just\\ntoo puny...",
    "op": "0x62",
    "msg": "0x4e2b"
   },
@@ -128,7 +128,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "オレとお前のロックに\\n魅せられて　たちまち\\n開国しちまうだろう",
-   "en": "One taste of your\\nrock and mine,\\nand they'll be so\\ndazzled they'll\\nopen up their\\ncountry in no\\ntime.",
+   "en": "One taste of\\nyour rock and\\nmine, and they'll\\nbe so dazzled\\nthey'll open up\\ntheir country in\\nno time.",
    "op": "0x62",
    "msg": "0x4e2c"
   },
@@ -138,7 +138,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "オレのような\\nロックスターに\\nこんなイージーな任務を\\nやらせるとは",
-   "en": "Making a rock\\nstar like me do\\nsuch an easy\\nmission...",
+   "en": "Making a rock\\nstar like me\\ndo such an\\neasy mission...",
    "op": "0x62",
    "msg": "0x4e2d"
   },
@@ -188,7 +188,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "ロックを奏でながら\\n四隻の船は浦賀の港へ\\n突き進んでゆく",
-   "en": "Playing rock all\\nthe while, the\\nfour ships pushed\\non toward the\\nport of Uraga.",
+   "en": "Playing rock all\\nthe while, the\\nfour ships\\npushed on toward\\nthe port of Uraga.",
    "op": "0x62",
    "msg": "0x4e32"
   },
@@ -198,7 +198,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "これが後の世に\\n黒船来航と呼ばれる\\n出来事の始まりだった",
-   "en": "This was the start\\nof the event later\\nages would call\\nthe arrival of the\\nBlack Ships.",
+   "en": "This was the\\nstart of the event\\nlater ages would\\ncall the arrival of\\nthe Black Ships.",
    "op": "0x62",
    "msg": "0x4e33"
   },
@@ -208,7 +208,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "オーライ！　ハニーたち\\nオレのロック　感じてる？",
-   "en": "All right, honeys!\\nAre you feeling\\nmy rock?",
+   "en": "All right,\\nhoneys! Are you\\nfeeling my rock?",
    "op": "0x62",
    "msg": "0x4e34"
   },
@@ -218,7 +218,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "みんなの鼓動が\\nオレのハートを高鳴らせる\\n最高の気分だ",
-   "en": "All your\\nheartbeats make\\nmy heart pound. I\\nfeel fantastic.",
+   "en": "All your\\nheartbeats make\\nmy heart pound.\\nI feel fantastic.",
    "op": "0x62",
    "msg": "0x4e35"
   },
@@ -248,7 +248,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "ジュニアが\\n一声かけるたびに\\n会場一杯に\\n黄色い声が響く",
-   "en": "Every time Junior\\ncalled out,\\nsqueals of delight\\nfilled the whole\\nvenue.",
+   "en": "Every time\\nJunior called\\nout, squeals of\\ndelight filled\\nthe whole venue.",
    "op": "0x62",
    "msg": "0x4e38"
   },
@@ -268,7 +268,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "それにあの\\n甘い言葉（トーク）……\\n胸がキュンとしちゃう",
-   "en": "And his sweet\\ntalk... It makes my\\nheart flutter!",
+   "en": "And his sweet\\ntalk... It makes\\nmy heart flutter!",
    "op": "0x62",
    "msg": "0x4e3a"
   },
@@ -278,7 +278,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "こんな凄い雷舞\\n今まで体験したこと\\n無いわ！",
-   "en": "I've never been to\\na live this\\namazing!",
+   "en": "I've never\\nbeen to a live\\nthis amazing!",
    "op": "0x62",
    "msg": "0x4e3b"
   },
@@ -288,7 +288,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "もう　新選組から\\n乗り換えちゃう！",
-   "en": "That's it, I'm\\nditching the\\nShinsengumi for\\nhim!",
+   "en": "That's it, I'm\\nditching the\\nShinsengumi\\nfor him!",
    "op": "0x62",
    "msg": "0x4e3c"
   },
@@ -298,7 +298,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "ドキドキが止まらないの！\\n本物って感じがするわ！",
-   "en": "My heart won't\\nstop racing! He\\nfeels like the real\\ndeal!",
+   "en": "My heart won't\\nstop racing!\\nHe feels like\\nthe real deal!",
    "op": "0x62",
    "msg": "0x4e3d"
   },
@@ -308,7 +308,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "ハニーたち\\nわかってるね\\nオレのロックこそ本物だ",
-   "en": "You get it,\\nhoneys. My rock is\\nthe real deal.",
+   "en": "You get it,\\nhoneys. My rock\\nis the real deal.",
    "op": "0x62",
    "msg": "0x4e3e"
   },
@@ -318,7 +318,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "史上最高のオレが\\n目の前にいるんだ\\n興奮するのは仕方ない",
-   "en": "The greatest man\\nin history is right\\nbefore your eyes.\\nNo wonder you're\\nexcited.",
+   "en": "The greatest\\nman in history is\\nright before your\\neyes. No wonder\\nyou're excited.",
    "op": "0x62",
    "msg": "0x4e3f"
   },
@@ -328,7 +328,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "だけど\\n今日は君だけの\\nオレでいよう",
-   "en": "But tonight, I'll be\\nyours and yours\\nalone.",
+   "en": "But tonight, I'll\\nbe yours and\\nyours alone.",
    "op": "0x62",
    "msg": "0x4e40"
   },
@@ -338,7 +338,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "きゃあああっ\\n私に話しかけてくれたわっ\\nああっ　失神しそう……",
-   "en": "Kyaaah! He talked\\nto me! Ahh, I\\nthink I'm gonna\\nfaint...",
+   "en": "Kyaaah! He\\ntalked to me!\\nAhh, I think I'm\\ngonna faint...",
    "op": "0x62",
    "msg": "0x4e41"
   },
@@ -358,7 +358,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "あぁん　あんなことを\\n言われたら\\n私　溶けちゃいそう……",
-   "en": "Ahhn, when he\\nsays things like\\nthat... I'm gonna\\nmelt...",
+   "en": "Ahhn, when\\nhe says things\\nlike that... I'm\\ngonna melt...",
    "op": "0x62",
    "msg": "0x4e43"
   },
@@ -368,7 +368,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "ステキ……\\nもうジュニア様しか\\n見えないわ♪",
-   "en": "He's so dreamy... I\\ncan't see anyone\\nbut Junior-sama\\nnow~",
+   "en": "He's so dreamy...\\nI can't see anyone\\nbut Junior-sama\\nnow~",
    "op": "0x62",
    "msg": "0x4e44"
   },
@@ -378,7 +378,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "レディたちは　オレだけを\\n見つめていればいい",
-   "en": "You ladies only\\nneed to keep your\\neyes on me.",
+   "en": "You ladies only\\nneed to keep\\nyour eyes on me.",
    "op": "0x62",
    "msg": "0x4e45"
   },
@@ -388,7 +388,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "レディたちの熱い想いを\\nオレのロックで数百倍に\\nして返してみせよう！",
-   "en": "I'll take your\\nburning feelings\\nand pay them\\nback a\\nhundredfold with\\nmy rock!",
+   "en": "I'll take your\\nburning\\nfeelings and\\npay them back\\na hundredfold\\nwith my rock!",
    "op": "0x62",
    "msg": "0x4e46"
   },
@@ -408,7 +408,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "おっと\\n言い忘れてた",
-   "en": "Oops, I forgot to\\nmention.",
+   "en": "Oops, I forgot\\nto mention.",
    "op": "0x62",
    "msg": "0x4e48"
   },
@@ -468,7 +468,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "会場に渦巻くのは\\n熱狂　興奮　感動\\nそれらが熱風のように\\n吹き荒れていた",
-   "en": "Frenzy,\\nexcitement and\\nemotion swirled\\nthrough the\\nvenue, raging like\\na hot wind.",
+   "en": "Frenzy,\\nexcitement and\\nemotion swirled\\nthrough the\\nvenue, raging\\nlike a hot wind.",
    "op": "0x62",
    "msg": "0x4e4e"
   },
@@ -478,7 +478,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "ジュニア様は\\nロックの神様だわ！",
-   "en": "Junior-sama is the\\ngod of rock!",
+   "en": "Junior-sama is\\nthe god of rock!",
    "op": "0x62",
    "msg": "0x4e4f"
   },
@@ -518,7 +518,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "オレの最高のロックを\\nもっと聴かせてやれって\\n言うんだろう",
-   "en": "You're telling me\\nto let them hear\\nmore of my\\ngreatest rock,\\nright?",
+   "en": "You're telling\\nme to let them\\nhear more of\\nmy greatest\\nrock, right?",
    "op": "0x62",
    "msg": "0x4e53"
   },
@@ -548,7 +548,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "そう　オレとＪの間に\\n余計な言葉は不要さ\\n音楽があれば大体オッケー",
-   "en": "That's right. J and\\nI don't need extra\\nwords. With\\nmusic, it's all\\npretty much okay.",
+   "en": "That's right. J\\nand I don't need\\nextra words. With\\nmusic, it's all\\npretty much okay.",
    "op": "0x62",
    "msg": "0x4e56"
   },
@@ -578,7 +578,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "すげぇな……\\nやっぱこいつらは\\nただ者じゃないぜ",
-   "en": "Wow... These guys\\nreally are\\nsomething else.",
+   "en": "Wow... These\\nguys really are\\nsomething else.",
    "op": "0x62",
    "msg": "0x4e59"
   },
@@ -598,7 +598,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "次の歌もここに咲く\\nレディたちへ捧げよう！",
-   "en": "I dedicate the\\nnext song to the\\nladies blooming\\nhere!",
+   "en": "I dedicate the\\nnext song to\\nthe ladies\\nblooming here!",
    "op": "0x62",
    "msg": "0x4e5b"
   },
@@ -608,7 +608,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "ホットでスパイシーな\\nオレのラブを受け止めろ！\\nイッツ　ロケンロゥーッ！",
-   "en": "Take my hot and\\nspicy love! It's\\nrock 'n' rollll!",
+   "en": "Take my hot\\nand spicy love!\\nIt's rock 'n' rollll!",
    "op": "0x62",
    "msg": "0x4e5c"
   },
@@ -648,7 +648,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "その人気はやがて\\n日本中を巻き込んで\\nゆくことになる――",
-   "en": "In time, his\\npopularity would\\nsweep up all of\\nJapan--",
+   "en": "In time, his\\npopularity\\nwould sweep up\\nall of Japan--",
    "op": "0x62",
    "msg": "0x4e60"
   },

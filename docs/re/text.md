@@ -72,8 +72,29 @@ one "shelved skit").
 
 ## 4. EBOOT (`work/eboot/EBOOT.ELF`, `jpscan.py` -> `work/eboot/jpscan.txt`)
 
-Only real text: 3 save-data title sets, UTF-8, shown in the PSP save dialog. Verified: exactly these 8 slots and nothing
-else in the region (phase 4 mask-and-scan); all SJIS/UTF-16 hits elsewhere are code/table noise.
+3 save-data title sets, UTF-8, shown in the PSP save dialog (table below), plus (found in phase 7; the phase 4 scan
+only covered the save-title region) Shift-JIS strings the code memcpy's whole, and strings it builds from byte-store
+immediates. `extract.py verify` now scans every NUL-delimited Shift-JIS string in the data sections (from 0x25A240;
+.text hits are code noise), so a missed slot fails the check. `tools/debug/sbscan.py EBOOT.ELF` lists the code-built
+strings (`sb` of `addiu/ori zero,imm`).
+
+| Offset | Slot | Text | Use |
+|---|---|---|---|
+| 0x29ADAC + 0x20*i | 0x20 x 9 | 出身地 誕生日 身長 体重 血液型 星座 趣味 好きな食べ物 嫌いな食べ物 | profile labels; 0x0884dc18 memcpy's 0x120 bytes |
+| 0x2C09D4 | 0x10 | プレイ時間 | save detail label; 0x088cb434 memcpy's 0x10 bytes |
+| 0x2C10EC.. | 0x10 each | \n ！！ ！？ ？？ あ” ・ (C) | token table, not display text (left) |
+
+Code-built (`insert.TEXT_CODE`, `insert.CHAPTER_CODE`, patched by immediates; nothing moves):
+- 0x088cb318 save detail: `sprintf("%s%3d%s%2d%s%2d%s\n%s\n%s", プレイ時間, h, 時間, m, 分, s, 秒, ...)` -> "h", "m", "s".
+- 0x08888c64 chapter end (ids 0x88d7538 accepts: 0-11, 33-36): `strstr(title, "話")`, memcpy up to it, append " 終了",
+  sprintf into game state +0x48. **A title without the search string makes strstr return NULL and the memcpy length
+  wrap: crash.** English searches ':' and appends " Done" ("Chapter 1: Done"); chapter titles 2-11 and 34-36 keep the
+  ':' (test). JP 0, 1, 33 have no 話 either, so the game never reaches it for them.
+- 0x088159fc choice record "選択肢\n<options>" (also into game state +0x48) -> "Choose" (byte 2 must repeat byte 0
+  or 3 because of register reuse).
+- `？？？？` placeholders (0x0882d02c and others) are left: the font has the fullwidth glyph.
+
+Save titles:
 
 | Offset | Slot | Text |
 |---|---|---|

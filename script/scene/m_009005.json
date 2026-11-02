@@ -58,7 +58,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "お前がどうして\\nそこまでして\\n天歌を歌うのか",
-   "en": "Why you'd go so\\nfar to sing\\nHeaven's Song.",
+   "en": "Why you'd go\\nso far to sing\\nHeaven's Song.",
    "op": "0x62",
    "msg": "0x1c18"
   },
@@ -68,7 +68,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "大切な人のために\\nその人を守るために\\n平和な世を作りたかった",
-   "en": "For someone\\nprecious to you.\\nTo protect that\\nperson, you\\nwanted to build a\\npeaceful world.",
+   "en": "For someone\\nprecious to you.\\nTo protect that\\nperson, you\\nwanted to build\\na peaceful world.",
    "op": "0x62",
    "msg": "0x1c19"
   },
@@ -78,7 +78,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "そういう気持ちが\\n魂の叫びが聞こえたぜよ",
-   "en": "I heard that\\nfeeling, the cry of\\nyour soul, I tell\\nya.",
+   "en": "I heard that\\nfeeling, the\\ncry of your\\nsoul, I tell ya.",
    "op": "0x62",
    "msg": "0x1c1a"
   },
@@ -108,7 +108,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "ならん……\\n慶喜様のために\\n我は……まだ……",
-   "en": "I cannot... For\\nYoshinobu-sama's\\nsake... I must...\\nstill...",
+   "en": "I cannot... For\\nYoshinobu-sama's\\nsake... I\\nmust... still...",
    "op": "0x62",
    "msg": "0x1c1d"
   },
@@ -148,7 +148,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "貴様達のような\\n強い魂を持つ者は\\nいいだろう",
-   "en": "For those with\\nstrong souls like\\nyours, it may be\\nfine.",
+   "en": "For those with\\nstrong souls\\nlike yours, it\\nmay be fine.",
    "op": "0x62",
    "msg": "0x1c21"
   },
@@ -168,7 +168,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "努力が徒労に終わった時\\n人は絶望の淵に落ちる",
-   "en": "When their\\nefforts come to\\nnothing, people\\nfall into the abyss\\nof despair.",
+   "en": "When their\\nefforts come to\\nnothing, people\\nfall into the\\nabyss of despair.",
    "op": "0x62",
    "msg": "0x1c23"
   },
@@ -178,7 +178,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "自分の弱さを忘れ\\n他人の強さを妬み\\n自分より弱い者を蔑む",
-   "en": "They forget their\\nown weakness,\\nenvy the strength\\nof others, and\\nscorn those\\nweaker than\\nthemselves.",
+   "en": "They forget\\ntheir own\\nweakness, envy\\nthe strength of\\nothers, and scorn\\nthose weaker\\nthan themselves.",
    "op": "0x62",
    "msg": "0x1c24"
   },
@@ -218,7 +218,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "そんなことはない！\\n人間というのは\\nもっと　もっと――",
-   "en": "That ain't true!\\nPeople are so\\nmuch... so much\\nmore--",
+   "en": "That ain't true!\\nPeople are so\\nmuch... so\\nmuch more--",
    "op": "0x62",
    "msg": "0x1c28"
   },
@@ -228,7 +228,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "それが……\\n小賢しいというのだ……\\nぐふっ",
-   "en": "That... is exactly\\nwhat I call\\nimpudent...\\nGwhh...",
+   "en": "That... is\\nexactly what I\\ncall impudent...\\nGwhh...",
    "op": "0x62",
    "msg": "0x1c29"
   },
@@ -268,7 +268,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "あの方はお優しい\\nだが　強くはない",
-   "en": "He is kind. But he\\nis not strong.",
+   "en": "He is kind. But\\nhe is not strong.",
    "op": "0x62",
    "msg": "0x1c2d"
   },
@@ -278,7 +278,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "それだけが\\n心残りだ――",
-   "en": "That alone... is my\\none regret--",
+   "en": "That alone... is\\nmy one regret--",
    "op": "0x62",
    "msg": "0x1c2e"
   },
@@ -328,7 +328,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "井伊は……\\n悪い奴じゃなかった",
-   "en": "Ii... wasn't a bad\\nguy.",
+   "en": "Ii... wasn't\\na bad guy.",
    "op": "0x62",
    "msg": "0x1c33"
   },
@@ -348,7 +348,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "やり方を間違えただけ\\nなんじゃ",
-   "en": "He just went\\nabout it the\\nwrong way, that's\\nall.",
+   "en": "He just went\\nabout it the\\nwrong way,\\nthat's all.",
    "op": "0x62",
    "msg": "0x1c35"
   },
@@ -388,7 +388,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "純粋な想いが　こんな……\\nこんな哀しい結末だなんて",
-   "en": "Such pure\\nfeelings... and\\nsuch a sad, sad\\nending...",
+   "en": "Such pure\\nfeelings... and\\nsuch a sad,\\nsad ending...",
    "op": "0x62",
    "msg": "0x1c39"
   },
@@ -448,7 +448,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "井伊の気持ちが徳川慶喜へ\\n真っ直ぐに向いていたのは\\n間違いない",
-   "en": "There's no doubt\\nIi's feelings were\\naimed straight at\\nYoshinobu\\nTokugawa.",
+   "en": "There's no doubt\\nIi's feelings were\\naimed straight\\nat Yoshinobu\\nTokugawa.",
    "op": "0x62",
    "msg": "0x1c3f"
   },
@@ -468,7 +468,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "ハッキリとは\\nしないんだが……",
-   "en": "I can't say for\\nsure...",
+   "en": "I can't say\\nfor sure...",
    "op": "0x62",
    "msg": "0x1c41"
   },
@@ -518,7 +518,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "そりゃあ　そうじゃろう\\nソウちんは井伊に操られて\\nいたんだから",
-   "en": "Well, sure he was.\\nSo-chin was bein'\\ncontrolled by Ii,\\nafter all.",
+   "en": "Well, sure he\\nwas. So-chin was\\nbein' controlled\\nby Ii, after all.",
    "op": "0x62",
    "msg": "0x1c46"
   },
@@ -568,7 +568,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "僕だったら　土方さんが\\n生きてるなら　地を這って\\nでも逃げ延びるね",
-   "en": "If it were me, as\\nlong as\\nHijikata-san was\\nalive, I'd survive\\neven if I had to\\ncrawl through the\\ndirt.",
+   "en": "If it were me, as\\nlong as\\nHijikata-san was\\nalive, I'd survive\\neven if I had to\\ncrawl through\\nthe dirt.",
    "op": "0x62",
    "msg": "0x1c4b"
   },
@@ -578,7 +578,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "僕が死んじゃったら\\n土方さんの世話をする人が\\nいなくなっちゃうもの",
-   "en": "If I died, there'd\\nbe nobody left to\\nlook after\\nHijikata-san.",
+   "en": "If I died, there'd\\nbe nobody left\\nto look after\\nHijikata-san.",
    "op": "0x62",
    "msg": "0x1c4c"
   },
@@ -598,7 +598,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "井伊の気持ちを利用した\\n何者かがいるってことか？",
-   "en": "You're saying\\nsomeone used Ii's\\nfeelings?",
+   "en": "You're saying\\nsomeone used\\nIi's feelings?",
    "op": "0x62",
    "msg": "0x1c4e"
   },
@@ -608,7 +608,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "そいつが……\\n井伊の魂を……？",
-   "en": "And that\\nsomeone... ate Ii's\\nsoul...?",
+   "en": "And that\\nsomeone...\\nate Ii's soul...?",
    "op": "0x62",
    "msg": "0x1c4f"
   },
@@ -628,7 +628,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "誰じゃ！\\nこんな酷いことをしたのは\\n誰なんじゃ！",
-   "en": "Who!? Who did\\nsomethin' so\\ncruel!? Who was\\nit!?",
+   "en": "Who!? Who\\ndid somethin'\\nso cruel!?\\nWho was it!?",
    "op": "0x62",
    "msg": "0x1c51"
   },
@@ -638,7 +638,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "わからんのは　そこだ\\n井伊は　事実上　幕府の\\n最高権力者だった",
-   "en": "That's what I can't\\nfigure out. Ii was\\neffectively the\\nmost powerful\\nman in the\\nshogunate.",
+   "en": "That's what I\\ncan't figure out.\\nIi was effectively\\nthe most\\npowerful man in\\nthe shogunate.",
    "op": "0x62",
    "msg": "0x1c52"
   },
@@ -748,7 +748,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "坂本\\nどうする？",
-   "en": "Sakamoto. What'll\\nyou do?",
+   "en": "Sakamoto.\\nWhat'll you do?",
    "op": "0x62",
    "msg": "0x1c5d"
   },
@@ -798,7 +798,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "は？\\n説得で済ますつもりかよ\\nとことん呑気な野郎だ",
-   "en": "Huh? You think\\ntalking will settle\\nit? You're one\\ncarefree idiot, I\\nswear.",
+   "en": "Huh? You think\\ntalking will\\nsettle it? You're\\none carefree\\nidiot, I swear.",
    "op": "0x62",
    "msg": "0x1c62"
   },
@@ -808,7 +808,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "そういうところは\\n龍馬くんらしいけど",
-   "en": "That's so like you,\\nthough,\\nRyoma-kun.",
+   "en": "That's so like\\nyou, though,\\nRyoma-kun.",
    "op": "0x62",
    "msg": "0x1c63"
   },
@@ -818,7 +818,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "やる価値はあるでしょ\\n土方さん",
-   "en": "It's worth a shot,\\nright,\\nHijikata-san?",
+   "en": "It's worth a\\nshot, right,\\nHijikata-san?",
    "op": "0x62",
    "msg": "0x1c64"
   },
@@ -828,7 +828,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "ああ\\n二条城へ乗り込むぞ\\n覚悟はいいな",
-   "en": "Yes. We're\\nstorming Nijo\\nCastle. Are you\\nready?",
+   "en": "Yes. We're\\nstorming Nijo\\nCastle. Are\\nyou ready?",
    "op": "0x62",
    "msg": "0x1c65"
   },
@@ -858,7 +858,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "ああ……わかった\\n井伊よ　安らかにな……\\nぐすっ",
-   "en": "Yeah... all right.\\nRest in peace, Ii...\\n*sniff*",
+   "en": "Yeah... all right.\\nRest in peace,\\nIi... *sniff*",
    "op": "0x62",
    "msg": "0x1c68"
   },
@@ -878,7 +878,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "江戸の街は\\n不気味なほどに\\n静まりかえっていた",
-   "en": "The streets of\\nEdo were eerily\\nquiet.",
+   "en": "The streets\\nof Edo were\\neerily quiet.",
    "op": "0x62",
    "msg": "0x1c6a"
   },

@@ -9,7 +9,7 @@ classified as data by the parsers and only enter the roundtrip check.
 
 dump never overwrites an existing file unless --force; with --force it keeps every non-empty `en` by id.
 """
-import argparse, os, sys
+import argparse, os, re, sys
 
 sys.path.insert(0, os.path.dirname(__file__))
 import mzscript, uitable
@@ -103,7 +103,7 @@ def ui_entries(name, data):
 
 
 def eboot_entries(eboot):
-    return [entry(f'eboot:0x{s.off:x}', s.off, s.capacity, 'save-title', s.text, encoding='utf-8')
+    return [entry(f'eboot:0x{s.off:x}', s.off, s.capacity, s.kind, s.text, encoding=s.enc)
             for s in uitable.eboot_slots(eboot)]
 
 
@@ -213,6 +213,17 @@ def check_coverage():
         outside = [i for i in range(lo, hi) if masked[i] >= 0x80]
         if outside:
             problems.append(f'EBOOT: {len(outside)} high bytes outside save-title slots, first at 0x{outside[0]:x}')
+    # EBOOT data sections (from 0x25A240; .text before it is code noise): a NUL-delimited Shift-JIS string with
+    # kana/kanji is text. 0x2C112C: あ” in a 16-byte punctuation token table (！！, ！？, ・...), not display text.
+    # Strings the code builds from immediates are insert.TEXT_CODE (found by tools/debug/sbscan.py).
+    for m in re.finditer(rb'(?<=\0)(?:[\x81-\x9f\xe0-\xfc][\x40-\x7e\x80-\xfc])+(?=\0)', bytes(masked[0x25A240:])):
+        off = 0x25A240 + m.start()
+        try:
+            text = m.group().decode('cp932')
+        except UnicodeDecodeError:
+            continue
+        if off != 0x2C112C and len(text) >= 2 and re.search(r'[぀-ヿ一-鿿]', text):
+            problems.append(f'EBOOT 0x{off:x}: {text!r} outside a text slot')
     return problems
 
 

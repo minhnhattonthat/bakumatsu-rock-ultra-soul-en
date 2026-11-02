@@ -8,7 +8,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "龍馬があやうく\\n暗殺されかけた\\n丁度その頃",
-   "en": "Right around the\\ntime Ryoma was\\nnearly\\nassassinated...",
+   "en": "Right around\\nthe time Ryoma\\nwas nearly\\nassassinated...",
    "op": "0x62",
    "msg": "0x5925"
   },
@@ -38,7 +38,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "当然です……\\n私はいつだって\\n姐さんと一緒よ……",
-   "en": "Naturally... I'm\\nalways with you,\\nSis...",
+   "en": "Naturally...\\nI'm always\\nwith you, Sis...",
    "op": "0x62",
    "msg": "0x5928"
   },
@@ -58,7 +58,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "その時　一人の男が\\n角を曲がってきて\\nお龍と衝突した",
-   "en": "Just then, a man\\ncame around the\\ncorner and\\ncollided with\\nOryo.",
+   "en": "Just then, a man\\ncame around\\nthe corner and\\ncollided with\\nOryo.",
    "op": "0x62",
    "msg": "0x592a"
   },
@@ -158,7 +158,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "……貴様！この俺を誰だと\\n思ってる！たった今人一人\\n殺してきたばかりの……",
-   "en": "...You! Do you\\nknow who I am!? I\\njust killed a man\\nnot a moment\\nago...",
+   "en": "...You! Do you\\nknow who I\\nam!? I just\\nkilled a man not\\na moment ago...",
    "op": "0x62",
    "msg": "0x5934"
   },
@@ -178,7 +178,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "さらに踏みつけ\\n蹴飛ばすお龍",
-   "en": "Oryo stomped on\\nhim, then kicked\\nhim for good\\nmeasure.",
+   "en": "Oryo stomped\\non him, then\\nkicked him for\\ngood measure.",
    "op": "0x62",
    "msg": "0x5936"
   },
@@ -188,7 +188,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "だっしゃ～\\nコラー！",
-   "en": "Hyaaah~ Take\\nTHAT!",
+   "en": "Hyaaah~\\nTake THAT!",
    "op": "0x62",
    "msg": "0x5937"
   },
@@ -198,7 +198,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "姐さんダメよ……\\nもう暗殺は\\nやめたんだから……",
-   "en": "Sis, don't... We\\ngave up\\nassassination,\\nremember...",
+   "en": "Sis, don't...\\nWe gave up\\nassassination,\\nremember...",
    "op": "0x62",
    "msg": "0x5938"
   },
@@ -208,7 +208,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "お龍を止める振りして\\nその体をさわる幾松",
-   "en": "Pretending to\\nhold Oryo back,\\nIkumatsu ran her\\nhands all over\\nher.",
+   "en": "Pretending to\\nhold Oryo\\nback, Ikumatsu\\nran her hands\\nall over her.",
    "op": "0x62",
    "msg": "0x5939"
   },
@@ -258,7 +258,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "こんな時はぁ\\nみんなれ歌いましょ～\\nせーのぉ！",
-   "en": "Timesh like thish~\\nletsh all shing~!\\nOne, two~!",
+   "en": "Timesh like\\nthish~ letsh all\\nshing~! One, two~!",
    "op": "0x62",
    "msg": "0x593e"
   },
@@ -308,7 +308,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "こらおうの！\\n天歌はやめなさい！",
-   "en": "Hey, Ouno! Quit\\nsingin' Heaven's\\nSong!",
+   "en": "Hey, Ouno!\\nQuit singin'\\nHeaven's Song!",
    "op": "0x62",
    "msg": "0x5943"
   },
@@ -348,7 +348,7 @@
    "max": 108,
    "kind": "dialogue",
    "jp": "店から出てきた\\nお登勢だったが\\n何かにつまずいて\\n男に全体重を乗せた\\n体圧迫（ボディプレス）を\\n見舞った",
-   "en": "Otose stepped out\\nof the inn,\\ntripped over\\nsomething, and\\nlanded a\\nfull-weight body\\npress on the man.",
+   "en": "Otose stepped\\nout of the inn,\\ntripped over\\nsomething, and\\nlanded a\\nfull-weight body\\npress on the man.",
    "op": "0x62",
    "msg": "0x5947"
   },
@@ -368,7 +368,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "あら\\nこんなとこで\\n寝てちゃだめよ",
-   "en": "Oh my, you\\nmustn't sleep in a\\nplace like this,\\ndear.",
+   "en": "Oh my, you\\nmustn't sleep\\nin a place like\\nthis, dear.",
    "op": "0x62",
    "msg": "0x5949"
   },
@@ -418,7 +418,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "お龍たちがそれを\\n知る由もなかった……",
-   "en": "but Oryo and the\\nothers had no\\nway of knowing\\nthat...",
+   "en": "but Oryo and\\nthe others had\\nno way of\\nknowing that...",
    "op": "0x62",
    "msg": "0x594e"
   },

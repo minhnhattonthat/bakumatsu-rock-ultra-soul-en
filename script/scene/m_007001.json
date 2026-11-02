@@ -38,7 +38,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "誰だ？\\nもう葬儀は――",
-   "en": "Who's there? The\\nfuneral is\\nalready--",
+   "en": "Who's there?\\nThe funeral\\nis already--",
    "op": "0x62",
    "msg": "0x1395"
   },
@@ -78,7 +78,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "局長を殺したのも\\nあいつらの仕業！",
-   "en": "They're the ones\\nwho killed the\\nCommander!",
+   "en": "They're the\\nones who killed\\nthe Commander!",
    "op": "0x62",
    "msg": "0x1399"
   },
@@ -88,7 +88,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "斬って捨てよとの\\n命が下っている！",
-   "en": "We have orders to\\ncut them down!",
+   "en": "We have orders\\nto cut them down!",
    "op": "0x62",
    "msg": "0x139a"
   },
@@ -98,7 +98,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "隊士たちの間に\\n静かな殺気が\\n広がっていく",
-   "en": "A silent bloodlust\\nspread among the\\ntroopers.",
+   "en": "A silent bloodlust\\nspread among\\nthe troopers.",
    "op": "0x62",
    "msg": "0x139b"
   },
@@ -128,7 +128,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "俺と総司が　幕府に\\n反旗を翻したのは\\n本当のことだ",
-   "en": "It's true that Soji\\nand I turned\\nagainst the\\nshogunate.",
+   "en": "It's true that\\nSoji and I\\nturned against\\nthe shogunate.",
    "op": "0x62",
    "msg": "0x139e"
   },
@@ -158,7 +158,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "みんな\\n泰平化されているんです\\n話したって聞き入れて\\nくれませんよ",
-   "en": "They've all been\\npacified. Talking\\nwon't get through\\nto them.",
+   "en": "They've all been\\npacified. Talking\\nwon't get\\nthrough to them.",
    "op": "0x62",
    "msg": "0x13a1"
   },
@@ -198,7 +198,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "俺達が戦わなくちゃ\\nならんのは　こいつら\\nじゃない",
-   "en": "These men aren't\\nthe ones we have\\nto fight.",
+   "en": "These men\\naren't the ones\\nwe have to fight.",
    "op": "0x62",
    "msg": "0x13a5"
   },
@@ -258,7 +258,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "そうでないのなら\\n近藤さんに別れを\\n告げたい",
-   "en": "If not, then I\\nwant to say\\ngoodbye to\\nKondo-san.",
+   "en": "If not, then\\nI want to say\\ngoodbye to\\nKondo-san.",
    "op": "0x62",
    "msg": "0x13ab"
   },
@@ -278,7 +278,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "土方の一喝に\\nそれまで二人を\\n取り巻いていた隊士達が\\n一斉に道を空けた",
-   "en": "At Hijikata's\\ncommand, the\\ntroopers who had\\nsurrounded the\\ntwo stepped aside\\nas one.",
+   "en": "At Hijikata's\\ncommand, the\\ntroopers who\\nhad surrounded\\nthe two stepped\\naside as one.",
    "op": "0x62",
    "msg": "0x13ad"
   },
@@ -328,7 +328,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "俺は過去を\\n振り返ることは\\nやめた",
-   "en": "I've stopped\\nlooking back at\\nthe past.",
+   "en": "I've stopped\\nlooking back\\nat the past.",
    "op": "0x62",
    "msg": "0x13b2"
   },
@@ -338,7 +338,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "近藤さんの志は\\n受け継いだ片魂と共に\\n俺の中にある",
-   "en": "Your ideals live in\\nme, Kondo-san,\\nalong with the\\nPiece Soul I\\ninherited.",
+   "en": "Your ideals live\\nin me,\\nKondo-san, along\\nwith the Piece\\nSoul I inherited.",
    "op": "0x62",
    "msg": "0x13b3"
   },
@@ -388,7 +388,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "もう　迷ったりしません\\n近藤さんが残してくれた\\n志という道標があるから",
-   "en": "I won't waver\\nanymore. Because\\nyou left us your\\nideals to guide\\nthe way,\\nKondo-san.",
+   "en": "I won't waver\\nanymore.\\nBecause you left\\nus your ideals\\nto guide the\\nway, Kondo-san.",
    "op": "0x62",
    "msg": "0x13b8"
   },
@@ -438,7 +438,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "新選組として\\n志を果たせ！",
-   "en": "Fulfill your ideals\\nas the\\nShinsengumi!",
+   "en": "Fulfill your\\nideals as the\\nShinsengumi!",
    "op": "0x62",
    "msg": "0x13bd"
   },
@@ -468,7 +468,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "泰平化と抗う意思なのか\\n動かない隊士たちの頬を\\n涙が伝わっていく",
-   "en": "Perhaps it was\\ntheir will\\nresisting the\\npacification --\\ntears ran down\\nthe cheeks of the\\nmotionless\\ntroopers.",
+   "en": "Perhaps it was\\ntheir will\\nresisting the\\npacification --\\ntears ran down\\nthe cheeks of\\nthe motionless\\ntroopers.",
    "op": "0x62",
    "msg": "0x13c0"
   },
@@ -478,7 +478,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "……邪魔をしたな\\n行くぞ　総司",
-   "en": "...Sorry for the\\nintrusion. Let's\\ngo, Soji.",
+   "en": "...Sorry for\\nthe intrusion.\\nLet's go, Soji.",
    "op": "0x62",
    "msg": "0x13c1"
   },
@@ -528,7 +528,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "沖田が　物珍しげな顔で\\n隠れ家の中を　ぐるりと\\n見回しながら言った",
-   "en": "Okita said this as\\nhe looked all\\naround the\\nhideout with a\\ncurious face.",
+   "en": "Okita said this\\nas he looked\\nall around the\\nhideout with a\\ncurious face.",
    "op": "0x62",
    "msg": "0x13c6"
   },
@@ -548,7 +548,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "今までと同じ場所を\\n拠点とするわけにも\\nいくまい",
-   "en": "We can hardly\\nkeep using the\\nsame base as\\nbefore.",
+   "en": "We can hardly\\nkeep using\\nthe same base\\nas before.",
    "op": "0x62",
    "msg": "0x13c8"
   },
@@ -598,7 +598,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "そうか\\nそうならいいなぁ",
-   "en": "I see. Well, I sure\\nhope so.",
+   "en": "I see. Well, I\\nsure hope so.",
    "op": "0x62",
    "msg": "0x13cd"
   },
@@ -608,7 +608,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "で　二人はこれから\\nどうするつもりぜよ？",
-   "en": "So, what're you\\ntwo plannin' to do\\nnow?",
+   "en": "So, what're you\\ntwo plannin' to\\ndo now?",
    "op": "0x62",
    "msg": "0x13ce"
   },
@@ -628,7 +628,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "そして　一人ずつでも\\n隊士達の泰平化を\\n解きたいと思っている",
-   "en": "And I want to\\nfree the troopers\\nfrom the\\npacification, even\\nif it's one at a\\ntime.",
+   "en": "And I want to\\nfree the\\ntroopers from\\nthe pacification,\\neven if it's one\\nat a time.",
    "op": "0x62",
    "msg": "0x13d0"
   },
@@ -638,7 +638,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "そうすることで\\n近藤さんの無念も\\n晴れるだろう",
-   "en": "That should lay\\nKondo-san's\\nregrets to rest.",
+   "en": "That should\\nlay Kondo-san's\\nregrets to rest.",
    "op": "0x62",
    "msg": "0x13d1"
   },
@@ -678,7 +678,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "困難は承知の上だ\\nそれでも　やらねば\\nならん",
-   "en": "I know it won't be\\neasy. Even so, it\\nmust be done.",
+   "en": "I know it won't\\nbe easy. Even so,\\nit must be done.",
    "op": "0x62",
    "msg": "0x13d5"
   },
@@ -688,7 +688,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "ついてきてくれるな\\n総司",
-   "en": "You'll come with\\nme, won't you,\\nSoji?",
+   "en": "You'll come\\nwith me, won't\\nyou, Soji?",
    "op": "0x62",
    "msg": "0x13d6"
   },
@@ -708,7 +708,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "土方さんだって\\n僕の力を　アテにして\\nるんでしょう？",
-   "en": "Besides, you're\\ncounting on my\\nstrength too,\\naren't you,\\nHijikata-san?",
+   "en": "Besides, you're\\ncounting on\\nmy strength\\ntoo, aren't you,\\nHijikata-san?",
    "op": "0x62",
    "msg": "0x13d8"
   },
@@ -728,7 +728,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "あれっ\\n調子狂うなぁ",
-   "en": "Huh? That throws\\nme off...",
+   "en": "Huh? That\\nthrows me off...",
    "op": "0x62",
    "msg": "0x13da"
   },
@@ -738,7 +738,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "で　お前らは\\nこれまで通り　雷舞を\\n続けていくのか？",
-   "en": "And you guys?\\nWill you keep\\nplaying lives like\\nbefore?",
+   "en": "And you guys?\\nWill you keep\\nplaying lives\\nlike before?",
    "op": "0x62",
    "msg": "0x13db"
   },
@@ -748,7 +748,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "ああ！\\n泰平化された人々を\\n一人でも多く救いたい",
-   "en": "You bet! I wanna\\nsave as many\\npacified folks as I\\ncan, even just one\\nmore.",
+   "en": "You bet! I wanna\\nsave as many\\npacified folks as\\nI can, even just\\none more.",
    "op": "0x62",
    "msg": "0x13dc"
   },
@@ -758,7 +758,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "わしらのロックには\\nその力があるぜよ",
-   "en": "Our rock's got\\nthat kinda power,\\nI tell ya!",
+   "en": "Our rock's got\\nthat kinda\\npower, I tell ya!",
    "op": "0x62",
    "msg": "0x13dd"
   },
@@ -768,7 +768,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "だが　井伊もそれを\\n知っている",
-   "en": "But Ii knows that\\ntoo.",
+   "en": "But Ii knows\\nthat too.",
    "op": "0x62",
    "msg": "0x13de"
   },
@@ -788,7 +788,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "これまで以上に\\n状況は厳しくなるはずだ",
-   "en": "Things should get\\neven tougher\\nthan before.",
+   "en": "Things should\\nget even tougher\\nthan before.",
    "op": "0x62",
    "msg": "0x13e0"
   },
@@ -808,7 +808,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "な　なんです？\\n急に大きな声で",
-   "en": "Wh-what is it?\\nWhy so loud all of\\na sudden?",
+   "en": "Wh-what is it?\\nWhy so loud all\\nof a sudden?",
    "op": "0x62",
    "msg": "0x13e2"
   },
@@ -818,7 +818,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "シンディとセンセーにも\\n聞いて欲しいんじゃが",
-   "en": "I want Shindy and\\nSensei to hear\\nthis too.",
+   "en": "I want Shindy\\nand Sensei to\\nhear this too.",
    "op": "0x62",
    "msg": "0x13e3"
   },
@@ -838,7 +838,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "ヒジゾーさんとソウちん\\n二人とも　わしらと一緒に\\nロックするぜよ",
-   "en": "Hijizo-san,\\nSo-chin, you two\\nare gonna rock\\nwith us!",
+   "en": "Hijizo-san,\\nSo-chin, you\\ntwo are gonna\\nrock with us!",
    "op": "0x62",
    "msg": "0x13e5"
   },
@@ -898,7 +898,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "仲間になれ\\nと言うのか",
-   "en": "You're telling us\\nto join you?",
+   "en": "You're telling\\nus to join you?",
    "op": "0x62",
    "msg": "0x13eb"
   },
@@ -908,7 +908,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "その通りぜよ！",
-   "en": "That's exactly\\nright!",
+   "en": "That's\\nexactly right!",
    "op": "0x62",
    "msg": "0x13ec"
   },
@@ -938,7 +938,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "僕達を仲間にしようと\\n言い出すなんて\\n信じられないよ",
-   "en": "Suggesting we\\njoin your band? I\\ncan't believe it.",
+   "en": "Suggesting we\\njoin your band?\\nI can't believe it.",
    "op": "0x62",
    "msg": "0x13ef"
   },
@@ -958,7 +958,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "りょーおーまぁぁ　お前\\n自分で何を言ってるか\\nわかってんのか",
-   "en": "Ryooomaaa, do\\nyou even know\\nwhat you're\\nsaying?",
+   "en": "Ryooomaaa,\\ndo you even\\nknow what\\nyou're saying?",
    "op": "0x62",
    "msg": "0x13f1"
   },
@@ -968,7 +968,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "もちろんぜよ！\\nこう見えてもわしだって\\n色々考えてるんだ！",
-   "en": "Course I do! I may\\nnot look it, but\\nI've been thinkin'\\nplenty!",
+   "en": "Course I do! I\\nmay not look it,\\nbut I've been\\nthinkin' plenty!",
    "op": "0x62",
    "msg": "0x13f2"
   },
@@ -978,7 +978,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "その考えとやらを\\n聞かせてもらおう",
-   "en": "Then let's hear\\nthis thinking of\\nyours.",
+   "en": "Then let's hear\\nthis thinking\\nof yours.",
    "op": "0x62",
    "msg": "0x13f3"
   },
@@ -1018,7 +1018,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "待ってください\\nそう結論を急ぐものでは\\nありませんよ　晋作",
-   "en": "Please wait. Let's\\nnot rush to a\\nconclusion,\\nShinsaku.",
+   "en": "Please wait.\\nLet's not rush\\nto a conclusion,\\nShinsaku.",
    "op": "0x62",
    "msg": "0x13f7"
   },
@@ -1048,7 +1048,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "土方さんは　新選組の\\n隊士達の泰平化を解きたい\\nそうですね？",
-   "en": "Hijikata-san, you\\nwant to free the\\nShinsengumi\\ntroopers from the\\npacification.\\nCorrect?",
+   "en": "Hijikata-san,\\nyou want to free\\nthe Shinsengumi\\ntroopers from\\nthe pacification.\\nCorrect?",
    "op": "0x62",
    "msg": "0x13fa"
   },
@@ -1108,7 +1108,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "世の中を平和にして\\nもらおう　なんて話なら\\n俺は乗れないぜ",
-   "en": "...and ask them to\\nbring peace to the\\nworld? If that's\\nthe idea, count\\nme out.",
+   "en": "...and ask them\\nto bring peace\\nto the world? If\\nthat's the idea,\\ncount me out.",
    "op": "0x62",
    "msg": "0x1400"
   },
@@ -1118,7 +1118,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "新選組の力なんざ\\n借りなくても　オレ様達の\\nロックで十分だ",
-   "en": "We don't need to\\nborrow the\\nShinsengumi's\\nstrength. Our\\nrock is more than\\nenough!",
+   "en": "We don't need\\nto borrow the\\nShinsengumi's\\nstrength. Our\\nrock is more\\nthan enough!",
    "op": "0x62",
    "msg": "0x1401"
   },
@@ -1148,7 +1148,7 @@
    "max": 88,
    "kind": "dialogue",
    "jp": "土方さんが言っていた\\nように　私達はこれまで\\n以上に幕府に付け狙わ\\nれることになります",
-   "en": "As Hijikata-san\\nsaid, the\\nshogunate will be\\nhunting us more\\nthan ever.",
+   "en": "As Hijikata-san\\nsaid, the\\nshogunate will\\nbe hunting us\\nmore than ever.",
    "op": "0x62",
    "msg": "0x1404"
   },
@@ -1178,7 +1178,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "泰平化を解いた隊士から\\n情報を得るのは容易い\\nでしょう？",
-   "en": "Getting\\ninformation from\\ntroopers freed\\nfrom the\\npacification\\nshould be easy,\\nwouldn't it?",
+   "en": "Getting\\ninformation\\nfrom troopers\\nfreed from the\\npacification\\nshould be easy,\\nwouldn't it?",
    "op": "0x62",
    "msg": "0x1407"
   },
@@ -1208,7 +1208,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "私達の目的は同じでしょう",
-   "en": "Our goals are the\\nsame, are they\\nnot?",
+   "en": "Our goals\\nare the same,\\nare they not?",
    "op": "0x62",
    "msg": "0x140a"
   },
@@ -1218,7 +1218,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "新選組を立て直すにしても\\n幕府を倒して天歌による\\n泰平化を止めるにしても",
-   "en": "Whether it's to\\nrebuild the\\nShinsengumi, or\\nto topple the\\nshogunate and\\nstop the\\npacification by\\nHeaven's Song...",
+   "en": "Whether it's to\\nrebuild the\\nShinsengumi,\\nor to topple the\\nshogunate and\\nstop the\\npacification by\\nHeaven's Song...",
    "op": "0x62",
    "msg": "0x140b"
   },
@@ -1238,7 +1238,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "それに\\n二人とも男前\\n（イケメン）じゃ！\\n歌も踊りもうまい！",
-   "en": "Plus, these two\\nare real hunks!\\nAnd they can sing\\nand dance!",
+   "en": "Plus, these two\\nare real hunks!\\nAnd they can\\nsing and dance!",
    "op": "0x62",
    "msg": "0x140d"
   },
@@ -1268,7 +1268,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "待てよ！\\n一緒に雷舞をやるだと？",
-   "en": "Hold it! Do a live\\ntogether?",
+   "en": "Hold it! Do a\\nlive together?",
    "op": "0x62",
    "msg": "0x1410"
   },
@@ -1278,7 +1278,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "だいたい　こいつらは\\nついこの間まで\\n敵だったんだぞ",
-   "en": "These guys were\\nour enemies until\\njust the other\\nday!",
+   "en": "These guys were\\nour enemies\\nuntil just the\\nother day!",
    "op": "0x62",
    "msg": "0x1411"
   },
@@ -1288,7 +1288,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "さんざん雷舞の邪魔\\nされたことを忘れたとは\\n言わせねぇ！",
-   "en": "Don't you dare\\ntell me you forgot\\nhow many of our\\nlives they\\ncrashed!",
+   "en": "Don't you dare\\ntell me you\\nforgot how many\\nof our lives they\\ncrashed!",
    "op": "0x62",
    "msg": "0x1412"
   },
@@ -1298,7 +1298,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "それは過去の話ぜよ！",
-   "en": "That's all in the\\npast, pal!",
+   "en": "That's all in\\nthe past, pal!",
    "op": "0x62",
    "msg": "0x1413"
   },
@@ -1348,7 +1348,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "わしはいい案だと\\n思ったんだけどなぁ\\nそんなに駄目か？",
-   "en": "I thought it was a\\ngood idea,\\ny'know... Is it\\nreally that bad?",
+   "en": "I thought it was\\na good idea,\\ny'know... Is it\\nreally that bad?",
    "op": "0x62",
    "msg": "0x1418"
   },
@@ -1378,7 +1378,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "そもそもこいつらは\\n松陰先生を襲ってるんだ\\nそんな奴らを信用できるか",
-   "en": "These are the\\npeople who\\nattacked\\nShoin-sensei in\\nthe first place!\\nHow can we trust\\nthem?",
+   "en": "These are the\\npeople who\\nattacked\\nShoin-sensei\\nin the first\\nplace! How can\\nwe trust them?",
    "op": "0x62",
    "msg": "0x141b"
   },
@@ -1438,7 +1438,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "松陰先生のこともあるが\\n他にも問題が多いんだよ",
-   "en": "There's\\nShoin-sensei,\\nsure, but there\\nare plenty of\\nother problems\\ntoo.",
+   "en": "There's\\nShoin-sensei,\\nsure, but there\\nare plenty of\\nother\\nproblems too.",
    "op": "0x62",
    "msg": "0x1421"
   },
@@ -1495,7 +1495,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "もちろんぜよ\\nシンディのことは\\nよ～くわかっちょる",
-   "en": "Course I can! I\\nknow Shindy\\nthrough and\\nthrough.",
+   "en": "Course I can!\\nI know Shindy\\nthrough and\\nthrough.",
    "op": "0x62",
    "msg": "0x1424"
   },
@@ -1515,7 +1515,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "やっぱりわしらより\\n人気があるせいか？\\n最高愛獲だもんな",
-   "en": "Is it 'cause they're\\nmore popular\\nthan us? They're\\nthe top idols,\\nafter all.",
+   "en": "Is it 'cause\\nthey're more\\npopular than us?\\nThey're the top\\nidols, after all.",
    "op": "0x62",
    "msg": "0x1426"
   },
@@ -1525,7 +1525,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "ち　違～う！\\n俺は妬んでなんかいねぇ！\\n音楽性の違いだっ！",
-   "en": "Wr-wrooong! I'm\\nnot jealous! It's\\nmusical\\ndifferences!",
+   "en": "Wr-wrooong!\\nI'm not jealous!\\nIt's musical\\ndifferences!",
    "op": "0x62",
    "msg": "0x1427"
   },
@@ -1555,7 +1555,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "新選組のこいつらと\\n同じところを目指して\\nいるとは思えねえ",
-   "en": "I can't believe\\nthese\\nShinsengumi guys\\nare aiming for\\nthe same place we\\nare.",
+   "en": "I can't believe\\nthese\\nShinsengumi\\nguys are aiming\\nfor the same\\nplace we are.",
    "op": "0x62",
    "msg": "0x142a"
   },
@@ -1565,7 +1565,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "オレ様のロックとは\\n違うんだ！",
-   "en": "It's not the same\\nas yours truly's\\nrock!",
+   "en": "It's not the\\nsame as yours\\ntruly's rock!",
    "op": "0x62",
    "msg": "0x142b"
   },
@@ -1605,7 +1605,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "わからんものは\\nわからんぜよ",
-   "en": "If I don't get it, I\\ndon't get it, I tell\\nya.",
+   "en": "If I don't get\\nit, I don't get\\nit, I tell ya.",
    "op": "0x62",
    "msg": "0x142f"
   },
@@ -1625,7 +1625,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "そ　そう言われても……",
-   "en": "E-even if ya say\\nthat...",
+   "en": "E-even if ya\\nsay that...",
    "op": "0x62",
    "msg": "0x1431"
   },
@@ -1635,7 +1635,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "この二人の実力は\\nシンディも知っとるじゃろ",
-   "en": "You know what\\nthese two are\\ncapable of too,\\nShindy.",
+   "en": "You know\\nwhat these two\\nare capable of\\ntoo, Shindy.",
    "op": "0x62",
    "msg": "0x1432"
   },
@@ -1655,7 +1655,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "この際　こだわりは捨てて\\nみんなで派手に雷舞を\\nぶちかますぜよ！",
-   "en": "Let's toss aside\\nour hang-ups and\\nblast out one\\nflashy live all\\ntogether!",
+   "en": "Let's toss aside\\nour hang-ups\\nand blast out\\none flashy live\\nall together!",
    "op": "0x62",
    "msg": "0x1434"
   },
@@ -1665,7 +1665,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "無理だと言ったら\\n無理なんだよ！",
-   "en": "When I say no\\nway, I mean no\\nway!",
+   "en": "When I say\\nno way, I\\nmean no way!",
    "op": "0x62",
    "msg": "0x1435"
   },
@@ -1675,7 +1675,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "なんでじゃ？\\nシンディも見たろうが",
-   "en": "Why not? You saw\\nit too, didn't ya,\\nShindy?",
+   "en": "Why not? You\\nsaw it too, didn't\\nya, Shindy?",
    "op": "0x62",
    "msg": "0x1436"
   },
@@ -1715,7 +1715,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "ソウちんとヒジゾーさんも\\nわしらと同じように\\n片魂を持ってる！",
-   "en": "So-chin and\\nHijizo-san have\\nPiece Souls, same\\nas us!",
+   "en": "So-chin and\\nHijizo-san have\\nPiece Souls,\\nsame as us!",
    "op": "0x62",
    "msg": "0x143a"
   },
@@ -1725,7 +1725,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "わしらは\\n片魂仲間（ソウルメイト）\\nだろ？",
-   "en": "We're Piece\\nSoulmates, ain't\\nwe?",
+   "en": "We're Piece\\nSoulmates,\\nain't we?",
    "op": "0x62",
    "msg": "0x143b"
   },
@@ -1755,7 +1755,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "そのわしらが　そろって\\n雷舞をしたら",
-   "en": "If all of us play a\\nlive together...",
+   "en": "If all of us play\\na live together...",
    "op": "0x62",
    "msg": "0x143e"
   },
@@ -1775,7 +1775,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "……超魂がいくつに\\n別れたのか　そもそも\\nなぜ欠片となったのか……",
-   "en": "...How many\\npieces the Ultra\\nSoul split into,\\nwhy it shattered\\ninto fragments at\\nall...",
+   "en": "...How many\\npieces the Ultra\\nSoul split into,\\nwhy it shattered\\ninto fragments\\nat all...",
    "op": "0x62",
    "msg": "0x1440"
   },
@@ -1795,7 +1795,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "でも　確かにここにある",
-   "en": "But it's right\\nhere, sure as\\nanything.",
+   "en": "But it's right\\nhere, sure\\nas anything.",
    "op": "0x62",
    "msg": "0x1442"
   },
@@ -1815,7 +1815,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "私は仲間になれると\\n思いますよ",
-   "en": "I think we can be\\ncomrades.",
+   "en": "I think we can\\nbe comrades.",
    "op": "0x62",
    "msg": "0x1444"
   },
@@ -1845,7 +1845,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "センセー！\\nそりゃいくらなんでも\\nひどいんじゃないか？",
-   "en": "Sensei! Ain't that\\ngoin' a little too\\nfar?",
+   "en": "Sensei! Ain't\\nthat goin' a\\nlittle too far?",
    "op": "0x62",
    "msg": "0x1447"
   },
@@ -1865,7 +1865,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "その確証は　今後の\\n行動で示すしかないだろう",
-   "en": "The only way to\\nprove that is\\nthrough our\\nactions from here\\non.",
+   "en": "The only way\\nto prove that\\nis through\\nour actions\\nfrom here on.",
    "op": "0x62",
    "msg": "0x1449"
   },
@@ -1885,7 +1885,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "あなたほどじゃ\\nないですよ",
-   "en": "Not as rotten as\\nyours.",
+   "en": "Not as rotten\\nas yours.",
    "op": "0x62",
    "msg": "0x144b"
   },
@@ -1895,7 +1895,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "ふ　二人とも\\n仲良くするぜよ",
-   "en": "N-now, you two\\nplay nice!",
+   "en": "N-now, you\\ntwo play nice!",
    "op": "0x62",
    "msg": "0x144c"
   },
@@ -1905,7 +1905,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "なぁ　ソウちんと\\nヒジゾーさんはわしらの\\n仲間になる気はないのか？",
-   "en": "Hey, So-chin,\\nHijizo-san, don't\\nyou wanna be our\\ncomrades?",
+   "en": "Hey, So-chin,\\nHijizo-san, don't\\nyou wanna be\\nour comrades?",
    "op": "0x62",
    "msg": "0x144d"
   },
@@ -1915,7 +1915,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "桂の言ったとおり\\n俺達の目的は一つ\\n井伊を倒すことだ",
-   "en": "As Katsura said,\\nour goal is one\\nand the same: to\\ndefeat Ii.",
+   "en": "As Katsura said,\\nour goal is one\\nand the same:\\nto defeat Ii.",
    "op": "0x62",
    "msg": "0x144e"
   },
@@ -1925,7 +1925,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "共闘は出来るだろう",
-   "en": "We can fight side\\nby side.",
+   "en": "We can fight\\nside by side.",
    "op": "0x62",
    "msg": "0x144f"
   },
@@ -1945,7 +1945,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "僕もっ\\nトサカくんとなら\\n楽しく歌えそう！",
-   "en": "Me too! I bet\\nsinging with\\nTosaka-kun would\\nbe fun!",
+   "en": "Me too! I bet\\nsinging with\\nTosaka-kun\\nwould be fun!",
    "op": "0x62",
    "msg": "0x1451"
   },
@@ -1965,7 +1965,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "無理をして\\n仲間になる必要はない",
-   "en": "There's no need\\nto force it and\\njoin up.",
+   "en": "There's no\\nneed to force\\nit and join up.",
    "op": "0x62",
    "msg": "0x1453"
   },
@@ -1975,7 +1975,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "ほう\\n物わかりがいいじゃねえか\\nそう　無理なんだよ",
-   "en": "Oh? You catch on\\nquick. That's\\nright, it's no go.",
+   "en": "Oh? You catch\\non quick. That's\\nright, it's no go.",
    "op": "0x62",
    "msg": "0x1454"
   },
@@ -2015,7 +2015,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "あとはおまえ達次第だ",
-   "en": "The rest is up to\\nyou.",
+   "en": "The rest is\\nup to you.",
    "op": "0x62",
    "msg": "0x1458"
   },
@@ -2025,7 +2025,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "シンディ　センセー\\nどうか頼む！　二人を\\n仲間にして欲しいぜよ！",
-   "en": "Shindy, Sensei,\\nI'm beggin' ya!\\nPlease take these\\ntwo in as\\ncomrades!",
+   "en": "Shindy, Sensei,\\nI'm beggin' ya!\\nPlease take\\nthese two in as\\ncomrades!",
    "op": "0x62",
    "msg": "0x1459"
   },
@@ -2055,7 +2055,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "仲間は多い方がいい\\nそれが片魂持ちなら\\n力は限りないでしょう",
-   "en": "The more\\ncomrades, the\\nbetter. And if\\nthey have Piece\\nSouls, their power\\nshould be\\nlimitless.",
+   "en": "The more\\ncomrades, the\\nbetter. And if\\nthey have Piece\\nSouls, their\\npower should\\nbe limitless.",
    "op": "0x62",
    "msg": "0x145c"
   },
@@ -2065,7 +2065,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "彼らが本当に幕府に\\n立ち向かうつもりだと\\nわかったなら",
-   "en": "If we learn that\\nthey truly mean\\nto stand up to the\\nshogunate...",
+   "en": "If we learn that\\nthey truly mean\\nto stand up to\\nthe shogunate...",
    "op": "0x62",
    "msg": "0x145d"
   },
@@ -2085,7 +2085,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "オレ様だってガキじゃねえ\\n仲間が多いにこしたことは\\nないぐらいわかってる",
-   "en": "Yours truly ain't a\\nkid. I know the\\nmore comrades\\nthe better.",
+   "en": "Yours truly ain't\\na kid. I know the\\nmore comrades\\nthe better.",
    "op": "0x62",
    "msg": "0x145f"
   },
@@ -2095,7 +2095,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "だが　こいつらはずっと\\n敵だった　簡単に今日から\\n仲間だと認められるか",
-   "en": "But these guys\\nwere our enemies\\nall along. How can\\nI just accept them\\nas comrades\\nstarting today?",
+   "en": "But these guys\\nwere our enemies\\nall along. How\\ncan I just accept\\nthem as comrades\\nstarting today?",
    "op": "0x62",
    "msg": "0x1460"
   },
@@ -2105,7 +2105,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "オレ様を認めさせる\\nだけのモノを　こいつらは\\n持っているのか？",
-   "en": "Have these guys\\ngot what it takes\\nto win yours truly\\nover?",
+   "en": "Have these guys\\ngot what it takes\\nto win yours\\ntruly over?",
    "op": "0x62",
    "msg": "0x1461"
   },
@@ -2115,7 +2115,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "あ～あ　うんざりだよ\\nくだらない繰り返しだね",
-   "en": "Ugh, I'm sick of\\nthis. Same\\npointless\\nargument, over\\nand over.",
+   "en": "Ugh, I'm sick\\nof this. Same\\npointless\\nargument,\\nover and over.",
    "op": "0x62",
    "msg": "0x1462"
   },
@@ -2135,7 +2135,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "スカシくんはどうしたって\\n僕たちを仲間にしたくない\\nそう決めてるんでしょ",
-   "en": "Mr. Poser, you've\\nalready decided\\nyou don't want us\\nas comrades no\\nmatter what,\\nright?",
+   "en": "Mr. Poser, you've\\nalready decided\\nyou don't want\\nus as comrades\\nno matter what,\\nright?",
    "op": "0x62",
    "msg": "0x1464"
   },
@@ -2145,7 +2145,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "土方さん\\nここにいたって何にも\\nならないよ",
-   "en": "Hijikata-san,\\nthere's no point in\\nstaying here.",
+   "en": "Hijikata-san,\\nthere's no point\\nin staying here.",
    "op": "0x62",
    "msg": "0x1465"
   },
@@ -2155,7 +2155,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "さっきも言った通り\\n俺達の覚悟は行動で\\n示すしかない",
-   "en": "As I said before,\\nwe can only show\\nour resolve\\nthrough action.",
+   "en": "As I said before,\\nwe can only\\nshow our resolve\\nthrough action.",
    "op": "0x62",
    "msg": "0x1466"
   },
@@ -2185,7 +2185,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "二人とも待ってくれ！\\nわしが説得してみせる！",
-   "en": "Wait, you two! I'll\\ntalk him around, I\\nswear!",
+   "en": "Wait, you two!\\nI'll talk him\\naround, I swear!",
    "op": "0x62",
    "msg": "0x1469"
   },
@@ -2215,7 +2215,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "シンディはバカだ！\\n細かいことにこだわるのは\\nロックじゃないぜよ！",
-   "en": "Shindy, you're an\\nidiot! Fussin' over\\nlittle things ain't\\nrock!",
+   "en": "Shindy, you're\\nan idiot! Fussin'\\nover little\\nthings ain't rock!",
    "op": "0x62",
    "msg": "0x146c"
   },
@@ -2225,7 +2225,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "少しも細かくねえ！",
-   "en": "They're not little\\nat all!",
+   "en": "They're not\\nlittle at all!",
    "op": "0x62",
    "msg": "0x146d"
   },
@@ -2235,7 +2235,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "井伊を倒したい気持ちは\\nわしらも新選組も同じじゃ",
-   "en": "We want Ii down\\njust as much as\\nthe Shinsengumi\\ndo.",
+   "en": "We want Ii\\ndown just as\\nmuch as the\\nShinsengumi do.",
    "op": "0x62",
    "msg": "0x146e"
   },
@@ -2255,7 +2255,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "なんでこの国を救うために\\n手を取り合うことが\\nできないんじゃ",
-   "en": "Why can't we join\\nhands to save this\\ncountry?",
+   "en": "Why can't we join\\nhands to save\\nthis country?",
    "op": "0x62",
    "msg": "0x1470"
   },
@@ -2275,7 +2275,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "なぁ　大切なのは\\n好きな歌を歌うことだろ\\n好きな歌を聴くことだろ",
-   "en": "Listen, what\\nmatters is singin'\\nthe songs you\\nlove, ain't it?\\nListenin' to the\\nsongs you love?",
+   "en": "Listen, what\\nmatters is\\nsingin' the songs\\nyou love, ain't it?\\nListenin' to the\\nsongs you love?",
    "op": "0x62",
    "msg": "0x1472"
   },
@@ -2285,7 +2285,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "そんな世の中にする\\nことだろう！",
-   "en": "It's about makin' a\\nworld like that!",
+   "en": "It's about makin'\\na world like that!",
    "op": "0x62",
    "msg": "0x1473"
   },
@@ -2315,7 +2315,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "わしらが手を取り合う\\nことは　この国を\\n変えられる可能性じゃ！",
-   "en": "Us joinin' hands is\\na chance to\\nchange this\\ncountry!",
+   "en": "Us joinin' hands\\nis a chance to\\nchange this\\ncountry!",
    "op": "0x62",
    "msg": "0x1476"
   },
@@ -2345,7 +2345,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "それに　わしらは共に\\n片魂を受け継いだ！",
-   "en": "Besides, we all\\ninherited Piece\\nSouls!",
+   "en": "Besides, we\\nall inherited\\nPiece Souls!",
    "op": "0x62",
    "msg": "0x1479"
   },
@@ -2385,7 +2385,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "……龍馬くんが正しいです",
-   "en": "...Ryoma-kun is\\nright.",
+   "en": "...Ryoma-kun\\nis right.",
    "op": "0x62",
    "msg": "0x147d"
   },
@@ -2405,7 +2405,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "晋作だってそう\\n思ってるでしょ",
-   "en": "You think so too,\\ndon't you,\\nShinsaku?",
+   "en": "You think so\\ntoo, don't you,\\nShinsaku?",
    "op": "0x62",
    "msg": "0x147f"
   },
@@ -2415,7 +2415,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "ま　まあな……\\n松陰先生を出されちゃな",
-   "en": "W-well, yeah...\\nNot much I can\\nsay once you\\nbring up\\nShoin-sensei.",
+   "en": "W-well, yeah...\\nNot much I\\ncan say once\\nyou bring up\\nShoin-sensei.",
    "op": "0x62",
    "msg": "0x1480"
   },
@@ -2445,7 +2445,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "土方さん　沖田くん\\n私達は今日から仲間です",
-   "en": "Hijikata-san,\\nOkita-kun, as of\\ntoday, we are\\ncomrades.",
+   "en": "Hijikata-san,\\nOkita-kun, as\\nof today, we\\nare comrades.",
    "op": "0x62",
    "msg": "0x1483"
   },
@@ -2455,7 +2455,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "新選組自体は\\n洗脳から解けるまでは\\n認められませんけどね",
-   "en": "Though I can't\\naccept the\\nShinsengumi as a\\nwhole until\\nthey're freed\\nfrom the\\nbrainwashing.",
+   "en": "Though I can't\\naccept the\\nShinsengumi\\nas a whole\\nuntil they're\\nfreed from the\\nbrainwashing.",
    "op": "0x62",
    "msg": "0x1484"
   },
@@ -2465,7 +2465,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "桂さん……\\nだが　音楽性が違うのに\\nこいつらと組むのか？",
-   "en": "Katsura-san... But\\nyou'd team up\\nwith these guys\\ndespite our\\nmusical\\ndifferences?",
+   "en": "Katsura-san...\\nBut you'd team\\nup with these\\nguys despite\\nour musical\\ndifferences?",
    "op": "0x62",
    "msg": "0x1485"
   },
@@ -2515,7 +2515,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "それにしたがって高杉も\\n龍馬を見つめる",
-   "en": "Following his\\nlead, Takasugi\\nstared at Ryoma\\ntoo.",
+   "en": "Following his\\nlead, Takasugi\\nstared at\\nRyoma too.",
    "op": "0x62",
    "msg": "0x148a"
   },
@@ -2575,7 +2575,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "センセーに褒められると\\n嬉しいぜよ",
-   "en": "Gettin' praised by\\nSensei sure makes\\nme happy!",
+   "en": "Gettin' praised\\nby Sensei sure\\nmakes me happy!",
    "op": "0x62",
    "msg": "0x1490"
   },
@@ -2585,7 +2585,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "高杉は次に　\\n沖田と土方を見て\\n諦めたように息をついた",
-   "en": "Next, Takasugi\\nlooked at Okita\\nand Hijikata, and\\nlet out a sigh as if\\ngiving up.",
+   "en": "Next, Takasugi\\nlooked at Okita\\nand Hijikata, and\\nlet out a sigh as\\nif giving up.",
    "op": "0x62",
    "msg": "0x1491"
   },
@@ -2605,7 +2605,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "一緒になって活動すると\\n思うと　なんていうかこう",
-   "en": "When I think\\nabout teaming up\\nwith them, it's\\nlike, how do I put\\nit...",
+   "en": "When I think\\nabout teaming\\nup with them,\\nit's like, how\\ndo I put it...",
    "op": "0x62",
    "msg": "0x1493"
   },
@@ -2635,7 +2635,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "やっぱり無理だっ\\nオレにはこいつらと分かり\\n合える気がしねえ！",
-   "en": "Nope, can't do it!\\nI'll never see eye\\nto eye with these\\nguys!",
+   "en": "Nope, can't do\\nit! I'll never see\\neye to eye with\\nthese guys!",
    "op": "0x62",
    "msg": "0x1496"
   },
@@ -2695,7 +2695,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "わ～こわ～い！\\n助けて～土方さ～ん！",
-   "en": "Eek, scaaary! Help\\nme,\\nHijikata-saaan!",
+   "en": "Eek, scaaary!\\nHelp me,\\nHijikata-saaan!",
    "op": "0x62",
    "msg": "0x149c"
   },
@@ -2715,7 +2715,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "あ　眉間に皺が寄って\\nもっとこわくなった",
-   "en": "Oh, now his\\nbrow's all\\nfurrowed and he's\\neven scarier.",
+   "en": "Oh, now his\\nbrow's all\\nfurrowed and\\nhe's even scarier.",
    "op": "0x62",
    "msg": "0x149e"
   },
@@ -2725,7 +2725,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "誰のせいだこの野郎",
-   "en": "And whose fault\\nis that, you little\\npunk!?",
+   "en": "And whose\\nfault is that,\\nyou little punk!?",
    "op": "0x62",
    "msg": "0x149f"
   },
@@ -2755,7 +2755,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "まあまあ　二人とも",
-   "en": "Now, now, you\\ntwo.",
+   "en": "Now, now,\\nyou two.",
    "op": "0x62",
    "msg": "0x14a2"
   },
@@ -2845,7 +2845,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "わかったよ\\n認めてやるよ\\n二人は今日から仲間だ",
-   "en": "Fine! I'll accept\\nthem! As of today,\\nthey're our\\ncomrades.",
+   "en": "Fine! I'll accept\\nthem! As of\\ntoday, they're\\nour comrades.",
    "op": "0x62",
    "msg": "0x14ab"
   },
@@ -2905,7 +2905,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "土方の言葉に\\n四人が頷いた",
-   "en": "At Hijikata's\\nwords, the four\\nnodded.",
+   "en": "At Hijikata's\\nwords, the\\nfour nodded.",
    "op": "0x62",
    "msg": "0x14b1"
   },
@@ -2985,7 +2985,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "二人の協力が得られる\\nなら　百人力だね",
-   "en": "With you two on\\nour side, we're as\\nstrong as a\\nhundred.",
+   "en": "With you two\\non our side,\\nwe're as strong\\nas a hundred.",
    "op": "0x62",
    "msg": "0x14b9"
   },
@@ -3015,7 +3015,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "ええ　水に流しましょう\\nこちらこそよろしく",
-   "en": "Yes, let's put it\\nbehind us. We\\nlook forward to\\nworking with you\\ntoo.",
+   "en": "Yes, let's put it\\nbehind us. We\\nlook forward\\nto working\\nwith you too.",
    "op": "0x62",
    "msg": "0x14bc"
   },
@@ -3025,7 +3025,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "これからは\\nみんなと歌えるんだな",
-   "en": "From now on, we\\nget to sing all\\ntogether!",
+   "en": "From now on,\\nwe get to sing\\nall together!",
    "op": "0x62",
    "msg": "0x14bd"
   },
@@ -3055,7 +3055,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "こうして……\\n京に新たな絆が\\n生まれたのだった",
-   "en": "And so... a new\\nbond was born in\\nKyoto.",
+   "en": "And so... a\\nnew bond was\\nborn in Kyoto.",
    "op": "0x62",
    "msg": "0x14c0"
   }

@@ -38,7 +38,7 @@
    "max": 100,
    "kind": "dialogue",
    "jp": "押しかけようとしていた\\n警備の武士も　その場に\\n立ち尽くし　今では音楽に\\n合わせて肩を揺らしていた",
-   "en": "Even the samurai\\nguards who'd\\nmoved to rush the\\nstage stood\\nfrozen, now\\nswaying their\\nshoulders to the\\nmusic.",
+   "en": "Even the\\nsamurai guards\\nwho'd moved to\\nrush the stage\\nstood frozen,\\nnow swaying\\ntheir shoulders\\nto the music.",
    "op": "0x62",
    "msg": "0x1b4f"
   },
@@ -48,7 +48,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "うおぉぉぉぉおおお！\\n最高ぜよ\\nこれがロックぜよぉぉ",
-   "en": "Whoooooaaaah!\\nThis is the best!\\nTHIS is rock, I tell\\nya!",
+   "en": "Whoooooaaaah!\\nThis is the\\nbest! THIS is\\nrock, I tell ya!",
    "op": "0x62",
    "msg": "0x1b50"
   },
@@ -58,7 +58,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "今や会場は興奮に包まれ\\nロックに塗り潰されている",
-   "en": "The venue was\\nnow wrapped in\\nexcitement,\\npainted over in\\nrock.",
+   "en": "The venue was\\nnow wrapped\\nin excitement,\\npainted over\\nin rock.",
    "op": "0x62",
    "msg": "0x1b51"
   },
@@ -78,7 +78,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "そして　最初に異変に\\n気付いたのは　高杉だった",
-   "en": "And it was\\nTakasugi who\\nfirst noticed\\nsomething was\\nwrong.",
+   "en": "And it was\\nTakasugi who\\nfirst noticed\\nsomething\\nwas wrong.",
    "op": "0x62",
    "msg": "0x1b53"
   },
@@ -88,7 +88,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "シャウト　シャウト\\nシャウトぜよぉぉぉ",
-   "en": "Shout! Shout!\\nShouuuut, I tell\\nya!",
+   "en": "Shout! Shout!\\nShouuuut, I\\ntell ya!",
    "op": "0x62",
    "msg": "0x1b54"
   },
@@ -98,7 +98,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "お　おい　龍馬\\nノってるのはわかるが\\nトバし過ぎだぜ！",
-   "en": "H-hey, Ryoma! I\\nknow you're on a\\nroll, but you're\\npushing way too\\nhard!",
+   "en": "H-hey, Ryoma!\\nI know you're\\non a roll, but\\nyou're pushing\\nway too hard!",
    "op": "0x62",
    "msg": "0x1b55"
   },
@@ -118,7 +118,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "わしの中から\\nどんどん　どんどん\\nロックが溢れてくる",
-   "en": "The rock just\\nkeeps on pourin'\\nout of me, more\\nand more and\\nmore!",
+   "en": "The rock just\\nkeeps on\\npourin' out of\\nme, more and\\nmore and more!",
    "op": "0x62",
    "msg": "0x1b57"
   },
@@ -138,7 +138,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "ちょ　ちょっと\\n龍馬くん！\\n音がズレ始めてる！",
-   "en": "W-wait,\\nRyoma-kun! The\\nsound's starting\\nto drift out of\\nsync!",
+   "en": "W-wait,\\nRyoma-kun!\\nThe sound's\\nstarting to drift\\nout of sync!",
    "op": "0x62",
    "msg": "0x1b59"
   },
@@ -148,7 +148,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "そんなこと言われても\\nもう止められんぜよ\\nうぉぉおおお",
-   "en": "You can say that\\nall ya want, but I\\ncan't stop now!\\nWhoooaaah!",
+   "en": "You can say that\\nall ya want, but\\nI can't stop now!\\nWhoooaaah!",
    "op": "0x62",
    "msg": "0x1b5a"
   },
@@ -188,7 +188,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "演奏が止められねえ\\nロックが　片魂が\\n暴走していやがる",
-   "en": "I can't stop\\nplaying! The\\nrock... the Piece\\nSouls are running\\nwild!",
+   "en": "I can't stop\\nplaying! The\\nrock... the\\nPiece Souls are\\nrunning wild!",
    "op": "0x62",
    "msg": "0x1b5e"
   },
@@ -198,7 +198,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "どうして\\nこんなことが？",
-   "en": "How can this be\\nhappening?",
+   "en": "How can this\\nbe happening?",
    "op": "0x62",
    "msg": "0x1b5f"
   },
@@ -208,7 +208,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "どうして\\nオレ様達のロックが\\nこんなことに",
-   "en": "How could this\\nhappen to our\\nrock!?",
+   "en": "How could\\nthis happen\\nto our rock!?",
    "op": "0x62",
    "msg": "0x1b60"
   },
@@ -228,7 +228,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "これが超魂の力か\\nこれがロックか！",
-   "en": "So this is the\\npower of the\\nUltra Soul! So this\\nis rock!",
+   "en": "So this is the\\npower of the\\nUltra Soul! So\\nthis is rock!",
    "op": "0x62",
    "msg": "0x1b62"
   },
@@ -238,7 +238,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "この声は……井伊直弼！\\nどこにいるんです",
-   "en": "That voice...\\nNaosuke Ii! Where\\nare you!?",
+   "en": "That voice...\\nNaosuke Ii!\\nWhere are you!?",
    "op": "0x62",
    "msg": "0x1b63"
   },
@@ -248,7 +248,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "これが全て揃った\\n超魂の力なのか\\nまったく素晴らしい",
-   "en": "So this is the\\npower of the\\nUltra Soul with\\nevery piece\\ngathered... Truly\\nsplendid.",
+   "en": "So this is the\\npower of the\\nUltra Soul with\\nevery piece\\ngathered...\\nTruly splendid.",
    "op": "0x62",
    "msg": "0x1b64"
   },
@@ -318,7 +318,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "それが　シンディ\\nわしにもどうにも……\\nおおぉぉおお",
-   "en": "That's the thing,\\nShindy... I can't do\\na thing about it\\neither...\\nOoooaaah!",
+   "en": "That's the\\nthing, Shindy... I\\ncan't do a thing\\nabout it either...\\nOoooaaah!",
    "op": "0x62",
    "msg": "0x1b6b"
   },
@@ -328,7 +328,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "坂本龍馬のロックは\\nもはや止まらぬよ……",
-   "en": "Ryoma Sakamoto's\\nrock can no\\nlonger be\\nstopped...",
+   "en": "Ryoma\\nSakamoto's rock\\ncan no longer\\nbe stopped...",
    "op": "0x62",
    "msg": "0x1b6c"
   },
@@ -338,7 +338,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "そして　それは\\nお前達も同様なのだ",
-   "en": "And the same\\ngoes for all of\\nyou.",
+   "en": "And the same\\ngoes for all\\nof you.",
    "op": "0x62",
    "msg": "0x1b6d"
   },
@@ -378,7 +378,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "理屈など\\nどうでもいい！",
-   "en": "Reasons don't\\nmatter!",
+   "en": "Reasons\\ndon't matter!",
    "op": "0x62",
    "msg": "0x1b71"
   },
@@ -468,7 +468,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "足下からまとわりついた\\n闇は　龍馬の身体を覆い\\n尽くし　全身を蝕み始める",
-   "en": "Clinging to him\\nfrom his feet up,\\nthe darkness\\ncovered Ryoma's\\nwhole body and\\nbegan eating\\naway at him.",
+   "en": "Clinging to him\\nfrom his feet\\nup, the darkness\\ncovered Ryoma's\\nwhole body and\\nbegan eating\\naway at him.",
    "op": "0x62",
    "msg": "0x1b7a"
   },
@@ -498,7 +498,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "最高のロックによって\\n観客の魂が解放される瞬間\\n歌い手の魂は無防備になる",
-   "en": "At the moment\\nthe best rock sets\\nthe audience's\\nsouls free, the\\nsinger's own soul\\nis left\\ndefenseless.",
+   "en": "At the moment\\nthe best rock\\nsets the\\naudience's souls\\nfree, the singer's\\nown soul is left\\ndefenseless.",
    "op": "0x62",
    "msg": "0x1b7d"
   },
@@ -528,7 +528,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "トサカくん\\nしっかりして！",
-   "en": "Tosaka-kun! Hang\\nin there!",
+   "en": "Tosaka-kun!\\nHang in there!",
    "op": "0x62",
    "msg": "0x1b80"
   },
@@ -538,7 +538,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "もう遅い\\n坂本龍馬の片魂は\\n今　我が手に落ちた",
-   "en": "Too late. Ryoma\\nSakamoto's Piece\\nSoul has now\\nfallen into my\\nhands.",
+   "en": "Too late. Ryoma\\nSakamoto's\\nPiece Soul has\\nnow fallen into\\nmy hands.",
    "op": "0x62",
    "msg": "0x1b81"
   },
@@ -588,7 +588,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "そして闇に墜ちた片魂の\\nまま歌えば　超魂は逆転し\\n闇の歌を奏でることも――",
-   "en": "And the fact that\\nif he sings with a\\nPiece Soul fallen\\ninto darkness, the\\nUltra Soul will\\ninvert and play a\\nsong of\\ndarkness--",
+   "en": "And the fact that\\nif he sings with a\\nPiece Soul fallen\\ninto darkness,\\nthe Ultra Soul\\nwill invert and\\nplay a song of\\ndarkness--",
    "op": "0x62",
    "msg": "0x1b86"
   },
@@ -608,7 +608,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "何もかもが\\n我の計画通り\\nだったのだから",
-   "en": "For every bit of it\\nwent exactly\\naccording to my\\nplan.",
+   "en": "For every bit of\\nit went exactly\\naccording to\\nmy plan.",
    "op": "0x62",
    "msg": "0x1b88"
   },
@@ -628,7 +628,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "そして奏でよ！\\n闇のロックンロールを！",
-   "en": "And play! Play the\\nrock 'n' roll of\\ndarkness!",
+   "en": "And play! Play\\nthe rock 'n' roll\\nof darkness!",
    "op": "0x62",
    "msg": "0x1b8a"
   },
@@ -638,7 +638,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "井伊の叫びと共に\\n照明が復旧した",
-   "en": "As Ii cried out,\\nthe lights came\\nback on.",
+   "en": "As Ii cried\\nout, the lights\\ncame back on.",
    "op": "0x62",
    "msg": "0x1b8b"
   },
@@ -658,7 +658,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "その姿は……\\n龍馬……くん\\nなんですか？",
-   "en": "That figure... Is\\nthat...\\nRyoma-kun?",
+   "en": "That figure...\\nIs that...\\nRyoma-kun?",
    "op": "0x62",
    "msg": "0x1b8d"
   },
@@ -778,7 +778,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "なんじゃ？\\n耳がくすぐったいな",
-   "en": "Hm? My ears are\\nticklin'.",
+   "en": "Hm? My ears\\nare ticklin'.",
    "op": "0x62",
    "msg": "0x1b99"
   },
@@ -828,7 +828,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "坂本\\n目を覚ませ！",
-   "en": "Sakamoto. Wake\\nup!",
+   "en": "Sakamoto.\\nWake up!",
    "op": "0x62",
    "msg": "0x1b9e"
   },
@@ -858,7 +858,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "それは貴様の歌では\\nないだろう\\n坂本",
-   "en": "That isn't your\\nsong, is it,\\nSakamoto?",
+   "en": "That isn't\\nyour song, is\\nit, Sakamoto?",
    "op": "0x62",
    "msg": "0x1ba1"
   },
@@ -888,7 +888,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "自分に嘘をつくな！\\n魂を誤魔化すんじゃない！",
-   "en": "Don't lie to\\nyourself! Don't\\ncheat your own\\nsoul!",
+   "en": "Don't lie to\\nyourself! Don't\\ncheat your\\nown soul!",
    "op": "0x62",
    "msg": "0x1ba4"
   },
@@ -898,7 +898,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "俺達に　歌への情熱を\\n熱い心を教えたのは\\n貴様だろうが　坂本！",
-   "en": "You're the one\\nwho taught us a\\npassion for\\nsinging, a\\nburning heart,\\nSakamoto!",
+   "en": "You're the one\\nwho taught us\\na passion for\\nsinging, a\\nburning heart,\\nSakamoto!",
    "op": "0x62",
    "msg": "0x1ba5"
   },
@@ -938,7 +938,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "お前と初めて\\n一緒に歌ったとき",
-   "en": "The first time I\\nsang alongside\\nyou...",
+   "en": "The first time\\nI sang\\nalongside you...",
    "op": "0x62",
    "msg": "0x1ba9"
   },
@@ -988,7 +988,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "きっと　あの時お前が\\n歌ったロックのような\\n歌が溢れているはずだ",
-   "en": "...I'm sure there'd\\nbe songs\\neverywhere, like\\nthe rock you sang\\nback then.",
+   "en": "...I'm sure\\nthere'd be songs\\neverywhere, like\\nthe rock you\\nsang back then.",
    "op": "0x62",
    "msg": "0x1bae"
   },
@@ -998,7 +998,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "近藤さんは　お前の歌の\\nように熱くて　優しい人\\nだった",
-   "en": "Kondo-san was a\\nwarm, kind man,\\njust like your\\nsongs.",
+   "en": "Kondo-san was\\na warm, kind\\nman, just like\\nyour songs.",
    "op": "0x62",
    "msg": "0x1baf"
   },
@@ -1008,7 +1008,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "それすらも\\n忘れたのか",
-   "en": "Have you\\nforgotten even\\nthat?",
+   "en": "Have you\\nforgotten\\neven that?",
    "op": "0x62",
    "msg": "0x1bb0"
   },
@@ -1028,7 +1028,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "思い出せないのなら\\n俺が思い出させてやる！",
-   "en": "If you can't\\nremember, I'll\\nmake you\\nremember!",
+   "en": "If you can't\\nremember,\\nI'll make you\\nremember!",
    "op": "0x62",
    "msg": "0x1bb2"
   },

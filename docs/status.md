@@ -2,15 +2,34 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 7 (insert, fit, QA) next. **Phase 6 done** (2026-11-02): b001-b119 (16,267 entries: every scene line,
+- **Phase:** 8 (QA in the emulator) next. **Phase 7 done** (2026-11-03): build green.
+  - `tools/lint.py` over every `script/` entry (in `tools/check.py` via `tests/test_lint.py`): ADV px/lines, byte
+    slots, control codes, non-ASCII/leftover JP, glossary (on the unwrapped text), ordinals, blanks, one-word last
+    lines; `script/keep_jp.txt` (play/* lyrics, D13). 0 errors.
+  - `tools/isodiff.py`, run by every `build.py`: no ISO sector, CPK entry, UI-table byte, EBOOT or SFO byte changed
+    outside the plan; plus a read-back of every `en` from the files the plan wrote. Found and fixed: staffroll2's own
+    speaker names were silently dropped (`insert.patch_script(names=)`).
+  - Balanced wrap (`vwf.wrap`; `batches.py rewrap` re-wrapped 5,942 boxes whose breaks were all greedy ones).
+  - Speaker names 桂子/総美 now match the glossary (Keiko, Somi); staffroll2 未定 -> TBD.
+  - **EBOOT text the phase 4 scan missed** (`text.md` §4): 9 profile labels + save-detail "Play time" (new
+    `eboot.json` slots), code-built strings patched by immediates (`insert.TEXT_CODE`: h/m/s, "Choose"), and a
+    **crash fix**: chapter end did `strstr(title, "話")` and a NUL result wraps a memcpy; now searches ':' and appends
+    " Done" (`insert.CHAPTER_CODE`, test keeps ':' in chapter titles 2-11, 34-36). `extract.py verify` now scans all
+    EBOOT data; `tools/debug/sbscan.py` finds code-built strings.
+  - In game (build sha1 df0b3f193d0a6b6a64955ae6397fa338f947409d, smoke exit 0): warps `ch1_end` (new: chapter 1
+    played to its end in SKIP -> unlock toasts, autosave, BREAK, next chapter; RAM game state "Chapter 1: Done"),
+    `adv_save_done` (new: memstick SAVEDATA_DETAIL "Play time  0h 1m20s / Chapter 1: ..."), `gallery_profile_view`
+    (new: English labels fit), staffroll2, m_001001 ok. warp ARG `FILE.bin>NEXT.bin` asserts a run that plays on.
+- **Next (phase 8):** full warp tour (`--all`) + visual-QA verdicts (`qa_gate.py`), fix overflow; graphics text (744
+  GIMs incl. the unlock toasts `adv_300_*`, BREAK screen, chapter cards); jp_left on the build. Known gaps below.
+- **Phase 6 done** (2026-11-02): b001-b119 (16,267 entries: every scene line,
   choice, UI table, skit, profile, save title, SFO title, staff roll) translated, `batches.py check` OK on all, every
   batch reviewed (no Critical/Important left; minors in `docs/polish.md`), merged into `script/`. Lyrics (play/) stay
   Japanese (see Waiting on the user). `work/tl/` is gitignored; `script/` holds the result.
   English build: `tools/build.py` -> smoke exit 0; warps ok: boot_autosave, chapter_main, gallery_profile,
   gallery_skit_view, gallery_event_view, live_play, m_005001, b_013001, ED_002001, staffroll (English renders in ADV
   panels and the staff roll).
-- **Next (phase 7):** full warp tour of the English build with visual QA (`--all` + visual-qa agents), fix overflow;
-  known gaps: menus in font24 are monospace 8 px (profile names cramped), staff-roll two-column cast lines are ragged
+- **Known gaps for phase 8:** menus in font24 are monospace 8 px (profile names cramped), staff-roll two-column cast lines are ragged
   (proportional font), chapter title cards / menu art are Japanese graphics (744 GIMs, graphics survey), skit balloon
   widths unchecked in game, ui_system_text line counts kept as JP, ui_profile zodiac slots 7 bytes ("Goat", "Archer",
   "Aquar.").

@@ -7,6 +7,7 @@ Skill: translate-retro-game; `python tools/skill.py` prints its folder. Read its
 - Insert:   `python -X utf8 tools/insert.py plan [--dir script] [--eboot]` (JSON -> CPK/ISO edits; MZ slots resize, jumps re-map; `check` = identity) and `python -X utf8 tools/mark.py --force` -> `work/mark` (marker text: every line `[id] ...`); how and the width table: `docs/re/text.md` §7
 - Measure:  `python -X utf8 tools/measure.py SHOT --rect X,Y,W,H [--dark]` (text extents in px; zoom/crop with `sheet.py`)
 - Check:    `python -X utf8 tools/check.py` (pytest over `tests/` + lint; the pre-commit hook runs this; hooks: `git config core.hooksPath tools/hooks`)
+- Lint:     `python -X utf8 tools/lint.py [--all]` (every `script/` entry: px/lines, byte slots, codes, glossary, stubs; `script/keep_jp.txt`); `tools/isodiff.py` (build.py runs it: nothing changed but the planned edits); `batches.py rewrap` (balanced wrap)
 - Text:     `python -X utf8 tools/extract.py dump` -> `script/*.json` (one file per source file, `jp`/`en` per string slot);
             `python -X utf8 tools/extract.py verify` checks the roundtrip, the slot coverage and the JSON against `work/cpk`.
             `.txt`/`.json` text lives in `script/`; format and layouts: `docs/re/text.md` §6.

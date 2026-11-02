@@ -50,6 +50,9 @@ BIO = 0x128
 # EBOOT save-data titles (UTF-8, not Shift-JIS; see text.md section 4). (offset, capacity)
 EBOOT_SLOTS = [(0x26925C, 0x14), (0x269270, 0x30), (0x2692A0, 0x28),
                (0x269458, 0x14), (0x26946C, 0x28), (0x269494, 0x1C), (0x2694BC, 0x24), (0x2694E0, 0x18)]
+# Shift-JIS strings the code memcpy's whole (text.md section 4): 9 profile labels (0x120 bytes copied from 0x29ADAC)
+# and the save-detail "play time" label (0x10 bytes copied from 0x2C09D4). (offset, capacity, kind)
+EBOOT_SJIS_SLOTS = [(0x29ADAC + 0x20 * i, 0x20, 'profile-label') for i in range(9)] + [(0x2C09D4, 0x10, 'save-detail')]
 SFO_TITLE = (0x1D8, 0x80)   # absolute offset of the TITLE value and its max length (the maxlen column)
 
 
@@ -138,14 +141,19 @@ def eboot_slots(eboot):
         body = eboot[off:off + cap].rstrip(b'\0')
         assert b'\0' not in body, f'non-padding NUL in EBOOT slot {off:#x}'
         out.append(Slot(off, cap, 'save-title', body.decode('utf-8'), 'utf-8'))
+    for off, cap, kind in EBOOT_SJIS_SLOTS:
+        body = eboot[off:off + cap].rstrip(b'\0')
+        assert b'\0' not in body, f'non-padding NUL in EBOOT slot {off:#x}'
+        out.append(Slot(off, cap, kind, body.decode('cp932'), 'cp932'))
     return out
 
 
 def write_eboot(eboot, texts):
     out = bytearray(eboot)
-    for off, cap in EBOOT_SLOTS:
+    for s in eboot_slots(eboot):
+        off, cap = s.off, s.capacity
         if off in texts:
-            b = texts[off].encode('utf-8')
+            b = texts[off].encode(s.enc)
             assert len(b) < cap, f'EBOOT slot {off:#x}: {len(b)} bytes + NUL > {cap}'
             out[off:off + cap] = b + b'\0' * (cap - len(b))
     return bytes(out)

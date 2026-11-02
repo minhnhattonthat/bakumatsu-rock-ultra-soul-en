@@ -89,6 +89,21 @@ def line_px(line, w=None):
 
 
 def wrap(text, px=ADV_LINE_PX, w=None):
+    """Balanced word wrap to PX -> list of lines: as many lines as a greedy wrap, at the narrowest width that keeps
+    that count, so the last line is no one-word widow."""
+    w = w or widths()
+    n = len(greedy(text, px, w))
+    lo, hi = 1, px
+    while lo < hi:   # smallest width that still gives n lines
+        mid = (lo + hi) // 2
+        if len(greedy(text, mid, w)) <= n:
+            hi = mid
+        else:
+            lo = mid + 1
+    return greedy(text, lo, w)
+
+
+def greedy(text, px=ADV_LINE_PX, w=None):
     """Greedy word wrap to PX -> list of lines (a word longer than PX gets its own line). A line may also break
     after an unspaced dash ("Kyoto--the" -> "Kyoto--" / "the")."""
     w = w or widths()

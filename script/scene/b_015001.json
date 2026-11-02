@@ -8,7 +8,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "――土佐　龍馬宅",
-   "en": "--Tosa, Ryoma's\\nhome",
+   "en": "--Tosa,\\nRyoma's home",
    "op": "0x62",
    "msg": "0x0089"
   },
@@ -38,7 +38,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "あ　乙女姉やん\\nうるさかったか？\\nすまん",
-   "en": "Oh, Sis Otome.\\nWas I too loud?\\nSorry.",
+   "en": "Oh, Sis Otome.\\nWas I too\\nloud? Sorry.",
    "op": "0x62",
    "msg": "0x008c"
   },
@@ -58,7 +58,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "そう言われると\\n照れるぜよ",
-   "en": "Aw, you sayin'\\nthat makes me\\nblush.",
+   "en": "Aw, you sayin'\\nthat makes\\nme blush.",
    "op": "0x62",
    "msg": "0x008e"
   },
@@ -68,7 +68,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "でも　本当のことよ\\n家の中だけじゃなくて\\nもっと広いところで",
-   "en": "But it's true. Not\\njust inside the\\nhouse, but\\nsomewhere much\\nbigger...",
+   "en": "But it's true.\\nNot just inside\\nthe house, but\\nsomewhere\\nmuch bigger...",
    "op": "0x62",
    "msg": "0x008f"
   },
@@ -88,7 +88,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "いいなぁ\\nわしもそう思うぜよ\\nでもなぁ……",
-   "en": "That'd be great. I\\nthink so too. But\\ny'know...",
+   "en": "That'd be great.\\nI think so too.\\nBut y'know...",
    "op": "0x62",
    "msg": "0x0091"
   },
@@ -118,7 +118,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "そうだな！\\nそんならご期待に応えて\\nもう一曲いくぜよ！",
-   "en": "You're right!\\nThen, by popular\\ndemand, here\\ncomes another\\none!",
+   "en": "You're right!\\nThen, by\\npopular demand,\\nhere comes\\nanother one!",
    "op": "0x62",
    "msg": "0x0094"
   },
@@ -158,7 +158,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "新曲！\\nそれは嬉しいんじゃが\\n龍さん",
-   "en": "A new song!\\nThat'd be great\\nand all, but,\\nRyo-san...",
+   "en": "A new song!\\nThat'd be\\ngreat and all,\\nbut, Ryo-san...",
    "op": "0x62",
    "msg": "0x0098"
   },
@@ -168,7 +168,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "まずいよ\\n声が外にまで\\n響いとった",
-   "en": "This is bad. Your\\nvoice was carryin'\\nall the way\\noutside.",
+   "en": "This is bad.\\nYour voice was\\ncarryin' all the\\nway outside.",
    "op": "0x62",
    "msg": "0x0099"
   },
@@ -218,7 +218,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "オレには龍さんの歌は\\nええと思えるが",
-   "en": "I reckon your\\nsongs are great,\\nRyo-san,",
+   "en": "I reckon your\\nsongs are\\ngreat, Ryo-san,",
    "op": "0x62",
    "msg": "0x009e"
   },
@@ -228,7 +228,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "他の連中には\\nわからんのじゃろう",
-   "en": "but other folks\\njust don't get 'em,\\nI guess.",
+   "en": "but other folks\\njust don't get\\n'em, I guess.",
    "op": "0x62",
    "msg": "0x009f"
   },
@@ -248,7 +248,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "なんにせよ　そろそろ\\n見回りがやってくる\\n時間じゃ",
-   "en": "Anyhow, the\\npatrol's about due\\nto come by.",
+   "en": "Anyhow, the\\npatrol's about\\ndue to come by.",
    "op": "0x62",
    "msg": "0x00a1"
   },
@@ -268,7 +268,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "なあ　龍さん\\n思ったんじゃが\\n歌が好きなんじゃったら",
-   "en": "Say, Ryo-san, I\\nwas thinkin'. If\\nyou love singin' so\\nmuch,",
+   "en": "Say, Ryo-san, I\\nwas thinkin'. If\\nyou love singin'\\nso much,",
    "op": "0x62",
    "msg": "0x00a3"
   },
@@ -308,7 +308,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "だが天歌は……\\nあれは　わしの歌じゃ\\nない",
-   "en": "But Heaven's\\nSong... it just ain't\\nMY song.",
+   "en": "But Heaven's\\nSong... it just\\nain't MY song.",
    "op": "0x62",
    "msg": "0x00a7"
   },
@@ -328,7 +328,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "すまん　乙女姉やん\\n弥太郎",
-   "en": "Sorry, Sis Otome.\\nYataro.",
+   "en": "Sorry, Sis\\nOtome. Yataro.",
    "op": "0x62",
    "msg": "0x00a9"
   },
@@ -348,7 +348,7 @@
    "max": 100,
    "kind": "dialogue",
    "jp": "家を出た龍馬は\\n当てもなく道を走った\\n無我夢中に走り　\\n息が切れたところで\\n道ばたの石に腰掛けた",
-   "en": "Ryoma left the\\nhouse and ran\\naimlessly down\\nthe road. He ran\\nblindly until, out\\nof breath, he sat\\non a roadside\\nstone.",
+   "en": "Ryoma left the\\nhouse and ran\\naimlessly down\\nthe road. He ran\\nblindly until,\\nout of breath,\\nhe sat on a\\nroadside stone.",
    "op": "0x62",
    "msg": "0x00ab"
   },
@@ -358,7 +358,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "なんで　みんな\\nわしの歌をわかっては\\nくれないんだ……",
-   "en": "Why won't\\nanybody\\nunderstand my\\nsongs...",
+   "en": "Why won't\\nanybody\\nunderstand\\nmy songs...",
    "op": "0x62",
    "msg": "0x00ac"
   },
@@ -368,7 +368,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "わかってくれるんは\\n乙女姉やんと\\n弥太郎だけ……",
-   "en": "The only ones\\nwho get 'em are\\nSis Otome and\\nYataro...",
+   "en": "The only ones\\nwho get 'em\\nare Sis Otome\\nand Yataro...",
    "op": "0x62",
    "msg": "0x00ad"
   },
@@ -378,7 +378,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "青空を見上げ\\nため息をつく",
-   "en": "He looked up at\\nthe blue sky and\\nsighed.",
+   "en": "He looked up\\nat the blue sky\\nand sighed.",
    "op": "0x62",
    "msg": "0x00ae"
   },
@@ -408,7 +408,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "龍馬は\\nそれを抑える術を\\n知らなかった",
-   "en": "Ryoma knew no\\nway to hold it\\nback.",
+   "en": "Ryoma knew\\nno way to\\nhold it back.",
    "op": "0x62",
    "msg": "0x00b1"
   },
@@ -438,7 +438,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "うわぁぁっ！\\nな　なんだ？\\nお前は？",
-   "en": "Waaah! Wh-what\\nthe!? Who are\\nyou?",
+   "en": "Waaah!\\nWh-what the!?\\nWho are you?",
    "op": "0x62",
    "msg": "0x00b4"
   },
@@ -508,7 +508,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "まあいい\\nさっきの歌を\\nもう一度聴かせてみ",
-   "en": "Well, never mind.\\nLet me hear that\\nsong of yours\\nagain.",
+   "en": "Well, never\\nmind. Let me\\nhear that song\\nof yours again.",
    "op": "0x62",
    "msg": "0x00bb"
   },
@@ -518,7 +518,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "えっ？\\nホントにわしの歌が\\n聴きたいってのか？",
-   "en": "Huh? You really\\nwanna hear my\\nsong?",
+   "en": "Huh? You\\nreally wanna\\nhear my song?",
    "op": "0x62",
    "msg": "0x00bc"
   },
@@ -558,7 +558,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "わしの歌を\\n聴きたいってお人は",
-   "en": "Somebody who\\nwants to hear my\\nsong...",
+   "en": "Somebody who\\nwants to hear\\nmy song...",
    "op": "0x62",
    "msg": "0x00c0"
   },
@@ -648,7 +648,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "褒めておるのじゃよ\\nお前の歌には魂がある！\\n熱い熱い魂じゃ！",
-   "en": "I'm praising you,\\nlad! Your song\\nhas soul! A hot,\\nhot soul!",
+   "en": "I'm praising\\nyou, lad! Your\\nsong has soul!\\nA hot, hot soul!",
    "op": "0x62",
    "msg": "0x00c9"
   },
@@ -678,7 +678,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "熱情か！\\nそうか　わしの歌には\\n熱情があるんか！",
-   "en": "Passion! So my\\nsong's got\\npassion!",
+   "en": "Passion! So\\nmy song's\\ngot passion!",
    "op": "0x62",
    "msg": "0x00cc"
   },
@@ -688,7 +688,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "わしの胸ん奥から\\n溢れてくるこの熱いのは\\n熱情ってのか……",
-   "en": "This hot stuff\\npourin' outta the\\nbottom of my\\nheart... that's\\ncalled passion...",
+   "en": "This hot stuff\\npourin' outta\\nthe bottom of\\nmy heart... that's\\ncalled passion...",
    "op": "0x62",
    "msg": "0x00cd"
   },
@@ -718,7 +718,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "お前の歌を　熱い魂を\\nわかってくれる者がおる\\n必ずおる！",
-   "en": "there are people\\nwho'll understand\\nyour song and\\nyour hot soul.\\nThere certainly\\nare!",
+   "en": "there are people\\nwho'll\\nunderstand your\\nsong and your\\nhot soul. There\\ncertainly are!",
    "op": "0x62",
    "msg": "0x00d0"
   },
@@ -738,7 +738,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "ワシは嘘は言わん",
-   "en": "I don't tell lies,\\nmy boy.",
+   "en": "I don't tell\\nlies, my boy.",
    "op": "0x62",
    "msg": "0x00d2"
   },
@@ -758,7 +758,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "な　なぜ泣く",
-   "en": "Wh-why are you\\ncrying?",
+   "en": "Wh-why are\\nyou crying?",
    "op": "0x62",
    "msg": "0x00d4"
   },
@@ -768,7 +768,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "今まで　そんなこと\\n言うてくれるもんは",
-   "en": "Nobody's ever\\nsaid",
+   "en": "Nobody's\\never said",
    "op": "0x62",
    "msg": "0x00d5"
   },
@@ -788,7 +788,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "そうか……\\nそれは辛かったな",
-   "en": "I see... That must\\nhave been hard\\non you.",
+   "en": "I see... That\\nmust have been\\nhard on you.",
    "op": "0x62",
    "msg": "0x00d7"
   },
@@ -818,7 +818,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "天地神明にかけて\\nお前さんのロックは\\n大したもんじゃ！",
-   "en": "By heaven and\\nearth, lad, your\\nrock is something\\nelse!",
+   "en": "By heaven and\\nearth, lad,\\nyour rock is\\nsomething else!",
    "op": "0x62",
    "msg": "0x00da"
   },
@@ -848,7 +848,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "教えてもらったら\\nわしはもっともっと熱く\\n歌えると思うぜよ！",
-   "en": "If you teach me, I\\nreckon I could\\nsing even hotter!",
+   "en": "If you teach me,\\nI reckon I could\\nsing even hotter!",
    "op": "0x62",
    "msg": "0x00dd"
   },
@@ -878,7 +878,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "この『ギター』が\\nあれば　お前の歌は\\nさらに輝きを増す",
-   "en": "With this 'guitar,'\\nyour songs will\\nshine all the\\nbrighter.",
+   "en": "With this\\n'guitar,' your\\nsongs will shine\\nall the brighter.",
    "op": "0x62",
    "msg": "0x00e0"
   },
@@ -918,7 +918,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "なんっじゃ　こりゃあ！\\n体の奥から熱いもんが\\nこみあげてくるぜよ！",
-   "en": "What in the\\nworld!? Somethin'\\nhot's welling up\\nfrom deep inside\\nme!",
+   "en": "What in the\\nworld!?\\nSomethin' hot's\\nwelling up from\\ndeep inside me!",
    "op": "0x62",
    "msg": "0x00e4"
   },
@@ -928,7 +928,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "それに　この音色はわしの\\n音楽にぴったりだ！",
-   "en": "And this sound's a\\nperfect fit for my\\nmusic!",
+   "en": "And this sound's\\na perfect fit for\\nmy music!",
    "op": "0x62",
    "msg": "0x00e5"
   },
@@ -938,7 +938,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "こんな高価そうなモン\\nもらってもいいのか？",
-   "en": "Are you sure I\\ncan have\\nsomethin' this\\npricey?",
+   "en": "Are you sure\\nI can have\\nsomethin'\\nthis pricey?",
    "op": "0x62",
    "msg": "0x00e6"
   },
@@ -948,7 +948,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "楽器も持ち手を選ぶ\\nそれはお主こそに相応しい",
-   "en": "An instrument\\nchooses its\\nplayer, too. This\\none is meant for\\nyou, my boy.",
+   "en": "An instrument\\nchooses its\\nplayer, too. This\\none is meant\\nfor you, my boy.",
    "op": "0x62",
    "msg": "0x00e7"
   },
@@ -978,7 +978,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "モジャモジャの先生\\nありがとうな！\\n一生　大事にするぜよ！",
-   "en": "Thanks a bunch,\\nShaggy Sensei! I'll\\ntreasure it my\\nwhole life!",
+   "en": "Thanks a bunch,\\nShaggy Sensei!\\nI'll treasure it\\nmy whole life!",
    "op": "0x62",
    "msg": "0x00ea"
   },
@@ -988,7 +988,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "熱き魂の若者よ\\n時が満ちれば　お主は京へ\\n行くことになるだろう",
-   "en": "Young man of the\\nhot soul, when\\nthe time is ripe,\\nyou will go to\\nKyoto.",
+   "en": "Young man of\\nthe hot soul,\\nwhen the time\\nis ripe, you will\\ngo to Kyoto.",
    "op": "0x62",
    "msg": "0x00eb"
   },
@@ -998,7 +998,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "そこで運命の出会いを\\n果たすことになる",
-   "en": "And there, you'll\\nhave a fateful\\nmeeting.",
+   "en": "And there,\\nyou'll have a\\nfateful meeting.",
    "op": "0x62",
    "msg": "0x00ec"
   },
@@ -1028,7 +1028,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "はあ　わかったような\\nわからんような……",
-   "en": "Huh... I sorta get\\nit, and I sorta\\ndon't...",
+   "en": "Huh... I sorta\\nget it, and I\\nsorta don't...",
    "op": "0x62",
    "msg": "0x00ef"
   },
@@ -1058,7 +1058,7 @@
    "max": 96,
    "kind": "dialogue",
    "jp": "かくして　龍馬は\\n己の胸の内に沸き上がる\\n音楽が　ロックンロールで\\nあることを知ったのだった",
-   "en": "And so, Ryoma\\nlearned that the\\nmusic welling up\\nin his heart was\\nrock 'n' roll.",
+   "en": "And so, Ryoma\\nlearned that the\\nmusic welling\\nup in his heart\\nwas rock 'n' roll.",
    "op": "0x62",
    "msg": "0x00f2"
   },
@@ -1068,7 +1068,7 @@
    "max": 84,
    "kind": "dialogue",
    "jp": "折しも　幕府による\\n音楽への締め付けが\\nいよいよ　厳しく\\nなり始めていた時節のこと",
-   "en": "It was a time\\nwhen the\\nshogunate's grip\\non music was just\\nbeginning to\\ntighten in\\nearnest.",
+   "en": "It was a time\\nwhen the\\nshogunate's grip\\non music was\\njust beginning\\nto tighten in\\nearnest.",
    "op": "0x62",
    "msg": "0x00f3"
   },
@@ -1078,7 +1078,7 @@
    "max": 116,
    "kind": "dialogue",
    "jp": "自由に歌うことのできない\\n龍馬は　それでも\\n止められない熱情と\\n板挟みになり　悶々とした\\n日々を過ごすことになる",
-   "en": "Unable to sing\\nfreely, Ryoma\\nwas caught\\nbetween that and\\na passion he\\ncould not stop,\\nand spent his\\ndays in anguish.",
+   "en": "Unable to sing\\nfreely, Ryoma\\nwas caught\\nbetween that\\nand a passion he\\ncould not stop,\\nand spent his\\ndays in anguish.",
    "op": "0x62",
    "msg": "0x00f4"
   },
@@ -1088,7 +1088,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "うおぉぉぉぉぉっ！\\nやっぱりロックは\\n最高ぜよ！",
-   "en": "Woooooah! Rock\\nreally is the best,\\nI tell ya!",
+   "en": "Woooooah! Rock\\nreally is the\\nbest, I tell ya!",
    "op": "0x62",
    "msg": "0x00f5"
   },
@@ -1128,7 +1128,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "歌いたくてたまらん！\\nなのになんで\\n認めてくれないぜよ？",
-   "en": "I'm dyin' to sing!\\nSo why won't\\nanybody accept\\nit!?",
+   "en": "I'm dyin' to\\nsing! So why\\nwon't anybody\\naccept it!?",
    "op": "0x62",
    "msg": "0x00f9"
   },
@@ -1138,7 +1138,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "龍ちゃん　大変よ！\\nお城の武士たちがっ",
-   "en": "Ryo-chan, it's\\nterrible! Samurai\\nfrom the castle\\nare--",
+   "en": "Ryo-chan, it's\\nterrible!\\nSamurai from\\nthe castle are--",
    "op": "0x62",
    "msg": "0x00fa"
   },
@@ -1168,7 +1168,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "罪人中の罪人！\\n大罪人じゃ！\\n天歌以外は歌にあらず\\n何人も許されん",
-   "en": "A criminal among\\ncriminals! A grave\\ncriminal! There is\\nno song but\\nHeaven's Song,\\nand no one is\\nexempt!",
+   "en": "A criminal\\namong criminals!\\nA grave criminal!\\nThere is no song\\nbut Heaven's\\nSong, and no\\none is exempt!",
    "op": "0x62",
    "msg": "0x00fd"
   },
@@ -1178,7 +1178,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "どうしてだっ　なんで\\n好きに歌っちゃいかんのじゃ\\nそんなのおかしいぜよ！",
-   "en": "Why!? Why can't I\\nsing whatever I\\nlike!? That ain't\\nright!",
+   "en": "Why!? Why can't\\nI sing whatever\\nI like!? That\\nain't right!",
    "op": "0x62",
    "msg": "0x00fe"
   },
@@ -1188,7 +1188,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "幕府の命じゃ！",
-   "en": "By order of the\\nshogunate!",
+   "en": "By order of\\nthe shogunate!",
    "op": "0x62",
    "msg": "0x00ff"
   },
@@ -1248,7 +1248,7 @@
    "max": 96,
    "kind": "dialogue",
    "jp": "乙女と弥太郎の手引きで\\n龍馬はなんとか逃げ出した\\nだが　罪人となった龍馬は\\n土佐にはいられない",
-   "en": "With Otome and\\nYataro's help,\\nRyoma managed\\nto escape. But\\nnow that he was a\\ncriminal, Ryoma\\ncould no longer\\nstay in Tosa.",
+   "en": "With Otome and\\nYataro's help,\\nRyoma managed\\nto escape. But\\nnow that he was\\na criminal, Ryoma\\ncould no longer\\nstay in Tosa.",
    "op": "0x62",
    "msg": "0x0105"
   },
@@ -1268,7 +1268,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "わしがここにいたら\\n姉やんにまで迷惑が\\nかかるぜよ",
-   "en": "If I stay here, I'll\\nbring trouble\\ndown on you too,\\nSis.",
+   "en": "If I stay here,\\nI'll bring\\ntrouble down\\non you too, Sis.",
    "op": "0x62",
    "msg": "0x0107"
   },
@@ -1278,7 +1278,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "天歌じゃない歌を\\n歌ったから\\n死罪だなんて\\n酷すぎる",
-   "en": "The death\\npenalty, just for\\nsinging a song\\nthat isn't Heaven's\\nSong... It's too\\ncruel.",
+   "en": "The death\\npenalty, just\\nfor singing a\\nsong that isn't\\nHeaven's Song...\\nIt's too cruel.",
    "op": "0x62",
    "msg": "0x0108"
   },
@@ -1298,7 +1298,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "思ってたけど……\\nとうとう　京に行って\\nしまうのね",
-   "en": "I did, but... so\\nyou're finally off\\nto Kyoto.",
+   "en": "I did, but... so\\nyou're finally\\noff to Kyoto.",
    "op": "0x62",
    "msg": "0x010a"
   },
@@ -1338,7 +1338,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "なんでも京では\\n大舞台\\n（オーディション）\\nってので",
-   "en": "Word is, over in\\nKyoto they're\\nholdin' this thing\\ncalled an\\n\"audition,\"",
+   "en": "Word is, over\\nin Kyoto they're\\nholdin' this\\nthing called an\\n\"audition,\"",
    "op": "0x62",
    "msg": "0x010e"
   },
@@ -1388,7 +1388,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "そう……\\nそうね　龍ちゃんなら\\nやれるわね",
-   "en": "I see... Yes, you\\ncan do it,\\nRyo-chan.",
+   "en": "I see... Yes,\\nyou can do\\nit, Ryo-chan.",
    "op": "0x62",
    "msg": "0x0113"
   },
@@ -1428,7 +1428,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "それについては　乙女さん\\nオレも一緒についていく\\nから　心配はいらんぜよ",
-   "en": "About that,\\nOtome-san, I'm\\ngoin' with him, so\\nthere's nothin' to\\nworry about!",
+   "en": "About that,\\nOtome-san, I'm\\ngoin' with him,\\nso there's nothin'\\nto worry about!",
    "op": "0x62",
    "msg": "0x0117"
   },
@@ -1438,7 +1438,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "龍さんを一人にしたら\\n西も東もわからんもの",
-   "en": "Leave Ryo-san on\\nhis own and he\\nwon't know east\\nfrom west.",
+   "en": "Leave Ryo-san\\non his own and\\nhe won't know\\neast from west.",
    "op": "0x62",
    "msg": "0x0118"
   },
@@ -1448,7 +1448,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "まぁ　弥太郎ちゃんも\\n一緒なの？",
-   "en": "My, Yataro-chan,\\nyou're going with\\nhim?",
+   "en": "My, Yataro-chan,\\nyou're going\\nwith him?",
    "op": "0x62",
    "msg": "0x0119"
   },
@@ -1508,7 +1508,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "こうして龍馬は弥太郎と\\n共に京へ旅立ったのだった",
-   "en": "And so Ryoma set\\noff for Kyoto\\ntogether with\\nYataro.",
+   "en": "And so Ryoma\\nset off for\\nKyoto together\\nwith Yataro.",
    "op": "0x62",
    "msg": "0x011f"
   }

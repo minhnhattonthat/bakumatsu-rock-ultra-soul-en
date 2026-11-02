@@ -26,6 +26,7 @@ gallery_event_view	menu	6 down;60 -;6 circle;300 -;6 up;60 -;6 up;60 -;6 circle;
 gallery_movie	menu	6 down;60 -;6 circle;300 -;6 up;60 -;6 circle	MovieGallery	400	movie list
 gallery_movie_play	menu	6 down;60 -;6 circle;300 -;6 up;60 -;6 circle;400 -;6 circle	Movie	400	first movie (opening)
 gallery_profile	menu	6 down;60 -;6 circle;300 -;6 down;60 -;6 circle	Profile	400	character profiles
+gallery_profile_view	menu	6 down;60 -;6 circle;300 -;6 down;60 -;6 circle;400 -;6 circle	Profile	400	first profile opened: field labels (EBOOT 0x29ADAC)
 gallery_music	menu	6 down;60 -;6 circle;300 -;6 down;60 -;6 down;60 -;6 circle	SoundGallery	400	music player
 option_menu	menu	6 up;40 -;6 up;60 -;6 circle	TopMenuOption	300	OPTION submenu
 option_text	menu	6 up;40 -;6 up;60 -;6 circle;300 -;6 circle	TextSetting	300	text settings
@@ -124,3 +125,5 @@ m_013004	script	m_013004.bin	Adventure	600
 m_013005	script	m_013005.bin	Adventure	600	
 staffroll	script	staffroll.bin	Adventure	600	credits
 staffroll2	script	staffroll2.bin	Adventure	600	credits
+adv_save_done	script	m_001001.bin;900 -;6 triangle;200 -;6 circle;400 -;6 circle;300 -;6 circle;300 -;6 circle	TopMenuAdvPause	900	ADV save written to NEW DATA (save detail: play time, EBOOT TEXT_CODE)
+ch1_end	script	m_001003.bin>m_002001.bin;900 -;6 square	Break	5000	chapter 1 end in SKIP: unlock toasts, autosave, BREAK screen; runs the chapter-end strstr (insert.CHAPTER_CODE)

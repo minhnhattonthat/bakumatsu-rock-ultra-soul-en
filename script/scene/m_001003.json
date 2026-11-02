@@ -8,7 +8,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "すごい！　すごいよ！\\nお兄ちゃんたちの歌！",
-   "en": "Amazing! That\\nwas amazing!\\nYour song,\\nmisters!",
+   "en": "Amazing!\\nThat was\\namazing! Your\\nsong, misters!",
    "op": "0x62",
    "msg": "0x03aa"
   },
@@ -48,7 +48,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "志を同じくするダチと\\n一緒に歌うのが　こんなに\\nいいモンだったとは",
-   "en": "Who knew singin'\\nwith buddies who\\nshare your dream\\ncould feel this\\ngood?",
+   "en": "Who knew singin'\\nwith buddies\\nwho share your\\ndream could feel\\nthis good?",
    "op": "0x62",
    "msg": "0x03ae"
   },
@@ -58,7 +58,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "おい待て！\\nオレ様が　いつお前の\\nダチになった",
-   "en": "Hey, hold it! Since\\nwhen am I your\\nbuddy!?",
+   "en": "Hey, hold it!\\nSince when am\\nI your buddy!?",
    "op": "0x62",
    "msg": "0x03af"
   },
@@ -68,7 +68,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "じゃあ\\n手貸してくれ",
-   "en": "Then gimme your\\nhand.",
+   "en": "Then gimme\\nyour hand.",
    "op": "0x62",
    "msg": "0x03b0"
   },
@@ -108,7 +108,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "何を照れてるんだ？\\n一緒に歌った以上\\nわしらはもうダチだろ？",
-   "en": "What're you bein'\\nshy for? Once\\nwe've sung\\ntogether, we're\\nbuddies, right?",
+   "en": "What're you\\nbein' shy for?\\nOnce we've sung\\ntogether, we're\\nbuddies, right?",
    "op": "0x62",
    "msg": "0x03b4"
   },
@@ -118,7 +118,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "なあ\\n\\fnt1シンディ！\\fnt0",
-   "en": "Ain't that right,\\n\\fnt1Shindy!\\fnt0",
+   "en": "Ain't that\\nright, \\fnt1Shindy!\\fnt0",
    "op": "0x62",
    "msg": "0x03b5"
   },
@@ -148,7 +148,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "晋作って響きは\\nいまいち垢抜けないと\\n思うんだ",
-   "en": "\"Shinsaku\" just\\nsounds kinda\\nunpolished to me,\\ny'know.",
+   "en": "\"Shinsaku\" just\\nsounds kinda\\nunpolished to\\nme, y'know.",
    "op": "0x62",
    "msg": "0x03b8"
   },
@@ -158,7 +158,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "それに　お前の演奏は\\nいかにも　\\fnt1シンディ\\fnt0\\nって感じじゃろ？",
-   "en": "Besides, your\\nplayin's got a real\\n\\fnt1Shindy\\fnt0 feel to it,\\ndon't it?",
+   "en": "Besides, your\\nplayin's got a\\nreal \\fnt1Shindy\\fnt0 feel\\nto it, don't it?",
    "op": "0x62",
    "msg": "0x03b9"
   },
@@ -168,7 +168,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "\\fnt1センセー\\fnt0も\\nそう思わんか？",
-   "en": "Don't you think so\\ntoo, \\fnt1Sensei\\fnt0?",
+   "en": "Don't you think\\nso too, \\fnt1Sensei\\fnt0?",
    "op": "0x62",
    "msg": "0x03ba"
   },
@@ -178,7 +178,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "センセー？\\n私のことですか？",
-   "en": "Sensei? Do you\\nmean me?",
+   "en": "Sensei? Do\\nyou mean me?",
    "op": "0x62",
    "msg": "0x03bb"
   },
@@ -188,7 +188,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "そう！\\n物知りだからな！",
-   "en": "Yep! 'Cause you\\nknow so much\\nstuff!",
+   "en": "Yep! 'Cause\\nyou know so\\nmuch stuff!",
    "op": "0x62",
    "msg": "0x03bc"
   },
@@ -228,7 +228,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "けっ！　あんな最低の\\nセッションがあるか！",
-   "en": "Tch! That was the\\nworst session\\never!",
+   "en": "Tch! That\\nwas the worst\\nsession ever!",
    "op": "0x62",
    "msg": "0x03c0"
   },
@@ -248,7 +248,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "テメェ\\n下手すぎんだよ！",
-   "en": "You're way too\\nawful!",
+   "en": "You're way\\ntoo awful!",
    "op": "0x62",
    "msg": "0x03c2"
   },
@@ -268,7 +268,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "ダ　ダメですよ　晋作\\n本当のこと言っちゃ",
-   "en": "Sh-Shinsaku, you\\nmustn't tell him\\nthe truth.",
+   "en": "Sh-Shinsaku,\\nyou mustn't tell\\nhim the truth.",
    "op": "0x62",
    "msg": "0x03c4"
   },
@@ -298,7 +298,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "うんうん\\nかなりロックでした",
-   "en": "Yes, yes. It was\\nquite rock.",
+   "en": "Yes, yes. It\\nwas quite rock.",
    "op": "0x62",
    "msg": "0x03c7"
   },
@@ -308,7 +308,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "いや　あんなのは\\nロックじゃねえ！\\n認めねえ！",
-   "en": "No, that wasn't\\nrock! I don't\\naccept it!",
+   "en": "No, that\\nwasn't rock! I\\ndon't accept it!",
    "op": "0x62",
    "msg": "0x03c8"
   },
@@ -328,7 +328,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "うるせえ\\nこのボケ！",
-   "en": "Shut up, you\\ndope!",
+   "en": "Shut up,\\nyou dope!",
    "op": "0x62",
    "msg": "0x03ca"
   },
@@ -368,7 +368,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "むっ　お前ら\\nまだやる気か",
-   "en": "Hm! You guys still\\nwanna go?",
+   "en": "Hm! You guys\\nstill wanna go?",
    "op": "0x62",
    "msg": "0x03ce"
   },
@@ -378,7 +378,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "我々では歯が立たん\\n増援を呼ぶぞ！",
-   "en": "We're no match\\nfor them. Call for\\nbackup!",
+   "en": "We're no match\\nfor them. Call\\nfor backup!",
    "op": "0x62",
    "msg": "0x03cf"
   },
@@ -408,7 +408,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "くそっ\\nこいつら……",
-   "en": "Dammit, these\\nguys...",
+   "en": "Dammit,\\nthese guys...",
    "op": "0x62",
    "msg": "0x03d2"
   },
@@ -418,7 +418,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "ダメですよ　晋作\\nここでこれ以上彼らに\\nかまけていてはまずい",
-   "en": "No, Shinsaku. We\\ncan't afford to\\nwaste any more\\ntime on them\\nhere.",
+   "en": "No, Shinsaku.\\nWe can't afford\\nto waste any\\nmore time on\\nthem here.",
    "op": "0x62",
    "msg": "0x03d3"
   },
@@ -438,7 +438,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "ちっ\\n今はそうするしかねえか\\nおい　龍馬　行くぞ",
-   "en": "Tch. Guess there's\\nno choice right\\nnow. Hey, Ryoma,\\nlet's go.",
+   "en": "Tch. Guess\\nthere's no choice\\nright now. Hey,\\nRyoma, let's go.",
    "op": "0x62",
    "msg": "0x03d5"
   },
@@ -448,7 +448,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "おうっ　シンディ！\\n子供らも行くぜよ！",
-   "en": "Right, Shindy!\\nYou kids come\\ntoo!",
+   "en": "Right,\\nShindy! You\\nkids come too!",
    "op": "0x62",
    "msg": "0x03d6"
   },
@@ -468,7 +468,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "だから\\nシンディって呼ぶな！",
-   "en": "I said, don't call\\nme Shindy!",
+   "en": "I said, don't\\ncall me Shindy!",
    "op": "0x62",
    "msg": "0x03d8"
   },
@@ -478,7 +478,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "まあいいじゃないですか\\nけっこう似合ってますよ\\nシンディ",
-   "en": "Oh, what's the\\nharm? It suits you\\nrather well,\\nShindy.",
+   "en": "Oh, what's the\\nharm? It suits\\nyou rather\\nwell, Shindy.",
    "op": "0x62",
    "msg": "0x03d9"
   },
@@ -488,7 +488,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "よしてくれ桂さん\\nくそっ　やっぱり\\nむかつく野郎だぜ！",
-   "en": "Cut it out,\\nKatsura-san.\\nDammit, this guy\\nreally gets on my\\nnerves!",
+   "en": "Cut it out,\\nKatsura-san.\\nDammit, this\\nguy really gets\\non my nerves!",
    "op": "0x62",
    "msg": "0x03da"
   },
@@ -498,7 +498,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "まあまあ　でもこれで\\n泥棒の疑いは晴らして\\nあげてもいいでしょう？",
-   "en": "Now, now. But\\nafter all this,\\nsurely you can\\nclear him of being\\na thief?",
+   "en": "Now, now. But\\nafter all this,\\nsurely you can\\nclear him of\\nbeing a thief?",
    "op": "0x62",
    "msg": "0x03db"
   },
@@ -528,7 +528,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "だから\\nシンディじゃねえ！",
-   "en": "I said, I'm not\\nShindy!",
+   "en": "I said, I'm\\nnot Shindy!",
    "op": "0x62",
    "msg": "0x03de"
   },
@@ -538,7 +538,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "まあいい\\n盗人呼ばわりしたことは\\n訂正してやる",
-   "en": "Whatever. I'll take\\nback calling you a\\nthief.",
+   "en": "Whatever. I'll\\ntake back calling\\nyou a thief.",
    "op": "0x62",
    "msg": "0x03df"
   },
@@ -558,7 +558,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "ああ　だがな　オレ様は\\nまだ貴様をロックだと\\n認めた訳じゃねえからな！",
-   "en": "Yeah. But get\\nthis: yours truly\\nstill hasn't\\naccepted that\\nyou're rock!",
+   "en": "Yeah. But get\\nthis: yours\\ntruly still hasn't\\naccepted that\\nyou're rock!",
    "op": "0x62",
    "msg": "0x03e1"
   },
@@ -588,7 +588,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "ってそんなことを\\n言ってる場合じゃ\\nないですね",
-   "en": "Ah, this is hardly\\nthe time for that,\\nis it?",
+   "en": "Ah, this is\\nhardly the time\\nfor that, is it?",
    "op": "0x62",
    "msg": "0x03e4"
   },
@@ -618,7 +618,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "じゃあ\\nこれですね",
-   "en": "Then, this should\\ndo.",
+   "en": "Then, this\\nshould do.",
    "op": "0x62",
    "msg": "0x03e7"
   },
@@ -628,7 +628,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "うぷっ！\\nな　なんだこれは？",
-   "en": "Bwuh! Wh-what is\\nthis?",
+   "en": "Bwuh! Wh-what\\nis this?",
    "op": "0x62",
    "msg": "0x03e8"
   },
@@ -638,7 +638,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "け　煙玉？\\nそれにしてはやけに\\n甘い匂いの……",
-   "en": "A-a smoke bomb?\\nBut it smells\\nawfully sweet for\\none...",
+   "en": "A-a smoke\\nbomb? But it\\nsmells awfully\\nsweet for one...",
    "op": "0x62",
    "msg": "0x03e9"
   },
@@ -668,7 +668,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "で　でもこの隙に\\n逃げられそうじゃ！　\\nシンディ！　センセー！",
-   "en": "B-but I reckon we\\ncan get away\\nwhile they're\\ndistracted!\\nShindy! Sensei!",
+   "en": "B-but I reckon\\nwe can get away\\nwhile they're\\ndistracted!\\nShindy! Sensei!",
    "op": "0x62",
    "msg": "0x03ec"
   },
@@ -678,7 +678,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "だからシンディじゃねぇ！",
-   "en": "I said, I'm not\\nShindy!",
+   "en": "I said, I'm\\nnot Shindy!",
    "op": "0x62",
    "msg": "0x03ed"
   },

@@ -8,7 +8,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "老中たちの前に立って\\n慶喜が歌い始める",
-   "en": "Yoshinobu stood\\nbefore the Elders\\nand began to\\nsing.",
+   "en": "Yoshinobu\\nstood before\\nthe Elders and\\nbegan to sing.",
    "op": "0x62",
    "msg": "0x5849"
   },
@@ -38,7 +38,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "はぁぁぁああ\\nこれぞまさに悦楽……\\n何という　何という……",
-   "en": "Haaaaah... This is\\npure bliss... Such...\\nsuch...",
+   "en": "Haaaaah... This\\nis pure bliss...\\nSuch... such...",
    "op": "0x62",
    "msg": "0x584c"
   },
@@ -78,7 +78,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "本当？\\nこれでよかったの？",
-   "en": "Really? Did I do it\\nright?",
+   "en": "Really? Did I\\ndo it right?",
    "op": "0x62",
    "msg": "0x5850"
   },
@@ -108,7 +108,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "慶喜様に\\n永遠の忠誠を……",
-   "en": "Eternal loyalty...\\nto\\nYoshinobu-sama...",
+   "en": "Eternal\\nloyalty... to\\nYoshinobu-sama...",
    "op": "0x62",
    "msg": "0x5853"
   },
@@ -118,7 +118,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "あの歌をもう一度\\n聴くためならば\\n何でもいたします……",
-   "en": "To hear that song\\nonce more, I\\nwould do\\nanything...",
+   "en": "To hear that\\nsong once\\nmore, I would\\ndo anything...",
    "op": "0x62",
    "msg": "0x5854"
   },
@@ -128,7 +128,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "そうか\\n予の歌が人の役に\\n立ったんだね",
-   "en": "I see... My song\\nwas able to help\\npeople.",
+   "en": "I see... My\\nsong was able\\nto help people.",
    "op": "0x62",
    "msg": "0x5855"
   },
@@ -138,7 +138,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "広間に満ちている\\n異様な空気に\\n慶喜は気付いていない",
-   "en": "Yoshinobu did not\\nnotice the eerie\\nair that filled the\\nhall.",
+   "en": "Yoshinobu did\\nnot notice the\\neerie air that\\nfilled the hall.",
    "op": "0x62",
    "msg": "0x5856"
   },
@@ -168,7 +168,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "あとは直弼に\\nお任せを",
-   "en": "Leave the rest to\\nNaosuke.",
+   "en": "Leave the rest\\nto Naosuke.",
    "op": "0x62",
    "msg": "0x5859"
   },
@@ -188,7 +188,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "慶喜が控えの間に戻るのを\\n見届けた井伊が\\n老中たちを振り返った",
-   "en": "Once he had seen\\nYoshinobu back to\\nthe anteroom, Ii\\nturned to face the\\nElders.",
+   "en": "Once he had seen\\nYoshinobu back\\nto the anteroom,\\nIi turned to face\\nthe Elders.",
    "op": "0x62",
    "msg": "0x585b"
   },
@@ -218,7 +218,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "ぐぐ……\\nな　なんだ　これは？\\nあの歌は　何なのだ！",
-   "en": "Ngh... Wh-what is\\nthis? What was\\nthat song!?",
+   "en": "Ngh... Wh-what\\nis this? What\\nwas that song!?",
    "op": "0x62",
    "msg": "0x585e"
   },
@@ -228,7 +228,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "ほう\\nまだ正気を保って\\nいるのか……",
-   "en": "Oh? You still have\\nyour wits about\\nyou...",
+   "en": "Oh? You still\\nhave your wits\\nabout you...",
    "op": "0x62",
    "msg": "0x585f"
   },
@@ -238,7 +238,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "はあっ　はあっ\\n……井伊！\\n貴様の仕業か",
-   "en": "Hah... hah... Ii!\\nThis is your\\ndoing!",
+   "en": "Hah... hah...\\nIi! This is\\nyour doing!",
    "op": "0x62",
    "msg": "0x5860"
   },
@@ -248,7 +248,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "いかにもその通り\\n我が代償と引き換えに\\n手に入れた力だ",
-   "en": "Precisely. It is a\\npower I gained in\\nexchange for my\\nprice.",
+   "en": "Precisely. It is a\\npower I gained\\nin exchange for\\nmy price.",
    "op": "0x62",
    "msg": "0x5861"
   },
@@ -298,7 +298,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "貴様　そのような\\n恐ろしい姿になってまで\\n権力を手に入れようと……",
-   "en": "You... You would\\ntake on so\\nhideous a form to\\nseize power...?",
+   "en": "You... You would\\ntake on so\\nhideous a form\\nto seize power...?",
    "op": "0x62",
    "msg": "0x5866"
   },
@@ -338,7 +338,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "決まっている\\nすべては慶喜様を\\nお護りするため",
-   "en": "Isn't it obvious? It\\nis all to protect\\nYoshinobu-sama.",
+   "en": "Isn't it obvious?\\nIt is all to protect\\nYoshinobu-sama.",
    "op": "0x62",
    "msg": "0x586a"
   },
@@ -348,7 +348,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "慶喜様が生きてゆける\\n世の中を作るためだ",
-   "en": "To build a world\\nwhere\\nYoshinobu-sama\\ncan live.",
+   "en": "To build a\\nworld where\\nYoshinobu-sama\\ncan live.",
    "op": "0x62",
    "msg": "0x586b"
   },
@@ -358,7 +358,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "そのためであれば\\n片目どころか\\n我が命さえ惜しくはない",
-   "en": "For that, I would\\nnot begrudge an\\neye--nor even my\\nvery life.",
+   "en": "For that, I would\\nnot begrudge an\\neye--nor even\\nmy very life.",
    "op": "0x62",
    "msg": "0x586c"
   },
@@ -368,7 +368,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "喜んで代償として\\n捧げようではないか！\\nなあ",
-   "en": "I would gladly\\noffer it up as the\\nprice! Would I\\nnot?",
+   "en": "I would gladly\\noffer it up as\\nthe price!\\nWould I not?",
    "op": "0x62",
    "msg": "0x586d"
   },
@@ -378,7 +378,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "それでよい\\nそれでよいのだ\\nふふふふ……",
-   "en": "That is good.\\nThat is very good.\\nHeh heh heh\\nheh...",
+   "en": "That is good.\\nThat is very\\ngood. Heh\\nheh heh heh...",
    "op": "0x62",
    "msg": "0x586e"
   },
@@ -398,7 +398,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "狂っていようと\\n腐っているより\\nましだ",
-   "en": "Better mad than\\nrotten.",
+   "en": "Better mad\\nthan rotten.",
    "op": "0x62",
    "msg": "0x5870"
   },
@@ -408,7 +408,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "我が手に入れた天歌の\\n力によって　全てが\\n慶喜様にひれ伏すのだ",
-   "en": "Through the\\npower of\\nHeaven's Song,\\nwhich I now\\npossess, all will\\nbow before\\nYoshinobu-sama.",
+   "en": "Through the\\npower of\\nHeaven's Song,\\nwhich I now\\npossess, all\\nwill bow before\\nYoshinobu-sama.",
    "op": "0x62",
    "msg": "0x5871"
   },
@@ -438,7 +438,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "慶喜様が望むのなら\\n天すら手に入れてみせよう",
-   "en": "If\\nYoshinobu-sama\\ndesires it, I will\\nseize the very\\nheavens.",
+   "en": "If\\nYoshinobu-sama\\ndesires it, I\\nwill seize the\\nvery heavens.",
    "op": "0x62",
    "msg": "0x5874"
   },
@@ -448,7 +448,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "慶喜様が喜ぶのなら\\n地も滅ぼしてみせよう",
-   "en": "If it pleases\\nYoshinobu-sama,\\nI will destroy the\\nvery earth.",
+   "en": "If it pleases\\nYoshinobu-sama,\\nI will destroy\\nthe very earth.",
    "op": "0x62",
    "msg": "0x5875"
   },
@@ -498,7 +498,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "生かしておいて\\n差し上げよう",
-   "en": "I shall let you\\nlive.",
+   "en": "I shall let\\nyou live.",
    "op": "0x62",
    "msg": "0x587a"
   },
@@ -508,7 +508,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "慶喜様のために死ぬ\\nその時までな",
-   "en": "Until the day you\\ndie for\\nYoshinobu-sama.",
+   "en": "Until the day\\nyou die for\\nYoshinobu-sama.",
    "op": "0x62",
    "msg": "0x587b"
   },
@@ -528,7 +528,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "聞け\\nこれより粛清を始める！",
-   "en": "Hear me! The\\npurge begins\\nnow!",
+   "en": "Hear me!\\nThe purge\\nbegins now!",
    "op": "0x62",
    "msg": "0x587d"
   },
@@ -538,7 +538,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "この世のあらゆる全てを\\n慶喜様へと捧げるのだ！",
-   "en": "Offer up\\neverything in this\\nworld to\\nYoshinobu-sama!",
+   "en": "Offer up\\neverything in\\nthis world to\\nYoshinobu-sama!",
    "op": "0x62",
    "msg": "0x587e"
   },
@@ -588,7 +588,7 @@
    "max": 104,
    "kind": "dialogue",
    "jp": "井伊は　揺らぎ始めていた\\n徳川幕府の改革を断行し\\n以前にも増して　強固な\\n権力構造を作り上げていった",
-   "en": "Ii forced reform\\non the faltering\\nTokugawa\\nshogunate,\\nbuilding a power\\nstructure\\nstronger than\\never.",
+   "en": "Ii forced reform\\non the faltering\\nTokugawa\\nshogunate,\\nbuilding a\\npower structure\\nstronger than\\never.",
    "op": "0x62",
    "msg": "0x5883"
   },
@@ -598,7 +598,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "朽ちた目の痛みは\\nもはや喜びでしかない",
-   "en": "The pain of his\\nrotted eye was\\nnow nothing but\\njoy.",
+   "en": "The pain of his\\nrotted eye was\\nnow nothing\\nbut joy.",
    "op": "0x62",
    "msg": "0x5884"
   },
@@ -608,7 +608,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "狂っていようとも\\n行く先が地獄であろうとも\\n全ては慶喜のため",
-   "en": "Mad though he\\nmight be, though\\nhis road might\\nlead to hell, all\\nwas for\\nYoshinobu.",
+   "en": "Mad though he\\nmight be,\\nthough his road\\nmight lead to\\nhell, all was for\\nYoshinobu.",
    "op": "0x62",
    "msg": "0x5885"
   },

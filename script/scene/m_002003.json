@@ -8,7 +8,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "わしらのロックを聴いて\\n顔色もよくなったようだな",
-   "en": "Looks like\\nlistenin' to our\\nrock put some\\ncolor back in your\\nface.",
+   "en": "Looks like\\nlistenin' to our\\nrock put some\\ncolor back in\\nyour face.",
    "op": "0x62",
    "msg": "0x0650"
   },
@@ -18,7 +18,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "お　おおお……\\nこの頬を伝わる熱いものは\\nなんだ！",
-   "en": "O-ohhh... What is\\nthis hot thing\\nrunning down my\\ncheeks!?",
+   "en": "O-ohhh... What\\nis this hot thing\\nrunning down\\nmy cheeks!?",
    "op": "0x62",
    "msg": "0x0651"
   },
@@ -28,7 +28,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "涙だよ\\nお前\\n自分が泣いているのに\\n気付かないのか？",
-   "en": "Those are tears.\\nYou don't even\\nnotice you're\\ncrying?",
+   "en": "Those are\\ntears. You don't\\neven notice\\nyou're crying?",
    "op": "0x62",
    "msg": "0x0652"
   },
@@ -38,7 +38,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "涙……涙だと？",
-   "en": "Tears... tears, you\\nsay?",
+   "en": "Tears... tears,\\nyou say?",
    "op": "0x62",
    "msg": "0x0653"
   },
@@ -48,7 +48,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "……思えば　こうして\\n涙を流すのは久しぶりだ",
-   "en": "...Come to think of\\nit, it has been a\\nlong time since I\\nshed tears like\\nthis.",
+   "en": "...Come to think\\nof it, it has been\\na long time\\nsince I shed\\ntears like this.",
    "op": "0x62",
    "msg": "0x0654"
   },
@@ -88,7 +88,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "嬉しさも悲しさも　全てを\\n忘れ去っていた……",
-   "en": "Joy, sorrow... I\\nhad forgotten all\\nof it...",
+   "en": "Joy, sorrow... I\\nhad forgotten\\nall of it...",
    "op": "0x62",
    "msg": "0x0658"
   },
@@ -98,7 +98,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "天歌が与えてくれる安らぎ\\nそれが天歌泰平の道と\\n信じ込んでいたが――",
-   "en": "The comfort\\nHeaven's Song\\ngave me... I\\nbelieved that was\\nthe path of\\nHeaven's Song\\nPeace, but--",
+   "en": "The comfort\\nHeaven's Song\\ngave me... I\\nbelieved that\\nwas the path of\\nHeaven's Song\\nPeace, but--",
    "op": "0x62",
    "msg": "0x0659"
   },
@@ -108,7 +108,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "そんな泰平は\\n嘘っぱちぜよ！",
-   "en": "That kinda peace\\nis a load of\\nbaloney!",
+   "en": "That kinda\\npeace is a load\\nof baloney!",
    "op": "0x62",
    "msg": "0x065a"
   },
@@ -148,7 +148,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "私は　どうして　そんな\\n大切なことを　忘れて\\nしまっていたのか",
-   "en": "How could I have\\nforgotten\\nsomething so\\nimportant?",
+   "en": "How could I\\nhave forgotten\\nsomething so\\nimportant?",
    "op": "0x62",
    "msg": "0x065e"
   },
@@ -158,7 +158,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "泰平化されていた\\nせいですよ",
-   "en": "That's because\\nyou were\\npacified.",
+   "en": "That's\\nbecause you\\nwere pacified.",
    "op": "0x62",
    "msg": "0x065f"
   },
@@ -218,7 +218,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "これが青春なのかーー",
-   "en": "Is this what they\\ncall youth!?",
+   "en": "Is this what\\nthey call youth!?",
    "op": "0x62",
    "msg": "0x0665"
   },
@@ -238,7 +238,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "うおおおおお\\nこの熱い想いを止められん",
-   "en": "Raaaaagh! I\\ncannot hold back\\nthis burning\\nfeeling!",
+   "en": "Raaaaagh! I\\ncannot hold\\nback this\\nburning feeling!",
    "op": "0x62",
    "msg": "0x0667"
   },
@@ -258,7 +258,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "わしらのロックが\\n気に入ったようだな\\nもう一曲いくか？",
-   "en": "Looks like you've\\ntaken a shine to\\nour rock! How\\n'bout another\\nsong?",
+   "en": "Looks like\\nyou've taken a\\nshine to our\\nrock! How 'bout\\nanother song?",
    "op": "0x62",
    "msg": "0x0669"
   },
@@ -268,7 +268,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "ま　待て　待ってくれ！\\nお前達のロックは本物だ\\nそれはわかった！",
-   "en": "W-wait! Wait,\\nplease! Your rock\\nis the real thing,\\nthat much I\\nunderstand!",
+   "en": "W-wait! Wait,\\nplease! Your\\nrock is the real\\nthing, that much\\nI understand!",
    "op": "0x62",
    "msg": "0x066a"
   },
@@ -278,7 +278,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "だが\\n私が今まで教えられ\\n信じ込んできたもの",
-   "en": "But... the things I\\nhave been taught\\nand believed until\\nnow...",
+   "en": "But... the things I\\nhave been taught\\nand believed\\nuntil now...",
    "op": "0x62",
    "msg": "0x066b"
   },
@@ -288,7 +288,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "いや　私自身について\\nもう一度考え直したい……",
-   "en": "No--I wish to\\nrethink myself,\\nfrom the ground\\nup...",
+   "en": "No--I wish to\\nrethink myself,\\nfrom the\\nground up...",
    "op": "0x62",
    "msg": "0x066c"
   },
@@ -328,7 +328,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "わしらの雷舞\\n絶対に観に来いよ！\\nいつでも大歓迎じゃ！",
-   "en": "You come see our\\nlive, y'hear!\\nYou're welcome\\nanytime!",
+   "en": "You come see\\nour live, y'hear!\\nYou're welcome\\nanytime!",
    "op": "0x62",
    "msg": "0x0670"
   },
@@ -338,7 +338,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "かたじけない\\nさらば！",
-   "en": "I am in your debt.\\nFarewell!",
+   "en": "I am in your\\ndebt. Farewell!",
    "op": "0x62",
    "msg": "0x0671"
   },
@@ -368,7 +368,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "やはりロックは危険だ\\n幕府の総力を挙げて\\n叩きつぶさなければ",
-   "en": "\"Rock is\\ndangerous after\\nall. We must\\ncrush it with the\\nfull might of the\\nshogunate.\"",
+   "en": "\"Rock is\\ndangerous after\\nall. We must\\ncrush it with the\\nfull might of\\nthe shogunate.\"",
    "op": "0x62",
    "msg": "0x0674"
   },
@@ -378,7 +378,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "なんてことに\\nならなきゃいいが",
-   "en": "...I just hope it\\ndoesn't come to\\nthat.",
+   "en": "...I just hope\\nit doesn't\\ncome to that.",
    "op": "0x62",
    "msg": "0x0675"
   },
@@ -388,7 +388,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "その時は　押し寄せた\\n武士達にも　わしらの\\nロックを聴かせてやるぜよ",
-   "en": "If it does, we'll\\nmake all them\\nsamurai that\\ncome stormin' in\\nlisten to our rock\\ntoo!",
+   "en": "If it does, we'll\\nmake all them\\nsamurai that\\ncome stormin'\\nin listen to our\\nrock too!",
    "op": "0x62",
    "msg": "0x0676"
   },
@@ -398,7 +398,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "違うか？\\nシンディ",
-   "en": "Ain't that right,\\nShindy?",
+   "en": "Ain't that\\nright, Shindy?",
    "op": "0x62",
    "msg": "0x0677"
   },
@@ -438,7 +438,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "ロックは\\n偉大ぜよ！",
-   "en": "Rock is mighty, I\\ntell ya!",
+   "en": "Rock is mighty,\\nI tell ya!",
    "op": "0x62",
    "msg": "0x067b"
   },
@@ -458,7 +458,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "ロックの力？",
-   "en": "The power of\\nrock?",
+   "en": "The power\\nof rock?",
    "op": "0x62",
    "msg": "0x067d"
   },
@@ -468,7 +468,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "ロックを聴いた者は　\\n魂の束縛から　解き放たれ\\n真の自由を得る",
-   "en": "Those who hear\\nrock are freed\\nfrom the shackles\\non their souls,\\nand gain true\\nfreedom.",
+   "en": "Those who hear\\nrock are freed\\nfrom the\\nshackles on their\\nsouls, and gain\\ntrue freedom.",
    "op": "0x62",
    "msg": "0x067e"
   },
@@ -498,7 +498,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "先ほどの幕府の侍が\\n何よりの証拠ですよ！",
-   "en": "That shogunate\\nsamurai just now\\nis all the proof we\\nneed!",
+   "en": "That shogunate\\nsamurai just\\nnow is all the\\nproof we need!",
    "op": "0x62",
    "msg": "0x0681"
   },
@@ -508,7 +508,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "つまり　わしらが歌うと\\nみんなのココロが自由に\\nなるっていうことか",
-   "en": "So when we sing,\\neverybody's\\nhearts get set\\nfree?",
+   "en": "So when we\\nsing, everybody's\\nhearts get set\\nfree?",
    "op": "0x62",
    "msg": "0x0682"
   },
@@ -518,7 +518,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "強制された考え方を\\n自由にすることが\\nできるのか",
-   "en": "We can free folks\\nfrom the way of\\nthinkin' that's\\nbeen forced on\\n'em?",
+   "en": "We can free\\nfolks from the\\nway of thinkin'\\nthat's been\\nforced on 'em?",
    "op": "0x62",
    "msg": "0x0683"
   },
@@ -568,7 +568,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "もっともっとうまくなって\\nみ～んなに　わしらの\\nロックを聴かせてやろう！",
-   "en": "Let's get better\\nand better, and\\nmake every last\\nperson hear our\\nrock!",
+   "en": "Let's get better\\nand better, and\\nmake every\\nlast person\\nhear our rock!",
    "op": "0x62",
    "msg": "0x0688"
   },
@@ -588,7 +588,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "晋作も\\nいいですね？",
-   "en": "Shinsaku, that's\\nfine with you too,\\nisn't it?",
+   "en": "Shinsaku, that's\\nfine with you\\ntoo, isn't it?",
    "op": "0x62",
    "msg": "0x068a"
   },
@@ -608,7 +608,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "このド下手クソと一緒に\\nやるなら練習を積まなきゃ\\nどうにもならん",
-   "en": "If I'm playing\\nwith this\\ngod-awful\\namateur, we'll\\nneed tons of\\npractice, or it's\\nhopeless.",
+   "en": "If I'm playing\\nwith this\\ngod-awful\\namateur, we'll\\nneed tons of\\npractice, or\\nit's hopeless.",
    "op": "0x62",
    "msg": "0x068c"
   },
@@ -618,7 +618,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "シンディは厳しいのう\\nもっと優しくしてほしい\\nぜよ……",
-   "en": "Shindy's so strict...\\nI wish you'd go a\\nlittle easier on\\nme...",
+   "en": "Shindy's so\\nstrict... I wish\\nyou'd go a little\\neasier on me...",
    "op": "0x62",
    "msg": "0x068d"
   },
@@ -628,7 +628,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "では\\n決まりですね",
-   "en": "Well then, it's\\nsettled.",
+   "en": "Well then,\\nit's settled.",
    "op": "0x62",
    "msg": "0x068e"
   },
@@ -648,7 +648,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "今　この時から\\n私達は志を同じくする\\n仲間です\\n",
-   "en": "From this moment\\non, we are\\ncomrades who\\nshare the same\\nideals.",
+   "en": "From this\\nmoment on, we\\nare comrades\\nwho share the\\nsame ideals.",
    "op": "0x62",
    "msg": "0x0690"
   },

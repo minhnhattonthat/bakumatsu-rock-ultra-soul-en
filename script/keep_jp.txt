@@ -1,0 +1,2 @@
+# Japanese kept on purpose (tools/lint.py): `id, file or prefix*<TAB>reason`, one per line.
+play/*	rhythm-game lyric fragments stay Japanese (D13): romaji does not fit the fixed slots, the songs are sung in Japanese

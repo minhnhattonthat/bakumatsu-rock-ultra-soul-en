@@ -34,7 +34,8 @@ def build(out=OUT, ed=None, texts=None):
     """ed: edits() by default; the identity test passes no edits. texts: a text directory (default script/)."""
     check_rom.check()
     extract_iso()
-    ed = edits(texts) if ed is None else ed
+    planned = ed is None
+    ed = edits(texts) if planned else ed
     os.makedirs(os.path.dirname(out), exist_ok=True)
     src = ROM
     for name in CPKS:   # one CPK in memory at a time (~0.5 GB each)
@@ -42,6 +43,12 @@ def build(out=OUT, ed=None, texts=None):
         iso9660.patch(src, out, {f'/PSP_GAME/USRDIR/{name}.CPK': data}); src = out
     # shortcut: INST.DNS is the PGD-encrypted INST.CPK (install data); it stays original until PGD re-encryption exists
     if ed['iso']: iso9660.patch(out, out, ed['iso'])
+    import isodiff   # nothing outside the planned edits changed (sectors, CPK entries, slot bytes)
+    probs = isodiff.check(out, ed)
+    if planned:   # every text entry reads back from the files the plan wrote
+        import insert
+        probs += isodiff.readback(ed, texts or insert.SCRIPT)
+    if probs: raise SystemExit('isodiff failed:\n' + '\n'.join(probs))
     with open(out, 'rb') as f: return hashlib.file_digest(f, 'sha1').hexdigest()
 
 

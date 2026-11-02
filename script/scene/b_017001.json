@@ -8,7 +8,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "京都の夕空に\\n細長い煙が上ってゆく",
-   "en": "A thin trail of\\nsmoke rose into\\nthe evening sky\\nover Kyoto.",
+   "en": "A thin trail of\\nsmoke rose into\\nthe evening\\nsky over Kyoto.",
    "op": "0x62",
    "msg": "0x5682"
   },
@@ -18,7 +18,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "土方歳三と沖田総司は\\n近藤勇の墓前に線香を立て\\n静かに手を合わせていた",
-   "en": "Toshizo Hijikata\\nand Soji Okita lit\\nincense at Isami\\nKondo's grave\\nand quietly\\npressed their\\nhands together in\\nprayer.",
+   "en": "Toshizo Hijikata\\nand Soji Okita lit\\nincense at Isami\\nKondo's grave\\nand quietly\\npressed their\\nhands together\\nin prayer.",
    "op": "0x62",
    "msg": "0x5683"
   },
@@ -38,7 +38,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "近藤さんに代わって\\n新選組の局長になって\\nずいぶん経ちますが――",
-   "en": "It's been a long\\ntime since I took\\nyour place,\\nKondo-san, as\\nCommander of\\nthe\\nShinsengumi--",
+   "en": "It's been a long\\ntime since I\\ntook your place,\\nKondo-san, as\\nCommander of\\nthe\\nShinsengumi--",
    "op": "0x62",
    "msg": "0x5685"
   },
@@ -48,7 +48,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "局長としての責務に\\n忙殺されるばかりです",
-   "en": "But the duties of\\nCommander keep\\nme buried in\\nwork.",
+   "en": "But the duties\\nof Commander\\nkeep me\\nburied in work.",
    "op": "0x62",
    "msg": "0x5686"
   },
@@ -138,7 +138,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "土方に促されて\\n沖田は近藤の墓前に\\n軽く頭を下げた",
-   "en": "Prompted by\\nHijikata, Okita\\ngave a light bow\\nbefore Kondo's\\ngrave.",
+   "en": "Prompted by\\nHijikata, Okita\\ngave a light\\nbow before\\nKondo's grave.",
    "op": "0x62",
    "msg": "0x568f"
   },
@@ -168,7 +168,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "きっとあっちへ行っても\\n愉快にやってますよね",
-   "en": "so I bet you're\\nhaving a grand\\nold time over\\nthere too.",
+   "en": "so I bet you're\\nhaving a\\ngrand old time\\nover there too.",
    "op": "0x62",
    "msg": "0x5692"
   },
@@ -178,7 +178,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "僕らも　なんとか\\n元気にやってます",
-   "en": "We're managing\\nto get by all right,\\ntoo.",
+   "en": "We're managing\\nto get by all\\nright, too.",
    "op": "0x62",
    "msg": "0x5693"
   },
@@ -208,7 +208,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "俺は疲れてなどいない\\nこの通り気力に\\n満ち溢れている",
-   "en": "I'm not tired in\\nthe least. As you\\ncan see, I'm\\nbrimming with\\nvigor.",
+   "en": "I'm not tired\\nin the least. As\\nyou can see,\\nI'm brimming\\nwith vigor.",
    "op": "0x62",
    "msg": "0x5696"
   },
@@ -228,7 +228,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "お偉方との折衝に\\n苦労してるみたい\\nじゃないですか",
-   "en": "Looks to me like\\nyou've been\\nhaving a rough\\ntime dealing with\\nthe bigwigs.",
+   "en": "Looks to me like\\nyou've been\\nhaving a rough\\ntime dealing\\nwith the bigwigs.",
    "op": "0x62",
    "msg": "0x5698"
   },
@@ -238,7 +238,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "最近はお酒の量も\\n増えてるみたいだし\\n僕は心配だなあ",
-   "en": "And you've been\\ndrinking more\\nlately too. I'm\\nworried, you\\nknow.",
+   "en": "And you've\\nbeen drinking\\nmore lately too.\\nI'm worried,\\nyou know.",
    "op": "0x62",
    "msg": "0x5699"
   },
@@ -258,7 +258,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "僕の目は\\n誤魔化せませんよ",
-   "en": "You can't fool my\\neyes.",
+   "en": "You can't\\nfool my eyes.",
    "op": "0x62",
    "msg": "0x569b"
   },
@@ -288,7 +288,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "ああそうだ\\n最近確かに疲れている\\nだが仕方ないだろう",
-   "en": "Yes, fine. I have\\nbeen tired lately.\\nBut it can't be\\nhelped.",
+   "en": "Yes, fine. I\\nhave been tired\\nlately. But it\\ncan't be helped.",
    "op": "0x62",
    "msg": "0x569e"
   },
@@ -308,7 +308,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "血を吐くような思いで\\n責務に臨んで　まだ\\n足りないと思っている",
-   "en": "I face my duties\\nfeeling like I'm\\ncoughing up\\nblood, and it's still\\nnot enough.",
+   "en": "I face my duties\\nfeeling like I'm\\ncoughing up\\nblood, and it's\\nstill not enough.",
    "op": "0x62",
    "msg": "0x56a0"
   },
@@ -318,7 +318,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "それに酒だって\\n近藤さんの十分の一も\\n飲んでないだろう",
-   "en": "And as for\\ndrinking, I don't\\ndrink a tenth of\\nwhat Kondo-san\\ndid.",
+   "en": "And as for\\ndrinking, I\\ndon't drink a\\ntenth of what\\nKondo-san did.",
    "op": "0x62",
    "msg": "0x56a1"
   },
@@ -368,7 +368,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "そんなバカなこと\\nあるわけがないだろう",
-   "en": "Don't be\\nridiculous. That\\ncan't be.",
+   "en": "Don't be\\nridiculous.\\nThat can't be.",
    "op": "0x62",
    "msg": "0x56a6"
   },
@@ -378,7 +378,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "そうですか？\\n近藤さんなら\\nあり得ると思いますね",
-   "en": "You think? With\\nKondo-san, I'd say\\nit's possible.",
+   "en": "You think? With\\nKondo-san, I'd\\nsay it's possible.",
    "op": "0x62",
    "msg": "0x56a7"
   },
@@ -438,7 +438,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "なんちゃって\\n今のは全部ウソ！",
-   "en": "Just kidding! That\\nwas all a lie!",
+   "en": "Just kidding!\\nThat was all a lie!",
    "op": "0x62",
    "msg": "0x56ad"
   },
@@ -478,7 +478,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "土方さんが血を吐くとか\\n物騒なこと言ったから",
-   "en": "Because you said\\nsomething\\nalarming like\\ncoughing up\\nblood,\\nHijikata-san.",
+   "en": "Because you\\nsaid something\\nalarming like\\ncoughing up\\nblood,\\nHijikata-san.",
    "op": "0x62",
    "msg": "0x56b1"
   },
@@ -498,7 +498,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "土方が否定したものの\\n再び雲行きは\\n怪しくなってしまった",
-   "en": "Though Hijikata\\ndenied it, the sky\\nturned\\nthreatening once\\nagain.",
+   "en": "Though Hijikata\\ndenied it, the\\nsky turned\\nthreatening\\nonce again.",
    "op": "0x62",
    "msg": "0x56b3"
   },
@@ -638,7 +638,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "土方さんの　新選組を\\n大切に思う気持ちは\\n近藤さんにも負けません",
-   "en": "Hijikata-san cares\\nfor the\\nShinsengumi\\nevery bit as much\\nas you did,\\nKondo-san.",
+   "en": "Hijikata-san\\ncares for the\\nShinsengumi\\nevery bit as\\nmuch as you\\ndid, Kondo-san.",
    "op": "0x62",
    "msg": "0x56c1"
   },
@@ -648,7 +648,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "そ　そうだ\\n総司の言う通りです\\n近藤さん",
-   "en": "Y-yes. Soji's right,\\nKondo-san.",
+   "en": "Y-yes. Soji's\\nright, Kondo-san.",
    "op": "0x62",
    "msg": "0x56c2"
   },
@@ -678,7 +678,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "だからさ　近藤さん\\n墓参りになかなか来られない\\n土方さんを許してあげて",
-   "en": "So, Kondo-san,\\nplease forgive\\nHijikata-san for\\nhardly ever\\nmaking it to your\\ngrave.",
+   "en": "So, Kondo-san,\\nplease forgive\\nHijikata-san\\nfor hardly\\never making it\\nto your grave.",
    "op": "0x62",
    "msg": "0x56c5"
   },
@@ -688,7 +688,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "土方さんは近藤さんのこと\\n忘れたわけじゃないんです",
-   "en": "It's not that\\nHijikata-san has\\nforgotten you,\\nKondo-san.",
+   "en": "It's not that\\nHijikata-san\\nhas forgotten\\nyou, Kondo-san.",
    "op": "0x62",
    "msg": "0x56c6"
   },
@@ -728,7 +728,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "お前は俺を貶してるのか　\\nそれとも褒めてるのか？",
-   "en": "Are you insulting\\nme, or praising\\nme?",
+   "en": "Are you\\ninsulting me,\\nor praising me?",
    "op": "0x62",
    "msg": "0x56ca"
   },
@@ -738,7 +738,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "単に僕は　近藤さんに\\nありのままの事実を\\n知ってもらいたいだけです",
-   "en": "I simply want\\nKondo-san to\\nknow the plain\\ntruth.",
+   "en": "I simply want\\nKondo-san to\\nknow the\\nplain truth.",
    "op": "0x62",
    "msg": "0x56cb"
   },
@@ -758,7 +758,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "きっと近藤さんは\\n強がる土方さんを見て\\n不安に思ってるはずです",
-   "en": "I bet Kondo-san\\ngets anxious\\nwatching you act\\ntough,\\nHijikata-san.",
+   "en": "I bet Kondo-san\\ngets anxious\\nwatching you\\nact tough,\\nHijikata-san.",
    "op": "0x62",
    "msg": "0x56cd"
   },
@@ -798,7 +798,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "本当に近藤さんには\\n色々と世話をかけた",
-   "en": "We really did put\\nKondo-san\\nthrough a lot.",
+   "en": "We really did\\nput Kondo-san\\nthrough a lot.",
    "op": "0x62",
    "msg": "0x56d1"
   },
@@ -818,7 +818,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "愛獲には派手な雷舞をこなす\\n体力が必要だって言って",
-   "en": "He'd say idols\\nneed stamina to\\npull off flashy\\nlives...",
+   "en": "He'd say idols\\nneed stamina\\nto pull off\\nflashy lives...",
    "op": "0x62",
    "msg": "0x56d3"
   },
@@ -838,7 +838,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "僕の喉の調子が今一の時は\\n雷舞の曲数を減らすように\\n幕府の上役に交渉したり",
-   "en": "When my throat\\nwasn't in good\\nshape, he'd\\nnegotiate with\\nthe shogunate's\\nhigher-ups to cut\\ndown the songs at\\nthe live.",
+   "en": "When my throat\\nwasn't in good\\nshape, he'd\\nnegotiate with\\nthe shogunate's\\nhigher-ups to\\ncut down the\\nsongs at the live.",
    "op": "0x62",
    "msg": "0x56d5"
   },
@@ -888,7 +888,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "俺と総司の作った\\n歌詞の　どちらを使うか\\n揉めた時のことか",
-   "en": "When we fought\\nover whose lyrics\\nto use, mine or\\nyours?",
+   "en": "When we fought\\nover whose\\nlyrics to use,\\nmine or yours?",
    "op": "0x62",
    "msg": "0x56da"
   },
@@ -898,7 +898,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "お互い一歩も引かず\\n剣まで抜いて一触即発の\\n事態になっちゃって",
-   "en": "Neither of us\\nwould budge an\\ninch, and we even\\ndrew swords. It\\nalmost came to\\nblows.",
+   "en": "Neither of us\\nwould budge an\\ninch, and we\\neven drew\\nswords. It almost\\ncame to blows.",
    "op": "0x62",
    "msg": "0x56db"
   },
@@ -958,7 +958,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "まったく\\n近藤さんは凄いことを\\nやってのけますよね",
-   "en": "Honestly,\\nKondo-san sure\\npulls off amazing\\nthings.",
+   "en": "Honestly,\\nKondo-san sure\\npulls off\\namazing things.",
    "op": "0x62",
    "msg": "0x56e1"
   },
@@ -968,7 +968,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "土方さんの歌詞は\\nセンスのかけらも\\nなかったのに",
-   "en": "Your lyrics didn't\\nhave a shred of\\ntaste,\\nHijikata-san,",
+   "en": "Your lyrics\\ndidn't have a\\nshred of taste,\\nHijikata-san,",
    "op": "0x62",
    "msg": "0x56e2"
   },
@@ -978,7 +978,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "僕の歌詞を基礎（ベース）に\\n使えそうな部分を拾って\\n合わせるなんて",
-   "en": "and still he used\\nmine as the base,\\npicked out the\\nbits he could use,\\nand blended them\\ntogether.",
+   "en": "and still he used\\nmine as the\\nbase, picked out\\nthe bits he could\\nuse, and blended\\nthem together.",
    "op": "0x62",
    "msg": "0x56e3"
   },
@@ -988,7 +988,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "聞き捨てならんな",
-   "en": "I can't let that\\nslide.",
+   "en": "I can't let\\nthat slide.",
    "op": "0x62",
    "msg": "0x56e4"
   },
@@ -998,7 +998,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "基礎になったのは\\n俺の歌詞だったろう",
-   "en": "It was my lyrics\\nthat became the\\nbase.",
+   "en": "It was my lyrics\\nthat became\\nthe base.",
    "op": "0x62",
    "msg": "0x56e5"
   },
@@ -1008,7 +1008,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "はぁ？\\n違いますよ　僕です\\n僕の歌詞です",
-   "en": "Huh? No, it\\nwasn't. It was me.\\nMy lyrics.",
+   "en": "Huh? No, it\\nwasn't. It was\\nme. My lyrics.",
    "op": "0x62",
    "msg": "0x56e6"
   },
@@ -1038,7 +1038,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "そんな歌詞を\\n近藤さんが基礎に\\nするわけがないだろう",
-   "en": "Kondo-san would\\nnever use lyrics\\nlike that as the\\nbase.",
+   "en": "Kondo-san\\nwould never\\nuse lyrics like\\nthat as the base.",
    "op": "0x62",
    "msg": "0x56e9"
   },
@@ -1058,7 +1058,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "はぁ　これだから\\n鈍感の筋肉バカは\\nイヤになっちゃうな",
-   "en": "Sigh. This is why\\ninsensitive\\nmuscleheads are\\nsuch a drag.",
+   "en": "Sigh. This is\\nwhy insensitive\\nmuscleheads\\nare such a drag.",
    "op": "0x62",
    "msg": "0x56ee"
   },
@@ -1078,7 +1078,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "二人の間に　険悪な\\n空気が漂う中\\nいよいよ　雨足が\\n強くなり始める",
-   "en": "As a hostile air\\nhung between the\\ntwo, the rain\\nbegan to fall\\nharder.",
+   "en": "As a hostile air\\nhung between\\nthe two, the\\nrain began to\\nfall harder.",
    "op": "0x62",
    "msg": "0x56ed"
   },
@@ -1098,7 +1098,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "何が悪い\\n誰かのために一肌脱ぐ\\nそれが近藤さんの教えだ",
-   "en": "What's wrong\\nwith that? Giving\\nthe shirt off your\\nback for others--\\nthat's what\\nKondo-san taught\\nus.",
+   "en": "What's wrong\\nwith that?\\nGiving the shirt\\noff your back for\\nothers--that's\\nwhat Kondo-san\\ntaught us.",
    "op": "0x62",
    "msg": "0x56f0"
   },
@@ -1118,7 +1118,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "近藤さんを思い出せ\\nあの人は常日頃から\\n脱ぎまくっていた！",
-   "en": "Remember\\nKondo-san! That\\nman was\\nstripping off all\\nthe time!",
+   "en": "Remember\\nKondo-san!\\nThat man was\\nstripping off\\nall the time!",
    "op": "0x62",
    "msg": "0x56f2"
   },
@@ -1128,7 +1128,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "確かに\\nそうだけども！",
-   "en": "Okay, that's true,\\nbut still!",
+   "en": "Okay, that's\\ntrue, but still!",
    "op": "0x62",
    "msg": "0x56f3"
   },
@@ -1188,7 +1188,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "えっ　本当ですか？\\nそれは楽しみだなー",
-   "en": "Oh, really? I can't\\nwait~",
+   "en": "Oh, really?\\nI can't wait~",
    "op": "0x62",
    "msg": "0x56f9"
   },
@@ -1208,7 +1208,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "土方さんが　僕に\\n局長の肩書きを\\n譲ってくれるそうです",
-   "en": "Hijikata-san says\\nhe's going to\\nhand the title of\\nCommander over\\nto me.",
+   "en": "Hijikata-san\\nsays he's going\\nto hand the title\\nof Commander\\nover to me.",
    "op": "0x62",
    "msg": "0x56fb"
   },
@@ -1218,7 +1218,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "言ったな？\\n軽口では済まさんぞ\\n総司……",
-   "en": "You said it, didn't\\nyou? This won't\\nend as a joke,\\nSoji...",
+   "en": "You said it,\\ndidn't you?\\nThis won't end\\nas a joke, Soji...",
    "op": "0x62",
    "msg": "0x56fc"
   },
@@ -1258,7 +1258,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "二人は近藤の墓前で刀を交え\\n殺気のこもった視線で相手を\\n睨みつける……",
-   "en": "Crossing blades\\nbefore Kondo's\\ngrave, the two\\nglared at each\\nother with\\nmurder in their\\neyes...",
+   "en": "Crossing\\nblades before\\nKondo's grave,\\nthe two glared\\nat each other\\nwith murder\\nin their eyes...",
    "op": "0x62",
    "msg": "0x5700"
   },
@@ -1288,7 +1288,7 @@
    "max": 84,
    "kind": "dialogue",
    "jp": "落雷の衝撃で　岩は\\n真っ二つに割れ　それぞれ\\n土方と沖田の方へと\\n倒れ落ちてきた",
-   "en": "The impact split\\nthe boulder clean\\nin two, and the\\nhalves came\\ntoppling down\\ntoward Hijikata\\nand Okita.",
+   "en": "The impact split\\nthe boulder\\nclean in two, and\\nthe halves came\\ntoppling down\\ntoward Hijikata\\nand Okita.",
    "op": "0x62",
    "msg": "0x5703"
   },
@@ -1368,7 +1368,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "まずは\\n自分の身を守れ！",
-   "en": "Protect yourself\\nfirst!",
+   "en": "Protect\\nyourself first!",
    "op": "0x62",
    "msg": "0x570b"
   },
@@ -1408,7 +1408,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "……僕も同じですよ\\n頭で考える前に\\n勝手に体が動いたんです",
-   "en": "...Same here. My\\nbody moved on its\\nown before I\\ncould even think.",
+   "en": "...Same here. My\\nbody moved on\\nits own before I\\ncould even think.",
    "op": "0x62",
    "msg": "0x570f"
   },
@@ -1418,7 +1418,7 @@
    "max": 112,
    "kind": "dialogue",
    "jp": "巨大な岩が二人に\\n襲い掛かってきた時\\n土方は沖田の目前の岩に\\n沖田は土方の目前の岩に\\n咄嗟に斬りかかっていた",
-   "en": "As the rocks fell,\\nHijikata had\\nslashed at the one\\nbefore Okita, and\\nOkita at the one\\nbefore Hijikata,\\nwithout a\\nthought.",
+   "en": "As the rocks fell,\\nHijikata had\\nslashed at the\\none before\\nOkita, and Okita\\nat the one before\\nHijikata, without\\na thought.",
    "op": "0x62",
    "msg": "0x5710"
   },
@@ -1478,7 +1478,7 @@
    "max": 88,
    "kind": "dialogue",
    "jp": "二人は会話を交わしながら\\n改めて近藤の墓前を見つめる\\nその口元には\\n笑みが浮かんでいた",
-   "en": "Still talking, the\\ntwo looked once\\nmore at Kondo's\\ngrave. Smiles\\nplayed on their\\nlips.",
+   "en": "Still talking,\\nthe two looked\\nonce more at\\nKondo's grave.\\nSmiles played\\non their lips.",
    "op": "0x62",
    "msg": "0x5716"
   },
@@ -1488,7 +1488,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "近藤さん　すまなかった\\nこんなつまらない争いは\\nもうしない",
-   "en": "Kondo-san, I'm\\nsorry. No more\\npetty fights like\\nthis.",
+   "en": "Kondo-san, I'm\\nsorry. No more\\npetty fights\\nlike this.",
    "op": "0x62",
    "msg": "0x5717"
   },
@@ -1498,7 +1498,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "近藤さん　ごめんなさい\\n土方さんとは出来るだけ\\n仲良くやっていきます",
-   "en": "Sorry, Kondo-san.\\nI'll try to get\\nalong with\\nHijikata-san as\\nbest I can.",
+   "en": "Sorry,\\nKondo-san. I'll\\ntry to get along\\nwith Hijikata-san\\nas best I can.",
    "op": "0x62",
    "msg": "0x5718"
   },
@@ -1508,7 +1508,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "近藤の墓前に\\n誓いを立てると\\n土方と沖田は\\n刀を鞘に収めた",
-   "en": "Having made\\ntheir vow before\\nKondo's grave,\\nHijikata and Okita\\nsheathed their\\nswords.",
+   "en": "Having made\\ntheir vow before\\nKondo's grave,\\nHijikata and\\nOkita sheathed\\ntheir swords.",
    "op": "0x62",
    "msg": "0x5719"
   },
@@ -1518,7 +1518,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "すると先程までの雨がやみ\\n再び夕日が顔を出した",
-   "en": "Then the rain\\nstopped, and the\\nevening sun\\nshowed its face\\nagain.",
+   "en": "Then the rain\\nstopped, and\\nthe evening\\nsun showed\\nits face again.",
    "op": "0x62",
    "msg": "0x571a"
   },
@@ -1528,7 +1528,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "まるで自分たちの仲直りを\\n近藤が喜んでいるようだと\\n二人は思った――",
-   "en": "To the two of\\nthem, it seemed\\nas if Kondo were\\nrejoicing that\\nthey had made\\nup--",
+   "en": "To the two of\\nthem, it seemed\\nas if Kondo\\nwere rejoicing\\nthat they had\\nmade up--",
    "op": "0x62",
    "msg": "0x571b"
   },
@@ -1538,7 +1538,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "そろそろ\\n屯所に戻るか",
-   "en": "Shall we head\\nback to\\nheadquarters?",
+   "en": "Shall we\\nhead back to\\nheadquarters?",
    "op": "0x62",
    "msg": "0x571c"
   },
@@ -1578,7 +1578,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "岩に雷が落ちた時\\n腰が抜けそうなほど\\n驚いてましたね",
-   "en": "When the\\nlightning hit that\\nrock, you jumped\\nso hard you\\nnearly fell on\\nyour butt.",
+   "en": "When the\\nlightning hit\\nthat rock, you\\njumped so hard\\nyou nearly fell\\non your butt.",
    "op": "0x62",
    "msg": "0x5720"
   },
@@ -1608,7 +1608,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "この話　スカシくんや\\nトサカくんが聞いたら\\n喜びそうだなー",
-   "en": "Mr. Poser and\\nTosaka-kun would\\njust love to hear\\nthis story~",
+   "en": "Mr. Poser and\\nTosaka-kun\\nwould just love to\\nhear this story~",
    "op": "0x62",
    "msg": "0x5723"
   },
@@ -1618,7 +1618,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "おい　坂本はともかく\\n高杉に話すのはよせ\\nあとで面倒なことに――",
-   "en": "Hey, Sakamoto is\\none thing, but\\ndon't tell\\nTakasugi. It'll be a\\npain later on--",
+   "en": "Hey, Sakamoto\\nis one thing, but\\ndon't tell\\nTakasugi. It'll be\\na pain later on--",
    "op": "0x62",
    "msg": "0x5724"
   },
@@ -1628,7 +1628,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "さっそく\\n話さなくちゃ！",
-   "en": "Gotta go tell them\\nright away!",
+   "en": "Gotta go tell\\nthem right away!",
    "op": "0x62",
    "msg": "0x5725"
   },

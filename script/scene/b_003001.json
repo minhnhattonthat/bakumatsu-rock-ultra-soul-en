@@ -18,7 +18,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "うおおお　うまそうじゃ\\nええ香りがしてたまらん\\nこれは……細いうどん？",
-   "en": "Whoa, that looks\\ntasty! Smells so\\ngood I can't stand\\nit! Is this... skinny\\nudon?",
+   "en": "Whoa, that looks\\ntasty! Smells so\\ngood I can't\\nstand it! Is this...\\nskinny udon?",
    "op": "0x62",
    "msg": "0x2711"
   },
@@ -38,7 +38,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "おおおー　ぱすたー\\nようわからんが\\n美味そうじゃ",
-   "en": "Ooooh, pasta! No\\nidea what that is,\\nbut it looks\\ndelicious!",
+   "en": "Ooooh, pasta!\\nNo idea what\\nthat is, but it\\nlooks delicious!",
    "op": "0x62",
    "msg": "0x2713"
   },
@@ -48,7 +48,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "お味のほうもバッチリよ\\n温かいうちに食べてね",
-   "en": "It tastes just\\nperfect, too. Eat it\\nwhile it's warm.",
+   "en": "It tastes just\\nperfect, too. Eat\\nit while it's warm.",
    "op": "0x62",
    "msg": "0x2714"
   },
@@ -58,7 +58,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "おう　頂きます",
-   "en": "Yeah, thanks for\\nthe food.",
+   "en": "Yeah, thanks\\nfor the food.",
    "op": "0x62",
    "msg": "0x2715"
   },
@@ -88,7 +88,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "ぱすたには唐辛子が\\n良く似合う　美味い！",
-   "en": "Chili peppers go\\ngreat with pasta.\\nDelicious!",
+   "en": "Chili peppers\\ngo great with\\npasta. Delicious!",
    "op": "0x62",
    "msg": "0x2718"
   },
@@ -98,7 +98,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "茹で方も味付けも\\nすごく研究されていて\\n美味しいですよね",
-   "en": "The boiling and\\nthe seasoning\\nhave both been\\ncarefully worked\\nout. It's delicious,\\nisn't it?",
+   "en": "The boiling and\\nthe seasoning\\nhave both been\\ncarefully worked\\nout. It's\\ndelicious, isn't it?",
    "op": "0x62",
    "msg": "0x2719"
   },
@@ -108,7 +108,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "ふふふっ\\nそう言ってくれると\\n作りがいがあるわねえ",
-   "en": "Hehe. Hearing\\nthat makes\\ncooking worth it,\\ndear.",
+   "en": "Hehe. Hearing\\nthat makes\\ncooking worth\\nit, dear.",
    "op": "0x62",
    "msg": "0x271a"
   },
@@ -188,7 +188,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "はあ～\\n五郎ちゃんは食べ方が\\n優雅でステキよね",
-   "en": "Haah~ Goro-chan,\\nthe way you eat is\\nso elegant. It's\\nlovely.",
+   "en": "Haah~ Goro-chan,\\nthe way you eat\\nis so elegant. It's\\nlovely.",
    "op": "0x62",
    "msg": "0x2722"
   },
@@ -228,7 +228,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "シンディらしくないな\\n家柄うんぬんなんぞ\\nロックじゃないじゃろ",
-   "en": "That ain't like\\nyou, Shindy. All\\nthat talk about\\nfamily\\nbackground ain't\\nrock.",
+   "en": "That ain't like\\nyou, Shindy.\\nAll that talk\\nabout family\\nbackground\\nain't rock.",
    "op": "0x62",
    "msg": "0x2726"
   },
@@ -238,7 +238,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "うるせえよ　龍馬は\\nオレ様にはオレ様の\\nロック論があるんだよ",
-   "en": "Shut up, Ryoma.\\nYours truly has\\nhis own theory of\\nrock.",
+   "en": "Shut up, Ryoma.\\nYours truly has\\nhis own theory\\nof rock.",
    "op": "0x62",
    "msg": "0x2727"
   },
@@ -258,7 +258,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "しかしまあ　センセーが\\n良家のご子息ってのは\\n合点がいくなぁ",
-   "en": "Still, Sensei bein'\\nthe son of a good\\nfamily sure makes\\nsense.",
+   "en": "Still, Sensei bein'\\nthe son of a\\ngood family sure\\nmakes sense.",
    "op": "0x62",
    "msg": "0x2729"
   },
@@ -268,7 +268,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "躾が行き届いている点か？",
-   "en": "You mean how\\nwell brought up\\nhe is?",
+   "en": "You mean how\\nwell brought\\nup he is?",
    "op": "0x62",
    "msg": "0x272a"
   },
@@ -278,7 +278,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "お登勢やんの言う通り\\n飯を食うのが上品じゃ\\nけど料理は作れん",
-   "en": "Like Otose-yan\\nsays, he eats real\\nclassy. But he\\ncan't cook.",
+   "en": "Like Otose-yan\\nsays, he eats\\nreal classy. But\\nhe can't cook.",
    "op": "0x62",
    "msg": "0x272b"
   },
@@ -288,7 +288,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "魚を三枚に下ろすとか\\n私は苦手ですからね\\n晋作には敵わないよ",
-   "en": "Filleting a fish\\nand the like is not\\nmy strong suit.\\nI'm no match for\\nShinsaku.",
+   "en": "Filleting a fish\\nand the like is\\nnot my strong\\nsuit. I'm no match\\nfor Shinsaku.",
    "op": "0x62",
    "msg": "0x272c"
   },
@@ -298,7 +298,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "藩医のせがれに生まれて\\nばあやの上げ膳据え膳じゃ\\n無理もねえだろ",
-   "en": "Born the son of a\\ndomain doctor,\\nwith a nanny\\nwaiting on him\\nhand and foot. No\\nwonder.",
+   "en": "Born the son of\\na domain doctor,\\nwith a nanny\\nwaiting on him\\nhand and foot.\\nNo wonder.",
    "op": "0x62",
    "msg": "0x272d"
   },
@@ -308,7 +308,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "オレ様の家は飯の度に\\n戦みたいなものだったし\\n自炊も得意なわけだ",
-   "en": "At my house,\\nevery meal was\\nlike a war, so I\\ngot good at\\ncooking for\\nmyself.",
+   "en": "At my house,\\nevery meal\\nwas like a war,\\nso I got good\\nat cooking for\\nmyself.",
    "op": "0x62",
    "msg": "0x272e"
   },
@@ -348,7 +348,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "ガサツが着物着て\\n歩いているような\\nおまえがいうな！",
-   "en": "Don't say that,\\nyou walking pile\\nof rough edges in\\na kimono!",
+   "en": "Don't say that,\\nyou walking pile\\nof rough edges\\nin a kimono!",
    "op": "0x62",
    "msg": "0x2732"
   },
@@ -358,7 +358,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "あいたーっ！\\n叩かれたら鼻から\\nぱすたが出たぜよ！",
-   "en": "Owww! You\\nsmacked me and\\npasta came out\\nmy nose!",
+   "en": "Owww! You\\nsmacked me\\nand pasta came\\nout my nose!",
    "op": "0x62",
    "msg": "0x2733"
   },
@@ -368,7 +368,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "汚ぇなあ　まったく\\nちっとは桂さんを見習って\\n静かに食え",
-   "en": "That's gross,\\nseriously. Learn a\\nthing or two from\\nKatsura-san and\\neat quietly.",
+   "en": "That's gross,\\nseriously. Learn\\na thing or two\\nfrom Katsura-san\\nand eat quietly.",
    "op": "0x62",
    "msg": "0x2734"
   },
@@ -378,7 +378,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "晋作　騒がしいです\\n食事時は静かにしましょう",
-   "en": "Shinsaku, you're\\nbeing noisy. Let's\\nkeep quiet at\\nmealtimes.",
+   "en": "Shinsaku, you're\\nbeing noisy.\\nLet's keep quiet\\nat mealtimes.",
    "op": "0x62",
    "msg": "0x2735"
   },
@@ -398,7 +398,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "食べ物に感謝する心は\\nロックの心にも\\n通じると思うんですよ",
-   "en": "I believe a heart\\nthat's grateful for\\nfood connects to\\nthe heart of rock,\\ntoo.",
+   "en": "I believe a heart\\nthat's grateful\\nfor food connects\\nto the heart of\\nrock, too.",
    "op": "0x62",
    "msg": "0x2737"
   },
@@ -408,7 +408,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "おお　さすがセンセーじゃ\\n食べ物を粗末にするのは\\nロックとはいえん！",
-   "en": "Ooh, that's Sensei\\nfor ya! Wastin'\\nfood ain't rock, no\\nsir!",
+   "en": "Ooh, that's\\nSensei for ya!\\nWastin' food\\nain't rock, no sir!",
    "op": "0x62",
    "msg": "0x2738"
   },
@@ -458,7 +458,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "そんな歌では人の心に\\n語りかけるなんて\\n無理じゃないですか",
-   "en": "A song like that\\ncould never speak\\nto people's hearts,\\ncould it?",
+   "en": "A song like that\\ncould never\\nspeak to people's\\nhearts, could it?",
    "op": "0x62",
    "msg": "0x273d"
   },
@@ -468,7 +468,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "……正論過ぎて言葉がねえ",
-   "en": "...That's so right\\nI've got nothing\\nto say.",
+   "en": "...That's so\\nright I've got\\nnothing to say.",
    "op": "0x62",
    "msg": "0x273e"
   },
@@ -508,7 +508,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "バカの考え休むに似たり\\nっつーしな",
-   "en": "Like they say, a\\nfool thinking is as\\ngood as a fool\\nnapping.",
+   "en": "Like they say,\\na fool thinking\\nis as good as a\\nfool napping.",
    "op": "0x62",
    "msg": "0x2742"
   },
@@ -528,7 +528,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "ええ話が聞けた\\nぱすたも美味いし\\n最高の気分じゃ",
-   "en": "I got to hear a\\ngreat talk, and\\nthe pasta's tasty\\ntoo. I feel\\nfantastic!",
+   "en": "I got to hear a\\ngreat talk, and\\nthe pasta's\\ntasty too. I\\nfeel fantastic!",
    "op": "0x62",
    "msg": "0x2744"
   },
@@ -548,7 +548,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "まあな　桂さんは\\n子供の頃から　お人好しの\\nところがあるな",
-   "en": "Yeah.\\nKatsura-san's\\nbeen a soft touch\\never since he was\\na kid.",
+   "en": "Yeah.\\nKatsura-san's\\nbeen a soft\\ntouch ever since\\nhe was a kid.",
    "op": "0x62",
    "msg": "0x2746"
   },
@@ -558,7 +558,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "そうかな？　私は普通だと\\n思っていますけど",
-   "en": "Am I? I think I'm\\nperfectly\\nordinary.",
+   "en": "Am I? I think\\nI'm perfectly\\nordinary.",
    "op": "0x62",
    "msg": "0x2747"
   },
@@ -588,7 +588,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "あったね　そんなこと\\nあの時はごめんなさい\\n晋作に迷惑掛けてしまって",
-   "en": "That did happen.\\nI'm sorry about\\nthat time,\\nShinsaku. I\\ncaused you so\\nmuch trouble.",
+   "en": "That did\\nhappen. I'm\\nsorry about that\\ntime, Shinsaku.\\nI caused you so\\nmuch trouble.",
    "op": "0x62",
    "msg": "0x274a"
   },
@@ -618,7 +618,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "晋作と一緒に食べようと\\n思って買ったんですけどね\\nそれで騙されてしまって",
-   "en": "I bought them\\nthinking I'd share\\nthem with\\nShinsaku. And\\nthat's how I was\\ntricked.",
+   "en": "I bought them\\nthinking I'd\\nshare them\\nwith Shinsaku.\\nAnd that's how\\nI was tricked.",
    "op": "0x62",
    "msg": "0x274d"
   },
@@ -638,7 +638,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "珍しいカスティラって菓子\\nだというのがインチキでな",
-   "en": "He said they were\\na rare sweet\\ncalled castella,\\nbut it was a scam.",
+   "en": "He said they\\nwere a rare sweet\\ncalled castella,\\nbut it was a scam.",
    "op": "0x62",
    "msg": "0x274f"
   },
@@ -648,7 +648,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "木の端切れに色を塗った\\nだけだったんだ",
-   "en": "They were just\\nscraps of wood\\nwith paint on\\nthem.",
+   "en": "They were\\njust scraps of\\nwood with\\npaint on them.",
    "op": "0x62",
    "msg": "0x2750"
   },
@@ -668,7 +668,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "楽しみにしてたから\\nガッカリしちゃってね",
-   "en": "I'd been so\\nlooking forward\\nto them, so I was\\nvery\\ndisappointed.",
+   "en": "I'd been so\\nlooking forward\\nto them, so I\\nwas very\\ndisappointed.",
    "op": "0x62",
    "msg": "0x2752"
   },
@@ -678,7 +678,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "勉学は優秀でも　桂さんは\\nどこかボケッとしてるから\\n悪い野郎に騙されたんだ",
-   "en": "Katsura-san\\nmight be great at\\nhis studies, but\\nhe's kind of\\nspacey, so a crook\\ntook him for a\\nride.",
+   "en": "Katsura-san\\nmight be great\\nat his studies,\\nbut he's kind\\nof spacey, so a\\ncrook took him\\nfor a ride.",
    "op": "0x62",
    "msg": "0x2753"
   },
@@ -688,7 +688,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "珍しくて嬉しいなとしか\\n考えてなかったですからー",
-   "en": "All I could think\\nwas how happy I\\nwas to get\\nsomething so\\nrare.",
+   "en": "All I could\\nthink was how\\nhappy I was to\\nget something\\nso rare.",
    "op": "0x62",
    "msg": "0x2754"
   },
@@ -708,7 +708,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "騙された私が悪いし\\n勉強代だって言ったら\\n晋作が激昂してね",
-   "en": "I said it was my\\nown fault for\\nbeing tricked and\\nthat I'd paid for a\\nlesson, and\\nShinsaku flew\\ninto a rage.",
+   "en": "I said it was my\\nown fault for\\nbeing tricked\\nand that I'd paid\\nfor a lesson,\\nand Shinsaku\\nflew into a rage.",
    "op": "0x62",
    "msg": "0x2756"
   },
@@ -718,7 +718,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "当たり前だろうが\\n泣き寝入りするなんて\\nロックじゃねえからな",
-   "en": "Obviously! Taking\\nit lying down isn't\\nrock.",
+   "en": "Obviously!\\nTaking it lying\\ndown isn't rock.",
    "op": "0x62",
    "msg": "0x2757"
   },
@@ -728,7 +728,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "晋作はすごい剣幕で\\n薪を片手に行商人を\\n追っていったんですよ",
-   "en": "Shinsaku went\\nchasing after the\\npeddler, furious,\\nwith a stick of\\nfirewood in his\\nhand.",
+   "en": "Shinsaku went\\nchasing after\\nthe peddler,\\nfurious, with a\\nstick of firewood\\nin his hand.",
    "op": "0x62",
    "msg": "0x2758"
   },
@@ -748,7 +748,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "そんなんじゃねえよ\\n幼い子供を騙すなんざ\\n許されねえからな",
-   "en": "It's not like that.\\nCheating a little\\nkid is just\\nunforgivable.",
+   "en": "It's not like\\nthat. Cheating a\\nlittle kid is just\\nunforgivable.",
    "op": "0x62",
    "msg": "0x275a"
   },
@@ -758,7 +758,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "シンディは悪い行商人を\\n薪でボコボコにこらしめた\\nというオチじゃな！",
-   "en": "And the\\npunchline is,\\nShindy beat that\\ncrooked peddler\\nblack and blue\\nwith the\\nfirewood!",
+   "en": "And the\\npunchline is,\\nShindy beat\\nthat crooked\\npeddler black\\nand blue with\\nthe firewood!",
    "op": "0x62",
    "msg": "0x275b"
   },
@@ -778,7 +778,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "あれ？\\n成敗せんかったのか？",
-   "en": "Huh? Ya didn't\\ngive him what\\nfor?",
+   "en": "Huh? Ya\\ndidn't give\\nhim what for?",
    "op": "0x62",
    "msg": "0x275d"
   },
@@ -788,7 +788,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "返り討ちにされて\\nボコボコになって\\n帰って来たんですよね",
-   "en": "The peddler\\nfought back, and\\nhe came home\\nblack and blue\\nhimself, didn't\\nhe?",
+   "en": "The peddler\\nfought back,\\nand he came\\nhome black and\\nblue himself,\\ndidn't he?",
    "op": "0x62",
    "msg": "0x275e"
   },
@@ -798,7 +798,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "か　桂さんっ\\nばらしてんじゃねえよ！",
-   "en": "K-Katsura-san!\\nDon't go spilling\\nthat!",
+   "en": "K-Katsura-san!\\nDon't go\\nspilling that!",
    "op": "0x62",
    "msg": "0x275f"
   },
@@ -808,7 +808,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "たんこぶと傷だらけで\\nそれでも手にはしっかり\\n代金を握りしめててね",
-   "en": "He was covered in\\nlumps and\\nscrapes, but he\\nstill had the\\nmoney clutched\\ntight in his hand.",
+   "en": "He was covered\\nin lumps and\\nscrapes, but he\\nstill had the\\nmoney clutched\\ntight in his hand.",
    "op": "0x62",
    "msg": "0x2760"
   },
@@ -818,7 +818,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "気を付けろよ\\n世の中には悪い大人が\\nたくさんいるからなって",
-   "en": "\"Be careful. There\\nare lots of bad\\ngrown-ups in this\\nworld,\" he told\\nme.",
+   "en": "\"Be careful.\\nThere are lots of\\nbad grown-ups\\nin this world,\"\\nhe told me.",
    "op": "0x62",
    "msg": "0x2761"
   },
@@ -828,7 +828,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "それは思い出さなくても\\nいい話だぜ　桂さんよ",
-   "en": "That's a story you\\ndon't need to\\nremember,\\nKatsura-san.",
+   "en": "That's a story\\nyou don't need\\nto remember,\\nKatsura-san.",
    "op": "0x62",
    "msg": "0x2762"
   },
@@ -848,7 +848,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "まさに男の中の男！\\nシンディは真の男じゃ\\nわしは感激したっ！",
-   "en": "A man among\\nmen! Shindy,\\nyou're the real\\ndeal! I'm\\ndownright moved,\\nI tell ya!",
+   "en": "A man among\\nmen! Shindy,\\nyou're the real\\ndeal! I'm\\ndownright\\nmoved, I tell ya!",
    "op": "0x62",
    "msg": "0x2764"
   },
@@ -858,7 +858,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "晋作は子供の頃から\\nとても正義感が強い男でね\\n私はよく助けられたのです",
-   "en": "Shinsaku has had\\na strong sense of\\njustice ever since\\nhe was a child. He\\ncame to my\\nrescue many\\ntimes.",
+   "en": "Shinsaku has had\\na strong sense of\\njustice ever since\\nhe was a child.\\nHe came to my\\nrescue many\\ntimes.",
    "op": "0x62",
    "msg": "0x2765"
   },
@@ -868,7 +868,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "うんうん　ええ男じゃな\\nシンディ！",
-   "en": "Yep, yep, what a\\nfine fella you are,\\nShindy!",
+   "en": "Yep, yep, what\\na fine fella you\\nare, Shindy!",
    "op": "0x62",
    "msg": "0x2766"
   },
@@ -878,7 +878,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "やめろ　龍馬\\n肩を叩くな\\n飯がまずくなる",
-   "en": "Knock it off,\\nRyoma. Quit\\nslapping my\\nshoulder. You're\\nruining my\\nappetite.",
+   "en": "Knock it off,\\nRyoma. Quit\\nslapping my\\nshoulder.\\nYou're ruining\\nmy appetite.",
    "op": "0x62",
    "msg": "0x2767"
   },
@@ -898,7 +898,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "オレ様が桂さんを\\n助けたのは　別の意味も\\nあったけどな",
-   "en": "Mind you, yours\\ntruly had another\\nreason for\\nhelping you out,\\nKatsura-san.",
+   "en": "Mind you, yours\\ntruly had\\nanother reason\\nfor helping you\\nout, Katsura-san.",
    "op": "0x62",
    "msg": "0x2769"
   },
@@ -928,7 +928,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "もっといろいろな\\n話を聞きたいぜよ",
-   "en": "I wanna hear all\\nsorts of stories, I\\ntell ya!",
+   "en": "I wanna hear\\nall sorts of\\nstories, I tell ya!",
    "op": "0x62",
    "msg": "0x276c"
   },
@@ -948,7 +948,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "ほうほう　そりゃすぐには\\n信じられん話じゃ",
-   "en": "Well, well, now\\nthat's a tough one\\nto swallow right\\noff the bat.",
+   "en": "Well, well, now\\nthat's a tough\\none to swallow\\nright off the bat.",
    "op": "0x62",
    "msg": "0x276e"
   },
@@ -968,7 +968,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "あはは……なぜ\\n浮かぶのか不思議だった\\nんですよ",
-   "en": "Ahaha... I\\nwondered why\\nthey floated, you\\nsee.",
+   "en": "Ahaha... I\\nwondered why\\nthey floated,\\nyou see.",
    "op": "0x62",
    "msg": "0x2770"
   },
@@ -988,7 +988,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "次から次へと　\\n何かしでかすんだ",
-   "en": "He was always\\ngetting up to one\\nthing after\\nanother.",
+   "en": "He was always\\ngetting up to\\none thing\\nafter another.",
    "op": "0x62",
    "msg": "0x2772"
   },
@@ -1018,7 +1018,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "そうですね\\n小舟をひっくり返した時に\\n殴られて骨身に染みました",
-   "en": "Indeed. When I\\nflipped that boat\\nover, I took a\\nbeating that\\ntaught me a\\nlesson down to\\nthe bone.",
+   "en": "Indeed. When\\nI flipped that\\nboat over, I\\ntook a beating\\nthat taught me\\na lesson down\\nto the bone.",
    "op": "0x62",
    "msg": "0x2775"
   },
@@ -1028,7 +1028,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "おおっ\\n怪我でもしたか？",
-   "en": "Whoa! Did ya get\\nhurt?",
+   "en": "Whoa! Did\\nya get hurt?",
    "op": "0x62",
    "msg": "0x2776"
   },
@@ -1038,7 +1038,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "おでこが切れてしまってね\\n父に怪我の理由を聞かれて\\n答えられなくてね……",
-   "en": "I cut my\\nforehead. When\\nmy father asked\\nhow I'd been hurt,\\nI couldn't answer\\nhim...",
+   "en": "I cut my\\nforehead. When\\nmy father asked\\nhow I'd been\\nhurt, I couldn't\\nanswer him...",
    "op": "0x62",
    "msg": "0x2777"
   },
@@ -1048,7 +1048,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "そしたら晋作が家に来て\\nケンカして怪我させました\\nごめんなさいって",
-   "en": "Then Shinsaku\\ncame to our house\\nand said, \"We got\\nin a fight and I\\nhurt him. I'm\\nsorry.\"",
+   "en": "Then Shinsaku\\ncame to our\\nhouse and said,\\n\"We got in a\\nfight and I hurt\\nhim. I'm sorry.\"",
    "op": "0x62",
    "msg": "0x2778"
   },
@@ -1058,7 +1058,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "ええっ \\nそんなことあったか？",
-   "en": "Huh? Did that\\nhappen?",
+   "en": "Huh? Did\\nthat happen?",
    "op": "0x62",
    "msg": "0x2779"
   },
@@ -1088,7 +1088,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "それがあって私は\\n悪さをしなくなったのに",
-   "en": "That was what\\nmade me give up\\nmischief, and you\\ndon't even\\nremember...",
+   "en": "That was what\\nmade me give\\nup mischief, and\\nyou don't even\\nremember...",
    "op": "0x62",
    "msg": "0x277c"
   },
@@ -1098,7 +1098,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "はあ……\\n余計な話で蒸し返すんじゃ\\nなかったな",
-   "en": "Sigh... I shouldn't\\nhave gone\\ndredging up old\\nstories.",
+   "en": "Sigh... I\\nshouldn't have\\ngone dredging\\nup old stories.",
    "op": "0x62",
    "msg": "0x277d"
   },
@@ -1108,7 +1108,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "シンディは　わしには\\nちょっぴり冷たいけど\\n本当に　ええ男じゃあ！",
-   "en": "Shindy's a tad\\ncold to me, but he\\nreally is one fine\\nfella!",
+   "en": "Shindy's a tad\\ncold to me, but\\nhe really is\\none fine fella!",
    "op": "0x62",
    "msg": "0x277e"
   },
@@ -1148,7 +1148,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "晋作は昔から\\n人の面倒を見るのが\\n好きでしたから",
-   "en": "Shinsaku has\\nalways liked\\nlooking after\\npeople.",
+   "en": "Shinsaku\\nhas always\\nliked looking\\nafter people.",
    "op": "0x62",
    "msg": "0x2782"
   },
@@ -1168,7 +1168,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "自ら面倒事に立ち向かう\\n男の中の男！\\nこれこそロックじゃ！",
-   "en": "A man among\\nmen who takes on\\ntrouble all by\\nhimself! Now\\nTHAT'S rock!",
+   "en": "A man among\\nmen who takes\\non trouble all\\nby himself! Now\\nTHAT'S rock!",
    "op": "0x62",
    "msg": "0x2784"
   },
@@ -1198,7 +1198,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "龍馬くんがぱすた全部\\n食べちゃったみたいです",
-   "en": "It looks like\\nRyoma-kun ate all\\nthe pasta.",
+   "en": "It looks like\\nRyoma-kun ate\\nall the pasta.",
    "op": "0x62",
    "msg": "0x2787"
   },
@@ -1218,7 +1218,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "うはははは\\nやっと腹八分になった",
-   "en": "Wahahaha! My\\nbelly's finally\\neighty percent\\nfull!",
+   "en": "Wahahaha!\\nMy belly's\\nfinally eighty\\npercent full!",
    "op": "0x62",
    "msg": "0x2789"
   },
@@ -1268,7 +1268,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "あのなあ\\n食うだけ食っといて\\n偉そうに言うなっ！",
-   "en": "Listen, you! Don't\\nact all high and\\nmighty after\\nstuffing your\\nface!",
+   "en": "Listen, you!\\nDon't act all\\nhigh and mighty\\nafter stuffing\\nyour face!",
    "op": "0x62",
    "msg": "0x278e"
   },
@@ -1278,7 +1278,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "だーかーら！\\n食事は静かにしましょう\\n晋作　龍馬くん",
-   "en": "Like I SAID! Let's\\neat quietly,\\nShinsaku,\\nRyoma-kun.",
+   "en": "Like I SAID!\\nLet's eat quietly,\\nShinsaku,\\nRyoma-kun.",
    "op": "0x62",
    "msg": "0x278f"
   },

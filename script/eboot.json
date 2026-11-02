@@ -73,6 +73,96 @@
    "jp": "進行データぜよ",
    "en": "Your progress, y'know!",
    "encoding": "utf-8"
+  },
+  {
+   "id": "eboot:0x29adac",
+   "off": 2731436,
+   "max": 32,
+   "kind": "profile-label",
+   "jp": "出身地",
+   "en": "Hometown",
+   "encoding": "cp932"
+  },
+  {
+   "id": "eboot:0x29adcc",
+   "off": 2731468,
+   "max": 32,
+   "kind": "profile-label",
+   "jp": "誕生日",
+   "en": "Birthday",
+   "encoding": "cp932"
+  },
+  {
+   "id": "eboot:0x29adec",
+   "off": 2731500,
+   "max": 32,
+   "kind": "profile-label",
+   "jp": "身長",
+   "en": "Height",
+   "encoding": "cp932"
+  },
+  {
+   "id": "eboot:0x29ae0c",
+   "off": 2731532,
+   "max": 32,
+   "kind": "profile-label",
+   "jp": "体重",
+   "en": "Weight",
+   "encoding": "cp932"
+  },
+  {
+   "id": "eboot:0x29ae2c",
+   "off": 2731564,
+   "max": 32,
+   "kind": "profile-label",
+   "jp": "血液型",
+   "en": "Blood Type",
+   "encoding": "cp932"
+  },
+  {
+   "id": "eboot:0x29ae4c",
+   "off": 2731596,
+   "max": 32,
+   "kind": "profile-label",
+   "jp": "星座",
+   "en": "Sign",
+   "encoding": "cp932"
+  },
+  {
+   "id": "eboot:0x29ae6c",
+   "off": 2731628,
+   "max": 32,
+   "kind": "profile-label",
+   "jp": "趣味",
+   "en": "Hobbies",
+   "encoding": "cp932"
+  },
+  {
+   "id": "eboot:0x29ae8c",
+   "off": 2731660,
+   "max": 32,
+   "kind": "profile-label",
+   "jp": "好きな食べ物",
+   "en": "Favorite Food",
+   "encoding": "cp932"
+  },
+  {
+   "id": "eboot:0x29aeac",
+   "off": 2731692,
+   "max": 32,
+   "kind": "profile-label",
+   "jp": "嫌いな食べ物",
+   "en": "Disliked Food",
+   "encoding": "cp932"
+  },
+  {
+   "id": "eboot:0x2c09d4",
+   "off": 2886100,
+   "max": 16,
+   "kind": "save-detail",
+   "jp": "プレイ時間",
+   "en": "Play time",
+   "encoding": "cp932"
   }
  ]
 }

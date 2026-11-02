@@ -66,6 +66,37 @@ ADV_CODE = [
     (0x08814430, 0xe48c0024, 0xe48c0028),  #   first -> pivot y
     (0x08814438, 0xe48c0028, 0xe48c0024),  #   second -> pivot x
 ]
+# Strings the code builds from byte-store immediates (text.md section 4; tools/debug/sbscan.py finds them).
+# 0x08888c64, chapter end: strstr(chapter title, "話"), copy up to it, append " 終了". An English title has no 話,
+# strstr gives NULL and the copy length wraps (crash). Search ":" ("Chapter 1:") and append " Done". Applied with
+# English chapter titles (ui_chapter), and those must keep the ':' (tests/test_lint.py).
+CHAPTER_CODE = [
+    (0x08888ca0, 0x2404ff98, 0x2404003a),  # search byte 1: ':' (was 0x98)
+    (0x08888ca4, 0x34050062, 0x34050000),  # search byte 2: NUL (was 0x62)
+    (0x08888cc4, 0x2405ff8f, 0x24050044),  # suffix " Done": 'D'
+    (0x08888ccc, 0x34040049, 0x3404006f),  #   'o'
+    (0x08888cd4, 0x2405ff97, 0x2405006e),  #   'n'
+    (0x08888cdc, 0x2404ffb9, 0x24040065),  #   'e'
+]
+# Patched whenever the EBOOT ships.
+TEXT_CODE = [
+    # 0x088159fc, choice record "選択肢\n<options>": -> "Choose" (byte 2 must equal byte 0 or 3: "Choose" 3 == 2)
+    (0x088159fc, 0x2404ff91, 0x24040043),  # a0 'C' (bytes 0)
+    (0x08815a00, 0x34050049, 0x34050068),  # a1 'h' (byte 1)
+    (0x08815a0c, 0x2405fff0, 0x2405006f),  # a1 'o' (byte 3)
+    (0x08815a10, 0xa3a40002, 0xa3a50002),  #   sb a1, 2(sp): byte 2 'o' (was a0)
+    (0x08815a14, 0x2404ff8e, 0x24040073),  # a0 's' (byte 4)
+    (0x08815a1c, 0x2405ff88, 0x24050065),  # a1 'e' (byte 5)
+    # 0x088cb318, save detail "%s%3d%s%2d%s%2d%s": 時間 / 分 / 秒 -> h / m / s ("Play time  1h 5m 7s")
+    (0x088cb44c, 0x2404ff8e, 0x24040068),  # 'h'
+    (0x088cb450, 0x2405ff9e, 0x24050000),  #   NUL
+    (0x088cb480, 0x2404ff95, 0x2404006d),  # 'm'
+    (0x088cb484, 0x2405ffaa, 0x24050000),  #   NUL
+    (0x088cb4a4, 0x34050062, 0x34050073),  # 's' in a1
+    (0x088cb4a8, 0xa3a40040, 0xa3a50040),  #   sb a1, 0x40(sp) (was a0, shared with 'm')
+    (0x088cb4ac, 0xa3a50041, 0xa3a00041),  #   sb zero, 0x41(sp)
+]
+CHAPTER_END_IDS = list(range(2, 12)) + [34, 35, 36]   # 0x088d7538: ids that reach the strstr (33 has no 話 in JP)
 ELF_BASE = 0x08804000 - 0xc0
 
 
@@ -111,16 +142,18 @@ def _word_index(tokens):
     return idx
 
 
-def patch_script(name, data, texts, kind='scene', shared=None):
+def patch_script(name, data, texts, kind='scene', shared=None, names=None):
     """Rebuild one MZ file with new text for the slots in TEXTS ({} or same text -> the original bytes).
-    SHARED: {name-table index: text} for the op-0x19 speaker table (its slots follow the table order)."""
+    SHARED: {name-table index: text} for the op-0x19 speaker table (its slots follow the table order);
+    NAMES: this file's own table entries (`<stem>:name:NNN`), which win over SHARED."""
     sc = mzscript.parse(data, kind)
     texts = dict(texts)
     for i, ins in enumerate(sc.instrs):
-        if ins.table and shared:
-            for k, slot in enumerate(ins.table):
-                if k in shared:
-                    texts.setdefault(slot.off, shared[k])
+        for k, slot in enumerate(ins.table or ()):
+            if names and k in names:
+                texts[slot.off] = names[k]
+            elif shared and k in shared:
+                texts.setdefault(slot.off, shared[k])
     if not any(texts.get(s.off, s.text) != s.text for s in sc.slots):
         return None
     if kind == 'scene':   # English present: horizontal ADV boxes (see LAYOUT_OP)
@@ -243,9 +276,8 @@ def plan(directory=SCRIPT, log=None, eboot=False):
         src = os.path.join(CPK, *d, stem + '.bin')
         with open(src, 'rb') as f:
             data = f.read()
-        own = dict(texts[rel])
-        own.update({i: t for i, t in names.items() if isinstance(i, tuple) and i[0] == stem})
-        out = patch_script(rel, data, own, kind, shared if kind == 'scene' else None)
+        own_names = {i[1]: t for i, t in names.items() if isinstance(i, tuple) and i[0] == stem}
+        out = patch_script(rel, data, texts[rel], kind, shared if kind == 'scene' else None, own_names)
         if out is not None:
             ed['INST'][key] = out
             if log: log(f'{rel}: {len(own)} strings, {len(data)} -> {len(out)} bytes')
@@ -274,8 +306,9 @@ def plan(directory=SCRIPT, log=None, eboot=False):
         ed['NOINST']['font/font17.fnt'] = vwf.font17()
     # horizontal ADV needs the code patch, so the EBOOT ships as a plain ELF and its save titles come along (D12)
     horizontal = any(k.startswith('scene/script/') for k in ed['INST'])
-    if horizontal or (eboot and 'eboot.json' in texts):
-        ed['iso']['/PSP_GAME/SYSDIR/EBOOT.BIN'] = _eboot_patch(texts.get('eboot.json', {}), horizontal)
+    chapters = 'ui/ui_chapter.json' in texts   # English chapter titles need TEXT_CODE's strstr fix
+    if horizontal or chapters or (eboot and 'eboot.json' in texts):
+        ed['iso']['/PSP_GAME/SYSDIR/EBOOT.BIN'] = _eboot_patch(texts.get('eboot.json', {}), horizontal, chapters)
     if 'param_sfo.json' in texts:
         with open(SFO, 'rb') as f:
             ed['iso']['/PSP_GAME/PARAM.SFO'] = uitable.write_sfo(f.read(), list(texts['param_sfo.json'].values())[0])
@@ -291,13 +324,13 @@ def _ui_path(stem):
     raise ValueError(f'no systemdata file for ui/{stem}.json')
 
 
-def _eboot_patch(texts, code=False):
+def _eboot_patch(texts, code=False, chapters=False):
     """The EBOOT is a plain ELF patched in place: string slots, plus ADV_CODE words (same size, no code moves, so the
     debug addresses in docs/re/debug.md stay valid)."""
     with open(EBOOT, 'rb') as f:
         eboot = f.read()
     got = bytearray(uitable.write_eboot(eboot, texts) if texts else eboot)
-    for va, old, new in ADV_CODE if code else ():
+    for va, old, new in (ADV_CODE if code else []) + (CHAPTER_CODE if chapters else []) + TEXT_CODE:
         o = va - ELF_BASE
         assert int.from_bytes(got[o:o + 4], 'little') == old, f'EBOOT word at {va:#x} is not the expected original'
         got[o:o + 4] = new.to_bytes(4, 'little')

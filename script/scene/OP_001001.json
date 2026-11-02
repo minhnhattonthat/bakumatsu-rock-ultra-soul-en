@@ -8,7 +8,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "貴様達に真の平等を\\n与えるのが　我の使命",
-   "en": "It is my mission to\\ngrant you true\\nequality.",
+   "en": "It is my mission\\nto grant you\\ntrue equality.",
    "op": "0x62",
    "msg": "0x2274"
   },
@@ -28,7 +28,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "井伊\\nそれは違う！",
-   "en": "Ii, you got it all\\nwrong!",
+   "en": "Ii, you got\\nit all wrong!",
    "op": "0x62",
    "msg": "0x2276"
   },
@@ -38,7 +38,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "好き勝手にワガママを\\n言うのと自由にするのは\\n違う！",
-   "en": "Throwin' selfish\\ntantrums and\\nbein' free ain't the\\nsame thing!",
+   "en": "Throwin' selfish\\ntantrums and\\nbein' free ain't\\nthe same thing!",
    "op": "0x62",
    "msg": "0x2277"
   },
@@ -58,7 +58,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "みんなで前に進むのが\\n真の泰平だろう！",
-   "en": "...and movin'\\nforward\\ntogether--that's\\ntrue peace, ain't\\nit!?",
+   "en": "...and movin'\\nforward\\ntogether--\\nthat's true\\npeace, ain't it!?",
    "op": "0x62",
    "msg": "0x2279"
   },
@@ -68,7 +68,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "そんな綺麗事を認める\\nわけにはいかんのだよ",
-   "en": "I'm afraid I\\ncannot accept\\nsuch pretty\\nideals.",
+   "en": "I'm afraid I\\ncannot\\naccept such\\npretty ideals.",
    "op": "0x62",
    "msg": "0x227a"
   },
@@ -118,7 +118,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "我の天歌で\\n真の泰平の意味を\\n理解させてやろう！",
-   "en": "With my Heaven's\\nSong, I shall make\\nyou understand\\nwhat true peace\\nmeans!",
+   "en": "With my Heaven's\\nSong, I shall\\nmake you\\nunderstand what\\ntrue peace means!",
    "op": "0x62",
    "msg": "0x227f"
   },
@@ -128,7 +128,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "ヒジゾーさん\\nソウちん\\n援護を頼むぜよ",
-   "en": "Hijizo-san!\\nSo-chin! Back me\\nup, I'm countin'\\non ya!",
+   "en": "Hijizo-san!\\nSo-chin! Back\\nme up, I'm\\ncountin' on ya!",
    "op": "0x62",
    "msg": "0x2280"
   },
@@ -138,7 +138,7 @@
    "max": 16,
    "kind": "dialogue",
    "jp": "任せろ\\n坂本",
-   "en": "Leave it to me,\\nSakamoto.",
+   "en": "Leave it to\\nme, Sakamoto.",
    "op": "0x62",
    "msg": "0x2281"
   },
@@ -158,7 +158,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "シンディ！\\nセンセーも！\\n頼んだぜよ！",
-   "en": "Shindy! You too,\\nSensei! I'm\\ncountin' on ya!",
+   "en": "Shindy! You\\ntoo, Sensei! I'm\\ncountin' on ya!",
    "op": "0x62",
    "msg": "0x2283"
   },
@@ -178,7 +178,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "準備万端だよ！\\nさあ　はじめよう",
-   "en": "Everything is\\nready! Now, let us\\nbegin.",
+   "en": "Everything is\\nready! Now,\\nlet us begin.",
    "op": "0x62",
    "msg": "0x2285"
   },
@@ -198,7 +198,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "その光は\\n踊るように近づいて\\nひとつの大きな\\n光に変わる",
-   "en": "The lights drew\\ncloser as if\\ndancing, and\\nturned into one\\ngreat light.",
+   "en": "The lights\\ndrew closer as\\nif dancing, and\\nturned into\\none great light.",
    "op": "0x62",
    "msg": "0x2287"
   },
@@ -208,7 +208,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "……これはっ！\\n超魂の輝き",
-   "en": "...This is...! The\\nradiance of the\\nUltra Soul!",
+   "en": "...This is...! The\\nradiance of\\nthe Ultra Soul!",
    "op": "0x62",
    "msg": "0x2288"
   },
@@ -228,7 +228,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "キタキタキタぁぁぁ！\\nこのリズムぜよ！\\nこの音色ぜよぉぉぉおお！",
-   "en": "Here it comes,\\nhere it comes,\\nhere it COMES!\\nThis rhythm! This\\nsoooound!",
+   "en": "Here it comes,\\nhere it comes,\\nhere it COMES!\\nThis rhythm!\\nThis soooound!",
    "op": "0x62",
    "msg": "0x2289"
   },
@@ -288,7 +288,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "\\fnt1烈（レッツ）\\nロックンロォォル\\fnt0",
-   "en": "\\fnt1Let's rock 'n'\\nrooooll!\\fnt0",
+   "en": "\\fnt1Let's rock\\n'n' rooooll!\\fnt0",
    "op": "0x62",
    "msg": "0x228f"
   }

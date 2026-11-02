@@ -18,7 +18,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "ふう\\nやっぱりロックは\\nサイコーだぜ！",
-   "en": "Phew. Rock really\\nis the best!",
+   "en": "Phew. Rock\\nreally is the best!",
    "op": "0x62",
    "msg": "0x52e8"
   },
@@ -28,7 +28,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "疲れ切っていたと\\n思ってたけど\\nやればできるもんだな",
-   "en": "I thought I was\\ntotally wiped out,\\nbut I guess you\\ncan do it if you\\ntry.",
+   "en": "I thought I was\\ntotally wiped\\nout, but I\\nguess you can\\ndo it if you try.",
    "op": "0x62",
    "msg": "0x52e9"
   },
@@ -38,7 +38,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "全力で演奏するのは\\n気持ちがいいものですね\\nそれに何か……",
-   "en": "Playing with\\neverything you\\nhave feels\\nwonderful. And\\nsomehow...",
+   "en": "Playing with\\neverything you\\nhave feels\\nwonderful.\\nAnd somehow...",
    "op": "0x62",
    "msg": "0x52ea"
   },
@@ -48,7 +48,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "ああ\\nまだ完璧じゃねえが\\n何か掴めた気がするぜ",
-   "en": "Yeah. It's not\\nperfect yet, but I\\nfeel like I've got\\nhold of\\nsomething.",
+   "en": "Yeah. It's not\\nperfect yet,\\nbut I feel like\\nI've got hold\\nof something.",
    "op": "0x62",
    "msg": "0x52eb"
   },
@@ -68,7 +68,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "糸口が見えたか\\nそれが特訓の成果だ",
-   "en": "You've found a\\nthread to follow?\\nThat is the fruit\\nof special\\ntraining.",
+   "en": "You've found a\\nthread to\\nfollow? That is\\nthe fruit of\\nspecial training.",
    "op": "0x62",
    "msg": "0x52ed"
   },
@@ -78,7 +78,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "バカにして悪かったな\\nあんたのおかげで\\n進む方向が見えた",
-   "en": "Sorry I made fun\\nof you. Thanks to\\nyou, I can see\\nwhere we're\\nheaded.",
+   "en": "Sorry I made\\nfun of you.\\nThanks to you,\\nI can see where\\nwe're headed.",
    "op": "0x62",
    "msg": "0x52ee"
   },
@@ -88,7 +88,7 @@
    "max": 84,
    "kind": "dialogue",
    "jp": "少しずつでも前進していれば\\nいつかはジュニアの実力に\\n追いつけるかも知れない……",
-   "en": "If we keep\\nmoving forward,\\neven a little at a\\ntime, maybe\\nsomeday we can\\ncatch up to\\nJunior...",
+   "en": "If we keep\\nmoving\\nforward, even a\\nlittle at a time,\\nmaybe someday\\nwe can catch up\\nto Junior...",
    "op": "0x62",
    "msg": "0x52ef"
   },
@@ -98,7 +98,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "よし\\nでは走り込みに戻ろうか",
-   "en": "Good. Then let us\\nget back to\\nrunning.",
+   "en": "Good. Then\\nlet us get back\\nto running.",
    "op": "0x62",
    "msg": "0x52f0"
   },
@@ -128,7 +128,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "あ　ああ\\n知ってるけどよ",
-   "en": "Y-yeah, I know,\\nbut...",
+   "en": "Y-yeah, I\\nknow, but...",
    "op": "0x62",
    "msg": "0x52f3"
   },
@@ -138,7 +138,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "期限までにジュニアの\\n実力に追いつくのだ！",
-   "en": "You will catch up\\nto Junior's skill\\nbefore the\\ndeadline!",
+   "en": "You will catch\\nup to Junior's\\nskill before\\nthe deadline!",
    "op": "0x62",
    "msg": "0x52f4"
   },
@@ -178,7 +178,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "走る！\\n走るから　その刀を\\nしまうぜよ",
-   "en": "We're runnin'!\\nWe're runnin', so\\nput that sword\\naway!",
+   "en": "We're runnin'!\\nWe're runnin',\\nso put that\\nsword away!",
    "op": "0x62",
    "msg": "0x52f8"
   },
@@ -198,7 +198,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "どうしてこうなった",
-   "en": "How did it come\\nto this...",
+   "en": "How did it\\ncome to this...",
    "op": "0x62",
    "msg": "0x52fa"
   },
@@ -208,7 +208,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "私の方が聞きたいですよ\\nとほほ……",
-   "en": "I'd like to know\\nthat myself...\\nSigh...",
+   "en": "I'd like to\\nknow that\\nmyself... Sigh...",
    "op": "0x62",
    "msg": "0x52fb"
   },

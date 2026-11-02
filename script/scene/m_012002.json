@@ -8,7 +8,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "そして龍馬達が\\n特訓を重ねている頃……",
-   "en": "And while Ryoma\\nand the others\\nkept up their\\ntraining...",
+   "en": "And while\\nRyoma and the\\nothers kept up\\ntheir training...",
    "op": "0x62",
    "msg": "0x514b"
   },
@@ -18,7 +18,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "どうも～\\n世話役を仰せつかった\\n沖田で～す",
-   "en": "Hiii~ I've been\\nappointed as your\\nattendant. I'm\\nOkitaaa~",
+   "en": "Hiii~ I've been\\nappointed as\\nyour attendant.\\nI'm Okitaaa~",
    "op": "0x62",
    "msg": "0x514c"
   },
@@ -28,7 +28,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "イヤイヤながらも沖田は\\nジュニアの接待を\\n任せられていた",
-   "en": "Much against his\\nwill, Okita had\\nbeen put in\\ncharge of\\nentertaining\\nJunior.",
+   "en": "Much against\\nhis will, Okita\\nhad been put\\nin charge of\\nentertaining\\nJunior.",
    "op": "0x62",
    "msg": "0x514d"
   },
@@ -58,7 +58,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "ウツクシイとはまさに\\nナデシコのための言葉",
-   "en": "'Utsukushii'... that\\nword was made\\njust for\\nNadeshiko.",
+   "en": "'Utsukushii'...\\nthat word was\\nmade just for\\nNadeshiko.",
    "op": "0x62",
    "msg": "0x5150"
   },
@@ -98,7 +98,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "さあ　オレのホットで\\nスパイシーなラブに\\n溺れてくれ……！",
-   "en": "Now, drown in my\\nhot and spicy\\nlove...!",
+   "en": "Now, drown\\nin my hot and\\nspicy love...!",
    "op": "0x62",
    "msg": "0x5154"
   },
@@ -128,7 +128,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "わかったわかった\\nＪ\\n確かに性急過ぎた",
-   "en": "I get it, I get it. J.\\nYeah, I was too\\nhasty.",
+   "en": "I get it, I get\\nit. J. Yeah, I\\nwas too hasty.",
    "op": "0x62",
    "msg": "0x5157"
   },
@@ -148,7 +148,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "おわびにナデシコの願い\\n一つ　叶えよう\\n何がいい？",
-   "en": "To make it up to\\nyou, I'll grant\\nNadeshiko one\\nwish. What'll it\\nbe?",
+   "en": "To make it up\\nto you, I'll grant\\nNadeshiko one\\nwish. What'll it\\nbe?",
    "op": "0x62",
    "msg": "0x5159"
   },
@@ -168,7 +168,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "オレにできないことなんて\\n何もない\\nオレは……",
-   "en": "There's nothing I\\ncan't do. I'm...",
+   "en": "There's nothing\\nI can't do. I'm...",
    "op": "0x62",
    "msg": "0x515b"
   },
@@ -198,7 +198,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "それならぁ～僕達と\\n一緒に雷舞をして下さいよ",
-   "en": "In thaaat case~ do\\na live together\\nwith us.",
+   "en": "In thaaat case~\\ndo a live\\ntogether with us.",
    "op": "0x62",
    "msg": "0x515e"
   },
@@ -208,7 +208,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "ん？\\nナデシコ達と？",
-   "en": "Hm? With\\nNadeshiko and\\nfriends?",
+   "en": "Hm? With\\nNadeshiko\\nand friends?",
    "op": "0x62",
    "msg": "0x515f"
   },
@@ -218,7 +218,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "ええ　僕　新選組って\\n愛獲なんです",
-   "en": "Yep. See, the\\nShinsengumi are\\nidols.",
+   "en": "Yep. See, the\\nShinsengumi\\nare idols.",
    "op": "0x62",
    "msg": "0x5160"
   },
@@ -238,7 +238,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "むしろ　最高\\n新しいラブが\\n生まれる予感がするよ",
-   "en": "Actually, it's\\nperfect. I can feel\\na new love about\\nto be born.",
+   "en": "Actually, it's\\nperfect. I can\\nfeel a new love\\nabout to be born.",
    "op": "0x62",
    "msg": "0x5162"
   },
@@ -298,7 +298,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "ああ　大体オッケー\\nＪ　手配は頼んだ",
-   "en": "Ah, pretty much\\nokay. J, take care\\nof the\\narrangements.",
+   "en": "Ah, pretty\\nmuch okay. J,\\ntake care of the\\narrangements.",
    "op": "0x62",
    "msg": "0x5168"
   },
@@ -328,7 +328,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "むろん雷舞の券は即日完売\\n二大スターの夢の競演を\\n人々は熱狂で迎えた",
-   "en": "Naturally, live\\ntickets sold out\\nthat same day,\\nand the people\\ngreeted this\\ndream show of\\ntwo great stars in\\na frenzy.",
+   "en": "Naturally, live\\ntickets sold out\\nthat same day,\\nand the people\\ngreeted this\\ndream show of\\ntwo great stars\\nin a frenzy.",
    "op": "0x62",
    "msg": "0x516b"
   },
@@ -348,7 +348,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "おい　総司\\nこんなところで油を\\n売ってるんじゃない",
-   "en": "Soji. Don't slack\\noff in a place like\\nthis.",
+   "en": "Soji. Don't\\nslack off in a\\nplace like this.",
    "op": "0x62",
    "msg": "0x516d"
   },
@@ -358,7 +358,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "お前はジュニアの接待を\\n任せられてるはずだろう",
-   "en": "You're supposed\\nto be in charge of\\nentertaining\\nJunior.",
+   "en": "You're supposed\\nto be in charge\\nof entertaining\\nJunior.",
    "op": "0x62",
    "msg": "0x516e"
   },
@@ -368,7 +368,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "ちょっとした息抜きですよ\\nだって　あいつ　すーぐ\\n唇とか触ろうとするし",
-   "en": "I'm just taking a\\nlittle breather. I\\nmean, that guy\\nkeeps trying to\\ntouch my lips and\\nstuff.",
+   "en": "I'm just taking a\\nlittle breather. I\\nmean, that guy\\nkeeps trying to\\ntouch my lips\\nand stuff.",
    "op": "0x62",
    "msg": "0x516f"
   },
@@ -378,7 +378,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "……今から斬りに行くか",
-   "en": "...Shall I go cut\\nhim down right\\nnow?",
+   "en": "...Shall I go\\ncut him down\\nright now?",
    "op": "0x62",
    "msg": "0x5170"
   },
@@ -388,7 +388,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "あ　ヤキモチですか？\\nジュニアより土方さんの\\n方がアブナイかも？",
-   "en": "Oh, are you\\njealous? Maybe\\nyou're more\\ndangerous than\\nJunior,\\nHijikata-san?",
+   "en": "Oh, are you\\njealous? Maybe\\nyou're more\\ndangerous\\nthan Junior,\\nHijikata-san?",
    "op": "0x62",
    "msg": "0x5171"
   },
@@ -438,7 +438,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "いたいっ\\n二度もぶった！",
-   "en": "Ow! You hit me\\ntwice!",
+   "en": "Ow! You hit\\nme twice!",
    "op": "0x62",
    "msg": "0x5176"
   },
@@ -448,7 +448,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "バカばかり言ってないで\\nさっさとジュニアの\\nところへ行ってこい",
-   "en": "Quit talking\\nnonsense and get\\nover to Junior\\nalready.",
+   "en": "Quit talking\\nnonsense and\\nget over to\\nJunior already.",
    "op": "0x62",
    "msg": "0x5177"
   },
@@ -458,7 +458,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "自分の準備も忘れるな\\n今日は……我ら新選組と\\nヤツの真剣勝負だ",
-   "en": "And don't forget\\nyour own\\npreparations.\\nToday is a real\\nduel between us\\nShinsengumi and\\nhim.",
+   "en": "And don't\\nforget your own\\npreparations.\\nToday is a real\\nduel between us\\nShinsengumi\\nand him.",
    "op": "0x62",
    "msg": "0x5178"
   },
@@ -468,7 +468,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "わかってますよ\\nトサカくん達の手前\\n無様なとこ見せられないし",
-   "en": "I know. I can't\\nlook pathetic in\\nfront of\\nTosaka-kun and\\nthe others.",
+   "en": "I know. I can't\\nlook pathetic\\nin front of\\nTosaka-kun\\nand the others.",
    "op": "0x62",
    "msg": "0x5179"
   },
@@ -508,7 +508,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "おーい！　ソウち～ん\\nヒジゾーさん　\\n陣中見舞いに来たぜよ！",
-   "en": "Heeey! So-chiiin!\\nHijizo-san! I came\\nto cheer you on\\nbackstage!",
+   "en": "Heeey! So-chiiin!\\nHijizo-san! I\\ncame to cheer\\nyou on backstage!",
    "op": "0x62",
    "msg": "0x517d"
   },
@@ -518,7 +518,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "差し入れも\\nありますよ",
-   "en": "We've brought\\nsome\\nrefreshments,\\ntoo.",
+   "en": "We've\\nbrought some\\nrefreshments,\\ntoo.",
    "op": "0x62",
    "msg": "0x517e"
   },
@@ -528,7 +528,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "なになに？\\nわっ　ピッツァ！",
-   "en": "What's this? Ooh,\\npizza!",
+   "en": "What's this?\\nOoh, pizza!",
    "op": "0x62",
    "msg": "0x517f"
   },
@@ -538,7 +538,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "もしかして\\nお登勢さんのお手製？",
-   "en": "Don't tell me, did\\nOtose-san make it\\nherself?",
+   "en": "Don't tell me,\\ndid Otose-san\\nmake it herself?",
    "op": "0x62",
    "msg": "0x5180"
   },
@@ -558,7 +558,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "えっ\\nスカシくんが作ったの？\\nこのピッツァを？",
-   "en": "Huh? Mr. Poser\\nmade this? This\\npizza?",
+   "en": "Huh? Mr. Poser\\nmade this?\\nThis pizza?",
    "op": "0x62",
    "msg": "0x5182"
   },
@@ -578,7 +578,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "文句があるなら\\n食うんじゃねえ",
-   "en": "If you've got\\ncomplaints, don't\\neat it.",
+   "en": "If you've got\\ncomplaints,\\ndon't eat it.",
    "op": "0x62",
    "msg": "0x5184"
   },
@@ -588,7 +588,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "食べないとは\\n言ってないし\\nいただきまーす",
-   "en": "I never said I\\nwouldn't eat it.\\nThanks for the\\nfood~!",
+   "en": "I never said I\\nwouldn't eat\\nit. Thanks for\\nthe food~!",
    "op": "0x62",
    "msg": "0x5185"
   },
@@ -598,7 +598,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "スカシくん　料理\\n上手いんだね～",
-   "en": "Mr. Poser, you're\\na really good\\ncook~",
+   "en": "Mr. Poser,\\nyou're a really\\ngood cook~",
    "op": "0x62",
    "msg": "0x5186"
   },
@@ -608,7 +608,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "気合いを入れるために\\nトッピング用の\\n唐辛子も持ってきたぞ",
-   "en": "To fire us up, I\\nbrought chili\\npeppers for\\ntopping, too.",
+   "en": "To fire us up,\\nI brought chili\\npeppers for\\ntopping, too.",
    "op": "0x62",
    "msg": "0x5187"
   },
@@ -628,7 +628,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "けっ\\nロックじゃねえな",
-   "en": "Tch. That's not\\nvery rock.",
+   "en": "Tch. That's\\nnot very rock.",
    "op": "0x62",
    "msg": "0x5189"
   },
@@ -638,7 +638,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "しかし　新選組と\\nジュニアが合同雷舞とは\\n驚きですね",
-   "en": "Still, a joint live\\nbetween the\\nShinsengumi and\\nJunior... I'm\\nsurprised.",
+   "en": "Still, a joint live\\nbetween the\\nShinsengumi\\nand Junior... I'm\\nsurprised.",
    "op": "0x62",
    "msg": "0x518a"
   },
@@ -648,7 +648,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "あんな中途半端に\\n負けっぱなしは\\nイヤだったしね",
-   "en": "I didn't want to\\nleave it at a\\nhalf-finished loss\\nlike that.",
+   "en": "I didn't want\\nto leave it at a\\nhalf-finished\\nloss like that.",
    "op": "0x62",
    "msg": "0x518b"
   },
@@ -658,7 +658,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "ジュニアに頼んでみたら\\nすぐに\\nん～　大体オッケー♪\\nだってさ",
-   "en": "When I asked\\nJunior, he said\\nright away, \"Mm~\\nPretty much\\nokay~\"",
+   "en": "When I asked\\nJunior, he said\\nright away,\\n\"Mm~ Pretty\\nmuch okay~\"",
    "op": "0x62",
    "msg": "0x518c"
   },
@@ -678,7 +678,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "ごめんね　トサカくん\\nそっちが雪辱を果たす前に\\n僕達が勝っちゃうかも",
-   "en": "Sorry,\\nTosaka-kun. We\\nmight win before\\nyou get your\\nrevenge.",
+   "en": "Sorry,\\nTosaka-kun.\\nWe might win\\nbefore you get\\nyour revenge.",
    "op": "0x62",
    "msg": "0x518e"
   },
@@ -698,7 +698,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "この間はしっかり\\nソウちん達の歌を\\n聴けんかったからなあ",
-   "en": "Last time I\\ncouldn't listen\\nproper to So-chin\\nand the gang's\\nsongs...",
+   "en": "Last time I\\ncouldn't listen\\nproper to\\nSo-chin and the\\ngang's songs...",
    "op": "0x62",
    "msg": "0x5190"
   },
@@ -708,7 +708,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "今日は楽しみにしてるぜよ",
-   "en": "So I'm real excited\\nfor today!",
+   "en": "So I'm real\\nexcited for today!",
    "op": "0x62",
    "msg": "0x5191"
   },
@@ -728,7 +728,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "簡単に負けるつもりはない",
-   "en": "I don't intend to\\nlose easily.",
+   "en": "I don't intend\\nto lose easily.",
    "op": "0x62",
    "msg": "0x5193"
   },
@@ -758,7 +758,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "逃すわけにはいかない\\n全力でヤツに立ち向かうぞ",
-   "en": "I won't let it slip\\naway. We face\\nhim with\\neverything we\\nhave.",
+   "en": "I won't let it\\nslip away. We\\nface him with\\neverything\\nwe have.",
    "op": "0x62",
    "msg": "0x5196"
   },
@@ -768,7 +768,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "勝算はあるのか？",
-   "en": "You got a plan to\\nwin?",
+   "en": "You got a\\nplan to win?",
    "op": "0x62",
    "msg": "0x5197"
   },
@@ -788,7 +788,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "なんじゃと\\nそれはダメじゃ！",
-   "en": "What!? No, that's\\nno good!",
+   "en": "What!? No,\\nthat's no good!",
    "op": "0x62",
    "msg": "0x5199"
   },
@@ -798,7 +798,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "いくらじゅにあに\\n勝つためでも\\n鳳舞合奏はいかんぜよ！",
-   "en": "Even if it's to beat\\nJunior, Phoenix\\nRising is\\noff-limits, I tell\\nya!",
+   "en": "Even if it's to\\nbeat Junior,\\nPhoenix Rising\\nis off-limits, I\\ntell ya!",
    "op": "0x62",
    "msg": "0x519a"
   },
@@ -808,7 +808,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "まあまあ\\n落ち着いてよ\\nトサカくん",
-   "en": "Now, now, calm\\ndown,\\nTosaka-kun.",
+   "en": "Now, now,\\ncalm down,\\nTosaka-kun.",
    "op": "0x62",
    "msg": "0x519b"
   },
@@ -818,7 +818,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "天歌だって元は人を\\n癒すための音楽だよ",
-   "en": "Even Heaven's\\nSong was\\noriginally music\\nmeant to heal\\npeople.",
+   "en": "Even Heaven's\\nSong was\\noriginally\\nmusic meant\\nto heal people.",
    "op": "0x62",
    "msg": "0x519c"
   },
@@ -838,7 +838,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "それを元にみんなに\\n楽しんでもらえるように\\n改造（アレンジ）したんだ",
-   "en": "We used it as a\\nbase and\\nrearranged it so\\neveryone can\\nenjoy it.",
+   "en": "We used it as\\na base and\\nrearranged it\\nso everyone\\ncan enjoy it.",
    "op": "0x62",
    "msg": "0x519e"
   },
@@ -878,7 +878,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "出し惜しみなんて\\nしてられないよ",
-   "en": "We can't afford to\\nhold anything\\nback.",
+   "en": "We can't\\nafford to hold\\nanything back.",
    "op": "0x62",
    "msg": "0x51a2"
   },
@@ -888,7 +888,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "そういうわけだ\\n今日は観客席で\\n俺たちの歌を聴いていろ",
-   "en": "That's how it is.\\nToday, take a seat\\nin the audience\\nand listen to our\\nsong.",
+   "en": "That's how it is.\\nToday, take a\\nseat in the\\naudience and\\nlisten to our song.",
    "op": "0x62",
    "msg": "0x51a3"
   },
@@ -938,7 +938,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "どうせなら勝って\\n祝勝雷舞と\\nしたいところだ",
-   "en": "If we're doing it,\\nI'd rather win and\\nmake it a victory\\nlive.",
+   "en": "If we're doing\\nit, I'd rather\\nwin and make\\nit a victory live.",
    "op": "0x62",
    "msg": "0x51a8"
   },
@@ -948,7 +948,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "っと時間だ\\nじゃあ　僕　ジュニアの\\nところへ行ってくる",
-   "en": "Oops, it's time.\\nWell, I'm off to\\nsee Junior.",
+   "en": "Oops, it's time.\\nWell, I'm off\\nto see Junior.",
    "op": "0x62",
    "msg": "0x51a9"
   },
@@ -986,7 +986,7 @@
    "max": 24,
    "kind": "choice",
    "jp": "じゅにあにもよろしく",
-   "en": "Say hi to Junior\\nfor me!",
+   "en": "Say hi to\\nJunior for me!",
    "op": "0x51"
   },
   {
@@ -995,7 +995,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "ソウちん\\n頑張れよ！",
-   "en": "So-chin, go get\\n'em!",
+   "en": "So-chin,\\ngo get 'em!",
    "op": "0x62",
    "msg": "0x51ab"
   },
@@ -1015,7 +1015,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "さすがソウちん！",
-   "en": "That's So-chin for\\nya!",
+   "en": "That's So-chin\\nfor ya!",
    "op": "0x62",
    "msg": "0x51ad"
   },
@@ -1025,7 +1025,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "ヒジゾーさん\\nファイトぜよ",
-   "en": "Hijizo-san, fight\\non, pal!",
+   "en": "Hijizo-san,\\nfight on, pal!",
    "op": "0x62",
    "msg": "0x51ae"
   },
@@ -1035,7 +1035,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "ああ\\n精一杯努めよう",
-   "en": "Yes. I'll do my\\nutmost.",
+   "en": "Yes. I'll do\\nmy utmost.",
    "op": "0x62",
    "msg": "0x51af"
   },
@@ -1065,7 +1065,7 @@
    "max": 24,
    "kind": "dialogue",
    "jp": "じゅにあにもよろしく",
-   "en": "Say hi to Junior\\nfor me.",
+   "en": "Say hi to\\nJunior for me.",
    "op": "0x62",
    "msg": "0x51b2"
   },
@@ -1105,7 +1105,7 @@
    "max": 28,
    "kind": "dialogue",
    "jp": "それじゃあ\\nまた後でな～！",
-   "en": "Well then, see ya\\nlater~!",
+   "en": "Well then,\\nsee ya later~!",
    "op": "0x62",
    "msg": "0x51b6"
   },
@@ -1115,7 +1115,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "そして始まった新選組と\\nペリージュニアとの\\n合同雷舞",
-   "en": "And so began the\\njoint live of the\\nShinsengumi and\\nPerry Junior.",
+   "en": "And so began\\nthe joint live of\\nthe Shinsengumi\\nand Perry Junior.",
    "op": "0x62",
    "msg": "0x51b7"
   },
@@ -1145,7 +1145,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "総司きゅ～ん！\\nこっち向いて～っ！",
-   "en": "Soji-kyuuun! Look\\nover here~!",
+   "en": "Soji-kyuuun!\\nLook over here~!",
    "op": "0x62",
    "msg": "0x51ba"
   },
@@ -1205,7 +1205,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "俺達の歌が\\n聴きたいのならば\\n静まれ",
-   "en": "If you wish to\\nhear our song, be\\nsilent.",
+   "en": "If you wish to\\nhear our song,\\nbe silent.",
    "op": "0x62",
    "msg": "0x51c0"
   },
@@ -1225,7 +1225,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "我々の歌と踊りに\\n酔いしれ……\\n身も心も俺達に捧げろ",
-   "en": "Lose yourselves\\nin our song and\\ndance... and offer\\nus your body and\\nsoul.",
+   "en": "Lose yourselves\\nin our song and\\ndance... and\\noffer us your\\nbody and soul.",
    "op": "0x62",
    "msg": "0x51c2"
   },
@@ -1235,7 +1235,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "今日　この雷舞へ来ることが\\nできた人は　とても幸運だね",
-   "en": "Everyone who\\nmade it to this\\nlive today is very\\nlucky.",
+   "en": "Everyone who\\nmade it to\\nthis live today\\nis very lucky.",
    "op": "0x62",
    "msg": "0x51c3"
   },
@@ -1285,7 +1285,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "土方と沖田を中心に\\n新選組の隊士達が\\n見事な踊りを見せる",
-   "en": "With Hijikata and\\nOkita at the\\ncenter, the\\nShinsengumi\\ntroopers put on a\\nsplendid dance.",
+   "en": "With Hijikata\\nand Okita at the\\ncenter, the\\nShinsengumi\\ntroopers put on a\\nsplendid dance.",
    "op": "0x62",
    "msg": "0x51c8"
   },
@@ -1295,7 +1295,7 @@
    "max": 84,
    "kind": "dialogue",
    "jp": "それは以前の鳳舞合奏\\nとはまるで違い\\n見る者の心を震わせる\\n魂のこもった歌だった",
-   "en": "It was nothing\\nlike the Phoenix\\nRising of old. It\\nwas a song full of\\nsoul that shook\\nthe heart of\\neveryone\\nwatching.",
+   "en": "It was nothing\\nlike the Phoenix\\nRising of old. It\\nwas a song full\\nof soul that\\nshook the heart\\nof everyone\\nwatching.",
    "op": "0x62",
    "msg": "0x51c9"
   },
@@ -1325,7 +1325,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "この間は　きちんと\\n聴けませんでしたが\\n二人の実力が\\n伝わってきます",
-   "en": "I couldn't listen\\nproperly last\\ntime, but I can\\ntruly feel how\\nskilled the two of\\nthem are.",
+   "en": "I couldn't listen\\nproperly last\\ntime, but I can\\ntruly feel how\\nskilled the two\\nof them are.",
    "op": "0x62",
    "msg": "0x51cc"
   },
@@ -1335,7 +1335,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "わしが修行に出てる間\\nヒジゾーさん達も\\n頑張ってたんじゃな",
-   "en": "While I was off\\ntrainin',\\nHijizo-san and\\nthe others were\\nworkin' hard too,\\nhuh.",
+   "en": "While I was\\noff trainin',\\nHijizo-san and\\nthe others\\nwere workin'\\nhard too, huh.",
    "op": "0x62",
    "msg": "0x51cd"
   },
@@ -1345,7 +1345,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "これはオレ様達も\\nうかうかしてられないぜ",
-   "en": "Looks like yours\\ntruly and\\ncompany can't sit\\nback and relax\\neither.",
+   "en": "Looks like\\nyours truly and\\ncompany can't\\nsit back and\\nrelax either.",
    "op": "0x62",
    "msg": "0x51ce"
   },
@@ -1395,7 +1395,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "もう一曲　お前たちに\\n贈りたいところだが\\n次はジュニアの番だ",
-   "en": "I'd love to give\\nyou another song,\\nbut Junior's up\\nnext.",
+   "en": "I'd love to give\\nyou another\\nsong, but\\nJunior's up next.",
    "op": "0x62",
    "msg": "0x51d3"
   },
@@ -1405,7 +1405,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "ちらりと土方が袖を見ると\\n悠然とジュニアが\\n歩いてきた",
-   "en": "When Hijikata\\nglanced toward\\nthe wings, Junior\\nwas strolling out,\\nunhurried.",
+   "en": "When Hijikata\\nglanced toward\\nthe wings, Junior\\nwas strolling\\nout, unhurried.",
    "op": "0x62",
    "msg": "0x51d4"
   },
@@ -1435,7 +1435,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "大体　オッケー\\nさっきのが　この国の\\nアイドルソング",
-   "en": "Pretty much okay.\\nThat was this\\ncountry's idol\\nsong.",
+   "en": "Pretty much\\nokay. That was\\nthis country's\\nidol song.",
    "op": "0x62",
    "msg": "0x51d7"
   },
@@ -1465,7 +1465,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "オレに会いにきてくれた\\nレディたち",
-   "en": "To all you ladies\\nwho came to see\\nme...",
+   "en": "To all you\\nladies who came\\nto see me...",
    "op": "0x62",
    "msg": "0x51da"
   },
@@ -1495,7 +1495,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "ジュニアが甘く\\nウィンクを決めただけで\\n会場がシンと\\n静まりかえった",
-   "en": "Junior gave\\nnothing more\\nthan a sweet\\nwink, and the\\nwhole venue fell\\ndead silent.",
+   "en": "Junior gave\\nnothing more\\nthan a sweet\\nwink, and the\\nwhole venue\\nfell dead silent.",
    "op": "0x62",
    "msg": "0x51dd"
   },
@@ -1505,7 +1505,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "そして次の瞬間\\n割れんばかりの大歓声が\\n起こる",
-   "en": "And the next\\nmoment,\\ndeafening cheers\\nerupted.",
+   "en": "And the next\\nmoment,\\ndeafening\\ncheers erupted.",
    "op": "0x62",
    "msg": "0x51de"
   },
@@ -1515,7 +1515,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "目をぱちっとしただけで\\nあんなに……",
-   "en": "Just by winkin' an\\neye, all that...",
+   "en": "Just by winkin'\\nan eye, all that...",
    "op": "0x62",
    "msg": "0x51df"
   },
@@ -1535,7 +1535,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "バカ野郎\\nオレ様達はあくまで\\n音楽で勝負だ！",
-   "en": "You idiot! We\\nfight with music,\\nperiod!",
+   "en": "You idiot! We\\nfight with\\nmusic, period!",
    "op": "0x62",
    "msg": "0x51e1"
   },
@@ -1565,7 +1565,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "オッケー　Ｊ\\nトークだけじゃ\\n物足りないよな",
-   "en": "Okay, J. Just talk\\nisn't enough,\\nhuh?",
+   "en": "Okay, J. Just\\ntalk isn't\\nenough, huh?",
    "op": "0x62",
    "msg": "0x51e4"
   },
@@ -1585,7 +1585,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "さあ　溺れてくれ……！\\nイッツ　ロッケンローッ！",
-   "en": "Now, drown in\\nit...! It's rock 'n'\\nroooll!",
+   "en": "Now, drown\\nin it...! It's\\nrock 'n' roooll!",
    "op": "0x62",
    "msg": "0x51e6"
   },
@@ -1595,7 +1595,7 @@
    "max": 80,
    "kind": "dialogue",
    "jp": "完成され尽くした\\nギターリフが始まった瞬間\\n全ての観客がジュニアに\\n魅了された",
-   "en": "The instant his\\nflawless guitar\\nriff began, every\\nlast member of\\nthe audience was\\ncaptivated by\\nJunior.",
+   "en": "The instant his\\nflawless guitar\\nriff began, every\\nlast member of\\nthe audience\\nwas captivated\\nby Junior.",
    "op": "0x62",
    "msg": "0x51e7"
   },
@@ -1605,7 +1605,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "それは先ほど鳳舞合奏に\\n酔いしれていた\\n新選組の煌とて\\n例外ではなかった",
-   "en": "Not even the\\nShinsengumi fans\\nwho'd been\\nentranced by\\nPhoenix Rising\\nmoments ago\\nwere an\\nexception.",
+   "en": "Not even the\\nShinsengumi\\nfans who'd\\nbeen entranced\\nby Phoenix\\nRising moments\\nago were an\\nexception.",
    "op": "0x62",
    "msg": "0x51e8"
   },
@@ -1645,7 +1645,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "あんなすごい鳳舞合奏でも\\nじゅにあには勝てんのか？",
-   "en": "Even a Phoenix\\nRising that\\namazin' can't beat\\nJunior?",
+   "en": "Even a Phoenix\\nRising that\\namazin' can't\\nbeat Junior?",
    "op": "0x62",
    "msg": "0x51ec"
   },
@@ -1655,7 +1655,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "見ろ　ヤツの超魂のうねり\\n尋常じゃねえ……！",
-   "en": "Look at the surge\\nof his Ultra Soul.\\nThat's not\\nnormal...!",
+   "en": "Look at the\\nsurge of his\\nUltra Soul. That's\\nnot normal...!",
    "op": "0x62",
    "msg": "0x51ed"
   },
@@ -1705,7 +1705,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "ああっ　くやしいが\\nやっぱすげえ！",
-   "en": "Argh, I hate to\\nadmit it, but he's\\nawesome!",
+   "en": "Argh, I hate to\\nadmit it, but\\nhe's awesome!",
    "op": "0x62",
    "msg": "0x51f2"
   },
@@ -1745,7 +1745,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "しかし　その土方も\\nジュニアの超魂の力に\\n圧され　膝をつく",
-   "en": "But even Hijikata\\nwas overwhelmed\\nby the power of\\nJunior's Ultra Soul\\nand fell to one\\nknee.",
+   "en": "But even Hijikata\\nwas overwhelmed\\nby the power of\\nJunior's Ultra\\nSoul and fell to\\none knee.",
    "op": "0x62",
    "msg": "0x51f6"
   },
@@ -1805,7 +1805,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "オレとデュエット\\nしたいのか？",
-   "en": "You wanna sing a\\nduet with me?",
+   "en": "You wanna sing\\na duet with me?",
    "op": "0x62",
    "msg": "0x51fc"
   },

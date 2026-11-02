@@ -18,7 +18,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "お登勢は\\n龍馬達に呼び出され\\n彼らに指定された\\n場所へと向かっていた",
-   "en": "Summoned by\\nRyoma and the\\nothers, Otose was\\non her way to the\\nplace they had\\nnamed.",
+   "en": "Summoned by\\nRyoma and the\\nothers, Otose\\nwas on her way\\nto the place\\nthey had named.",
    "op": "0x62",
    "msg": "0x2a13"
   },
@@ -28,7 +28,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "んもう　龍ちゃんってば\\n話したい事があるから\\n今すぐ来てくれって",
-   "en": "Honestly,\\nRyo-chan! \"I've\\ngot somethin' to\\ntell ya, so come\\nright now,\" he\\nsays...",
+   "en": "Honestly,\\nRyo-chan! \"I've\\ngot somethin'\\nto tell ya, so\\ncome right\\nnow,\" he says...",
    "op": "0x62",
    "msg": "0x2a14"
   },
@@ -38,7 +38,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "急にどういう\\nつもりなのかしら\\n全く見当もつかないわ",
-   "en": "What's gotten into\\nhim all of a\\nsudden? I haven't\\nthe faintest idea.",
+   "en": "What's gotten\\ninto him all of a\\nsudden? I haven't\\nthe faintest idea.",
    "op": "0x62",
    "msg": "0x2a15"
   },
@@ -48,7 +48,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "とにかく　\\n悪い話じゃないと\\nいいけど……",
-   "en": "Anyway... I just\\nhope it's not bad\\nnews...",
+   "en": "Anyway... I\\njust hope it's\\nnot bad news...",
    "op": "0x62",
    "msg": "0x2a16"
   },
@@ -68,7 +68,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "えーと　\\n指定された場所は\\nここよね？",
-   "en": "Let's see... this is\\nthe place they\\ntold me, right?",
+   "en": "Let's see... this\\nis the place they\\ntold me, right?",
    "op": "0x62",
    "msg": "0x2a18"
   },
@@ -88,7 +88,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "ごめんくださーい",
-   "en": "Hellooo? Anyone\\nhere?",
+   "en": "Hellooo?\\nAnyone here?",
    "op": "0x62",
    "msg": "0x2a1a"
   },
@@ -98,7 +98,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "はぁい　\\nいらっしゃいませぇー♪",
-   "en": "Yeees~ Welcome\\niiin~",
+   "en": "Yeees~\\nWelcome iiin~",
    "op": "0x62",
    "msg": "0x2a1b"
   },
@@ -108,7 +108,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "…………ん？　\\n何かしら\\n今の妙な声色は",
-   "en": "......Hm? What on\\nearth was that\\nfunny voice just\\nnow?",
+   "en": "......Hm? What\\non earth was\\nthat funny\\nvoice just now?",
    "op": "0x62",
    "msg": "0x2a1c"
   },
@@ -138,7 +138,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "お登勢は\\n周囲を見渡して\\n怪訝そうに首を傾げる",
-   "en": "Otose looked\\naround and tilted\\nher head,\\npuzzled.",
+   "en": "Otose looked\\naround and\\ntilted her\\nhead, puzzled.",
    "op": "0x62",
    "msg": "0x2a1f"
   },
@@ -148,7 +148,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "その時　室内の奥から\\n見覚えのある男達が現れ",
-   "en": "Just then, some\\nfamiliar men\\nappeared from\\nthe back of the\\nroom",
+   "en": "Just then,\\nsome familiar\\nmen appeared\\nfrom the back\\nof the room",
    "op": "0x62",
    "msg": "0x2a20"
   },
@@ -158,7 +158,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "体をくねらせながら\\n駆け寄って来た",
-   "en": "and came\\nscampering over,\\nwiggling their\\nhips.",
+   "en": "and came\\nscampering\\nover, wiggling\\ntheir hips.",
    "op": "0x62",
    "msg": "0x2a21"
   },
@@ -168,7 +168,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "わ～っ　お登勢やん\\n早速来てくれたんだ\\n嬉しい～～っ♪",
-   "en": "Waaah,\\nOtose-yan! You\\ncame already! I'm\\nsooo happy~!",
+   "en": "Waaah,\\nOtose-yan! You\\ncame already!\\nI'm sooo happy~!",
    "op": "0x62",
    "msg": "0x2a22"
   },
@@ -188,7 +188,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "あらまあ\\n誰かと思ったら\\nお登勢さんですか",
-   "en": "Oh my, and who\\nmight this be?\\nWhy, it's\\nOtose-san.",
+   "en": "Oh my, and\\nwho might\\nthis be? Why,\\nit's Otose-san.",
    "op": "0x62",
    "msg": "0x2a24"
   },
@@ -218,7 +218,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "ほら　貴女方も\\nお客様に改めて\\nご挨拶をしてくださいな",
-   "en": "Come now, ladies,\\ngreet our guest\\nproperly, won't\\nyou?",
+   "en": "Come now,\\nladies, greet our\\nguest properly,\\nwon't you?",
    "op": "0x62",
    "msg": "0x2a27"
   },
@@ -238,7 +238,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "可愛い可愛い女将さん　\\nボク達のお店にようこそぉ",
-   "en": "Our cute, cute\\nlandlady~\\nWelcome to our\\nlittle shop~",
+   "en": "Our cute, cute\\nlandlady~\\nWelcome to\\nour little shop~",
    "op": "0x62",
    "msg": "0x2a29"
   },
@@ -248,7 +248,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "ふん　よく来たわね\\n私を待たせるなんて\\nいい度胸だわっ",
-   "en": "Hmph. So you\\ncame. Keeping ME\\nwaiting? You've\\ngot some nerve,\\nhoney!",
+   "en": "Hmph. So you\\ncame. Keeping\\nME waiting?\\nYou've got some\\nnerve, honey!",
    "op": "0x62",
    "msg": "0x2a2a"
   },
@@ -288,7 +288,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "ワケがわからないわ\\nどこからどうツッコんだら\\nいいのっ？",
-   "en": "I don't get it!\\nWhere do I even\\nstart!?",
+   "en": "I don't get it!\\nWhere do I\\neven start!?",
    "op": "0x62",
    "msg": "0x2a2e"
   },
@@ -308,7 +308,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "え～～　だから　今\\n言ったじゃないですか",
-   "en": "Ehhh~ But we just\\ntold you~",
+   "en": "Ehhh~ But we\\njust told you~",
    "op": "0x62",
    "msg": "0x2a30"
   },
@@ -318,7 +318,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "ボク達　雷舞活動の傍ら\\n五人でお店を開く事に\\nしたんですよぉ～",
-   "en": "The five of us\\ndecided to open a\\nshop on the side,\\nnext to our live\\ngigs~",
+   "en": "The five of us\\ndecided to open\\na shop on the\\nside, next to\\nour live gigs~",
    "op": "0x62",
    "msg": "0x2a31"
   },
@@ -348,7 +348,7 @@
    "max": 20,
    "kind": "dialogue",
    "jp": "うん　そうだよぉ",
-   "en": "Uh-huh, that's\\nriiight~",
+   "en": "Uh-huh,\\nthat's riiight~",
    "op": "0x62",
    "msg": "0x2a34"
   },
@@ -368,7 +368,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "あたい　もっと\\n働こうと思ったの",
-   "en": "so li'l old me\\ndecided to work\\nharder~",
+   "en": "so li'l old me\\ndecided to\\nwork harder~",
    "op": "0x62",
    "msg": "0x2a36"
   },
@@ -378,7 +378,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "そしたら　みんなが\\n協力してくれたのお",
-   "en": "And then\\neverybody\\npitched in to\\nhelp~",
+   "en": "And then\\neverybody\\npitched in\\nto help~",
    "op": "0x62",
    "msg": "0x2a37"
   },
@@ -418,7 +418,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "アンタ達の様子が\\nいつもと違う理由は\\nわかったわ",
-   "en": "Now I know why\\nyou're all acting\\nso different from\\nusual.",
+   "en": "Now I know why\\nyou're all acting\\nso different\\nfrom usual.",
    "op": "0x62",
    "msg": "0x2a3b"
   },
@@ -428,7 +428,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "店名から察するに\\n龍ちゃん達はオカマバーを\\n始めるつもりなのね",
-   "en": "Judging by the\\nname, Ryo-chan\\nand the boys are\\nstarting a drag\\nbar.",
+   "en": "Judging by the\\nname, Ryo-chan\\nand the boys\\nare starting a\\ndrag bar.",
    "op": "0x62",
    "msg": "0x2a3c"
   },
@@ -448,7 +448,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "ここは割り切って\\nこの子達の新たな第一歩を\\n祝福しましょう",
-   "en": "I'll just roll with it\\nand celebrate\\nthese kids'\\nbrand-new first\\nstep.",
+   "en": "I'll just roll\\nwith it and\\ncelebrate these\\nkids' brand-new\\nfirst step.",
    "op": "0x62",
    "msg": "0x2a3e"
   },
@@ -458,7 +458,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "こほん……\\nアナタ達\\n開店おめでとう",
-   "en": "*Ahem*...\\nCongratulations\\non your grand\\nopening, all of\\nyou.",
+   "en": "*Ahem*...\\nCongratulations\\non your grand\\nopening, all\\nof you.",
    "op": "0x62",
    "msg": "0x2a3f"
   },
@@ -468,7 +468,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "お客様に愛される\\nオカマちゃん目指して\\n一生懸命頑張りなさいな",
-   "en": "Aim to be drag\\ndarlings the\\ncustomers adore,\\nand give it\\neverything you've\\ngot.",
+   "en": "Aim to be drag\\ndarlings the\\ncustomers\\nadore, and give\\nit everything\\nyou've got.",
    "op": "0x62",
    "msg": "0x2a40"
   },
@@ -478,7 +478,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "はいっ　頑張りますわ\\n今日からお客様に\\n精一杯ご奉仕します",
-   "en": "Yes, we'll do our\\nvery best! From\\ntoday on, we'll\\nserve our\\ncustomers with all\\nour hearts.",
+   "en": "Yes, we'll do\\nour very best!\\nFrom today on,\\nwe'll serve our\\ncustomers with\\nall our hearts.",
    "op": "0x62",
    "msg": "0x2a41"
   },
@@ -498,7 +498,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "まあ　目指すだけなら\\n良いんじゃないのかな\\n目指すだけならね",
-   "en": "Well, aiming for\\nit is fine, I guess.\\nJust aiming, that\\nis.",
+   "en": "Well, aiming\\nfor it is fine, I\\nguess. Just\\naiming, that is.",
    "op": "0x62",
    "msg": "0x2a43"
   },
@@ -528,7 +528,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "開店したばかりのお店\\nなんだし　皆で力を合わせ\\n盛り立てていかないと",
-   "en": "Our shop has only\\njust opened. We\\nall have to pull\\ntogether and help\\nit thrive.",
+   "en": "Our shop has\\nonly just opened.\\nWe all have to\\npull together and\\nhelp it thrive.",
    "op": "0x62",
    "msg": "0x2a46"
   },
@@ -548,7 +548,7 @@
    "max": 64,
    "kind": "dialogue",
    "jp": "う　うん……\\n桂子（けいこ）ちゃんの\\n言う通り　だと思う……わ",
-   "en": "Y-yes... I think\\nKeiko-chan is\\nright... really, I\\ndo.",
+   "en": "Y-yes... I think\\nKeiko-chan is\\nright... really,\\nI do.",
    "op": "0x62",
    "msg": "0x2a48"
   },
@@ -558,7 +558,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "それに　\\nお客さんの見ている前で\\n喧嘩は良くないと思うの",
-   "en": "Besides... I don't\\nthink fighting in\\nfront of the\\ncustomers is very\\nnice.",
+   "en": "Besides... I don't\\nthink fighting\\nin front of the\\ncustomers is\\nvery nice.",
    "op": "0x62",
    "msg": "0x2a49"
   },
@@ -568,7 +568,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "総美（そうみ）\\n晋子（しんこ）　\\n出来るだけ仲良くね",
-   "en": "Somi, Shinko...\\nplease try to get\\nalong, as best you\\ncan.",
+   "en": "Somi, Shinko...\\nplease try to\\nget along, as\\nbest you can.",
    "op": "0x62",
    "msg": "0x2a4a"
   },
@@ -578,7 +578,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "へぇ　アナタ達　\\n源氏名で呼び合ってるのね\\nきっちりしてるじゃない",
-   "en": "Well now, you call\\neach other by\\nstage names?\\nHow very\\nprofessional.",
+   "en": "Well now, you\\ncall each other\\nby stage names?\\nHow very\\nprofessional.",
    "op": "0x62",
    "msg": "0x2a4b"
   },
@@ -598,7 +598,7 @@
    "max": 76,
    "kind": "dialogue",
    "jp": "ちなみに　あたいは\\nこのお店では\\n龍子（りょうこ）って\\n呼ばれてるんだ～",
-   "en": "And by the way,\\nhere at the shop,\\neverybody calls\\nme Ryoko~",
+   "en": "And by the way,\\nhere at the\\nshop, everybody\\ncalls me Ryoko~",
    "op": "0x62",
    "msg": "0x2a4d"
   },
@@ -608,7 +608,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "ふぅん　龍子ちゃんか\\n可愛い名前じゃない",
-   "en": "Hmm,\\nRyoko-chan, is it?\\nWhat a cute\\nname.",
+   "en": "Hmm,\\nRyoko-chan,\\nis it? What a\\ncute name.",
    "op": "0x62",
    "msg": "0x2a4e"
   },
@@ -618,7 +618,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "でしょでしょ\\nみんなに考えてもらったの",
-   "en": "Right, right?\\nEverybody\\nthought it up for\\nme!",
+   "en": "Right, right?\\nEverybody\\nthought it\\nup for me!",
    "op": "0x62",
    "msg": "0x2a4f"
   },
@@ -678,7 +678,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "んっ　龍子の手が\\n私の腰に当たって\\nくすぐったい……ふっ",
-   "en": "Mm... Ryoko's\\nhand is on my\\nwaist... it tickles...\\nhff.",
+   "en": "Mm... Ryoko's\\nhand is on\\nmy waist... it\\ntickles... hff.",
    "op": "0x62",
    "msg": "0x2a55"
   },
@@ -688,7 +688,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "わあ　歳子ちゃんの笑顔\\nすっごく可愛いっ\\nもっとあたいに見せて？",
-   "en": "Wow,\\nToshiko-chan's\\nsmile is sooo cute!\\nShow me more of\\nit?",
+   "en": "Wow,\\nToshiko-chan's\\nsmile is sooo\\ncute! Show me\\nmore of it?",
    "op": "0x62",
    "msg": "0x2a56"
   },
@@ -708,7 +708,7 @@
    "max": 60,
    "kind": "dialogue",
    "jp": "あぁん　もうっ\\n龍子　だめだってば\\nもう少し優しくしてぇ",
-   "en": "Ahh, stop it~\\nRyoko, no~ Be a\\nlittle gentler~",
+   "en": "Ahh, stop it~\\nRyoko, no~ Be\\na little gentler~",
    "op": "0x62",
    "msg": "0x2a58"
   },
@@ -738,7 +738,7 @@
    "max": 84,
    "kind": "dialogue",
    "jp": "体をくねらせながら\\nはしゃぐ龍子達を見て\\nお登勢は　いつしか\\nときめきを感じていた",
-   "en": "Watching Ryoko\\nand the others\\nfrolic, hips\\nwiggling, Otose\\nfelt her heart\\nflutter before she\\nknew it.",
+   "en": "Watching Ryoko\\nand the others\\nfrolic, hips\\nwiggling, Otose\\nfelt her heart\\nflutter before\\nshe knew it.",
    "op": "0x62",
    "msg": "0x2a5a"
   },
@@ -818,7 +818,7 @@
    "max": 48,
    "kind": "dialogue",
    "jp": "そうねっ\\n私もそう思う\\nみんなの前で歌いたいわ",
-   "en": "Yes! I think so\\ntoo. I want to sing\\nin front of\\neveryone.",
+   "en": "Yes! I think so\\ntoo. I want to\\nsing in front\\nof everyone.",
    "op": "0x62",
    "msg": "0x2a62"
   },
@@ -858,7 +858,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "あたいも　あたいも\\n歌いたーい",
-   "en": "Me too, me too! I\\nwanna siiing!",
+   "en": "Me too, me too!\\nI wanna siiing!",
    "op": "0x62",
    "msg": "0x2a66"
   },
@@ -868,7 +868,7 @@
    "max": 72,
    "kind": "dialogue",
    "jp": "ふふふ　決まったわね！\\nそれじゃあ　今夜この店で\\n雷舞をやりましょう",
-   "en": "Hehehe, it's\\nsettled! Then\\ntonight, we'll put\\non a live right\\nhere!",
+   "en": "Hehehe, it's\\nsettled! Then\\ntonight, we'll\\nput on a live\\nright here!",
    "op": "0x62",
    "msg": "0x2a67"
   },
@@ -888,7 +888,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "ヒラッヒラのフリッフリで\\n超可愛いものを\\n用意してあげるからッッ",
-   "en": "I'll get you\\nsomething frilly\\nand flouncy and\\nsuper cute!!",
+   "en": "I'll get you\\nsomething frilly\\nand flouncy\\nand super cute!!",
    "op": "0x62",
    "msg": "0x2a69"
   },
@@ -898,7 +898,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "わあっ\\nお登勢やん頼もしい\\nありがとう　大好きっ",
-   "en": "Wow! Otose-yan,\\nyou're amazing!\\nThank you, I love\\nyou!",
+   "en": "Wow! Otose-yan,\\nyou're amazing!\\nThank you, I\\nlove you!",
    "op": "0x62",
    "msg": "0x2a6a"
   },
@@ -918,7 +918,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "どんな衣装でも\\nボクは完璧に着こなせるよ\\nなんたって愛獲だからね♪",
-   "en": "I can pull off any\\ncostume\\nperfectly. I'm an\\nidol, after all~",
+   "en": "I can pull off\\nany costume\\nperfectly. I'm an\\nidol, after all~",
    "op": "0x62",
    "msg": "0x2a6c"
   },
@@ -928,7 +928,7 @@
    "max": 68,
    "kind": "dialogue",
    "jp": "ヒラッヒラでフリッフリの\\n衣装……楽しみだな\\n一度着てみたかったの",
-   "en": "A frilly, flouncy\\ncostume... I can't\\nwait. I've always\\nwanted to wear\\none.",
+   "en": "A frilly, flouncy\\ncostume... I\\ncan't wait. I've\\nalways wanted\\nto wear one.",
    "op": "0x62",
    "msg": "0x2a6d"
   },
@@ -938,7 +938,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "えっ　\\n歳子さん　それ本当？\\n実は私もなんですの",
-   "en": "Oh! Toshiko-san,\\nis that true?\\nActually, so have\\nI!",
+   "en": "Oh! Toshiko-san,\\nis that true?\\nActually, so\\nhave I!",
    "op": "0x62",
    "msg": "0x2a6e"
   },
@@ -1028,7 +1028,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "大きな手に肩を揺すられ\\nお登勢は顔を上げた",
-   "en": "A big hand shook\\nher by the\\nshoulder, and\\nOtose lifted her\\nhead.",
+   "en": "A big hand\\nshook her by\\nthe shoulder,\\nand Otose\\nlifted her head.",
    "op": "0x62",
    "msg": "0x2a77"
   },
@@ -1058,7 +1058,7 @@
    "max": 32,
    "kind": "dialogue",
    "jp": "龍子ちゃん？\\n誰じゃ　それは",
-   "en": "Ryoko-chan? Who\\nin the world's\\nthat?",
+   "en": "Ryoko-chan?\\nWho in the\\nworld's that?",
    "op": "0x62",
    "msg": "0x2a7a"
   },
@@ -1068,7 +1068,7 @@
    "max": 56,
    "kind": "dialogue",
    "jp": "誰って　\\n龍ちゃんの源氏名でしょ\\nで　ここはオカマバー",
-   "en": "Who? It's your\\nstage name,\\nRyo-chan. And\\nthis is the drag\\nbar.",
+   "en": "Who? It's your\\nstage name,\\nRyo-chan.\\nAnd this is\\nthe drag bar.",
    "op": "0x62",
    "msg": "0x2a7b"
   },
@@ -1078,7 +1078,7 @@
    "max": 44,
    "kind": "dialogue",
    "jp": "むむむ？　\\nさっぱり意味が\\nわからんなあ",
-   "en": "Hmmm? I ain't\\nfollowin' you at\\nall.",
+   "en": "Hmmm? I\\nain't followin'\\nyou at all.",
    "op": "0x62",
    "msg": "0x2a7c"
   },
@@ -1118,7 +1118,7 @@
    "max": 40,
    "kind": "dialogue",
    "jp": "龍馬の話を聞き\\nお登勢は目を丸くした",
-   "en": "Hearing Ryoma,\\nOtose's eyes went\\nwide.",
+   "en": "Hearing\\nRyoma, Otose's\\neyes went wide.",
    "op": "0x62",
    "msg": "0x2a80"
   },
@@ -1188,7 +1188,7 @@
    "max": 36,
    "kind": "dialogue",
    "jp": "決めた\\nアタシ　二度寝するッッ",
-   "en": "That's it. I'm\\ngoing back to\\nsleep!!",
+   "en": "That's it. I'm\\ngoing back\\nto sleep!!",
    "op": "0x62",
    "msg": "0x2a87"
   },
@@ -1208,7 +1208,7 @@
    "max": 52,
    "kind": "dialogue",
    "jp": "龍馬の呼び掛けに応えず\\nお登勢はぎゅっと目を閉じる",
-   "en": "Ignoring Ryoma's\\ncall, Otose\\nsqueezed her\\neyes shut.",
+   "en": "Ignoring\\nRyoma's call,\\nOtose squeezed\\nher eyes shut.",
    "op": "0x62",
    "msg": "0x2a89"
   },
@@ -1218,7 +1218,7 @@
    "max": 80,
    "kind": "dialogue",
    "jp": "しかし　どんなに願っても\\n場亜オカマちゃんの扉は\\n二度と開く事はなかった――",
-   "en": "But no matter\\nhow hard she\\nwished, the doors\\nof Bar\\nOkama-chan\\nnever opened\\nagain--",
+   "en": "But no matter\\nhow hard she\\nwished, the\\ndoors of Bar\\nOkama-chan\\nnever opened\\nagain--",
    "op": "0x62",
    "msg": "0x2a8a"
   }

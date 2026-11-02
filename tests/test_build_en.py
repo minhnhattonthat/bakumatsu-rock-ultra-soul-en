@@ -32,12 +32,12 @@ def test_plan_log_and_english_build(en_iso):
     lines = []
     ed = insert.plan(log=lines.append)   # the documented `insert.py plan` path logs every file
     assert lines and ed["iso"] and ed["INST"]
-    assert isodiff.check(str(en_iso), ed) == []
+    assert isodiff.check(str(en_iso), build.edits()) == []
 
 
 @need
 def test_gate_rejects_unrelated_directory_record(en_iso):
-    ed = insert.plan()
+    ed = build.edits()
     with open(en_iso, "rb") as f:
         files = {p: (lba, ln, pos) for p, lba, ln, pos in iso9660.listing(f)}
     edited_secs = {files[p][2] // 2048 for p in ed["iso"]}

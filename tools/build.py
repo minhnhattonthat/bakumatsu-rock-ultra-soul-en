@@ -18,8 +18,12 @@ CPKS = ('INST', 'NOINST')
 def edits(texts=None):
     """-> {CPK name: {'dir/name': bytes}} for files inside the CPKs, plus {'/ISO/PATH': bytes} under key 'iso'.
     TEXTS is a text directory (script/ by default, work/mark for the marker build); insert.py does the patching."""
-    import insert
-    return insert.plan(texts or insert.SCRIPT)
+    import gfx, insert
+    ed = insert.plan(texts or insert.SCRIPT)
+    for c, files in gfx.edits().items():   # English graphics (gfx/<key>.png), never a file the text plan wrote
+        assert not set(files) & set(ed[c]), set(files) & set(ed[c])
+        ed[c].update(files)
+    return ed
 
 
 def extract_iso():

@@ -1,0 +1,116 @@
+key	style	en	opts
+# English for text drawn as pictures (tools/gfx.py gen -> gfx/<key>.png). Terms follow glossary.md; chapter and song
+# titles match script/ui/ui_chapter.json.
+# --- system menus (NOINST/ui) ---
+NOINST/ui/graphics/sys_001_011.d2c_21d64	small	OK
+NOINST/ui/graphics/sys_001_011.d2c_22544	small	Select
+NOINST/ui/graphics/sys_001_011.d2c_432e4	small	Sound Settings
+NOINST/ui/graphics/sys_002_001.d2c_102a8	small	Menu
+NOINST/ui/graphics/sys_003_001.d2c_158a0	menu	Difficulty
+NOINST/ui/graphics/sys_003_001.d2c_17e90	small	Defaults
+NOINST/ui/graphics/sys_003_001.d2c_1a320	small	Live Difficulty Select
+NOINST/ui/graphics/sys_004_001.d2c_c94c	small	Chapter Select
+NOINST/ui/graphics/sys_005_001.d2c_4c508	small	Options
+NOINST/ui/graphics/sys_006_001.d2c_15edc	menu	Text Speed
+NOINST/ui/graphics/sys_006_001.d2c_17fcc	menu	Skip Mode
+NOINST/ui/graphics/sys_006_001.d2c_1a0bc	menu	Auto Speed
+NOINST/ui/graphics/sys_006_001.d2c_1eb1c	small	Game Settings
+NOINST/ui/graphics/sys_006_001.d2c_1f40c	menu	Skip Speed
+NOINST/ui/graphics/sys_006_002.d2c_1530	small	Slow	box=0,0,32,32
+NOINST/ui/graphics/sys_006_002.d2c_1820	small	Fast	box=0,0,32,32
+NOINST/ui/graphics/sys_006_004.d2c_26a4	small	Read
+NOINST/ui/graphics/sys_006_004.d2c_2b94	small	All
+NOINST/ui/graphics/sys_007_001.d2c_15efc	menu	BGM Volume
+NOINST/ui/graphics/sys_007_001.d2c_17fec	menu	SE Volume
+NOINST/ui/graphics/sys_007_001.d2c_1a0dc	menu	System Volume
+NOINST/ui/graphics/sys_007_001.d2c_1c1cc	menu	Voice Volume
+NOINST/ui/graphics/sys_007_002.d2c_1380	small	Low	box=0,0,32,32
+NOINST/ui/graphics/sys_007_002.d2c_1670	small	High	box=0,0,32,32
+NOINST/ui/graphics/sys_008_001.d2c_1d408	menu	Advance Text
+NOINST/ui/graphics/sys_008_001.d2c_214f8	menu	Open System Menu
+NOINST/ui/graphics/sys_008_001.d2c_255e8	menu	Skip Mode
+NOINST/ui/graphics/sys_008_001.d2c_276d8	menu	Auto Mode
+NOINST/ui/graphics/sys_008_001.d2c_297e8	menu	Quick Save
+NOINST/ui/graphics/sys_008_001.d2c_2b8d8	menu	Quick Load
+NOINST/ui/graphics/sys_008_001.d2c_32428	small	Key Config
+NOINST/ui/graphics/sys_009_001.d2c_19000	menu	Use Install Data
+NOINST/ui/graphics/sys_009_001.d2c_1b0f0	menu	Install
+NOINST/ui/graphics/sys_009_001.d2c_1d1e0	menu	Delete Data
+NOINST/ui/graphics/sys_009_001.d2c_21c40	small	Data Management
+NOINST/ui/graphics/sys_010_001.d2c_21780	menu	Ultra Soul ROCK Story
+NOINST/ui/graphics/sys_010_001.d2c_29870	menu	Data Link
+NOINST/ui/graphics/sys_011_001.d2c_45e8c	small	Extras
+NOINST/ui/graphics/sys_012_001.d2c_14138	small	Sort
+NOINST/ui/graphics/sys_012_001.d2c_14918	small	Page Skip
+NOINST/ui/graphics/sys_012_001.d2c_165c8	small	Event Gallery
+NOINST/ui/graphics/sys_012_004.d2c_1e50	small	Show/Hide Help
+NOINST/ui/graphics/sys_012_004.d2c_2a50	small	Cancel
+NOINST/ui/graphics/sys_013_001.d2c_1a2d0	small	Movie Gallery
+NOINST/ui/graphics/sys_014_001.d2c_143d0	small	Skits
+NOINST/ui/graphics/sys_015_001.d2c_12914	small	Stop
+NOINST/ui/graphics/sys_015_001.d2c_12e04	small	Soundtrack
+NOINST/ui/graphics/sys_015_001.d2c_fd74	small	Play/Pause
+NOINST/ui/graphics/sys_017_001.d2c_48ff0	small	Back to Chapter Select
+NOINST/ui/graphics/sys_018_001.d2c_85bb8	small	Next
+NOINST/ui/graphics/sys_018_001.d2c_860c8	small	Retry
+NOINST/ui/graphics/sys_020_001.d2c_222d4	small	Profiles
+NOINST/ui/graphics/sys_020_002.d2c_402ec	small	Switch Character
+NOINST/ui/graphics/sys_022_000.d2c_16010	plain	Select	box=0,0,32,16
+NOINST/ui/graphics/sys_023_000.d2c_c6c8	plain	OK	box=0,0,32,16
+NOINST/ui/graphics/sys_444_001.d2c_d354	small	Difficulty Select
+NOINST/ui/graphics/sys_444_001.d2c_dc44	small	Live Select
+# --- rhythm game (INST/play) ---
+INST/play/graphics/gam_000_003.d2c_6490	small	Back
+INST/play/graphics/gam_100_033.d2c_bfc8	small	Resume
+INST/play/graphics/gam_100_033.d2c_cba8	small	Back to Top Menu
+INST/play/graphics/gam_100_034.d2c_cba8	small	Back to Live Select
+# --- chapter cards (INST/scene ui_tit_1xx: number card + one or two title cards) ---
+INST/scene/graphics/ui_tit_101.d2c_a310	title	Chapter 1
+INST/scene/graphics/ui_tit_101.d2c_c5e0	title	Destiny, Fate,
+INST/scene/graphics/ui_tit_101.d2c_148b0	title	Rock of Passion
+INST/scene/graphics/ui_tit_102.d2c_a310	title	Chapter 2
+INST/scene/graphics/ui_tit_102.d2c_c5e0	title	Resonance!
+INST/scene/graphics/ui_tit_102.d2c_148b0	title	Three Rebels!
+INST/scene/graphics/ui_tit_103.d2c_a310	title	Chapter 3
+INST/scene/graphics/ui_tit_103.d2c_c5e0	title	Absolute Idols,
+INST/scene/graphics/ui_tit_103.d2c_148b0	title	the Shinsengumi
+INST/scene/graphics/ui_tit_104.d2c_a310	title	Chapter 4
+INST/scene/graphics/ui_tit_104.d2c_c5e0	title	Clash!
+INST/scene/graphics/ui_tit_104.d2c_148b0	title	Rebels vs. Idols!
+INST/scene/graphics/ui_tit_105.d2c_a310	title	Chapter 5
+INST/scene/graphics/ui_tit_105.d2c_c5e0	title	Awakening!
+INST/scene/graphics/ui_tit_105.d2c_148b0	title	The Soul Within
+INST/scene/graphics/ui_tit_106.d2c_11f2c	title	Chapter 6
+INST/scene/graphics/ui_tit_106.d2c_9c5c	title	Flower of Evil
+INST/scene/graphics/ui_tit_107.d2c_a310	title	Chapter 7
+INST/scene/graphics/ui_tit_107.d2c_c5e0	title	Cry of the Soul!
+INST/scene/graphics/ui_tit_107.d2c_148b0	title	A New Vow!
+INST/scene/graphics/ui_tit_108.d2c_a310	title	Chapter 8
+INST/scene/graphics/ui_tit_108.d2c_c5e0	title	Rock Is a Crime
+INST/scene/graphics/ui_tit_108.d2c_148b0	title	The Execution Idol Descends
+INST/scene/graphics/ui_tit_109.d2c_11f2c	title	Chapter 9
+INST/scene/graphics/ui_tit_109.d2c_9c5c	title	I Am Rock!
+INST/scene/graphics/ui_tit_110.d2c_a310	title	Chapter 10
+INST/scene/graphics/ui_tit_110.d2c_c5e0	title	A New Dawn!
+INST/scene/graphics/ui_tit_110.d2c_148b0	title	A New World!
+INST/scene/graphics/ui_tit_111.d2c_5e4c	title	Ultra Soul Chapter 1
+INST/scene/graphics/ui_tit_111.d2c_7f3c	title	The Emperor Descends!
+INST/scene/graphics/ui_tit_112.d2c_5e4c	title	Ultra Soul Chapter 2
+INST/scene/graphics/ui_tit_112.d2c_7f3c	title	Makoto Mask Arrives!
+INST/scene/graphics/ui_tit_113.d2c_613c	title	Ultra Soul Chapter 3
+INST/scene/graphics/ui_tit_113.d2c_822c	title	Passion! Blaze!
+INST/scene/graphics/ui_tit_113.d2c_c31c	title	Fuji ROCK Festival!
+# --- ADV notices ---
+# unlock notices: "!" icon + gradient bar kept, the bar's lettering rebuilt from the rows around it
+INST/scene/graphics/adv_300_000.d2c_bc8	notice	Profile Unlocked!	keep erase=19,4,135,20 box=19,4,135,20
+INST/scene/graphics/adv_300_001.d2c_bcc	notice	Profile Updated!	keep erase=19,4,135,20 box=19,4,135,20
+INST/scene/graphics/adv_300_all.d2c_232c	notice	Profile Unlocked!	keep erase=19,4,135,20 box=19,4,135,20
+INST/scene/graphics/adv_300_all.d2c_6ccc	notice	Bonus Scenario Unlocked!	keep erase=19,4,150,20 box=19,4,150,20
+INST/scene/graphics/adv_300_all.d2c_919c	small	Skit Unlocked!	keep erase=19,4,103,20 box=19,4,103,20
+INST/scene/graphics/adv_300_all.d2c_a66c	notice	Ending Unlocked!	keep erase=19,4,135,20 box=19,4,135,20
+INST/scene/graphics/adv_301_000.d2c_bc8	notice	Sub-Scenario Unlocked!	keep erase=19,4,135,20 box=19,4,135,20
+INST/scene/graphics/adv_302_000.d2c_a9c	small	Skit Unlocked!	keep erase=19,4,103,20 box=19,4,103,20
+INST/scene/graphics/adv_000_002.d2c_e18	notice	Quick save?	keep smear=40,3,176,25,8 box=40,3,176,25
+INST/scene/graphics/adv_303_000.d2c_1b08	small	FANS UP!	keep clear=56,8,72,50 box=56,12,70,40 fill=FF3C78
+INST/scene/graphics/adv_303_000.d2c_1b08	small	FANS\nWAY UP!	clear=56,58,72,62 box=56,62,70,52 fill=FF3C78
+INST/scene/graphics/adv_008_000.d2c_2eb50	small	Skip

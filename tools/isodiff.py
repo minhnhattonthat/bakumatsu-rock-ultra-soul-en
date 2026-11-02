@@ -3,7 +3,8 @@
     python -X utf8 tools/isodiff.py [BUILT_ISO] [--texts script]
 
 Fails (exit 1) on any of:
-  - an ISO sector outside the edited files' old extents, their directory records, the PVD and the appended tail;
+  - an ISO sector outside the edited files' old extents; a directory/PVD byte other than the edited files' extent/size
+    fields and the volume size; an unedited file's extent/size; an appended tail that isn't the relocated edits;
   - a CPK entry that differs from the original but is not an edit, or an edit whose stored bytes are not the plan's;
   - an edited UI table byte outside its string slots; an EBOOT byte outside the save-title slots and ADV_CODE words
     (against the plain work/eboot/EBOOT.ELF); a PARAM.SFO byte outside the title slot.
@@ -63,13 +64,34 @@ def check(built, ed):
         new = {p: (lba, ln, pos) for p, lba, ln, pos in iso9660.listing(fn)}
         size = fo.seek(0, 2)
         edited = ['/PSP_GAME/USRDIR/%s.CPK' % c for c in build.CPKS if ed[c]] + list(ed['iso'])
-        allowed = {16}
+        allowed, meta = set(), {16: [(80, 8)]}   # PVD: only the volume space size
         for p in edited:
             lba, ln, pos = old[p]
-            allowed |= set(range(lba, lba + -(-ln // SEC))) | {pos // SEC}
-        probs += [f'ISO sector {s} changed outside the edited files' for s in bad_sectors(fo, fn, allowed, size)][:5]
+            allowed |= set(range(lba, lba + -(-ln // SEC)))
+            meta.setdefault(pos // SEC, []).append((pos % SEC + 2, 16))   # its record's extent + size, both endians
+        probs += [f'ISO sector {s} changed outside the edited files'
+                  for s in bad_sectors(fo, fn, allowed | set(meta), size)][:5]
+        for s, spans in sorted(meta.items()):   # directory/PVD sectors byte by byte
+            fo.seek(s * SEC); fn.seek(s * SEC)
+            probs += [f'ISO sector {s} byte {x} changed outside the edited records'
+                      for x in spans_diff(fo.read(SEC), fn.read(SEC), spans)]
         if set(old) != set(new):
             probs.append('ISO file list changed')
+        else:
+            probs += [f'{p}: extent/size changed but not an edit' for p in old
+                      if p not in edited and old[p][:2] != new[p][:2]]
+            probs += [f'{p}: grew in place over the next file' for p in edited
+                      if new[p][0] == old[p][0] and -(-new[p][1] // SEC) > -(-old[p][1] // SEC)]
+            # appended tail = exactly the relocated edits, back to back from the old end, and the PVD says so
+            end = size // SEC
+            for lba, n in sorted((new[p][0], -(-new[p][1] // SEC)) for p in edited if new[p][0] != old[p][0]):
+                if lba != end:
+                    probs.append(f'relocated file at sector {lba}, expected {end}')
+                end = lba + n
+            fn.seek(16 * SEC + 80)
+            vol = int.from_bytes(fn.read(4), 'little')
+            if fn.seek(0, 2) != end * SEC or vol != end:
+                probs.append(f'ISO size {fn.seek(0, 2) // SEC} / PVD {vol} sectors, planned {end}')
         for c in build.CPKS:
             p = '/PSP_GAME/USRDIR/%s.CPK' % c
             _, _, ents_o = cpk.parse(_head(fo, old[p][0]), Sub(fo, old[p][0] * SEC))

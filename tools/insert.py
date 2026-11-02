@@ -280,7 +280,7 @@ def plan(directory=SCRIPT, log=None, eboot=False):
         out = patch_script(rel, data, texts[rel], kind, shared if kind == 'scene' else None, own_names)
         if out is not None:
             ed['INST'][key] = out
-            if log: log(f'{rel}: {len(own)} strings, {len(data)} -> {len(out)} bytes')
+            if log: log(f'{rel}: {len(texts[rel])} strings, {len(data)} -> {len(out)} bytes')
     # the shared name table alone (phase 6: only names translated) still rebuilds every scene script
     if shared and not any(r.startswith('scene/') for r in texts):
         for fn in sorted(os.listdir(os.path.join(CPK, *SCENE_DIR))):

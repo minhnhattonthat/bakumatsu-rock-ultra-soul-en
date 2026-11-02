@@ -31,7 +31,7 @@ STYLES = {
     'menu': dict(font_name='Anton-Regular.ttf', stroke=(2, BLACK)),            # white heavy menu labels, black edge
     'small': dict(font_name='Anton-Regular.ttf', stroke=(1, BLACK)),           # small hint labels (決定, 戻る)
     'title': dict(font_name='PT_Serif-Web-Bold.ttf', stroke=(2, BLACK), align='c'),     # chapter cards, serif like the Mincho
-    'sfx': dict(font_name='Bangers-Regular.ttf', stroke=(3, BLACK)),            # manga sound effects
+    'sfx': dict(font_name='Bangers-Regular.ttf', auto=True, maxsize=110),      # manga sound effects
     'banner': dict(font_name='Anton-Regular.ttf', stroke=(2, BLACK)),
     'notice': dict(font_name='Anton-Regular.ttf', fill=(40, 16, 24, 255), align='c'),   # dark text on a light bar
     'soul': dict(font_name='Anton-Regular.ttf', align='c', maxsize=64),                 # glowing rhythm-game soul words (glow=)
@@ -154,6 +154,13 @@ def render(key, style, en, opts, base=None):
         img.paste((0, 0, 0, 0), (x, y, x + bw, y + bh))
     rot = int(opts.get('rot', ['0'])[0])
     st = dict(STYLES[style])
+    if st.pop('auto', False):   # SFX: dark lettering with a white edge, or white with a black edge, like the original
+        core = [p for p in orig.getdata() if p[3] > 200]
+        dark = core and sum(sum(p[:3]) for p in core) / len(core) < 300
+        st['fill'], st['stroke'] = ((24, 28, 28, 255), (3, WHITE)) if dark else (WHITE, (3, BLACK))
+        x0, y0, x1, y1 = orig.getbbox() or (0, 0, w, h)
+        if not rot and len(en) > 2 and y1 - y0 > 1.6 * (x1 - x0):   # vertical lettering: run the word down the strip
+            rot = 270
     if 'font' in opts:
         st['font_name'] = opts['font'][0]
     if 'stroke' in opts:   # stroke=W,RRGGBB (W=0: none)

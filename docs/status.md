@@ -42,14 +42,18 @@ Updated at the end of every session. Keep it to what the next session needs; his
     `docs/story-reviewer-brief.md`; verdicts `work/qa/story/verdicts/`): 21/21 ok, one Important fixed
     (m_006001:0x34928 Ryoma's 風流 line), 117 Minors -> polish.md "Story pass" section. Speaker column is "-" (the
     speaker op isn't decoded), reviewers inferred speakers.
-  - **Known issue (open):** the ADV back log shows no speaker labels in English (JP: 坂本龍馬 / ト書き left of each
-    entry). Not the names (Japanese names also vanish), not font24, not the box mode (a build that keeps mode 2:
-    still no labels), not the EBOOT code (a build without ADV_CODE/TEXT_CODE: still none). The English back log also
-    lists fewer entries and opens at the top, where the original opens scrolled to the newest line: so it is in how
-    the scene text is stored per entry. Next: a read watch on the op-0x19 table / the back-log entry buffer.
-    Warp row `adv_backlog_talk` shows it. Listed under Known issues in the release README.
+  - **Back log speaker labels fixed** (2adec6e): op 0x37 `217, x, W` holds the word offset of the op-0x19 table's
+    first slot; resized slots before the table left it stale (labels read other script bytes or nothing). insert.py
+    re-maps it by slot (`TABLE_REF_OP`, self-check + test). Proof: a same-size-slot build had labels, a build growing
+    one early slot lost them; RAM showed the back log buffer `#NN<text>` (NN = speaker index). Labels: 96 px per
+    line, `\n` = 2nd line ("Ryoma\nSakamoto", "Ryoma/\nTakasugi"), lint `LABEL_PX`. "Fewer entries" was the route:
+    English lines type out longer, so some circle presses finish the line instead of advancing.
+    `tools/debug/ramdump.py STATE OUT` dumps RAM from a state.
+  - Story-pass minors: all 117 applied (90f3c52); Ryoma's ピッツァ/ぴっつぁ = "peetsa" everywhere (brief updated).
   - jp_left: `tools/textscan.py` (every text record read back from the built ISO) + `jp_left.py` -> 0 runs.
-  - **Left in phase 8:** re-tour on the fixed build + visual-QA round 2.
+  - Tour: `warp.py --all --sheet --iso build/bakumatsu_rock_us_en.iso` (**warp's default ISO is the JP ROM**), then
+    `tools/tour.py` (every sheet page -> `work/qa/tour/`, 150 sheets), then `qa_gate.py init`.
+  - **Left in phase 8:** visual-QA round 3 verdicts on the 150 sheets of build 73788b78 (round 1/2 only saw page 1).
 - **Phase 7 done** (2026-11-03): build green.
   - `tools/lint.py` over every `script/` entry (in `tools/check.py` via `tests/test_lint.py`): ADV px/lines, byte
     slots, control codes, non-ASCII/leftover JP, glossary (on the unwrapped text), ordinals, blanks, one-word last

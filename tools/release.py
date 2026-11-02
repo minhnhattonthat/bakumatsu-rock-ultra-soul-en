@@ -67,7 +67,6 @@ Translation status
   signs, banners and crests painted into backgrounds; the game's logo.
 
 Known issues
-  - The back log (SELECT in a scene) shows no speaker name next to each line.
   - Two profile names are shortened to fit their slot: "S. Takasugi", "T. Hijikata" (and three voice actors).
   - Option > Data install copies the original Japanese data: leave install off.
 

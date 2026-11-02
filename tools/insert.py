@@ -98,6 +98,19 @@ TEXT_CODE = [
     (0x088cb4a4, 0x34050062, 0x34050073),  # 's' in a1
     (0x088cb4a8, 0xa3a40040, 0xa3a50040),  #   sb a1, 0x40(sp) (was a0, shared with 'm')
     (0x088cb4ac, 0xa3a50041, 0xa3a00041),  #   sb zero, 0x41(sp)
+    # 0x088543b0, skit balloon line: x = (W - clamp(charW * strlen / 2)) / 2, i.e. 8 px per byte. Measure the line
+    # with the engine's own pixel width (0x08805524: font advances summed, as ADV mode 3 does) instead. The ELF is
+    # relocatable: jal words are unrelocated (target - 0x08804000) and stay on the two jal slots (R_MIPS_26 relocs).
+    # s6 (char width) only fed the removed mult and is reloaded per outer pass, so it holds the width.
+    (0x088545d4, 0x00000000, 0x02202825),  # move a1, s1 (the line; beqz delay slot, a1 dead on the other path)
+    (0x088545dc, 0x0c0140d7, 0x0c000549),  # jal 0x08805524 (was jal 0x0885435c)
+    (0x088545e0, 0x02a02025, 0x03c02025),  #   move a0, fp (font)
+    (0x088545e4, 0x00409825, 0x0040b025),  # move s6, v0 (width px; was move s3, v0)
+    (0x088545e8, 0x0c0813c7, 0x0c0140d7),  # jal 0x0885435c (balloon width; was jal strlen)
+    (0x088545ec, 0x02202025, 0x02a02025),  #   move a0, s5
+    (0x088545f0, 0x00022042, 0x00409825),  # move s3, v0 (was srl)
+    (0x088545f4, 0x02c40018, 0x02c02025),  # move a0, s6 (was mult)
+    (0x088545fc, 0x00002012, 0x00000000),  # nop (was mflo)
 ]
 CHAPTER_END_IDS = list(range(2, 12)) + [34, 35, 36]   # 0x088d7538: ids that reach the strstr (33 has no 話 in JP)
 ELF_BASE = 0x08804000 - 0xc0

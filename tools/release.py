@@ -42,7 +42,7 @@ README = """Bakumatsu Rock: Ultra Soul - English translation patch v{version}
 Unofficial fan translation of Bakumatsu Rock: Ultra Soul (PSP, Marvelous, 2014). No game data is included and no
 pre-patched images are provided: you need your own dump of the Japanese UMD.
 
-Base image (Redump: "{rom_name}")
+Base image (Redump: "{rom_name}", http://redump.org/discs/quicksearch/Bakumatsu%20Rock/)
   size   {base[size]} bytes
   CRC32  {base[crc32]}
   MD5    {base[md5]}
@@ -57,6 +57,8 @@ How to patch
 
 Tested in PPSSPP (v1.20.4 and its headless build). On a fresh memory stick the game shows an autosave notice, then
 "Failed to load system data. Try loading again?": answer No and a new system file is made.
+Start the patched game from a cold boot: emulator savestates made with the Japanese image keep its old code and
+text.
 Real hardware: the patch ships a decrypted EBOOT (the dialogue layout needs a small code change), which custom
 firmware runs; an unmodified PSP will not.
 
@@ -120,7 +122,9 @@ def main():
     step('patch')
     os.makedirs(REL, exist_ok=True)
     ppath = os.path.join(REL, patch)
-    run(['xdelta3', '-e', '-f', '-9', '-S', 'djw', '-s', build.ROM, build.OUT, ppath])
+    # -B: source window = the whole ISO; the rebuilt CPKs move data further than the 64 MB default (994 MB patch -> 8 MB).
+    # A plain `xdelta3 -d` decodes it (the re-apply below runs that).
+    run(['xdelta3', '-e', '-f', '-9', '-S', 'djw', '-B', '1879048192', '-s', build.ROM, build.OUT, ppath])
     step('re-apply to the clean original')
     check_rom.check()
     again = os.path.join(ROOT, 'build', 'reapplied.iso')

@@ -271,3 +271,10 @@ text is English. Op 0x4E pitch 24 -> 16 and gap -> 0 for boxes 0-2 (the VWF adva
 
 So `vwf.ADV_LINE_PX = 112`, `vwf.ADV_LINES = 8` for every speech line (the panel can't be known from the line).
 Other boxes keep the table in §7.
+
+**Skit balloons** (0x088543b0, per line): x = (W - clamp(charW * strlen / 2, 0, W)) / 2, W from 0x0885435c,
+drawn by 0x08805380 (font ctx in `fp`, loaded from `+0x2260` as the ADV printer does). 8 px per byte, so English sat left of centre.
+`insert.TEXT_CODE` measures the line with 0x08805524 (sum of font advances, stops at `\n`; ADV mode 3 uses it too).
+**The EBOOT ELF is relocatable**: jal words in the file are unrelocated (`target - 0x08804000`) and carry R_MIPS_26
+relocs, so a patch must keep a jal on each jal slot (a `move` there gets the base added). `mips.py` reads the
+relocated RAM dump; check the ELF word before writing an `(old, new)` pair.

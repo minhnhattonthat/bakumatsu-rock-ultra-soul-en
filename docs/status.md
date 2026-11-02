@@ -2,9 +2,18 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 9 (release) **next**. To do: the one unticked polish.md line (skit balloon centring: fix in the EBOOT
-  or waive), then `tools/release.py` (patch + README; never `gh release create`), `jp_left.py` on the release build,
-  debug tool off (warp is external, nothing in the ISO), re-apply/verify the patch.
+- **Phase:** 9 (release) **done**. The project is at a built, verified release zip; publishing (`gh release create`)
+  is the user's call (D9). Next: player bug reports (GitHub issues), the INST.DNS install-path patch if wanted.
+- **Release v1.0** (2026-11-03): `tools/release.py` exit 0 -> `release/Bakumatsu_Rock_Ultra_Soul_EN_v1.0.zip`
+  (xdelta 7,977,825 bytes, sha1 0cf4239d60760caec48cf29763f823ba5798ab8d, + README.txt). Patched image = build
+  sha1 72fc332bc96076e1d86c5e7436e60ad57f4ecf17 (CRC32 588ae4c5). Steps all passed: build (isodiff), tests 40/40,
+  smoke exit 0, jp_left 0 runs (24,407 records), visual gate 152/152, story gate 21/21, polish 0 unticked, debug off,
+  re-applied to the clean original with plain `xdelta3 -d` -> same sha1. xdelta needs `-B 1879048192` (source window
+  = whole ISO): the default 64 MB window gave a 994 MB patch.
+- **Phase 9** (2026-11-03): skit balloon centring fixed in the EBOOT (`insert.TEXT_CODE` 0x088545d4..fc: line
+  measured with 0x08805524 = font advances; `text.md` §8 "Skit balloons", incl. the relocatable-ELF jal gotcha),
+  in game on `gallery_skit_more`, visual QA r4 (3 re-shot skit sheets, `verdicts/r4_chunk_000.tsv`) -> gate 152/152.
+  polish.md: 0 unticked. README in `release.py`: Redump search link, cold-boot note.
 - **Phase 8 done** (2026-11-03): build 73788b787f8bb8315e5db97f7fe3d2f44174112b, smoke exit 0, tour 137/137 warps ok,
   visual QA round 3: 152/152 sheets ok (`qa_gate.py check work/qa/manifest.tsv work/qa/verdicts` exit 0; 5 reviewers
   on 150 sheets, `gallery_skit_more` (new row) read by the controller); story gate 21/21. No game-over screen exists

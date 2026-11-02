@@ -197,6 +197,71 @@ INST/play/graphics/gam_689.gim_0	soul	VI	glow=auto
 INST/play/graphics/gam_690.gim_0	soul	S	glow=auto
 INST/play/graphics/gam_691.gim_0	soul	TRI	glow=auto
 INST/play/graphics/gam_692.gim_0	soul	P	glow=auto
+# --- character cut-ins (adv_009): one name kanji per tile -> the English name (given name first) over the 4 tiles
+INST/scene/graphics/adv_009_001.d2c_28ca8	cutin	RYO
+INST/scene/graphics/adv_009_001.d2c_24ac8	cutin	MA
+INST/scene/graphics/adv_009_001.d2c_26bb8	cutin	SAKA
+INST/scene/graphics/adv_009_001.d2c_229d8	cutin	MOTO
+INST/scene/graphics/adv_009_001.d2c_43358	plain	CV: Kisho Taniyama	stroke=1,000000 box=1,1,254,30 align=l
+INST/scene/graphics/adv_009_002.d2c_18c0c	cutin	SHIN
+INST/scene/graphics/adv_009_002.d2c_14a2c	cutin	SAKU
+INST/scene/graphics/adv_009_002.d2c_16b1c	cutin	TAKA
+INST/scene/graphics/adv_009_002.d2c_1293c	cutin	SUGI
+INST/scene/graphics/adv_009_002.d2c_1acfc	plain	CV: Tatsuhisa Suzuki	stroke=1,000000 box=1,1,254,30 align=l
+INST/scene/graphics/adv_009_003.d2c_229ec	cutin	KO
+INST/scene/graphics/adv_009_003.d2c_24adc	cutin	GORO
+INST/scene/graphics/adv_009_003.d2c_26bcc	cutin	KATSU
+INST/scene/graphics/adv_009_003.d2c_28cbc	cutin	RA
+INST/scene/graphics/adv_009_003.d2c_4336c	plain	CV: Showtaro Morikubo	stroke=1,000000 box=1,1,254,30 align=l
+INST/scene/graphics/adv_009_004.d2c_229e0	cutin	TOSHI
+INST/scene/graphics/adv_009_004.d2c_24ad0	cutin	ZO
+INST/scene/graphics/adv_009_004.d2c_26bc0	cutin	HIJI
+INST/scene/graphics/adv_009_004.d2c_28cb0	cutin	KATA
+INST/scene/graphics/adv_009_004.d2c_43360	plain	CV: Toshiyuki Morikawa	stroke=1,000000 box=1,1,254,30 align=l
+INST/scene/graphics/adv_009_005.d2c_28f90	cutin	SO
+INST/scene/graphics/adv_009_005.d2c_26ea0	cutin	JI
+INST/scene/graphics/adv_009_005.d2c_24db0	cutin	OKI
+INST/scene/graphics/adv_009_005.d2c_22cc0	cutin	TA
+INST/scene/graphics/adv_009_005.d2c_2b080	plain	CV: Kensho Ono	stroke=1,000000 box=1,1,254,30 align=l
+INST/scene/graphics/adv_009_006.d2c_193b8	cutin	JU
+INST/scene/graphics/adv_009_006.d2c_172c8	cutin	NI
+INST/scene/graphics/adv_009_006.d2c_151d8	cutin	O
+INST/scene/graphics/adv_009_006.d2c_130e8	cutin	R
+INST/scene/graphics/adv_009_006.d2c_33a68	plain	CV: Junichi Suwabe	stroke=1,000000 box=1,1,254,30 align=l
+INST/scene/graphics/adv_009_007.d2c_142c4	plain	CV: Yuh	stroke=1,000000 box=1,1,254,30 align=l
+# Ryoma's portrait card (adv_220, 15 strips): the white name over the red texture inpainted, then redrawn
+PAGE:INST/scene/graphics/adv_220_000.d2c	menu	Ryoma\nSakamoto	keep inpaint=36,128,116,98 box=14,130,136,92 align=r stroke=0
+# --- ending narration (adv_050/051): one vertical column per strip; English runs down each strip (turn the head
+# right: the columns, read right to left, become lines). Lines follow the reading order, not the Japanese phrase.
+INST/scene/graphics/adv_050_001.d2c_1190	narr	From the keep of Nijo Castle,	rot=270 valign=t
+INST/scene/graphics/adv_050_001.d2c_2280	narr	backed by the five's playing,	rot=270 valign=t
+INST/scene/graphics/adv_050_001.d2c_3370	narr	Yoshinobu's song rang out.	rot=270 valign=t
+INST/scene/graphics/adv_050_002.d2c_5f7c	narr	Awoken from their sleep,	rot=270 valign=t
+INST/scene/graphics/adv_050_002.d2c_4e8c	narr	the people of Kyoto	rot=270 valign=t
+INST/scene/graphics/adv_050_002.d2c_3d9c	narr	listened for a while,	rot=270 valign=t
+INST/scene/graphics/adv_050_002.d2c_2cac	narr	spellbound by	rot=270 valign=t
+INST/scene/graphics/adv_050_002.d2c_1bbc	narr	that beautiful voice.	rot=270 valign=t
+INST/scene/graphics/adv_050_003.d2c_1bbc	narr	That song, they say,	rot=270 valign=t
+INST/scene/graphics/adv_050_003.d2c_2cac	narr	was rock 'n' roll	rot=270 valign=t
+INST/scene/graphics/adv_050_003.d2c_3d9c	narr	like the break of dawn,	rot=270 valign=t
+INST/scene/graphics/adv_050_003.d2c_4e8c	narr	the kind that shakes	rot=270 valign=t
+INST/scene/graphics/adv_050_003.d2c_5f7c	narr	anyone's soul...	rot=270 valign=t
+INST/scene/graphics/adv_051_001.d2c_4978	narr	And so the special stage,	rot=270 valign=t
+INST/scene/graphics/adv_051_001.d2c_3888	narr	built at vast expense,	rot=270 valign=t
+INST/scene/graphics/adv_051_001.d2c_2798	narr	burned to the ground	rot=270 valign=t
+INST/scene/graphics/adv_051_001.d2c_16a8	narr	in a single day.	rot=270 valign=t
+INST/scene/graphics/adv_051_002.d2c_5f80	narr	The Live that was	rot=270 valign=t
+INST/scene/graphics/adv_051_002.d2c_4e90	narr	to decide Japan's fate	rot=270 valign=t
+INST/scene/graphics/adv_051_002.d2c_3da0	narr	came to an end	rot=270 valign=t
+INST/scene/graphics/adv_051_002.d2c_2cb0	narr	with nothing	rot=270 valign=t
+INST/scene/graphics/adv_051_002.d2c_1bc0	narr	settled.	rot=270 valign=t
+INST/scene/graphics/adv_051_003.d2c_1190	narr	But everyone	rot=270 valign=t
+INST/scene/graphics/adv_051_003.d2c_2280	narr	who rushed there that day	rot=270 valign=t
+INST/scene/graphics/adv_051_003.d2c_3370	narr	says the same thing:	rot=270 valign=t
+INST/scene/graphics/adv_051_004.d2c_4978	narr	what they found there	rot=270 valign=t
+INST/scene/graphics/adv_051_004.d2c_3888	narr	was true,	rot=270 valign=t
+INST/scene/graphics/adv_051_004.d2c_2798	narr	soul-shaking	rot=270 valign=t
+INST/scene/graphics/adv_051_004.d2c_16a8	narr	rock 'n' roll.	rot=270 valign=t
 # --- manga sound effects (ADV). Whole-word images get an English SFX; the pieces of an animated word (one file = one
 # word, one kana per image) get the kana's romaji (small tsu = "!"); dash, dakuten and shard pieces stay as drawn.
 INST/scene/graphics/adv_253_000.d2c_788	sfx	SLIDE
@@ -521,6 +586,11 @@ INST/scene/graphics/adv_000_002.d2c_e18	notice	Quick save?	keep smear=40,3,176,2
 INST/scene/graphics/adv_303_000.d2c_1b08	small	FANS UP!	keep clear=56,8,72,50 box=56,12,70,40 fill=FF3C78
 INST/scene/graphics/adv_303_000.d2c_1b08	small	FANS\nWAY UP!	clear=56,58,72,62 box=56,62,70,52 fill=FF3C78
 INST/scene/graphics/adv_008_000.d2c_2eb50	small	Skip
+# fan medals (1万 = 10,000 fans): ring kept, the inside redrawn
+INST/scene/graphics/adv_008_000.d2c_1e1d0	small	10K	keep clearcircle=64,64,45 box=24,36,80,56
+INST/scene/graphics/adv_008_000.d2c_202c0	small	20K	keep clearcircle=64,64,45 box=24,36,80,56
+INST/scene/graphics/adv_008_000.d2c_223b0	small	30K	keep clearcircle=64,64,51 ring=64,64,47,3 box=27,40,74,48
+INST/scene/graphics/adv_008_000.d2c_244a0	small	50K	keep clearcircle=64,64,56 ring=64,64,54,9 ring=64,64,43,4 box=31,44,66,40
 # chapter-end menu buttons, 3 lettered states (yellow/red/white, then 2 blank states) per image
 INST/scene/graphics/adv_002_001.d2c_898	notice	Save	keep erase=8,10,112,33 box=8,10,112,33 fill=000000
 INST/scene/graphics/adv_002_001.d2c_898	small	Save	erase=8,60,112,33 box=8,60,112,33

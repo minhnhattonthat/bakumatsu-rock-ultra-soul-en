@@ -35,6 +35,8 @@ STYLES = {
     'banner': dict(font_name='Anton-Regular.ttf', stroke=(2, BLACK)),
     'notice': dict(font_name='Anton-Regular.ttf', fill=(40, 16, 24, 255), align='c'),   # dark text on a light bar
     'soul': dict(font_name='Anton-Regular.ttf', align='c', maxsize=64),                 # glowing rhythm-game soul words (glow=)
+    'cutin': dict(font_name='Anton-Regular.ttf', stroke=(1, BLACK), maxsize=48),   # character name cut-in tiles
+    'narr': dict(font_name='PT_Serif-Web-Bold.ttf', stroke=(2, (12, 60, 60, 255)), size=19),   # ending narration
     'body': dict(font_name='PT_Serif-Web-Bold.ttf', fill=(20, 20, 20, 255), align='l'),   # tutorial/manual body text
     'plain': dict(font_name='ArchivoBlack-Regular.ttf'),
 }
@@ -149,6 +151,17 @@ def render(key, style, en, opts, base=None):
         from collections import Counter
         c = Counter(img.crop((x, y, x + bw, y + bh)).getdata()).most_common(1)[0][0]
         img.paste(c, (x, y, x + bw, y + bh))
+    for v in opts.get('clearcircle', []):   # cx,cy,r: the inside of a ring or medal
+        cx, cy, r = _rect(v)
+        px = img.load()
+        for yy in range(max(cy - r, 0), min(cy + r + 1, h)):
+            for xx in range(max(cx - r, 0), min(cx + r + 1, w)):
+                if (xx - cx) ** 2 + (yy - cy) ** 2 <= r * r:
+                    px[xx, yy] = (0, 0, 0, 0)
+    for v in opts.get('ring', []):   # cx,cy,r,width: redraw a white ring (a medal's inner ring under cleared text)
+        from PIL import ImageDraw
+        cx, cy, r, rw = _rect(v)
+        ImageDraw.Draw(img).ellipse((cx - r, cy - r, cx + r, cy + r), outline=(255, 255, 255, 255), width=rw)
     for v in opts.get('clear', []):
         x, y, bw, bh = _rect(v)
         img.paste((0, 0, 0, 0), (x, y, x + bw, y + bh))
@@ -206,7 +219,7 @@ def render(key, style, en, opts, base=None):
         ink = ink.rotate(rot, expand=True)
         bw, bh = bh, bw
     x = bx + {'l': 1, 'c': (bw - ink.width) // 2, 'r': bw - ink.width - 1}[align if not rot else 'c']
-    y = by + {'t': 1, 'm': (bh - ink.height) // 2, 'b': bh - ink.height - 1}[valign if not rot else 'm']
+    y = by + {'t': 1, 'm': (bh - ink.height) // 2, 'b': bh - ink.height - 1}[valign]
     if glow:
         from PIL import ImageFilter
         a = Image.new('L', img.size, 0)

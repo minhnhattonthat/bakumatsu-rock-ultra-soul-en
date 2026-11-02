@@ -32,7 +32,9 @@ Updated at the end of every session. Keep it to what the next session needs; his
     - `tools/mark.py` -> `work/mark`: 27,808 markers (`[id] The quick brown fox...`). `tools/build.py --texts work/mark`
       builds the marker ISO; it boots (`emu.py --smoke` exit 0) and warps ok. Every toured box shows its id: ADV dialogue
       (vertical, `work/qa/warp/m_001001`), backlog (horizontal, `adv_backlog`), music list + help line (`gallery_music`,
-      `story_menu`), profile, option, chapter, skit, event.
+      `story_menu`), profile, option, chapter, skit, event. **`build/bakumatsu_rock_us_en.iso` currently is that marker
+      build** (sha1 587a1a66008deeaba49b0c0022b1830e9adfa66e); plain `tools/build.py` (empty `en`) rebuilds the
+      byte-identical identity ISO, so pass `--texts work/mark` to reproduce the marker one.
     - Engine finding (see `docs/re/text.md` §7): the engine draws **horizontal** text (menu rows, help line, backlog) and
       **vertical rotated** text (ADV panels) with the same KFNT font. ASCII exists in the font, so English needs the
       horizontal path, i.e. ADV engine work in the EBOOT (D10).

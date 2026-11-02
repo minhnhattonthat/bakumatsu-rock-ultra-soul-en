@@ -1,0 +1,126 @@
+# Scene list for tools/debug/warp.py (tab-separated). Grow it whenever a bug report names a place it cannot reach.
+# kind=script: ARG = scene/script file [;route after the warp press]; STORY->ROCKstory with the script name swapped.
+# kind=menu: ARG = route from the top MENU (STORY highlighted). kind=boot: route from power-on, fresh memstick.
+# SEQ = a sequence that must be entered (- = no check). FRAMES = frames run after ARG.
+# Keys: circle OK, cross back; ADV: start AUTO, triangle MENU, select BACK LOG, square SKIP.
+name	kind	arg	seq	frames	note
+boot_autosave	boot	300 -	-	60	autosave notice (system dialog, game text)
+boot_nosysdata	boot	600 -;6 circle;900 -	-	60	system data not found notice
+boot_retry	boot	600 -;6 circle;900 -;6 circle;600 -	-	60	load failed, retry? Yes/No
+title	boot	600 -;6 circle;900 -;6 circle;600 -;6 right;30 -;6 circle;900 -	-	300	title + PRESS START
+menu_top	menu	10 -	-	60	top MENU (unlocked: NEW badges)
+story_menu	menu	6 circle	-	300	STORY submenu
+story_load	menu	6 circle;300 -;6 up;60 -;6 circle	-	300	LOAD: system dialog, no data
+story_datalink	menu	6 circle;300 -;6 up;40 -;6 up;60 -;6 circle	-	300	data link notice (game text in system dialog)
+story_rock	menu	6 circle;300 -;6 circle	Adventure	900	ROCKstory start (OP_001001)
+story_ultra	menu	6 circle;300 -;6 down;60 -;6 circle	Adventure	900	Ultra Soul ROCKstory start (OP_003001)
+chapter_main	menu	6 down;40 -;6 down;60 -;6 circle	Chapter	400	CHAPTER select, MAIN tab
+chapter_bonus	menu	6 down;40 -;6 down;60 -;6 circle;400 -;6 right	Chapter	200	CHAPTER select, BONUS tab (left/right switch tabs)
+chapter_enter	menu	6 down;40 -;6 down;60 -;6 circle;400 -;6 down;60 -;6 circle	Adventure	700	chapter 1 entered from CHAPTER select (card)
+chapter_bonus_enter	menu	6 down;40 -;6 down;60 -;6 circle;400 -;6 right;200 -;6 circle	Adventure	700	first bonus story entered from CHAPTER select
+gallery_menu	menu	6 down;60 -;6 circle	TopMenuSpecial	300	GALLERY submenu
+gallery_skit	menu	6 down;60 -;6 circle;300 -;6 circle	SkitGallery	400	skit list
+gallery_skit_view	menu	6 down;60 -;6 circle;300 -;6 circle;400 -;6 circle	Skit	500	first skit
+gallery_event	menu	6 down;60 -;6 circle;300 -;6 up;60 -;6 up;60 -;6 circle	EventGallery	400	event list
+gallery_event_view	menu	6 down;60 -;6 circle;300 -;6 up;60 -;6 up;60 -;6 circle;400 -;6 circle	Event	500	first event
+gallery_movie	menu	6 down;60 -;6 circle;300 -;6 up;60 -;6 circle	MovieGallery	400	movie list
+gallery_movie_play	menu	6 down;60 -;6 circle;300 -;6 up;60 -;6 circle;400 -;6 circle	Movie	400	first movie (opening)
+gallery_profile	menu	6 down;60 -;6 circle;300 -;6 down;60 -;6 circle	Profile	400	character profiles
+gallery_music	menu	6 down;60 -;6 circle;300 -;6 down;60 -;6 down;60 -;6 circle	SoundGallery	400	music player
+option_menu	menu	6 up;40 -;6 up;60 -;6 circle	TopMenuOption	300	OPTION submenu
+option_text	menu	6 up;40 -;6 up;60 -;6 circle;300 -;6 circle	TextSetting	300	text settings
+option_sound	menu	6 up;40 -;6 up;60 -;6 circle;300 -;6 down;40 -;6 circle	SoundSetting	300	sound settings
+option_data	menu	6 up;40 -;6 up;60 -;6 circle;300 -;6 down;40 -;6 down;40 -;6 circle	DataManagement	300	data management (install data)
+option_keyconfig	menu	6 up;40 -;6 up;60 -;6 circle;300 -;6 up;40 -;6 circle	KeySetting	300	key config
+option_difficulty	menu	6 up;40 -;6 up;60 -;6 circle;300 -;6 up;40 -;6 up;40 -;6 circle	DifficultySetting	300	difficulty
+live_select	menu	6 up;60 -;6 circle	Live	300	LIVE song select
+live_difficulty	menu	6 up;60 -;6 circle;300 -;6 circle	-	1500	song intro + difficulty, PRESS START
+live_play	menu	6 up;60 -;6 circle;300 -;6 circle;1500 -;6 start	SoundGame	900	rhythm game playing
+live_pause	menu	6 up;60 -;6 circle;300 -;6 circle;1500 -;6 start;1200 -;6 start	SoundGame	120	rhythm game PAUSE
+live_result	menu	6 up;60 -;6 circle;300 -;6 circle;1500 -;6 start	PlayResult	9000	result screen + unlock notices (no input: all Miss)
+adv_auto	script	m_001001.bin;900 -;6 start	Adventure	200	ADV AUTO mode (start)
+adv_menu	script	m_001001.bin;900 -;6 triangle	TopMenuAdvPause	200	ADV pause MENU (triangle)
+adv_save	script	m_001001.bin;900 -;6 triangle;200 -;6 circle	TopMenuAdvPause	400	ADV save dialog
+adv_load	script	m_001001.bin;900 -;6 triangle;200 -;6 up;60 -;6 circle	TopMenuAdvPause	400	ADV load dialog
+adv_backlog	script	m_001001.bin;900 -;6 select	Adventure	120	ADV BACK LOG (select)
+adv_skip	script	m_001001.bin;900 -;6 square	Adventure	120	ADV SKIP (square)
+ED_001001	script	ED_001001.bin	Adventure	600	ending
+ED_002001	script	ED_002001.bin	Adventure	600	ending
+ED_003001	script	ED_003001.bin	Adventure	600	ending
+ED_004001	script	ED_004001.bin	Adventure	600	ending
+ED_005001	script	ED_005001.bin	Adventure	600	ending
+ED_006001	script	ED_006001.bin	Adventure	600	ending
+ED_007001	script	ED_007001.bin	Adventure	600	ending
+ED_008001	script	ED_008001.bin	Adventure	600	ending
+OP_001001	script	OP_001001.bin	Adventure	600	opening
+OP_002001	script	OP_002001.bin	Adventure	600	opening
+OP_003001	script	OP_003001.bin	Adventure	600	opening
+b_001001	script	b_001001.bin	Adventure	600	
+b_002001	script	b_002001.bin	Adventure	600	
+b_003001	script	b_003001.bin	Adventure	600	
+b_004001	script	b_004001.bin	Adventure	600	
+b_005001	script	b_005001.bin	Adventure	600	
+b_006001	script	b_006001.bin	Adventure	600	
+b_006002	script	b_006002.bin	Adventure	600	
+b_007001	script	b_007001.bin	Adventure	600	
+b_007002	script	b_007002.bin	Adventure	600	
+b_008001	script	b_008001.bin	Adventure	600	
+b_009001	script	b_009001.bin	Adventure	600	
+b_010001	script	b_010001.bin	Adventure	600	
+b_011001	script	b_011001.bin	Adventure	600	
+b_012001	script	b_012001.bin	Adventure	600	
+b_013001	script	b_013001.bin	Adventure	600	
+b_014001	script	b_014001.bin	Adventure	600	
+b_015001	script	b_015001.bin	Adventure	600	
+b_016001	script	b_016001.bin	Adventure	600	
+b_017001	script	b_017001.bin	Adventure	600	
+b_018001	script	b_018001.bin	Adventure	600	
+b_018002	script	b_018002.bin	Adventure	600	
+m_001001	script	m_001001.bin	Adventure	600	chapter card ui_tit_101
+m_001002	script	m_001002.bin	Adventure	600	
+m_001003	script	m_001003.bin	Adventure	600	
+m_002001	script	m_002001.bin	Adventure	600	chapter card ui_tit_102
+m_002002	script	m_002002.bin	Adventure	600	
+m_002003	script	m_002003.bin	Adventure	600	
+m_003001	script	m_003001.bin	Adventure	600	chapter card ui_tit_103
+m_003002	script	m_003002.bin	Adventure	600	
+m_003003	script	m_003003.bin	Adventure	600	
+m_004001	script	m_004001.bin	Adventure	600	chapter card ui_tit_104
+m_004002	script	m_004002.bin	Adventure	600	
+m_004003	script	m_004003.bin	Adventure	600	
+m_005001	script	m_005001.bin	Adventure	600	chapter card ui_tit_105
+m_005002	script	m_005002.bin	Adventure	600	
+m_005003	script	m_005003.bin	Adventure	600	
+m_006001	script	m_006001.bin	Adventure	600	chapter card ui_tit_106
+m_006002	script	m_006002.bin	Adventure	600	
+m_006003	script	m_006003.bin	Adventure	600	
+m_006004	script	m_006004.bin	Adventure	600	
+m_007001	script	m_007001.bin	Adventure	600	chapter card ui_tit_107
+m_007002	script	m_007002.bin	Adventure	600	
+m_007003	script	m_007003.bin	Adventure	600	
+m_008001	script	m_008001.bin	Adventure	600	chapter card ui_tit_108
+m_008002	script	m_008002.bin	Adventure	600	
+m_008003	script	m_008003.bin	Adventure	600	
+m_009001	script	m_009001.bin	Adventure	600	chapter card ui_tit_109
+m_009002	script	m_009002.bin	Adventure	600	
+m_009003	script	m_009003.bin	Adventure	600	
+m_009004	script	m_009004.bin	Adventure	600	
+m_009005	script	m_009005.bin	Adventure	600	
+m_010001	script	m_010001.bin	Adventure	600	chapter card ui_tit_110
+m_010002	script	m_010002.bin	Adventure	600	
+m_010003	script	m_010003.bin	Adventure	600	
+m_011001	script	m_011001.bin	Adventure	600	chapter card ui_tit_111
+m_011002	script	m_011002.bin	Adventure	600	
+m_011003	script	m_011003.bin	Adventure	600	
+m_011004	script	m_011004.bin	Adventure	600	
+m_012001	script	m_012001.bin	Adventure	600	chapter card ui_tit_112
+m_012002	script	m_012002.bin	Adventure	600	
+m_012003	script	m_012003.bin	Adventure	600	
+m_012004	script	m_012004.bin	Adventure	600	
+m_013001	script	m_013001.bin	Adventure	600	chapter card ui_tit_113
+m_013002	script	m_013002.bin	Adventure	600	
+m_013003	script	m_013003.bin	Adventure	600	
+m_013004	script	m_013004.bin	Adventure	600	
+m_013005	script	m_013005.bin	Adventure	600	
+staffroll	script	staffroll.bin	Adventure	600	credits
+staffroll2	script	staffroll2.bin	Adventure	600	credits

@@ -1,0 +1,13 @@
+# Cold boot to the top MENU (STORY highlighted). boot.txt minus its last press.
+600 -
+6 circle
+900 -
+6 circle
+600 -
+# "load failed, retry?" -> No
+6 right
+30 -
+6 circle
+900 -
+6 circle
+900 -

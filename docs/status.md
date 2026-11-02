@@ -2,23 +2,22 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 1 (research and recon) done; next is phase 2 (debug tool). No build yet.
+- **Phase:** 2 (debug tool) done; next is phase 3 (identity build). No build yet.
 - **Done:**
-  - Step 0: repo, hooks, check, `rom.sha1`, PPSSPPHeadless boot route (`tools/routes/boot.txt`).
-  - Phase 1 (`docs/re/README.md` indexes it): no earlier patch exists (only a 2014 screenshot-guide blog). ISO/CPK layout,
-    CRILAYLA decompressor (`tools/crilayla.py`), unpacker (`tools/unpack.py`), GIM sweep (`tools/gimsweep.py`), plain EBOOT dumped
-    (`work/eboot/EBOOT.ELF`; headless ignores ppsspp.ini, the windowed `tools/ppsspp/` build did it).
-  - Text: Shift-JIS; script bytecode framing + 100-name table + jump word-offsets (`text.md`); ~13k dialogue lines (300k chars),
-    121 choices, 74 staff-roll pages, 9 UI tables, ~500 lyric fragments, 3 EBOOT save titles + SFO.
-  - Graphics survey: 744 Japanese GIMs (`docs/re/graphics-survey.tsv`), movies, XMB. Tests: `tests/test_formats.py`.
-  - Tour: `work/states/mainmenu.ppst` (STORY menu after boot.txt), `work/qa/tour1-3`.
-- **Next (phase 2, debug tool):** warp to any scene: find the current-script / chapter id in RAM (ramsearch over
-  `memory.read` dumps while changing chapters via Chapter Select), poke + trigger load over the WebSocket (`psp.py`), scene list in
-  `tools/debug/` covering every chapter card (b_/m_ chapters), endings ED_001-008, OP_, staffroll, each menu (option, gallery,
-  skit, profile, sound, movie), rhythm game (song select, pause, results, break screen), save/load dialogs. Cheats ini is an option.
-  Note: `--mash-key circle` did not advance ADV text in tour3 (stuck on one line); explicit presses every 300 frames did (tour2).
-- **Phase 3/4 notes:** identity = `cpk.rebuild` with no edits + `iso9660.patch`; INST.DNS (install data) may mirror INST.CPK:
-  check. Script insertion must re-map jump args (`text.md` list) when string lengths change.
+  - Step 0: repo, hooks, check, `rom.sha1`, PPSSPPHeadless boot route (`tools/routes/boot.txt`; `menu.txt` = to top MENU).
+  - Phase 1 (`docs/re/README.md` indexes it): no earlier patch exists. ISO/CPK layout, CRILAYLA, unpacker, GIM sweep, plain
+    EBOOT (`work/eboot/EBOOT.ELF`). Text: Shift-JIS script bytecode (`text.md`), UI tables, EBOOT save titles. Graphics survey:
+    744 Japanese GIMs (`docs/re/graphics-survey.tsv`).
+  - Phase 2: `tools/debug/warp.py` + `scenes.tsv` (120 scenes: all 80 scene scripts by file name incl. endings, OPs, both
+    staff rolls; boot notices + title; every top/story/chapter/gallery/option/live screen; rhythm game play, pause, result;
+    ADV auto/menu/save/load/backlog/skip). Cold boot each (cached MENU state per ISO), everything unlocked by RAM pokes,
+    script warp = breakpoint on the script-name setter. Each run asserts the loaded script / entered sequence; proof shots
+    `work/qa/warp/<scene>/`. `--all` -> states in `work/states/warp/`. How it works: `docs/re/debug.md`.
+- **Next (phase 3, identity build):** `cpk.rebuild` with no edits + `iso9660.patch` -> byte-identical ISO, as a test. Check
+  whether INST.DNS mirrors INST.CPK. Then `tools/build.py` skeleton (check_rom first). Run `warp.py --all --iso build/...` on
+  the identity ISO.
+- **Phase 3/4 notes:** script insertion must re-map jump args (`text.md` list) when string lengths change. Debug addresses in
+  `docs/re/debug.md` assume an unchanged EBOOT code segment (string-only edits are fine).
 - **Phase 5 (big item):** ADV dialogue is vertical text in small manga panels; find the renderer's direction flag/box metrics in
   the EBOOT, decide horizontal English layout + VWF on the KFNT fonts.
 - **Open bugs:** none.

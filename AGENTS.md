@@ -6,7 +6,7 @@ Skill: translate-retro-game; `python tools/skill.py` prints its folder. Read its
 - Build:    `python -X utf8 tools/build.py` -> build/bakumatsu_rock_us_en.iso (checks the dump against `rom.sha1` first) (not written yet)
 - Check:    `python -X utf8 tools/check.py` (pytest over `tests/` + lint; the pre-commit hook runs this; hooks: `git config core.hooksPath tools/hooks`)
 - Smoke:    `python -X utf8 "$(python tools/skill.py)/scripts/emu.py" build/bakumatsu_rock_us_en.iso --out work/qa/smoke --route tools/routes/boot.txt --smoke --sheet` (boot.txt reaches the main menu on a fresh memstick)
-- Warp:     `python -X utf8 "$(python tools/skill.py)/scripts/emu.py" build/bakumatsu_rock_us_en.iso --out work/qa/warp ...` (debug tool, phase 2: `tools/debug/`; PPSSPP has no Lua, so warps are savestates + memory pokes over the WebSocket API; never ask the user to play to a scene)
+- Warp:     `python -X utf8 tools/debug/warp.py SCENE.. [--iso build/bakumatsu_rock_us_en.iso] [--sheet] [--state]` (cold boot -> any scene in `tools/debug/scenes.tsv`: every script by file name, every menu, gallery, live, ADV dialog; all unlocked; shots in `work/qa/warp/<scene>/`; `--all` regenerates every state into `work/states/warp/`; `--list`; how: `docs/re/debug.md`. Never ask the user to play to a scene)
 - Release:  `python -X utf8 tools/release.py` (xdelta3 patch + verify; not written yet; never publish without the user)
 - Clean:    `python -X utf8 tools/clean.py` (published projects: lists rebuildable/downloadable files; `--yes` deletes)
 

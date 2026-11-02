@@ -8,7 +8,7 @@
    "max": 40,
    "kind": "title",
    "jp": "？？？？",
-   "en": ""
+   "en": "????"
   },
   {
    "id": "ui_skit_01:0x3c",
@@ -16,7 +16,7 @@
    "max": 40,
    "kind": "title",
    "jp": "先発 唐辛子　中継ぎ 唐辛子　抑え 唐辛子",
-   "en": ""
+   "en": "Starter, Relief, Closer: All Chili"
   },
   {
    "id": "ui_skit_01:0x80",
@@ -24,7 +24,7 @@
    "max": 40,
    "kind": "line",
    "jp": "晋作　",
-   "en": ""
+   "en": "Shinsaku,"
   },
   {
    "id": "ui_skit_01:0xa8",
@@ -32,7 +32,7 @@
    "max": 40,
    "kind": "line",
    "jp": "自由に作る高杉流に",
-   "en": ""
+   "en": "Takasugi's Freestyle Kitchen has"
   },
   {
    "id": "ui_skit_01:0xd0",
@@ -40,7 +40,7 @@
    "max": 40,
    "kind": "line",
    "jp": "注文入りましたよ",
-   "en": ""
+   "en": "a new order in, you know."
   },
   {
    "id": "ui_skit_01:0x10c",
@@ -48,7 +48,7 @@
    "max": 40,
    "kind": "line",
    "jp": "了解",
-   "en": ""
+   "en": "Got it."
   },
   {
    "id": "ui_skit_01:0x134",
@@ -56,7 +56,7 @@
    "max": 40,
    "kind": "line",
    "jp": "自由に作る高杉流に",
-   "en": ""
+   "en": "Takasugi's Freestyle Kitchen has"
   },
   {
    "id": "ui_skit_01:0x15c",
@@ -64,7 +64,7 @@
    "max": 40,
    "kind": "line",
    "jp": "注文入りましたよ",
-   "en": ""
+   "en": "a new order in, you know."
   },
   {
    "id": "ui_skit_01:0x198",
@@ -72,7 +72,7 @@
    "max": 40,
    "kind": "line",
    "jp": "今日もいってみるか　どれどれ",
-   "en": ""
+   "en": "Here we go again. Let's see..."
   },
   {
    "id": "ui_skit_01:0x1c0",
@@ -80,7 +80,7 @@
    "max": 40,
    "kind": "line",
    "jp": "自由に作る高杉流に",
-   "en": ""
+   "en": "Takasugi's Freestyle Kitchen has"
   },
   {
    "id": "ui_skit_01:0x1e8",
@@ -88,7 +88,7 @@
    "max": 40,
    "kind": "line",
    "jp": "注文入りましたよ",
-   "en": ""
+   "en": "a new order in, you know."
   },
   {
    "id": "ui_skit_01:0x224",
@@ -96,7 +96,7 @@
    "max": 40,
    "kind": "line",
    "jp": "なになに",
-   "en": ""
+   "en": "What've we got..."
   },
   {
    "id": "ui_skit_01:0x24c",
@@ -104,7 +104,7 @@
    "max": 40,
    "kind": "line",
    "jp": "毎日　高杉さんの料理を",
-   "en": ""
+   "en": "\"I enjoy Takasugi-san's cooking"
   },
   {
    "id": "ui_skit_01:0x274",
@@ -112,7 +112,7 @@
    "max": 40,
    "kind": "line",
    "jp": "おいしく頂いています",
-   "en": ""
+   "en": "every single day."
   },
   {
    "id": "ui_skit_01:0x2b0",
@@ -120,7 +120,7 @@
    "max": 40,
    "kind": "line",
    "jp": "麺類が好きなのですが",
-   "en": ""
+   "en": "I love noodles, so if you have"
   },
   {
    "id": "ui_skit_01:0x2d8",
@@ -128,7 +128,7 @@
    "max": 40,
    "kind": "line",
    "jp": "高杉流の　これで決まりな麺類があれば",
-   "en": ""
+   "en": "a go-to Takasugi-style noodle dish,"
   },
   {
    "id": "ui_skit_01:0x300",
@@ -136,7 +136,7 @@
    "max": 40,
    "kind": "line",
    "jp": "是非お願いします",
-   "en": ""
+   "en": "please, I'd love to try it!\""
   },
   {
    "id": "ui_skit_01:0x33c",
@@ -144,7 +144,7 @@
    "max": 40,
    "kind": "line",
    "jp": "よし 今日はどこでも作れる",
-   "en": ""
+   "en": "Alright! Today it's homey udon"
   },
   {
    "id": "ui_skit_01:0x364",
@@ -152,7 +152,7 @@
    "max": 40,
    "kind": "line",
    "jp": "家庭的なうどんを作るか",
-   "en": ""
+   "en": "that you can make anywhere."
   },
   {
    "id": "ui_skit_01:0x38c",
@@ -160,7 +160,7 @@
    "max": 40,
    "kind": "line",
    "jp": "是非お願いします",
-   "en": ""
+   "en": "please, I'd love to try it!\""
   },
   {
    "id": "ui_skit_01:0x3c8",
@@ -168,7 +168,7 @@
    "max": 40,
    "kind": "line",
    "jp": "まず　うどんをゆでながら",
-   "en": ""
+   "en": "First, while the udon boils,"
   },
   {
    "id": "ui_skit_01:0x3f0",
@@ -176,7 +176,7 @@
    "max": 40,
    "kind": "line",
    "jp": "唐辛子をかけて",
-   "en": ""
+   "en": "sprinkle on chili pepper."
   },
   {
    "id": "ui_skit_01:0x418",
@@ -184,7 +184,7 @@
    "max": 40,
    "kind": "line",
    "jp": "是非お願いします",
-   "en": ""
+   "en": "please, I'd love to try it!\""
   },
   {
    "id": "ui_skit_01:0x454",
@@ -192,7 +192,7 @@
    "max": 40,
    "kind": "line",
    "jp": "特製だしのつゆに香りづけで",
-   "en": ""
+   "en": "Next, to scent the special broth,"
   },
   {
    "id": "ui_skit_01:0x47c",
@@ -200,7 +200,7 @@
    "max": 40,
    "kind": "line",
    "jp": "唐辛子をかける",
-   "en": ""
+   "en": "sprinkle on chili pepper."
   },
   {
    "id": "ui_skit_01:0x4a4",
@@ -208,7 +208,7 @@
    "max": 40,
    "kind": "line",
    "jp": "是非お願いします",
-   "en": ""
+   "en": "please, I'd love to try it!\""
   },
   {
    "id": "ui_skit_01:0x4e0",
@@ -216,7 +216,7 @@
    "max": 40,
    "kind": "line",
    "jp": "ゆでた麺をあげて",
-   "en": ""
+   "en": "Drain the boiled noodles,"
   },
   {
    "id": "ui_skit_01:0x508",
@@ -224,7 +224,7 @@
    "max": 40,
    "kind": "line",
    "jp": "最後に高打点からの唐辛子",
-   "en": ""
+   "en": "and finally, chili from way up high!"
   },
   {
    "id": "ui_skit_01:0x530",
@@ -232,7 +232,7 @@
    "max": 40,
    "kind": "line",
    "jp": "是非お願いします",
-   "en": ""
+   "en": "please, I'd love to try it!\""
   },
   {
    "id": "ui_skit_01:0x56c",
@@ -240,7 +240,7 @@
    "max": 40,
    "kind": "line",
    "jp": "どれどれ……うめぇ！さすがオレ様",
-   "en": ""
+   "en": "Hm... Damn, good! Yours truly rules."
   },
   {
    "id": "ui_skit_01:0x594",
@@ -248,7 +248,7 @@
    "max": 40,
    "kind": "line",
    "jp": "最後に高打点からの唐辛子",
-   "en": ""
+   "en": "and finally, chili from way up high!"
   },
   {
    "id": "ui_skit_01:0x5bc",
@@ -256,7 +256,7 @@
    "max": 40,
    "kind": "line",
    "jp": "是非お願いします",
-   "en": ""
+   "en": "please, I'd love to try it!\""
   },
   {
    "id": "ui_skit_01:0x5f8",
@@ -264,7 +264,7 @@
    "max": 40,
    "kind": "line",
    "jp": "桂さん　出来たぜ！ ",
-   "en": ""
+   "en": "Katsura-san, it's done!"
   },
   {
    "id": "ui_skit_01:0x620",
@@ -272,7 +272,7 @@
    "max": 40,
    "kind": "line",
    "jp": "是非お客さんに楽しんでもらってくれ！",
-   "en": ""
+   "en": "Make sure the customer enjoys it!"
   },
   {
    "id": "ui_skit_01:0x648",
@@ -280,7 +280,7 @@
    "max": 40,
    "kind": "line",
    "jp": "是非お願いします",
-   "en": ""
+   "en": "please, I'd love to try it!\""
   },
   {
    "id": "ui_skit_01:0x684",
@@ -288,7 +288,7 @@
    "max": 40,
    "kind": "line",
    "jp": "これ美味しく食べてるんですよねぇ",
-   "en": ""
+   "en": "And they actually enjoy eating this,"
   },
   {
    "id": "ui_skit_01:0x6ac",
@@ -296,7 +296,7 @@
    "max": 40,
    "kind": "line",
    "jp": "あの人たち……",
-   "en": ""
+   "en": "these people..."
   },
   {
    "id": "ui_skit_01:0x6d4",
@@ -304,7 +304,7 @@
    "max": 40,
    "kind": "line",
    "jp": "是非お願いします",
-   "en": ""
+   "en": "please, I'd love to try it!\""
   },
   {
    "id": "ui_skit_01:0x710",
@@ -312,7 +312,7 @@
    "max": 40,
    "kind": "line",
    "jp": "『先発　唐辛子　中継ぎ　唐辛子",
-   "en": ""
+   "en": "'Starter, Relief, Closer: All Chili'"
   },
   {
    "id": "ui_skit_01:0x738",
@@ -320,7 +320,7 @@
    "max": 40,
    "kind": "line",
    "jp": "抑え　唐辛子』　おわり",
-   "en": ""
+   "en": "-- The End"
   },
   {
    "id": "ui_skit_01:0x760",
@@ -328,7 +328,7 @@
    "max": 40,
    "kind": "line",
    "jp": "是非お願いします",
-   "en": ""
+   "en": "please, I'd love to try it!\""
   },
   {
    "id": "ui_skit_01:0x79c",
@@ -336,7 +336,7 @@
    "max": 40,
    "kind": "line",
    "jp": "※このスキットは",
-   "en": ""
+   "en": "*This skit was originally"
   },
   {
    "id": "ui_skit_01:0x7c4",
@@ -344,7 +344,7 @@
    "max": 40,
    "kind": "line",
    "jp": "2014年3月11日に配信されたものです",
-   "en": ""
+   "en": "released on March 11, 2014."
   },
   {
    "id": "ui_skit_01:0x7ec",
@@ -352,7 +352,7 @@
    "max": 40,
    "kind": "line",
    "jp": "是非お願いします",
-   "en": ""
+   "en": "please, I'd love to try it!\""
   },
   {
    "id": "ui_skit_01:0x818",
@@ -360,7 +360,7 @@
    "max": 40,
    "kind": "title",
    "jp": "新しい音楽……なのか？",
-   "en": ""
+   "en": "New Music... Or Is It?"
   },
   {
    "id": "ui_skit_01:0x85c",
@@ -368,7 +368,7 @@
    "max": 40,
    "kind": "line",
    "jp": "晋作 晋作　見てください この譜面！",
-   "en": ""
+   "en": "Shinsaku, Shinsaku! Look at this score!"
   },
   {
    "id": "ui_skit_01:0x884",
@@ -376,7 +376,7 @@
    "max": 40,
    "kind": "line",
    "jp": "2014年3月11日に配信されたものです",
-   "en": ""
+   "en": "released on March 11, 2014."
   },
   {
    "id": "ui_skit_01:0x8ac",
@@ -384,7 +384,7 @@
    "max": 40,
    "kind": "line",
    "jp": "是非お願いします",
-   "en": ""
+   "en": "please, I'd love to try it!\""
   },
   {
    "id": "ui_skit_01:0x8e8",
@@ -392,7 +392,7 @@
    "max": 40,
    "kind": "line",
    "jp": "うん？（桂さん興奮してるな）",
-   "en": ""
+   "en": "Hm? (Katsura-san's all worked up.)"
   },
   {
    "id": "ui_skit_01:0x910",
@@ -400,7 +400,7 @@
    "max": 40,
    "kind": "line",
    "jp": "……？？？？何だこれ",
-   "en": ""
+   "en": "...???? What is this?"
   },
   {
    "id": "ui_skit_01:0x938",
@@ -408,7 +408,7 @@
    "max": 40,
    "kind": "line",
    "jp": "是非お願いします",
-   "en": ""
+   "en": "please, I'd love to try it!\""
   },
   {
    "id": "ui_skit_01:0x974",
@@ -416,7 +416,7 @@
    "max": 40,
    "kind": "line",
    "jp": "すごいでしょう",
-   "en": ""
+   "en": "Amazing, isn't it?"
   },
   {
    "id": "ui_skit_01:0x99c",
@@ -424,7 +424,7 @@
    "max": 40,
    "kind": "line",
    "jp": "どうやら新しい音楽のようなのですが",
-   "en": ""
+   "en": "It appears to be new music, but..."
   },
   {
    "id": "ui_skit_01:0x9c4",
@@ -432,7 +432,7 @@
    "max": 40,
    "kind": "line",
    "jp": "是非お願いします",
-   "en": ""
+   "en": "please, I'd love to try it!\""
   },
   {
    "id": "ui_skit_01:0xa00",
@@ -440,7 +440,7 @@
    "max": 40,
    "kind": "line",
    "jp": "ですが？",
-   "en": ""
+   "en": "But...?"
   },
   {
    "id": "ui_skit_01:0xa28",
@@ -448,7 +448,7 @@
    "max": 40,
    "kind": "line",
    "jp": "どうやら新しい音楽のようなのですが",
-   "en": ""
+   "en": "It appears to be new music, but..."
   },
   {
    "id": "ui_skit_01:0xa50",
@@ -456,7 +456,7 @@
    "max": 40,
    "kind": "line",
    "jp": "是非お願いします",
-   "en": ""
+   "en": "please, I'd love to try it!\""
   },
   {
    "id": "ui_skit_01:0xa8c",
@@ -464,7 +464,7 @@
    "max": 40,
    "kind": "line",
    "jp": "さっぱりなんですよ！",
-   "en": ""
+   "en": "I can't make heads or tails of it!"
   },
   {
    "id": "ui_skit_01:0xab4",
@@ -472,7 +472,7 @@
    "max": 40,
    "kind": "line",
    "jp": "どうやら新しい音楽のようなのですが",
-   "en": ""
+   "en": "It appears to be new music, but..."
   },
   {
    "id": "ui_skit_01:0xadc",
@@ -480,7 +480,7 @@
    "max": 40,
    "kind": "line",
    "jp": "是非お願いします",
-   "en": ""
+   "en": "please, I'd love to try it!\""
   },
   {
    "id": "ui_skit_01:0xb18",
@@ -488,7 +488,7 @@
    "max": 40,
    "kind": "line",
    "jp": "桂さんがさっぱりな物",
-   "en": ""
+   "en": "If it stumps you, Katsura-san,"
   },
   {
    "id": "ui_skit_01:0xb40",
@@ -496,7 +496,7 @@
    "max": 40,
    "kind": "line",
    "jp": "オレ様が分かるわけがねぇ",
-   "en": ""
+   "en": "no way yours truly gets it."
   },
   {
    "id": "ui_skit_01:0xb68",
@@ -504,7 +504,7 @@
    "max": 40,
    "kind": "line",
    "jp": "是非お願いします",
-   "en": ""
+   "en": "please, I'd love to try it!\""
   },
   {
    "id": "ui_skit_01:0xba4",
@@ -512,7 +512,7 @@
    "max": 40,
    "kind": "line",
    "jp": "うーん この譜面数字と鳥？",
-   "en": ""
+   "en": "Hmm, numbers and birds on a score?"
   },
   {
    "id": "ui_skit_01:0xbcc",
@@ -520,7 +520,7 @@
    "max": 40,
    "kind": "line",
    "jp": "何でしょうね これ",
-   "en": ""
+   "en": "What could this be?"
   },
   {
    "id": "ui_skit_01:0xbf4",
@@ -528,7 +528,7 @@
    "max": 40,
    "kind": "line",
    "jp": "是非お願いします",
-   "en": ""
+   "en": "please, I'd love to try it!\""
   },
   {
    "id": "ui_skit_01:0xc30",
@@ -536,7 +536,7 @@
    "max": 40,
    "kind": "line",
    "jp": "おい 龍馬 これ分かるか？",
-   "en": ""
+   "en": "Hey, Ryoma, can you read this?"
   },
   {
    "id": "ui_skit_01:0xc58",
@@ -544,7 +544,7 @@
    "max": 40,
    "kind": "line",
    "jp": "バカにはわかんねーよな",
-   "en": ""
+   "en": "Nah, an idiot like you wouldn't."
   },
   {
    "id": "ui_skit_01:0xc80",
@@ -552,7 +552,7 @@
    "max": 40,
    "kind": "line",
    "jp": "是非お願いします",
-   "en": ""
+   "en": "please, I'd love to try it!\""
   },
   {
    "id": "ui_skit_01:0xcbc",
@@ -560,7 +560,7 @@
    "max": 40,
    "kind": "line",
    "jp": "どれどれ",
-   "en": ""
+   "en": "Let's see..."
   },
   {
    "id": "ui_skit_01:0xce4",
@@ -568,7 +568,7 @@
    "max": 40,
    "kind": "line",
    "jp": "おー分かるぜよ",
-   "en": ""
+   "en": "Ooh, I get it, sure do!"
   },
   {
    "id": "ui_skit_01:0xd0c",
@@ -576,7 +576,7 @@
    "max": 40,
    "kind": "line",
    "jp": "是非お願いします",
-   "en": ""
+   "en": "please, I'd love to try it!\""
   },
   {
    "id": "ui_skit_01:0xd48",
@@ -584,7 +584,7 @@
    "max": 40,
    "kind": "line",
    "jp": "！",
-   "en": ""
+   "en": "!"
   },
   {
    "id": "ui_skit_01:0xd70",
@@ -592,7 +592,7 @@
    "max": 40,
    "kind": "line",
    "jp": "おー分かるぜよ",
-   "en": ""
+   "en": "Ooh, I get it, sure do!"
   },
   {
    "id": "ui_skit_01:0xd98",
@@ -600,7 +600,7 @@
    "max": 40,
    "kind": "line",
    "jp": "是非お願いします",
-   "en": ""
+   "en": "please, I'd love to try it!\""
   },
   {
    "id": "ui_skit_01:0xdd4",
@@ -608,7 +608,7 @@
    "max": 40,
    "kind": "line",
    "jp": "！",
-   "en": ""
+   "en": "!"
   },
   {
    "id": "ui_skit_01:0xdfc",
@@ -616,7 +616,7 @@
    "max": 40,
    "kind": "line",
    "jp": "おー分かるぜよ",
-   "en": ""
+   "en": "Ooh, I get it, sure do!"
   },
   {
    "id": "ui_skit_01:0xe24",
@@ -624,7 +624,7 @@
    "max": 40,
    "kind": "line",
    "jp": "是非お願いします",
-   "en": ""
+   "en": "please, I'd love to try it!\""
   },
   {
    "id": "ui_skit_01:0xe60",
@@ -632,7 +632,7 @@
    "max": 40,
    "kind": "line",
    "jp": "これはじゃな",
-   "en": ""
+   "en": "Here's how it goes."
   },
   {
    "id": "ui_skit_01:0xe88",
@@ -640,7 +640,7 @@
    "max": 40,
    "kind": "line",
    "jp": "まず外のガヤガヤに耳を澄ますじゃろ",
-   "en": ""
+   "en": "First, listen to the racket outside,"
   },
   {
    "id": "ui_skit_01:0xeb0",
@@ -648,7 +648,7 @@
    "max": 40,
    "kind": "line",
    "jp": "是非お願いします",
-   "en": ""
+   "en": "please, I'd love to try it!\""
   },
   {
    "id": "ui_skit_01:0xeec",
@@ -656,7 +656,7 @@
    "max": 40,
    "kind": "line",
    "jp": "それで この水のブクブクやるじゃろ",
-   "en": ""
+   "en": "then ya do this water bubble-bubble,"
   },
   {
    "id": "ui_skit_01:0xf14",
@@ -664,7 +664,7 @@
    "max": 40,
    "kind": "line",
    "jp": "まず外のガヤガヤに耳を澄ますじゃろ",
-   "en": ""
+   "en": "First, listen to the racket outside,"
   },
   {
    "id": "ui_skit_01:0xf3c",
@@ -672,7 +672,7 @@
    "max": 40,
    "kind": "line",
    "jp": "是非お願いします",
-   "en": ""
+   "en": "please, I'd love to try it!\""
   },
   {
    "id": "ui_skit_01:0xf78",
@@ -680,7 +680,7 @@
    "max": 40,
    "kind": "line",
    "jp": "それでギターを鳴らして鳥のピロピロ",
-   "en": ""
+   "en": "then strum, go tweet-tweet like a bird,"
   },
   {
    "id": "ui_skit_01:0xfa0",
@@ -688,7 +688,7 @@
    "max": 40,
    "kind": "line",
    "jp": "足をドンドン鳴らして",
-   "en": ""
+   "en": "stomp-stomp with your feet,"
   },
   {
    "id": "ui_skit_01:0xfc8",
@@ -696,7 +696,7 @@
    "max": 40,
    "kind": "line",
    "jp": "是非お願いします",
-   "en": ""
+   "en": "please, I'd love to try it!\""
   },
   {
    "id": "ui_skit_01:0x1004",
@@ -704,7 +704,7 @@
    "max": 40,
    "kind": "line",
    "jp": "………",
-   "en": ""
+   "en": "..."
   },
   {
    "id": "ui_skit_01:0x102c",
@@ -712,7 +712,7 @@
    "max": 40,
    "kind": "line",
    "jp": "足をドンドン鳴らして",
-   "en": ""
+   "en": "stomp-stomp with your feet,"
   },
   {
    "id": "ui_skit_01:0x1054",
@@ -720,7 +720,7 @@
    "max": 40,
    "kind": "line",
    "jp": "是非お願いします",
-   "en": ""
+   "en": "please, I'd love to try it!\""
   },
   {
    "id": "ui_skit_01:0x1090",
@@ -728,7 +728,7 @@
    "max": 40,
    "kind": "line",
    "jp": "うんうん",
-   "en": ""
+   "en": "Uh-huh, uh-huh."
   },
   {
    "id": "ui_skit_01:0x10b8",
@@ -736,7 +736,7 @@
    "max": 40,
    "kind": "line",
    "jp": "足をドンドン鳴らして",
-   "en": ""
+   "en": "stomp-stomp with your feet,"
   },
   {
    "id": "ui_skit_01:0x10e0",
@@ -744,7 +744,7 @@
    "max": 40,
    "kind": "line",
    "jp": "是非お願いします",
-   "en": ""
+   "en": "please, I'd love to try it!\""
   },
   {
    "id": "ui_skit_01:0x111c",
@@ -752,7 +752,7 @@
    "max": 40,
    "kind": "line",
    "jp": "ピロピロを水に入れて",
-   "en": ""
+   "en": "put the tweet-tweet in the water,"
   },
   {
    "id": "ui_skit_01:0x1144",
@@ -760,7 +760,7 @@
    "max": 40,
    "kind": "line",
    "jp": "ブクブク 終わりじゃ",
-   "en": ""
+   "en": "bubble-bubble, and that's it!"
   },
   {
    "id": "ui_skit_01:0x116c",
@@ -768,7 +768,7 @@
    "max": 40,
    "kind": "line",
    "jp": "是非お願いします",
-   "en": ""
+   "en": "please, I'd love to try it!\""
   },
   {
    "id": "ui_skit_01:0x11a8",
@@ -776,7 +776,7 @@
    "max": 40,
    "kind": "line",
    "jp": "何だそりゃ！",
-   "en": ""
+   "en": "What the hell!?"
   },
   {
    "id": "ui_skit_01:0x11d0",
@@ -784,7 +784,7 @@
    "max": 40,
    "kind": "line",
    "jp": "バカか　こんなのロックじゃ ",
-   "en": ""
+   "en": "Are you stupid? That's not rock--"
   },
   {
    "id": "ui_skit_01:0x11f8",
@@ -792,7 +792,7 @@
    "max": 40,
    "kind": "line",
    "jp": "いや音楽ですらねぇ！",
-   "en": ""
+   "en": "no, it's not even music!"
   },
   {
    "id": "ui_skit_01:0x1234",
@@ -800,7 +800,7 @@
    "max": 40,
    "kind": "line",
    "jp": "晋作 それは違いますよ",
-   "en": ""
+   "en": "Shinsaku, you're wrong."
   },
   {
    "id": "ui_skit_01:0x125c",
@@ -808,7 +808,7 @@
    "max": 40,
    "kind": "line",
    "jp": "これは水辺の生態を表した",
-   "en": ""
+   "en": "It's new music depicting the"
   },
   {
    "id": "ui_skit_01:0x1284",
@@ -816,7 +816,7 @@
    "max": 40,
    "kind": "line",
    "jp": "新しい音楽ですよ！",
-   "en": ""
+   "en": "ecology of the waterside!"
   },
   {
    "id": "ui_skit_01:0x12c0",
@@ -824,7 +824,7 @@
    "max": 40,
    "kind": "line",
    "jp": "龍馬くん　さすがですよ",
-   "en": ""
+   "en": "Ryoma-kun, you're incredible."
   },
   {
    "id": "ui_skit_01:0x12e8",
@@ -832,7 +832,7 @@
    "max": 40,
    "kind": "line",
    "jp": "これは水辺の生態を表した",
-   "en": ""
+   "en": "It's new music depicting the"
   },
   {
    "id": "ui_skit_01:0x1310",
@@ -840,7 +840,7 @@
    "max": 40,
    "kind": "line",
    "jp": "新しい音楽ですよ！",
-   "en": ""
+   "en": "ecology of the waterside!"
   },
   {
    "id": "ui_skit_01:0x134c",
@@ -848,7 +848,7 @@
    "max": 40,
    "kind": "line",
    "jp": "これは普通の感性で見たんじゃあ",
-   "en": ""
+   "en": "With ordinary sensibilities, you'd"
   },
   {
    "id": "ui_skit_01:0x1374",
@@ -856,7 +856,7 @@
    "max": 40,
    "kind": "line",
    "jp": "絶対分からない　新しい世界です！",
-   "en": ""
+   "en": "never get it. It's a new world!"
   },
   {
    "id": "ui_skit_01:0x139c",
@@ -864,7 +864,7 @@
    "max": 40,
    "kind": "line",
    "jp": "ありがとう",
-   "en": ""
+   "en": "Thank you."
   },
   {
    "id": "ui_skit_01:0x13d8",
@@ -872,7 +872,7 @@
    "max": 40,
    "kind": "line",
    "jp": "いやあ",
-   "en": ""
+   "en": "Aw, shucks..."
   },
   {
    "id": "ui_skit_01:0x1400",
@@ -880,7 +880,7 @@
    "max": 40,
    "kind": "line",
    "jp": "センセーにそこまで褒められると",
-   "en": ""
+   "en": "Praise like that from Sensei"
   },
   {
    "id": "ui_skit_01:0x1428",
@@ -888,7 +888,7 @@
    "max": 40,
    "kind": "line",
    "jp": "照れるのお",
-   "en": ""
+   "en": "makes me blush!"
   },
   {
    "id": "ui_skit_01:0x1464",
@@ -896,7 +896,7 @@
    "max": 40,
    "kind": "line",
    "jp": "さっぱり分からねぇ！",
-   "en": ""
+   "en": "I don't get it at all!"
   },
   {
    "id": "ui_skit_01:0x148c",
@@ -904,7 +904,7 @@
    "max": 40,
    "kind": "line",
    "jp": "センセーにそこまで褒められると",
-   "en": ""
+   "en": "Praise like that from Sensei"
   },
   {
    "id": "ui_skit_01:0x14b4",
@@ -912,7 +912,7 @@
    "max": 40,
    "kind": "line",
    "jp": "照れるのお",
-   "en": ""
+   "en": "makes me blush!"
   },
   {
    "id": "ui_skit_01:0x14f0",
@@ -920,7 +920,7 @@
    "max": 40,
    "kind": "line",
    "jp": "『新しい音楽……なのか？』　おわり",
-   "en": ""
+   "en": "'New Music... Or Is It?' -- The End"
   },
   {
    "id": "ui_skit_01:0x1518",
@@ -928,7 +928,7 @@
    "max": 40,
    "kind": "line",
    "jp": "センセーにそこまで褒められると",
-   "en": ""
+   "en": "Praise like that from Sensei"
   },
   {
    "id": "ui_skit_01:0x1540",
@@ -936,7 +936,7 @@
    "max": 40,
    "kind": "line",
    "jp": "照れるのお",
-   "en": ""
+   "en": "makes me blush!"
   },
   {
    "id": "ui_skit_01:0x157c",
@@ -944,7 +944,7 @@
    "max": 40,
    "kind": "line",
    "jp": "※このスキットは",
-   "en": ""
+   "en": "*This skit was originally"
   },
   {
    "id": "ui_skit_01:0x15a4",
@@ -952,7 +952,7 @@
    "max": 40,
    "kind": "line",
    "jp": "2014年5月1日に配信されたものです",
-   "en": ""
+   "en": "released on May 1, 2014."
   },
   {
    "id": "ui_skit_01:0x15cc",
@@ -960,7 +960,7 @@
    "max": 40,
    "kind": "line",
    "jp": "照れるのお",
-   "en": ""
+   "en": "makes me blush!"
   },
   {
    "id": "ui_skit_01:0x15f8",
@@ -968,7 +968,7 @@
    "max": 40,
    "kind": "title",
    "jp": "人気度",
-   "en": ""
+   "en": "Popularity"
   },
   {
    "id": "ui_skit_01:0x163c",
@@ -976,7 +976,7 @@
    "max": 40,
    "kind": "line",
    "jp": "シャウト　シャウト！！",
-   "en": ""
+   "en": "Shout, shout!!"
   },
   {
    "id": "ui_skit_01:0x1664",
@@ -984,7 +984,7 @@
    "max": 40,
    "kind": "line",
    "jp": "シャウトぜよぉぉぉ！！",
-   "en": ""
+   "en": "Shooout, y'all!!"
   },
   {
    "id": "ui_skit_01:0x168c",
@@ -992,7 +992,7 @@
    "max": 40,
    "kind": "line",
    "jp": "照れるのお",
-   "en": ""
+   "en": "makes me blush!"
   },
   {
    "id": "ui_skit_01:0x16c8",
@@ -1000,7 +1000,7 @@
    "max": 40,
    "kind": "line",
    "jp": "りょうまー！",
-   "en": ""
+   "en": "Ryomaaa!"
   },
   {
    "id": "ui_skit_01:0x16f0",
@@ -1008,7 +1008,7 @@
    "max": 40,
    "kind": "line",
    "jp": "シャウトぜよぉぉぉ！！",
-   "en": ""
+   "en": "Shooout, y'all!!"
   },
   {
    "id": "ui_skit_01:0x1718",
@@ -1016,7 +1016,7 @@
    "max": 40,
    "kind": "line",
    "jp": "照れるのお",
-   "en": ""
+   "en": "makes me blush!"
   },
   {
    "id": "ui_skit_01:0x1754",
@@ -1024,7 +1024,7 @@
    "max": 40,
    "kind": "line",
    "jp": "黒か白か",
-   "en": ""
+   "en": "Black or white!"
   },
   {
    "id": "ui_skit_01:0x177c",
@@ -1032,7 +1032,7 @@
    "max": 40,
    "kind": "line",
    "jp": "伸るか反るか！！",
-   "en": ""
+   "en": "All or nothing!!"
   },
   {
    "id": "ui_skit_01:0x17a4",
@@ -1040,7 +1040,7 @@
    "max": 40,
    "kind": "line",
    "jp": "最後まで付き合え！！",
-   "en": ""
+   "en": "Stick with me to the end!!"
   },
   {
    "id": "ui_skit_01:0x17e0",
@@ -1048,7 +1048,7 @@
    "max": 40,
    "kind": "line",
    "jp": "キャー！シンディー！",
-   "en": ""
+   "en": "Kyaaa! Shindyyy!"
   },
   {
    "id": "ui_skit_01:0x1808",
@@ -1056,7 +1056,7 @@
    "max": 40,
    "kind": "line",
    "jp": "伸るか反るか！！",
-   "en": ""
+   "en": "All or nothing!!"
   },
   {
    "id": "ui_skit_01:0x1830",
@@ -1064,7 +1064,7 @@
    "max": 40,
    "kind": "line",
    "jp": "最後まで付き合え！！",
-   "en": ""
+   "en": "Stick with me to the end!!"
   },
   {
    "id": "ui_skit_01:0x186c",
@@ -1072,7 +1072,7 @@
    "max": 40,
    "kind": "line",
    "jp": "明日は未来来る！",
-   "en": ""
+   "en": "Tomorrow brings a MIRACLE!"
   },
   {
    "id": "ui_skit_01:0x1894",
@@ -1080,7 +1080,7 @@
    "max": 40,
    "kind": "line",
    "jp": "だから　付いてきて",
-   "en": ""
+   "en": "So follow me!"
   },
   {
    "id": "ui_skit_01:0x18bc",
@@ -1088,7 +1088,7 @@
    "max": 40,
    "kind": "line",
    "jp": "最後まで付き合え！！",
-   "en": ""
+   "en": "Stick with me to the end!!"
   },
   {
    "id": "ui_skit_01:0x18f8",
@@ -1096,7 +1096,7 @@
    "max": 40,
    "kind": "line",
    "jp": "かつらさーん！",
-   "en": ""
+   "en": "Katsura-saaan!"
   },
   {
    "id": "ui_skit_01:0x1920",
@@ -1104,7 +1104,7 @@
    "max": 40,
    "kind": "line",
    "jp": "だから　付いてきて",
-   "en": ""
+   "en": "So follow me!"
   },
   {
    "id": "ui_skit_01:0x1948",
@@ -1112,7 +1112,7 @@
    "max": 40,
    "kind": "line",
    "jp": "最後まで付き合え！！",
-   "en": ""
+   "en": "Stick with me to the end!!"
   },
   {
    "id": "ui_skit_01:0x1984",
@@ -1120,7 +1120,7 @@
    "max": 40,
    "kind": "line",
    "jp": "さあ……僕らが　君たちを",
-   "en": ""
+   "en": "Now... we'll lead all of you"
   },
   {
    "id": "ui_skit_01:0x19ac",
@@ -1128,7 +1128,7 @@
    "max": 40,
    "kind": "line",
    "jp": "音楽の天国へ導いてあげるよ！",
-   "en": ""
+   "en": "to musical heaven!"
   },
   {
    "id": "ui_skit_01:0x19d4",
@@ -1136,7 +1136,7 @@
    "max": 40,
    "kind": "line",
    "jp": "最後まで付き合え！！",
-   "en": ""
+   "en": "Stick with me to the end!!"
   },
   {
    "id": "ui_skit_01:0x1a10",
@@ -1144,7 +1144,7 @@
    "max": 40,
    "kind": "line",
    "jp": "ぎゃー！",
-   "en": ""
+   "en": "Gyaaah!"
   },
   {
    "id": "ui_skit_01:0x1a38",
@@ -1152,7 +1152,7 @@
    "max": 40,
    "kind": "line",
    "jp": "音楽の天国へ導いてあげるよ！",
-   "en": ""
+   "en": "to musical heaven!"
   },
   {
    "id": "ui_skit_01:0x1a60",
@@ -1160,7 +1160,7 @@
    "max": 40,
    "kind": "line",
    "jp": "最後まで付き合え！！",
-   "en": ""
+   "en": "Stick with me to the end!!"
   },
   {
    "id": "ui_skit_01:0x1a9c",
@@ -1168,7 +1168,7 @@
    "max": 40,
    "kind": "line",
    "jp": "我々の歌と踊りに",
-   "en": ""
+   "en": "In our song and dance,"
   },
   {
    "id": "ui_skit_01:0x1ac4",
@@ -1176,7 +1176,7 @@
    "max": 40,
    "kind": "line",
    "jp": "酔いしれ……",
-   "en": ""
+   "en": "lose yourselves..."
   },
   {
    "id": "ui_skit_01:0x1aec",
@@ -1184,7 +1184,7 @@
    "max": 40,
    "kind": "line",
    "jp": "身も心も俺達に捧げろ！！",
-   "en": ""
+   "en": "and give us your body and soul!!"
   },
   {
    "id": "ui_skit_01:0x1b28",
@@ -1192,7 +1192,7 @@
    "max": 40,
    "kind": "line",
    "jp": "きゃーー！",
-   "en": ""
+   "en": "Kyaaaa!"
   },
   {
    "id": "ui_skit_01:0x1b50",
@@ -1200,7 +1200,7 @@
    "max": 40,
    "kind": "line",
    "jp": "酔いしれ……",
-   "en": ""
+   "en": "lose yourselves..."
   },
   {
    "id": "ui_skit_01:0x1b78",
@@ -1208,7 +1208,7 @@
    "max": 40,
    "kind": "line",
    "jp": "身も心も俺達に捧げろ！！",
-   "en": ""
+   "en": "and give us your body and soul!!"
   },
   {
    "id": "ui_skit_01:0x1bb4",
@@ -1216,7 +1216,7 @@
    "max": 40,
    "kind": "line",
    "jp": "（……負けねぇぞ　新選組）",
-   "en": ""
+   "en": "(...I won't lose to you, Shinsengumi.)"
   },
   {
    "id": "ui_skit_01:0x1bdc",
@@ -1224,7 +1224,7 @@
    "max": 40,
    "kind": "line",
    "jp": "酔いしれ……",
-   "en": ""
+   "en": "lose yourselves..."
   },
   {
    "id": "ui_skit_01:0x1c04",
@@ -1232,7 +1232,7 @@
    "max": 40,
    "kind": "line",
    "jp": "身も心も俺達に捧げろ！！",
-   "en": ""
+   "en": "and give us your body and soul!!"
   },
   {
    "id": "ui_skit_01:0x1c40",
@@ -1240,7 +1240,7 @@
    "max": 40,
    "kind": "line",
    "jp": "『人気度』　おわり",
-   "en": ""
+   "en": "'Popularity' -- The End"
   },
   {
    "id": "ui_skit_01:0x1c68",
@@ -1248,7 +1248,7 @@
    "max": 40,
    "kind": "line",
    "jp": "酔いしれ……",
-   "en": ""
+   "en": "lose yourselves..."
   },
   {
    "id": "ui_skit_01:0x1c90",
@@ -1256,7 +1256,7 @@
    "max": 40,
    "kind": "line",
    "jp": "身も心も俺達に捧げろ！！",
-   "en": ""
+   "en": "and give us your body and soul!!"
   },
   {
    "id": "ui_skit_01:0x1ccc",
@@ -1264,7 +1264,7 @@
    "max": 40,
    "kind": "line",
    "jp": "※このスキットは",
-   "en": ""
+   "en": "*This skit was originally"
   },
   {
    "id": "ui_skit_01:0x1cf4",
@@ -1272,7 +1272,7 @@
    "max": 40,
    "kind": "line",
    "jp": "2014年5月1日に配信されたものです",
-   "en": ""
+   "en": "released on May 1, 2014."
   },
   {
    "id": "ui_skit_01:0x1d1c",
@@ -1280,7 +1280,7 @@
    "max": 40,
    "kind": "line",
    "jp": "身も心も俺達に捧げろ！！",
-   "en": ""
+   "en": "and give us your body and soul!!"
   },
   {
    "id": "ui_skit_01:0x1d48",
@@ -1288,7 +1288,7 @@
    "max": 40,
    "kind": "title",
    "jp": "本当に怖いのは",
-   "en": ""
+   "en": "What's Really Scary"
   },
   {
    "id": "ui_skit_01:0x1d8c",
@@ -1296,7 +1296,7 @@
    "max": 40,
    "kind": "line",
    "jp": "うおーこわすぎぜよ！！！",
-   "en": ""
+   "en": "Whoa, this is too dang scary!!!"
   },
   {
    "id": "ui_skit_01:0x1db4",
@@ -1304,7 +1304,7 @@
    "max": 40,
    "kind": "line",
    "jp": "2014年5月1日に配信されたものです",
-   "en": ""
+   "en": "released on May 1, 2014."
   },
   {
    "id": "ui_skit_01:0x1ddc",
@@ -1312,7 +1312,7 @@
    "max": 40,
    "kind": "line",
    "jp": "身も心も俺達に捧げろ！！",
-   "en": ""
+   "en": "and give us your body and soul!!"
   },
   {
    "id": "ui_skit_01:0x1e18",
@@ -1320,7 +1320,7 @@
    "max": 40,
    "kind": "line",
    "jp": "絶叫 絶頂 恐怖の屋敷",
-   "en": ""
+   "en": "Screams! Thrills! House of Horror!"
   },
   {
    "id": "ui_skit_01:0x1e40",
@@ -1328,7 +1328,7 @@
    "max": 40,
    "kind": "line",
    "jp": "噂に違わぬ恐ろしさじゃ！",
-   "en": ""
+   "en": "It's every bit as scary as they say!"
   },
   {
    "id": "ui_skit_01:0x1e68",
@@ -1336,7 +1336,7 @@
    "max": 40,
    "kind": "line",
    "jp": "身も心も俺達に捧げろ！！",
-   "en": ""
+   "en": "and give us your body and soul!!"
   },
   {
    "id": "ui_skit_01:0x1ea4",
@@ -1344,7 +1344,7 @@
    "max": 40,
    "kind": "line",
    "jp": "バカ龍馬　驚きすぎなんだよ",
-   "en": ""
+   "en": "Idiot Ryoma, you're overreacting."
   },
   {
    "id": "ui_skit_01:0x1ecc",
@@ -1352,7 +1352,7 @@
    "max": 40,
    "kind": "line",
    "jp": "（こえーだろうが）",
-   "en": ""
+   "en": "(It IS scary, dammit.)"
   },
   {
    "id": "ui_skit_01:0x1ef4",
@@ -1360,7 +1360,7 @@
    "max": 40,
    "kind": "line",
    "jp": "身も心も俺達に捧げろ！！",
-   "en": ""
+   "en": "and give us your body and soul!!"
   },
   {
    "id": "ui_skit_01:0x1f30",
@@ -1368,7 +1368,7 @@
    "max": 40,
    "kind": "line",
    "jp": "そんなこと言ったってびっくりするじゃろ",
-   "en": ""
+   "en": "Says you, but it's startlin'!"
   },
   {
    "id": "ui_skit_01:0x1f58",
@@ -1376,7 +1376,7 @@
    "max": 40,
    "kind": "line",
    "jp": "シンディーはよく普通でいられるのお",
-   "en": ""
+   "en": "How're you so calm, Shindy?"
   },
   {
    "id": "ui_skit_01:0x1f80",
@@ -1384,7 +1384,7 @@
    "max": 40,
    "kind": "line",
    "jp": "身も心も俺達に捧げろ！！",
-   "en": ""
+   "en": "and give us your body and soul!!"
   },
   {
    "id": "ui_skit_01:0x1fbc",
@@ -1392,7 +1392,7 @@
    "max": 40,
    "kind": "line",
    "jp": "お……お前と一緒にするな",
-   "en": ""
+   "en": "D-don't lump me in with you."
   },
   {
    "id": "ui_skit_01:0x1fe4",
@@ -1400,7 +1400,7 @@
    "max": 40,
    "kind": "line",
    "jp": "オレ様はいつ何時も",
-   "en": ""
+   "en": "Yours truly is, at any moment,"
   },
   {
    "id": "ui_skit_01:0x200c",
@@ -1408,7 +1408,7 @@
    "max": 40,
    "kind": "line",
    "jp": "ロック　ロックなんだからな",
-   "en": ""
+   "en": "pure rock, rock, I'll have you know!"
   },
   {
    "id": "ui_skit_01:0x2048",
@@ -1416,7 +1416,7 @@
    "max": 40,
    "kind": "line",
    "jp": "大体！　こっんな作り物が",
-   "en": ""
+   "en": "Besides! Some fake junk like thiiis"
   },
   {
    "id": "ui_skit_01:0x2070",
@@ -1424,7 +1424,7 @@
    "max": 40,
    "kind": "line",
    "jp": "こえーわけねぇだろ！",
-   "en": ""
+   "en": "can't possibly be scary!"
   },
   {
    "id": "ui_skit_01:0x2098",
@@ -1432,7 +1432,7 @@
    "max": 40,
    "kind": "line",
    "jp": "ロック　ロックなんだからな",
-   "en": ""
+   "en": "pure rock, rock, I'll have you know!"
   },
   {
    "id": "ui_skit_01:0x20d4",
@@ -1440,7 +1440,7 @@
    "max": 40,
    "kind": "line",
    "jp": "こんな？",
-   "en": ""
+   "en": "Like this?"
   },
   {
    "id": "ui_skit_01:0x20fc",
@@ -1448,7 +1448,7 @@
    "max": 40,
    "kind": "line",
    "jp": "こえーわけねぇだろ！",
-   "en": ""
+   "en": "can't possibly be scary!"
   },
   {
    "id": "ui_skit_01:0x2124",
@@ -1456,7 +1456,7 @@
    "max": 40,
    "kind": "line",
    "jp": "ロック　ロックなんだからな",
-   "en": ""
+   "en": "pure rock, rock, I'll have you know!"
   },
   {
    "id": "ui_skit_01:0x2160",
@@ -1464,7 +1464,7 @@
    "max": 40,
    "kind": "line",
    "jp": "うおぇおお！",
-   "en": ""
+   "en": "Wuoaaagh!"
   },
   {
    "id": "ui_skit_01:0x2188",
@@ -1472,7 +1472,7 @@
    "max": 40,
    "kind": "line",
    "jp": "こえーわけねぇだろ！",
-   "en": ""
+   "en": "can't possibly be scary!"
   },
   {
    "id": "ui_skit_01:0x21b0",
@@ -1480,7 +1480,7 @@
    "max": 40,
    "kind": "line",
    "jp": "ロック　ロックなんだからな",
-   "en": ""
+   "en": "pure rock, rock, I'll have you know!"
   },
   {
    "id": "ui_skit_01:0x21ec",
@@ -1488,7 +1488,7 @@
    "max": 40,
    "kind": "line",
    "jp": "か……桂さん！",
-   "en": ""
+   "en": "K-Katsura-san!"
   },
   {
    "id": "ui_skit_01:0x2214",
@@ -1496,7 +1496,7 @@
    "max": 40,
    "kind": "line",
    "jp": "こえーわけねぇだろ！",
-   "en": ""
+   "en": "can't possibly be scary!"
   },
   {
    "id": "ui_skit_01:0x223c",
@@ -1504,7 +1504,7 @@
    "max": 40,
    "kind": "line",
    "jp": "ロック　ロックなんだからな",
-   "en": ""
+   "en": "pure rock, rock, I'll have you know!"
   },
   {
    "id": "ui_skit_01:0x2278",
@@ -1512,7 +1512,7 @@
    "max": 40,
    "kind": "line",
    "jp": "こんな作り物で悪かったですねぇ",
-   "en": ""
+   "en": "Sorry about the \"fake junk.\""
   },
   {
    "id": "ui_skit_01:0x22a0",
@@ -1520,7 +1520,7 @@
    "max": 40,
    "kind": "line",
    "jp": "弥太郎くんに頼まれて作った",
-   "en": ""
+   "en": "Yataro-kun asked me to build"
   },
   {
    "id": "ui_skit_01:0x22c8",
@@ -1528,7 +1528,7 @@
    "max": 40,
    "kind": "line",
    "jp": "私のからくりですが",
-   "en": ""
+   "en": "these contraptions, you know."
   },
   {
    "id": "ui_skit_01:0x2304",
@@ -1536,7 +1536,7 @@
    "max": 40,
    "kind": "line",
    "jp": "晋作にはまだまだ",
-   "en": ""
+   "en": "For you, Shinsaku, it seems"
   },
   {
    "id": "ui_skit_01:0x232c",
@@ -1544,7 +1544,7 @@
    "max": 40,
    "kind": "line",
    "jp": "出来が悪かったみたいですね",
-   "en": ""
+   "en": "they still weren't good enough."
   },
   {
    "id": "ui_skit_01:0x2354",
@@ -1552,7 +1552,7 @@
    "max": 40,
    "kind": "line",
    "jp": "私のからくりですが",
-   "en": ""
+   "en": "these contraptions, you know."
   },
   {
    "id": "ui_skit_01:0x2390",
@@ -1560,7 +1560,7 @@
    "max": 40,
    "kind": "line",
    "jp": "これセンセーが作ったんか！",
-   "en": ""
+   "en": "Sensei, you made these!?"
   },
   {
    "id": "ui_skit_01:0x23b8",
@@ -1568,7 +1568,7 @@
    "max": 40,
    "kind": "line",
    "jp": "そっちの透けとるのはどうやったんじゃ？",
-   "en": ""
+   "en": "How'd ya do the see-through one there?"
   },
   {
    "id": "ui_skit_01:0x23e0",
@@ -1576,7 +1576,7 @@
    "max": 40,
    "kind": "line",
    "jp": "私のからくりですが",
-   "en": ""
+   "en": "these contraptions, you know."
   },
   {
    "id": "ui_skit_01:0x241c",
@@ -1584,7 +1584,7 @@
    "max": 40,
    "kind": "line",
    "jp": "透けてる？　………",
-   "en": ""
+   "en": "See-through? ..."
   },
   {
    "id": "ui_skit_01:0x2444",
@@ -1592,7 +1592,7 @@
    "max": 40,
    "kind": "line",
    "jp": "そっちの透けとるのはどうやったんじゃ？",
-   "en": ""
+   "en": "How'd ya do the see-through one there?"
   },
   {
    "id": "ui_skit_01:0x246c",
@@ -1600,7 +1600,7 @@
    "max": 40,
    "kind": "line",
    "jp": "私のからくりですが",
-   "en": ""
+   "en": "these contraptions, you know."
   },
   {
    "id": "ui_skit_01:0x24a8",
@@ -1608,7 +1608,7 @@
    "max": 40,
    "kind": "line",
    "jp": "桂さん　後ろ……",
-   "en": ""
+   "en": "Katsura-san, behind you..."
   },
   {
    "id": "ui_skit_01:0x24d0",
@@ -1616,7 +1616,7 @@
    "max": 40,
    "kind": "line",
    "jp": "そっちの透けとるのはどうやったんじゃ？",
-   "en": ""
+   "en": "How'd ya do the see-through one there?"
   },
   {
    "id": "ui_skit_01:0x24f8",
@@ -1624,7 +1624,7 @@
    "max": 40,
    "kind": "line",
    "jp": "私のからくりですが",
-   "en": ""
+   "en": "these contraptions, you know."
   },
   {
    "id": "ui_skit_01:0x2534",
@@ -1632,7 +1632,7 @@
    "max": 40,
    "kind": "line",
    "jp": "………なる程　この感じですね",
-   "en": ""
+   "en": "...I see. So THIS is the effect."
   },
   {
    "id": "ui_skit_01:0x255c",
@@ -1640,7 +1640,7 @@
    "max": 40,
    "kind": "line",
    "jp": "そっちの透けとるのはどうやったんじゃ？",
-   "en": ""
+   "en": "How'd ya do the see-through one there?"
   },
   {
    "id": "ui_skit_01:0x2584",
@@ -1648,7 +1648,7 @@
    "max": 40,
    "kind": "line",
    "jp": "私のからくりですが",
-   "en": ""
+   "en": "these contraptions, you know."
   },
   {
    "id": "ui_skit_01:0x25c0",
@@ -1656,7 +1656,7 @@
    "max": 40,
    "kind": "line",
    "jp": "………",
-   "en": ""
+   "en": "..."
   },
   {
    "id": "ui_skit_01:0x25e8",
@@ -1664,7 +1664,7 @@
    "max": 40,
    "kind": "line",
    "jp": "そっちの透けとるのはどうやったんじゃ？",
-   "en": ""
+   "en": "How'd ya do the see-through one there?"
   },
   {
    "id": "ui_skit_01:0x2610",
@@ -1672,7 +1672,7 @@
    "max": 40,
    "kind": "line",
    "jp": "私のからくりですが",
-   "en": ""
+   "en": "these contraptions, you know."
   },
   {
    "id": "ui_skit_01:0x264c",
@@ -1680,7 +1680,7 @@
    "max": 40,
    "kind": "line",
    "jp": "………",
-   "en": ""
+   "en": "..."
   },
   {
    "id": "ui_skit_01:0x2674",
@@ -1688,7 +1688,7 @@
    "max": 40,
    "kind": "line",
    "jp": "そっちの透けとるのはどうやったんじゃ？",
-   "en": ""
+   "en": "How'd ya do the see-through one there?"
   },
   {
    "id": "ui_skit_01:0x269c",
@@ -1696,7 +1696,7 @@
    "max": 40,
    "kind": "line",
    "jp": "私のからくりですが",
-   "en": ""
+   "en": "these contraptions, you know."
   },
   {
    "id": "ui_skit_01:0x26d8",
@@ -1704,7 +1704,7 @@
    "max": 40,
    "kind": "line",
    "jp": "よーし ",
-   "en": ""
+   "en": "Alright!"
   },
   {
    "id": "ui_skit_01:0x2700",
@@ -1712,7 +1712,7 @@
    "max": 40,
    "kind": "line",
    "jp": "忘れないうちに帰って作りますよ！",
-   "en": ""
+   "en": "I'll go build it before I forget!"
   },
   {
    "id": "ui_skit_01:0x2728",
@@ -1720,7 +1720,7 @@
    "max": 40,
    "kind": "line",
    "jp": "私のからくりですが",
-   "en": ""
+   "en": "these contraptions, you know."
   },
   {
    "id": "ui_skit_01:0x2764",
@@ -1728,7 +1728,7 @@
    "max": 40,
    "kind": "line",
    "jp": "か……桂さん",
-   "en": ""
+   "en": "K-Katsura-san,"
   },
   {
    "id": "ui_skit_01:0x278c",
@@ -1736,7 +1736,7 @@
    "max": 40,
    "kind": "line",
    "jp": "ま……待って！",
-   "en": ""
+   "en": "w-wait!"
   },
   {
    "id": "ui_skit_01:0x27b4",
@@ -1744,7 +1744,7 @@
    "max": 40,
    "kind": "line",
    "jp": "私のからくりですが",
-   "en": ""
+   "en": "these contraptions, you know."
   },
   {
    "id": "ui_skit_01:0x27f0",
@@ -1752,7 +1752,7 @@
    "max": 40,
    "kind": "line",
    "jp": "シンディー　センセー",
-   "en": ""
+   "en": "Shindy! Sensei!"
   },
   {
    "id": "ui_skit_01:0x2818",
@@ -1760,7 +1760,7 @@
    "max": 40,
    "kind": "line",
    "jp": "待ってくれーー！",
-   "en": ""
+   "en": "Wait for meee!"
   },
   {
    "id": "ui_skit_01:0x2840",
@@ -1768,7 +1768,7 @@
    "max": 40,
    "kind": "line",
    "jp": "私のからくりですが",
-   "en": ""
+   "en": "these contraptions, you know."
   },
   {
    "id": "ui_skit_01:0x287c",
@@ -1776,7 +1776,7 @@
    "max": 40,
    "kind": "line",
    "jp": "『本当に怖いのは』　おわり",
-   "en": ""
+   "en": "'What's Really Scary' -- The End"
   },
   {
    "id": "ui_skit_01:0x28a4",
@@ -1784,7 +1784,7 @@
    "max": 40,
    "kind": "line",
    "jp": "待ってくれーー！",
-   "en": ""
+   "en": "Wait for meee!"
   },
   {
    "id": "ui_skit_01:0x28cc",
@@ -1792,7 +1792,7 @@
    "max": 40,
    "kind": "line",
    "jp": "私のからくりですが",
-   "en": ""
+   "en": "these contraptions, you know."
   },
   {
    "id": "ui_skit_01:0x28f8",
@@ -1800,7 +1800,7 @@
    "max": 40,
    "kind": "title",
    "jp": "道",
-   "en": ""
+   "en": "The Path"
   },
   {
    "id": "ui_skit_01:0x293c",
@@ -1808,7 +1808,7 @@
    "max": 40,
    "kind": "line",
    "jp": "土方さん",
-   "en": ""
+   "en": "Hijikata-san,"
   },
   {
    "id": "ui_skit_01:0x2964",
@@ -1816,7 +1816,7 @@
    "max": 40,
    "kind": "line",
    "jp": "僕らの道ってどこに行くんですかね",
-   "en": ""
+   "en": "where do you think our path leads?"
   },
   {
    "id": "ui_skit_01:0x298c",
@@ -1824,7 +1824,7 @@
    "max": 40,
    "kind": "line",
    "jp": "私のからくりですが",
-   "en": ""
+   "en": "these contraptions, you know."
   },
   {
    "id": "ui_skit_01:0x29c8",
@@ -1832,7 +1832,7 @@
    "max": 40,
    "kind": "line",
    "jp": "総司　どうした突然",
-   "en": ""
+   "en": "Soji. Where's this coming from?"
   },
   {
    "id": "ui_skit_01:0x29f0",
@@ -1840,7 +1840,7 @@
    "max": 40,
    "kind": "line",
    "jp": "僕らの道ってどこに行くんですかね",
-   "en": ""
+   "en": "where do you think our path leads?"
   },
   {
    "id": "ui_skit_01:0x2a18",
@@ -1848,7 +1848,7 @@
    "max": 40,
    "kind": "line",
    "jp": "私のからくりですが",
-   "en": ""
+   "en": "these contraptions, you know."
   },
   {
    "id": "ui_skit_01:0x2a54",
@@ -1856,7 +1856,7 @@
    "max": 40,
    "kind": "line",
    "jp": "僕たちが生きた先に",
-   "en": ""
+   "en": "Beyond the lives we're living,"
   },
   {
    "id": "ui_skit_01:0x2a7c",
@@ -1864,7 +1864,7 @@
    "max": 40,
    "kind": "line",
    "jp": "何があるんだろうって",
-   "en": ""
+   "en": "what's waiting out there?"
   },
   {
    "id": "ui_skit_01:0x2aa4",
@@ -1872,7 +1872,7 @@
    "max": 40,
    "kind": "line",
    "jp": "時々思うんですよね",
-   "en": ""
+   "en": "I wonder that sometimes."
   },
   {
    "id": "ui_skit_01:0x2ae0",
@@ -1880,7 +1880,7 @@
    "max": 40,
    "kind": "line",
    "jp": "生きた先か……それは後の者たちが",
-   "en": ""
+   "en": "Beyond our lives... That's the path"
   },
   {
    "id": "ui_skit_01:0x2b08",
@@ -1888,7 +1888,7 @@
    "max": 40,
    "kind": "line",
    "jp": "生きていく道だ",
-   "en": ""
+   "en": "those who come after will walk."
   },
   {
    "id": "ui_skit_01:0x2b30",
@@ -1896,7 +1896,7 @@
    "max": 40,
    "kind": "line",
    "jp": "時々思うんですよね",
-   "en": ""
+   "en": "I wonder that sometimes."
   },
   {
    "id": "ui_skit_01:0x2b6c",
@@ -1904,7 +1904,7 @@
    "max": 40,
    "kind": "line",
    "jp": "オレ達はオレたちの今を生きればいい",
-   "en": ""
+   "en": "We just live our own present."
   },
   {
    "id": "ui_skit_01:0x2b94",
@@ -1912,7 +1912,7 @@
    "max": 40,
    "kind": "line",
    "jp": "懸命に今を生きれば",
-   "en": ""
+   "en": "Live the now with all we've got,"
   },
   {
    "id": "ui_skit_01:0x2bbc",
@@ -1920,7 +1920,7 @@
    "max": 40,
    "kind": "line",
    "jp": "それを受け継ぐ者が出てくる",
-   "en": ""
+   "en": "and someone will carry it on."
   },
   {
    "id": "ui_skit_01:0x2bf8",
@@ -1928,7 +1928,7 @@
    "max": 40,
    "kind": "line",
    "jp": "近藤さんがいて　オレ達がいるように",
-   "en": ""
+   "en": "Just like Kondo-san came before us."
   },
   {
    "id": "ui_skit_01:0x2c20",
@@ -1936,7 +1936,7 @@
    "max": 40,
    "kind": "line",
    "jp": "懸命に今を生きれば",
-   "en": ""
+   "en": "Live the now with all we've got,"
   },
   {
    "id": "ui_skit_01:0x2c48",
@@ -1944,7 +1944,7 @@
    "max": 40,
    "kind": "line",
    "jp": "それを受け継ぐ者が出てくる",
-   "en": ""
+   "en": "and someone will carry it on."
   },
   {
    "id": "ui_skit_01:0x2c84",
@@ -1952,7 +1952,7 @@
    "max": 40,
    "kind": "line",
    "jp": "そうか　そうだね　今を懸命に生きる",
-   "en": ""
+   "en": "I see. Yeah. Living the now all-out."
   },
   {
    "id": "ui_skit_01:0x2cac",
@@ -1960,7 +1960,7 @@
    "max": 40,
    "kind": "line",
    "jp": "何かいい響きだね",
-   "en": ""
+   "en": "Has a nice ring to it."
   },
   {
    "id": "ui_skit_01:0x2cd4",
@@ -1968,7 +1968,7 @@
    "max": 40,
    "kind": "line",
    "jp": "それを受け継ぐ者が出てくる",
-   "en": ""
+   "en": "and someone will carry it on."
   },
   {
    "id": "ui_skit_01:0x2d10",
@@ -1976,7 +1976,7 @@
    "max": 40,
    "kind": "line",
    "jp": "総司　さあ行くぞ　戦いの時間だ",
-   "en": ""
+   "en": "Come on, Soji. It's time to fight."
   },
   {
    "id": "ui_skit_01:0x2d38",
@@ -1984,7 +1984,7 @@
    "max": 40,
    "kind": "line",
    "jp": "何かいい響きだね",
-   "en": ""
+   "en": "Has a nice ring to it."
   },
   {
    "id": "ui_skit_01:0x2d60",
@@ -1992,7 +1992,7 @@
    "max": 40,
    "kind": "line",
    "jp": "それを受け継ぐ者が出てくる",
-   "en": ""
+   "en": "and someone will carry it on."
   },
   {
    "id": "ui_skit_01:0x2d9c",
@@ -2000,7 +2000,7 @@
    "max": 40,
    "kind": "line",
    "jp": "ええ　今日の先に！",
-   "en": ""
+   "en": "Yes. Toward what lies past today!"
   },
   {
    "id": "ui_skit_01:0x2dc4",
@@ -2008,7 +2008,7 @@
    "max": 40,
    "kind": "line",
    "jp": "何かいい響きだね",
-   "en": ""
+   "en": "Has a nice ring to it."
   },
   {
    "id": "ui_skit_01:0x2dec",
@@ -2016,7 +2016,7 @@
    "max": 40,
    "kind": "line",
    "jp": "それを受け継ぐ者が出てくる",
-   "en": ""
+   "en": "and someone will carry it on."
   },
   {
    "id": "ui_skit_01:0x2e28",
@@ -2024,7 +2024,7 @@
    "max": 40,
    "kind": "line",
    "jp": "（土方さん",
-   "en": ""
+   "en": "(Hijikata-san,"
   },
   {
    "id": "ui_skit_01:0x2e50",
@@ -2032,7 +2032,7 @@
    "max": 40,
    "kind": "line",
    "jp": "僕はずっと土方さんの隣にいます）",
-   "en": ""
+   "en": "I'm always by your side, Hijikata-san.)"
   },
   {
    "id": "ui_skit_01:0x2e78",
@@ -2040,7 +2040,7 @@
    "max": 40,
    "kind": "line",
    "jp": "それを受け継ぐ者が出てくる",
-   "en": ""
+   "en": "and someone will carry it on."
   },
   {
    "id": "ui_skit_01:0x2eb4",
@@ -2048,7 +2048,7 @@
    "max": 40,
    "kind": "line",
    "jp": "『道』　おわり",
-   "en": ""
+   "en": "'The Path' -- The End"
   },
   {
    "id": "ui_skit_01:0x2edc",
@@ -2056,7 +2056,7 @@
    "max": 40,
    "kind": "line",
    "jp": "僕はずっと土方さんの隣にいます）",
-   "en": ""
+   "en": "I'm always by your side, Hijikata-san.)"
   },
   {
    "id": "ui_skit_01:0x2f04",
@@ -2064,7 +2064,7 @@
    "max": 40,
    "kind": "line",
    "jp": "それを受け継ぐ者が出てくる",
-   "en": ""
+   "en": "and someone will carry it on."
   },
   {
    "id": "ui_skit_01:0x2f30",
@@ -2072,7 +2072,7 @@
    "max": 40,
    "kind": "title",
    "jp": "祝！幕末Rock 超魂 発売記念！",
-   "en": ""
+   "en": "Hooray! Bakumatsu Rock: Ultra Soul Out!"
   },
   {
    "id": "ui_skit_01:0x2f74",
@@ -2080,7 +2080,7 @@
    "max": 40,
    "kind": "line",
    "jp": "うおおおお！",
-   "en": ""
+   "en": "Woooooo!"
   },
   {
    "id": "ui_skit_01:0x2f9c",
@@ -2088,7 +2088,7 @@
    "max": 40,
    "kind": "line",
    "jp": "またみんなに会えるぜよ！",
-   "en": ""
+   "en": "I get to see y'all again!"
   },
   {
    "id": "ui_skit_01:0x2fc4",
@@ -2096,7 +2096,7 @@
    "max": 40,
    "kind": "line",
    "jp": "それを受け継ぐ者が出てくる",
-   "en": ""
+   "en": "and someone will carry it on."
   },
   {
    "id": "ui_skit_01:0x3000",
@@ -2104,7 +2104,7 @@
    "max": 40,
    "kind": "line",
    "jp": "ふふふ",
-   "en": ""
+   "en": "Hehehe."
   },
   {
    "id": "ui_skit_01:0x3028",
@@ -2112,7 +2112,7 @@
    "max": 40,
    "kind": "line",
    "jp": "楽しみですね",
-   "en": ""
+   "en": "How exciting."
   },
   {
    "id": "ui_skit_01:0x3050",
@@ -2120,7 +2120,7 @@
    "max": 40,
    "kind": "line",
    "jp": "それを受け継ぐ者が出てくる",
-   "en": ""
+   "en": "and someone will carry it on."
   },
   {
    "id": "ui_skit_01:0x308c",
@@ -2128,7 +2128,7 @@
    "max": 40,
    "kind": "line",
    "jp": "なんだ？",
-   "en": ""
+   "en": "What?"
   },
   {
    "id": "ui_skit_01:0x30b4",
@@ -2136,7 +2136,7 @@
    "max": 40,
    "kind": "line",
    "jp": "誰に会えるって？",
-   "en": ""
+   "en": "See who again?"
   },
   {
    "id": "ui_skit_01:0x30dc",
@@ -2144,7 +2144,7 @@
    "max": 40,
    "kind": "line",
    "jp": "それを受け継ぐ者が出てくる",
-   "en": ""
+   "en": "and someone will carry it on."
   },
   {
    "id": "ui_skit_01:0x3118",
@@ -2152,7 +2152,7 @@
    "max": 40,
    "kind": "line",
    "jp": "スカシくん聞いてないんだ",
-   "en": ""
+   "en": "Mr. Poser, you didn't hear?"
   },
   {
    "id": "ui_skit_01:0x3140",
@@ -2160,7 +2160,7 @@
    "max": 40,
    "kind": "line",
    "jp": "残念　出番ないかも～",
-   "en": ""
+   "en": "Too bad. You might not get a part~"
   },
   {
    "id": "ui_skit_01:0x3168",
@@ -2168,7 +2168,7 @@
    "max": 40,
    "kind": "line",
    "jp": "それを受け継ぐ者が出てくる",
-   "en": ""
+   "en": "and someone will carry it on."
   },
   {
    "id": "ui_skit_01:0x31a4",
@@ -2176,7 +2176,7 @@
    "max": 40,
    "kind": "line",
    "jp": "なんだとぉ！！",
-   "en": ""
+   "en": "Whaaat!!"
   },
   {
    "id": "ui_skit_01:0x31cc",
@@ -2184,7 +2184,7 @@
    "max": 40,
    "kind": "line",
    "jp": "出番って何の出番だ！！",
-   "en": ""
+   "en": "A part? A part in WHAT!!"
   },
   {
    "id": "ui_skit_01:0x31f4",
@@ -2192,7 +2192,7 @@
    "max": 40,
    "kind": "line",
    "jp": "それを受け継ぐ者が出てくる",
-   "en": ""
+   "en": "and someone will carry it on."
   },
   {
    "id": "ui_skit_01:0x3230",
@@ -2200,7 +2200,7 @@
    "max": 40,
    "kind": "line",
    "jp": "俺たちの活躍はこれからだって事だ",
-   "en": ""
+   "en": "It means our story's just beginning."
   },
   {
    "id": "ui_skit_01:0x3258",
@@ -2208,7 +2208,7 @@
    "max": 40,
    "kind": "line",
    "jp": "出番って何の出番だ！！",
-   "en": ""
+   "en": "A part? A part in WHAT!!"
   },
   {
    "id": "ui_skit_01:0x3280",
@@ -2216,7 +2216,7 @@
    "max": 40,
    "kind": "line",
    "jp": "それを受け継ぐ者が出てくる",
-   "en": ""
+   "en": "and someone will carry it on."
   },
   {
    "id": "ui_skit_01:0x32bc",
@@ -2224,7 +2224,7 @@
    "max": 40,
    "kind": "line",
    "jp": "そうじゃ",
-   "en": ""
+   "en": "That's right!"
   },
   {
    "id": "ui_skit_01:0x32e4",
@@ -2232,7 +2232,7 @@
    "max": 40,
    "kind": "line",
    "jp": "新しい世界へ飛び出していくんじゃ",
-   "en": ""
+   "en": "We're leapin' out into a new world!"
   },
   {
    "id": "ui_skit_01:0x330c",
@@ -2240,7 +2240,7 @@
    "max": 40,
    "kind": "line",
    "jp": "それを受け継ぐ者が出てくる",
-   "en": ""
+   "en": "and someone will carry it on."
   },
   {
    "id": "ui_skit_01:0x3348",
@@ -2248,7 +2248,7 @@
    "max": 40,
    "kind": "line",
    "jp": "新たなる敵！",
-   "en": ""
+   "en": "New enemies!"
   },
   {
    "id": "ui_skit_01:0x3370",
@@ -2256,7 +2256,7 @@
    "max": 40,
    "kind": "line",
    "jp": "新たなる歌！",
-   "en": ""
+   "en": "New songs!"
   },
   {
    "id": "ui_skit_01:0x3398",
@@ -2264,7 +2264,7 @@
    "max": 40,
    "kind": "line",
    "jp": "どちらも気になりますね",
-   "en": ""
+   "en": "I'm curious about both."
   },
   {
    "id": "ui_skit_01:0x33d4",
@@ -2272,7 +2272,7 @@
    "max": 40,
    "kind": "line",
    "jp": "て　敵だと！？",
-   "en": ""
+   "en": "E-enemies!?"
   },
   {
    "id": "ui_skit_01:0x33fc",
@@ -2280,7 +2280,7 @@
    "max": 40,
    "kind": "line",
    "jp": "ふん　そんなもん何が来ようと",
-   "en": ""
+   "en": "Hmph. Whatever comes our way,"
   },
   {
    "id": "ui_skit_01:0x3424",
@@ -2288,7 +2288,7 @@
    "max": 40,
    "kind": "line",
    "jp": "オレ様たちの手にかかれば…",
-   "en": ""
+   "en": "the great Takasugi and co. will..."
   },
   {
    "id": "ui_skit_01:0x3460",
@@ -2296,7 +2296,7 @@
    "max": 40,
    "kind": "line",
    "jp": "スカシくん気が早すぎ",
-   "en": ""
+   "en": "Mr. Poser, you're jumping the gun."
   },
   {
    "id": "ui_skit_01:0x3488",
@@ -2304,7 +2304,7 @@
    "max": 40,
    "kind": "line",
    "jp": "ふん　そんなもん何が来ようと",
-   "en": ""
+   "en": "Hmph. Whatever comes our way,"
   },
   {
    "id": "ui_skit_01:0x34b0",
@@ -2312,7 +2312,7 @@
    "max": 40,
    "kind": "line",
    "jp": "オレ様たちの手にかかれば…",
-   "en": ""
+   "en": "the great Takasugi and co. will..."
   },
   {
    "id": "ui_skit_01:0x34ec",
@@ -2320,7 +2320,7 @@
    "max": 40,
    "kind": "line",
    "jp": "いや　だから",
-   "en": ""
+   "en": "No, seriously,"
   },
   {
    "id": "ui_skit_01:0x3514",
@@ -2328,7 +2328,7 @@
    "max": 40,
    "kind": "line",
    "jp": "なんの話なんだー！！",
-   "en": ""
+   "en": "what are we talking abooout!!"
   },
   {
    "id": "ui_skit_01:0x353c",
@@ -2336,7 +2336,7 @@
    "max": 40,
    "kind": "line",
    "jp": "オレ様たちの手にかかれば…",
-   "en": ""
+   "en": "the great Takasugi and co. will..."
   },
   {
    "id": "ui_skit_01:0x3578",
@@ -2344,7 +2344,7 @@
    "max": 40,
    "kind": "line",
    "jp": "『祝！幕末Rock 超魂（ウルトラソウル）",
-   "en": ""
+   "en": "'Hooray! Bakumatsu Rock: Ultra Soul"
   },
   {
    "id": "ui_skit_01:0x35a0",
@@ -2352,7 +2352,7 @@
    "max": 40,
    "kind": "line",
    "jp": "発売記念！』　おわり",
-   "en": ""
+   "en": "Out!' -- The End"
   },
   {
    "id": "ui_skit_01:0x35c8",
@@ -2360,7 +2360,7 @@
    "max": 40,
    "kind": "line",
    "jp": "オレ様たちの手にかかれば…",
-   "en": ""
+   "en": "the great Takasugi and co. will..."
   },
   {
    "id": "ui_skit_01:0x3604",
@@ -2368,7 +2368,7 @@
    "max": 40,
    "kind": "line",
    "jp": "※このスキットは",
-   "en": ""
+   "en": "*This skit was originally"
   },
   {
    "id": "ui_skit_01:0x362c",
@@ -2376,7 +2376,7 @@
    "max": 40,
    "kind": "line",
    "jp": "2014年7月3日に公式で",
-   "en": ""
+   "en": "released officially on"
   },
   {
    "id": "ui_skit_01:0x3654",
@@ -2384,7 +2384,7 @@
    "max": 40,
    "kind": "line",
    "jp": "配信したものです",
-   "en": ""
+   "en": "July 3, 2014."
   },
   {
    "id": "ui_skit_01:0x3680",
@@ -2392,7 +2392,7 @@
    "max": 40,
    "kind": "title",
    "jp": "活動漫画（アニメ）化決定記念！",
-   "en": ""
+   "en": "Celebrating the Anime Announcement!"
   },
   {
    "id": "ui_skit_01:0x36c4",
@@ -2400,7 +2400,7 @@
    "max": 40,
    "kind": "line",
    "jp": "ヒャッホー",
-   "en": ""
+   "en": "Woo-hoo!"
   },
   {
    "id": "ui_skit_01:0x36ec",
@@ -2408,7 +2408,7 @@
    "max": 40,
    "kind": "line",
    "jp": "活動漫画（アニメ）じゃー！！",
-   "en": ""
+   "en": "We're gettin' an anime!!"
   },
   {
    "id": "ui_skit_01:0x3714",
@@ -2416,7 +2416,7 @@
    "max": 40,
    "kind": "line",
    "jp": "配信したものです",
-   "en": ""
+   "en": "July 3, 2014."
   },
   {
    "id": "ui_skit_01:0x3750",
@@ -2424,7 +2424,7 @@
    "max": 40,
    "kind": "line",
    "jp": "きたぜ　きたぜ！！",
-   "en": ""
+   "en": "Hell yeah, hell yeah!!"
   },
   {
    "id": "ui_skit_01:0x3778",
@@ -2432,7 +2432,7 @@
    "max": 40,
    "kind": "line",
    "jp": "活動漫画（アニメ）じゃー！！",
-   "en": ""
+   "en": "We're gettin' an anime!!"
   },
   {
    "id": "ui_skit_01:0x37a0",
@@ -2440,7 +2440,7 @@
    "max": 40,
    "kind": "line",
    "jp": "配信したものです",
-   "en": ""
+   "en": "July 3, 2014."
   },
   {
    "id": "ui_skit_01:0x37dc",
@@ -2448,7 +2448,7 @@
    "max": 40,
    "kind": "line",
    "jp": "やりました！！",
-   "en": ""
+   "en": "We did it!!"
   },
   {
    "id": "ui_skit_01:0x3804",
@@ -2456,7 +2456,7 @@
    "max": 40,
    "kind": "line",
    "jp": "活動漫画（アニメ）じゃー！！",
-   "en": ""
+   "en": "We're gettin' an anime!!"
   },
   {
    "id": "ui_skit_01:0x382c",
@@ -2464,7 +2464,7 @@
    "max": 40,
    "kind": "line",
    "jp": "配信したものです",
-   "en": ""
+   "en": "July 3, 2014."
   },
   {
    "id": "ui_skit_01:0x3868",
@@ -2472,7 +2472,7 @@
    "max": 40,
    "kind": "line",
    "jp": "わーい！！",
-   "en": ""
+   "en": "Yaaay!!"
   },
   {
    "id": "ui_skit_01:0x3890",
@@ -2480,7 +2480,7 @@
    "max": 40,
    "kind": "line",
    "jp": "活動漫画（アニメ）じゃー！！",
-   "en": ""
+   "en": "We're gettin' an anime!!"
   },
   {
    "id": "ui_skit_01:0x38b8",
@@ -2488,7 +2488,7 @@
    "max": 40,
    "kind": "line",
    "jp": "配信したものです",
-   "en": ""
+   "en": "July 3, 2014."
   },
   {
    "id": "ui_skit_01:0x38f4",
@@ -2496,7 +2496,7 @@
    "max": 40,
    "kind": "line",
    "jp": "ヤッホー！",
-   "en": ""
+   "en": "Yahoo!"
   },
   {
    "id": "ui_skit_01:0x391c",
@@ -2504,7 +2504,7 @@
    "max": 40,
    "kind": "line",
    "jp": "活動漫画（アニメ）じゃー！！",
-   "en": ""
+   "en": "We're gettin' an anime!!"
   },
   {
    "id": "ui_skit_01:0x3944",
@@ -2512,7 +2512,7 @@
    "max": 40,
    "kind": "line",
    "jp": "配信したものです",
-   "en": ""
+   "en": "July 3, 2014."
   },
   {
    "id": "ui_skit_01:0x3980",
@@ -2520,7 +2520,7 @@
    "max": 40,
    "kind": "line",
    "jp": "え…？",
-   "en": ""
+   "en": "Huh...?"
   },
   {
    "id": "ui_skit_01:0x39a8",
@@ -2528,7 +2528,7 @@
    "max": 40,
    "kind": "line",
    "jp": "活動漫画（アニメ）じゃー！！",
-   "en": ""
+   "en": "We're gettin' an anime!!"
   },
   {
    "id": "ui_skit_01:0x39d0",
@@ -2536,7 +2536,7 @@
    "max": 40,
    "kind": "line",
    "jp": "配信したものです",
-   "en": ""
+   "en": "July 3, 2014."
   },
   {
    "id": "ui_skit_01:0x3a0c",
@@ -2544,7 +2544,7 @@
    "max": 40,
    "kind": "line",
    "jp": "土方さん…",
-   "en": ""
+   "en": "Hijikata-san..."
   },
   {
    "id": "ui_skit_01:0x3a34",
@@ -2552,7 +2552,7 @@
    "max": 40,
    "kind": "line",
    "jp": "活動漫画（アニメ）じゃー！！",
-   "en": ""
+   "en": "We're gettin' an anime!!"
   },
   {
    "id": "ui_skit_01:0x3a5c",
@@ -2560,7 +2560,7 @@
    "max": 40,
    "kind": "line",
    "jp": "配信したものです",
-   "en": ""
+   "en": "July 3, 2014."
   },
   {
    "id": "ui_skit_01:0x3a98",
@@ -2568,7 +2568,7 @@
    "max": 40,
    "kind": "line",
    "jp": "ン…ゴホッゴホ…",
-   "en": ""
+   "en": "Ahem... *cough cough*..."
   },
   {
    "id": "ui_skit_01:0x3ac0",
@@ -2576,7 +2576,7 @@
    "max": 40,
    "kind": "line",
    "jp": "なんだ？",
-   "en": ""
+   "en": "What?"
   },
   {
    "id": "ui_skit_01:0x3ae8",
@@ -2584,7 +2584,7 @@
    "max": 40,
    "kind": "line",
    "jp": "配信したものです",
-   "en": ""
+   "en": "July 3, 2014."
   },
   {
    "id": "ui_skit_01:0x3b24",
@@ -2592,7 +2592,7 @@
    "max": 40,
    "kind": "line",
    "jp": "誤魔化したって無駄ですよ土方さん",
-   "en": ""
+   "en": "No use covering it up, Hijikata-san."
   },
   {
    "id": "ui_skit_01:0x3b4c",
@@ -2600,7 +2600,7 @@
    "max": 40,
    "kind": "line",
    "jp": "上にスクロールしたらすぐ分かります",
-   "en": ""
+   "en": "Just scroll up and it's right there."
   },
   {
    "id": "ui_skit_01:0x3b74",
@@ -2608,7 +2608,7 @@
    "max": 40,
    "kind": "line",
    "jp": "配信したものです",
-   "en": ""
+   "en": "July 3, 2014."
   },
   {
    "id": "ui_skit_01:0x3bb0",
@@ -2616,7 +2616,7 @@
    "max": 40,
    "kind": "line",
    "jp": "おい　総司",
-   "en": ""
+   "en": "Hey, Soji."
   },
   {
    "id": "ui_skit_01:0x3bd8",
@@ -2624,7 +2624,7 @@
    "max": 40,
    "kind": "line",
    "jp": "そのよく回る舌を斬ってやろうか？",
-   "en": ""
+   "en": "Want me to cut out that clever tongue?"
   },
   {
    "id": "ui_skit_01:0x3c00",
@@ -2632,7 +2632,7 @@
    "max": 40,
    "kind": "line",
    "jp": "配信したものです",
-   "en": ""
+   "en": "July 3, 2014."
   },
   {
    "id": "ui_skit_01:0x3c3c",
@@ -2640,7 +2640,7 @@
    "max": 40,
    "kind": "line",
    "jp": "まあまあソウちん",
-   "en": ""
+   "en": "Now, now, So-chin."
   },
   {
    "id": "ui_skit_01:0x3c64",
@@ -2648,7 +2648,7 @@
    "max": 40,
    "kind": "line",
    "jp": "ヒジゾーさんだって",
-   "en": ""
+   "en": "Even Hijizo-san"
   },
   {
    "id": "ui_skit_01:0x3c8c",
@@ -2656,7 +2656,7 @@
    "max": 40,
    "kind": "line",
    "jp": "羽目を外すことはあるぜよ！",
-   "en": ""
+   "en": "cuts loose sometimes, I tell ya!"
   },
   {
    "id": "ui_skit_01:0x3cc8",
@@ -2664,7 +2664,7 @@
    "max": 40,
    "kind": "line",
    "jp": "いよいよ活動漫画（アニメ）になるんだ",
-   "en": ""
+   "en": "We're finally getting an anime."
   },
   {
    "id": "ui_skit_01:0x3cf0",
@@ -2672,7 +2672,7 @@
    "max": 40,
    "kind": "line",
    "jp": "無理もないだろう",
-   "en": ""
+   "en": "It's only natural."
   },
   {
    "id": "ui_skit_01:0x3d18",
@@ -2680,7 +2680,7 @@
    "max": 40,
    "kind": "line",
    "jp": "羽目を外すことはあるぜよ！",
-   "en": ""
+   "en": "cuts loose sometimes, I tell ya!"
   },
   {
    "id": "ui_skit_01:0x3d54",
@@ -2688,7 +2688,7 @@
    "max": 40,
    "kind": "line",
    "jp": "（でもヤッホーは無いですよね…）",
-   "en": ""
+   "en": "(But \"Yahoo!\"? Come on...)"
   },
   {
    "id": "ui_skit_01:0x3d7c",
@@ -2696,7 +2696,7 @@
    "max": 40,
    "kind": "line",
    "jp": "無理もないだろう",
-   "en": ""
+   "en": "It's only natural."
   },
   {
    "id": "ui_skit_01:0x3da4",
@@ -2704,7 +2704,7 @@
    "max": 40,
    "kind": "line",
    "jp": "羽目を外すことはあるぜよ！",
-   "en": ""
+   "en": "cuts loose sometimes, I tell ya!"
   },
   {
    "id": "ui_skit_01:0x3de0",
@@ -2712,7 +2712,7 @@
    "max": 40,
    "kind": "line",
    "jp": "そんなわけで活動漫画（アニメ）",
-   "en": ""
+   "en": "So, we hope you'll cheer for us"
   },
   {
    "id": "ui_skit_01:0x3e08",
@@ -2720,7 +2720,7 @@
    "max": 40,
    "kind": "line",
    "jp": "の僕たちもよろしくね！",
-   "en": ""
+   "en": "in the anime too!"
   },
   {
    "id": "ui_skit_01:0x3e30",
@@ -2728,7 +2728,7 @@
    "max": 40,
    "kind": "line",
    "jp": "羽目を外すことはあるぜよ！",
-   "en": ""
+   "en": "cuts loose sometimes, I tell ya!"
   },
   {
    "id": "ui_skit_01:0x3e6c",
@@ -2736,7 +2736,7 @@
    "max": 40,
    "kind": "line",
    "jp": "『活動漫画（アニメ）化決定記念！』",
-   "en": ""
+   "en": "'Celebrating the Anime Announcement!'"
   },
   {
    "id": "ui_skit_01:0x3e94",
@@ -2744,7 +2744,7 @@
    "max": 40,
    "kind": "line",
    "jp": "おわり",
-   "en": ""
+   "en": "-- The End"
   },
   {
    "id": "ui_skit_01:0x3ebc",
@@ -2752,7 +2752,7 @@
    "max": 40,
    "kind": "line",
    "jp": "羽目を外すことはあるぜよ！",
-   "en": ""
+   "en": "cuts loose sometimes, I tell ya!"
   },
   {
    "id": "ui_skit_01:0x3ef8",
@@ -2760,7 +2760,7 @@
    "max": 40,
    "kind": "line",
    "jp": "※このスキットは",
-   "en": ""
+   "en": "*This skit was originally"
   },
   {
    "id": "ui_skit_01:0x3f20",
@@ -2768,7 +2768,7 @@
    "max": 40,
    "kind": "line",
    "jp": "2014年3月11日に配信されたものです",
-   "en": ""
+   "en": "released on March 11, 2014."
   },
   {
    "id": "ui_skit_01:0x3f48",
@@ -2776,7 +2776,7 @@
    "max": 40,
    "kind": "line",
    "jp": "羽目を外すことはあるぜよ！",
-   "en": ""
+   "en": "cuts loose sometimes, I tell ya!"
   },
   {
    "id": "ui_skit_01:0x3f74",
@@ -2784,7 +2784,7 @@
    "max": 40,
    "kind": "title",
    "jp": "DLC「土方歳三回顧録」配信記念！",
-   "en": ""
+   "en": "DLC \"Toshizo Hijikata's Memoir\" Out!"
   },
   {
    "id": "ui_skit_01:0x3fb8",
@@ -2792,7 +2792,7 @@
    "max": 40,
    "kind": "line",
    "jp": "俺はその日",
-   "en": ""
+   "en": "That day, I was"
   },
   {
    "id": "ui_skit_01:0x3fe0",
@@ -2800,7 +2800,7 @@
    "max": 40,
    "kind": "line",
    "jp": "一人山道を歩いていた",
-   "en": ""
+   "en": "walking a mountain path alone."
   },
   {
    "id": "ui_skit_01:0x4008",
@@ -2808,7 +2808,7 @@
    "max": 40,
    "kind": "line",
    "jp": "羽目を外すことはあるぜよ！",
-   "en": ""
+   "en": "cuts loose sometimes, I tell ya!"
   },
   {
    "id": "ui_skit_01:0x4044",
@@ -2816,7 +2816,7 @@
    "max": 40,
    "kind": "line",
    "jp": "お　ヒジゾーさん",
-   "en": ""
+   "en": "Oh, Hijizo-san!"
   },
   {
    "id": "ui_skit_01:0x406c",
@@ -2824,7 +2824,7 @@
    "max": 40,
    "kind": "line",
    "jp": "なにしとるんじゃ？",
-   "en": ""
+   "en": "Whatcha doin'?"
   },
   {
    "id": "ui_skit_01:0x4094",
@@ -2832,7 +2832,7 @@
    "max": 40,
    "kind": "line",
    "jp": "羽目を外すことはあるぜよ！",
-   "en": ""
+   "en": "cuts loose sometimes, I tell ya!"
   },
   {
    "id": "ui_skit_01:0x40d0",
@@ -2840,7 +2840,7 @@
    "max": 40,
    "kind": "line",
    "jp": "井伊に攫われた坂本を見かけたという",
-   "en": ""
+   "en": "I'd heard Sakamoto, kidnapped by Ii,"
   },
   {
    "id": "ui_skit_01:0x40f8",
@@ -2848,7 +2848,7 @@
    "max": 40,
    "kind": "line",
    "jp": "情報を耳にしたからだ",
-   "en": ""
+   "en": "had been spotted out there."
   },
   {
    "id": "ui_skit_01:0x4120",
@@ -2856,7 +2856,7 @@
    "max": 40,
    "kind": "line",
    "jp": "羽目を外すことはあるぜよ！",
-   "en": ""
+   "en": "cuts loose sometimes, I tell ya!"
   },
   {
    "id": "ui_skit_01:0x415c",
@@ -2864,7 +2864,7 @@
    "max": 40,
    "kind": "line",
    "jp": "おーい",
-   "en": ""
+   "en": "Heeey!"
   },
   {
    "id": "ui_skit_01:0x4184",
@@ -2872,7 +2872,7 @@
    "max": 40,
    "kind": "line",
    "jp": "わしならここにおるぜよ！",
-   "en": ""
+   "en": "I'm right here, pal!"
   },
   {
    "id": "ui_skit_01:0x41ac",
@@ -2880,7 +2880,7 @@
    "max": 40,
    "kind": "line",
    "jp": "羽目を外すことはあるぜよ！",
-   "en": ""
+   "en": "cuts loose sometimes, I tell ya!"
   },
   {
    "id": "ui_skit_01:0x41e8",
@@ -2888,7 +2888,7 @@
    "max": 40,
    "kind": "line",
    "jp": "だがそこで俺は",
-   "en": ""
+   "en": "But there, I came across"
   },
   {
    "id": "ui_skit_01:0x4210",
@@ -2896,7 +2896,7 @@
    "max": 40,
    "kind": "line",
    "jp": "一人の少年に出会った",
-   "en": ""
+   "en": "a young boy."
   },
   {
    "id": "ui_skit_01:0x4238",
@@ -2904,7 +2904,7 @@
    "max": 40,
    "kind": "line",
    "jp": "羽目を外すことはあるぜよ！",
-   "en": ""
+   "en": "cuts loose sometimes, I tell ya!"
   },
   {
    "id": "ui_skit_01:0x4274",
@@ -2912,7 +2912,7 @@
    "max": 40,
    "kind": "line",
    "jp": "む？",
-   "en": ""
+   "en": "Hm?"
   },
   {
    "id": "ui_skit_01:0x429c",
@@ -2920,7 +2920,7 @@
    "max": 40,
    "kind": "line",
    "jp": "少年？",
-   "en": ""
+   "en": "A boy?"
   },
   {
    "id": "ui_skit_01:0x42c4",
@@ -2928,7 +2928,7 @@
    "max": 40,
    "kind": "line",
    "jp": "羽目を外すことはあるぜよ！",
-   "en": ""
+   "en": "cuts loose sometimes, I tell ya!"
   },
   {
    "id": "ui_skit_01:0x4300",
@@ -2936,7 +2936,7 @@
    "max": 40,
    "kind": "line",
    "jp": "出会ったころの総司と",
-   "en": ""
+   "en": "Seeing a boy about the same age"
   },
   {
    "id": "ui_skit_01:0x4328",
@@ -2944,7 +2944,7 @@
    "max": 40,
    "kind": "line",
    "jp": "同じくらいの年頃の少年を見て",
-   "en": ""
+   "en": "as Soji when we first met,"
   },
   {
    "id": "ui_skit_01:0x4350",
@@ -2952,7 +2952,7 @@
    "max": 40,
    "kind": "line",
    "jp": "あの懐かしい日々を思い浮かべた",
-   "en": ""
+   "en": "I recalled those fond old days."
   },
   {
    "id": "ui_skit_01:0x438c",
@@ -2960,7 +2960,7 @@
    "max": 40,
    "kind": "line",
    "jp": "ヒジゾーさん",
-   "en": ""
+   "en": "Hijizo-san,"
   },
   {
    "id": "ui_skit_01:0x43b4",
@@ -2968,7 +2968,7 @@
    "max": 40,
    "kind": "line",
    "jp": "さっきからどうしたんじゃ？",
-   "en": ""
+   "en": "what's gotten into ya?"
   },
   {
    "id": "ui_skit_01:0x43dc",
@@ -2976,7 +2976,7 @@
    "max": 40,
    "kind": "line",
    "jp": "頭でも打ったのか？",
-   "en": ""
+   "en": "Did ya hit your head?"
   },
   {
    "id": "ui_skit_01:0x4418",
@@ -2984,7 +2984,7 @@
    "max": 40,
    "kind": "line",
    "jp": "俺の新曲に酔いしれろ！",
-   "en": ""
+   "en": "Lose yourselves in my new song!"
   },
   {
    "id": "ui_skit_01:0x4440",
@@ -2992,7 +2992,7 @@
    "max": 40,
    "kind": "line",
    "jp": "『土方歳三回顧録』乞うご期待！",
-   "en": ""
+   "en": "Coming: 'Toshizo Hijikata's Memoir'!"
   },
   {
    "id": "ui_skit_01:0x4468",
@@ -3000,7 +3000,7 @@
    "max": 40,
    "kind": "line",
    "jp": "頭でも打ったのか？",
-   "en": ""
+   "en": "Did ya hit your head?"
   },
   {
    "id": "ui_skit_01:0x44a4",
@@ -3008,7 +3008,7 @@
    "max": 40,
    "kind": "line",
    "jp": "お　おう…",
-   "en": ""
+   "en": "Uh, s-sure..."
   },
   {
    "id": "ui_skit_01:0x44cc",
@@ -3016,7 +3016,7 @@
    "max": 40,
    "kind": "line",
    "jp": "『土方歳三回顧録』乞うご期待！",
-   "en": ""
+   "en": "Coming: 'Toshizo Hijikata's Memoir'!"
   },
   {
    "id": "ui_skit_01:0x44f4",
@@ -3024,7 +3024,7 @@
    "max": 40,
    "kind": "line",
    "jp": "頭でも打ったのか？",
-   "en": ""
+   "en": "Did ya hit your head?"
   },
   {
    "id": "ui_skit_01:0x4530",
@@ -3032,7 +3032,7 @@
    "max": 40,
    "kind": "line",
    "jp": "『DLC「土方歳三回顧録」配信記念！』",
-   "en": ""
+   "en": "'DLC \"Toshizo Hijikata's Memoir\" Out!'"
   },
   {
    "id": "ui_skit_01:0x4558",
@@ -3040,7 +3040,7 @@
    "max": 40,
    "kind": "line",
    "jp": "おわり",
-   "en": ""
+   "en": "-- The End"
   },
   {
    "id": "ui_skit_01:0x4580",
@@ -3048,7 +3048,7 @@
    "max": 40,
    "kind": "line",
    "jp": "頭でも打ったのか？",
-   "en": ""
+   "en": "Did ya hit your head?"
   },
   {
    "id": "ui_skit_01:0x45bc",
@@ -3056,7 +3056,7 @@
    "max": 40,
    "kind": "line",
    "jp": "※このスキットは",
-   "en": ""
+   "en": "*This skit was originally"
   },
   {
    "id": "ui_skit_01:0x45e4",
@@ -3064,7 +3064,7 @@
    "max": 40,
    "kind": "line",
    "jp": "2014年3月11日に配信されたものです",
-   "en": ""
+   "en": "released on March 11, 2014."
   },
   {
    "id": "ui_skit_01:0x460c",
@@ -3072,7 +3072,7 @@
    "max": 40,
    "kind": "line",
    "jp": "頭でも打ったのか？",
-   "en": ""
+   "en": "Did ya hit your head?"
   },
   {
    "id": "ui_skit_01:0x4638",
@@ -3080,7 +3080,7 @@
    "max": 40,
    "kind": "title",
    "jp": "DLC「沖田総司回顧録」配信記念！",
-   "en": ""
+   "en": "DLC \"Soji Okita's Memoir\" Out!"
   },
   {
    "id": "ui_skit_01:0x467c",
@@ -3088,7 +3088,7 @@
    "max": 40,
    "kind": "line",
    "jp": "ねえねえ",
-   "en": ""
+   "en": "Hey, hey,"
   },
   {
    "id": "ui_skit_01:0x46a4",
@@ -3096,7 +3096,7 @@
    "max": 40,
    "kind": "line",
    "jp": "スカシくん",
-   "en": ""
+   "en": "Mr. Poser."
   },
   {
    "id": "ui_skit_01:0x46cc",
@@ -3104,7 +3104,7 @@
    "max": 40,
    "kind": "line",
    "jp": "頭でも打ったのか？",
-   "en": ""
+   "en": "Did ya hit your head?"
   },
   {
    "id": "ui_skit_01:0x4708",
@@ -3112,7 +3112,7 @@
    "max": 40,
    "kind": "line",
    "jp": "あ？",
-   "en": ""
+   "en": "Huh?"
   },
   {
    "id": "ui_skit_01:0x4730",
@@ -3120,7 +3120,7 @@
    "max": 40,
    "kind": "line",
    "jp": "スカシくん",
-   "en": ""
+   "en": "Mr. Poser."
   },
   {
    "id": "ui_skit_01:0x4758",
@@ -3128,7 +3128,7 @@
    "max": 40,
    "kind": "line",
    "jp": "頭でも打ったのか？",
-   "en": ""
+   "en": "Did ya hit your head?"
   },
   {
    "id": "ui_skit_01:0x4794",
@@ -3136,7 +3136,7 @@
    "max": 40,
    "kind": "line",
    "jp": "僕がなんで",
-   "en": ""
+   "en": "Why was I"
   },
   {
    "id": "ui_skit_01:0x47bc",
@@ -3144,7 +3144,7 @@
    "max": 40,
    "kind": "line",
    "jp": "井伊に操られていたのか",
-   "en": ""
+   "en": "being controlled by Ii..."
   },
   {
    "id": "ui_skit_01:0x47e4",
@@ -3152,7 +3152,7 @@
    "max": 40,
    "kind": "line",
    "jp": "知りたくない？",
-   "en": ""
+   "en": "don't you wanna know?"
   },
   {
    "id": "ui_skit_01:0x4820",
@@ -3160,7 +3160,7 @@
    "max": 40,
    "kind": "line",
    "jp": "知りたくないな",
-   "en": ""
+   "en": "Nope, don't wanna know."
   },
   {
    "id": "ui_skit_01:0x4848",
@@ -3168,7 +3168,7 @@
    "max": 40,
    "kind": "line",
    "jp": "井伊に操られていたのか",
-   "en": ""
+   "en": "being controlled by Ii..."
   },
   {
    "id": "ui_skit_01:0x4870",
@@ -3176,7 +3176,7 @@
    "max": 40,
    "kind": "line",
    "jp": "知りたくない？",
-   "en": ""
+   "en": "don't you wanna know?"
   },
   {
    "id": "ui_skit_01:0x48ac",
@@ -3184,7 +3184,7 @@
    "max": 40,
    "kind": "line",
    "jp": "でしょー？",
-   "en": ""
+   "en": "Right~?"
   },
   {
    "id": "ui_skit_01:0x48d4",
@@ -3192,7 +3192,7 @@
    "max": 40,
    "kind": "line",
    "jp": "知りたいよね？",
-   "en": ""
+   "en": "You wanna know, huh?"
   },
   {
    "id": "ui_skit_01:0x48fc",
@@ -3200,7 +3200,7 @@
    "max": 40,
    "kind": "line",
    "jp": "知りたくない？",
-   "en": ""
+   "en": "don't you wanna know?"
   },
   {
    "id": "ui_skit_01:0x4938",
@@ -3208,7 +3208,7 @@
    "max": 40,
    "kind": "line",
    "jp": "話を聞け！",
-   "en": ""
+   "en": "Listen to me!"
   },
   {
    "id": "ui_skit_01:0x4960",
@@ -3216,7 +3216,7 @@
    "max": 40,
    "kind": "line",
    "jp": "知りたくないと言ったんだ！",
-   "en": ""
+   "en": "I said I DON'T wanna know!"
   },
   {
    "id": "ui_skit_01:0x4988",
@@ -3224,7 +3224,7 @@
    "max": 40,
    "kind": "line",
    "jp": "知りたくない？",
-   "en": ""
+   "en": "don't you wanna know?"
   },
   {
    "id": "ui_skit_01:0x49c4",
@@ -3232,7 +3232,7 @@
    "max": 40,
    "kind": "line",
    "jp": "そんなスカシくんにはこれ！",
-   "en": ""
+   "en": "For you, Mr. Poser, here's this!"
   },
   {
    "id": "ui_skit_01:0x49ec",
@@ -3240,7 +3240,7 @@
    "max": 40,
    "kind": "line",
    "jp": "『沖田総司回顧録』！！",
-   "en": ""
+   "en": "'Soji Okita's Memoir'!!"
   },
   {
    "id": "ui_skit_01:0x4a14",
@@ -3248,7 +3248,7 @@
    "max": 40,
    "kind": "line",
    "jp": "心に響く僕の新曲にも注目だよ！",
-   "en": ""
+   "en": "Check out my soul-stirring new song!"
   },
   {
    "id": "ui_skit_01:0x4a50",
@@ -3256,7 +3256,7 @@
    "max": 40,
    "kind": "line",
    "jp": "そんなの知るかよ！！",
-   "en": ""
+   "en": "Like I care!!"
   },
   {
    "id": "ui_skit_01:0x4a78",
@@ -3264,7 +3264,7 @@
    "max": 40,
    "kind": "line",
    "jp": "『沖田総司回顧録』！！",
-   "en": ""
+   "en": "'Soji Okita's Memoir'!!"
   },
   {
    "id": "ui_skit_01:0x4aa0",
@@ -3272,7 +3272,7 @@
    "max": 40,
    "kind": "line",
    "jp": "心に響く僕の新曲にも注目だよ！",
-   "en": ""
+   "en": "Check out my soul-stirring new song!"
   },
   {
    "id": "ui_skit_01:0x4adc",
@@ -3280,7 +3280,7 @@
    "max": 40,
    "kind": "line",
    "jp": "まあ　オレ様の出番があるなら",
-   "en": ""
+   "en": "Well, if yours truly is in it,"
   },
   {
    "id": "ui_skit_01:0x4b04",
@@ -3288,7 +3288,7 @@
    "max": 40,
    "kind": "line",
    "jp": "見てやってもいいが…",
-   "en": ""
+   "en": "I might deign to watch..."
   },
   {
    "id": "ui_skit_01:0x4b2c",
@@ -3296,7 +3296,7 @@
    "max": 40,
    "kind": "line",
    "jp": "心に響く僕の新曲にも注目だよ！",
-   "en": ""
+   "en": "Check out my soul-stirring new song!"
   },
   {
    "id": "ui_skit_01:0x4b68",
@@ -3304,7 +3304,7 @@
    "max": 40,
    "kind": "line",
    "jp": "は？　なに言ってんの？",
-   "en": ""
+   "en": "Huh? What are you saying?"
   },
   {
    "id": "ui_skit_01:0x4b90",
@@ -3312,7 +3312,7 @@
    "max": 40,
    "kind": "line",
    "jp": "タイトル言ったでしょ？",
-   "en": ""
+   "en": "Didn't you hear the title?"
   },
   {
    "id": "ui_skit_01:0x4bb8",
@@ -3320,7 +3320,7 @@
    "max": 40,
    "kind": "line",
    "jp": "あるわけないよね？　バカなの？",
-   "en": ""
+   "en": "Of course you're not. Are you dumb?"
   },
   {
    "id": "ui_skit_01:0x4bf4",
@@ -3328,7 +3328,7 @@
    "max": 40,
    "kind": "line",
    "jp": "やっぱりテメーは",
-   "en": ""
+   "en": "I knew it, you"
   },
   {
    "id": "ui_skit_01:0x4c1c",
@@ -3336,7 +3336,7 @@
    "max": 40,
    "kind": "line",
    "jp": "ムカつく！！",
-   "en": ""
+   "en": "piss me off!!"
   },
   {
    "id": "ui_skit_01:0x4c44",
@@ -3344,7 +3344,7 @@
    "max": 40,
    "kind": "line",
    "jp": "あるわけないよね？　バカなの？",
-   "en": ""
+   "en": "Of course you're not. Are you dumb?"
   },
   {
    "id": "ui_skit_01:0x4c80",
@@ -3352,7 +3352,7 @@
    "max": 40,
    "kind": "line",
    "jp": "『DLC「沖田総司回顧録」配信記念！』",
-   "en": ""
+   "en": "'DLC \"Soji Okita's Memoir\" Out!'"
   },
   {
    "id": "ui_skit_01:0x4ca8",
@@ -3360,7 +3360,7 @@
    "max": 40,
    "kind": "line",
    "jp": "おわり",
-   "en": ""
+   "en": "-- The End"
   },
   {
    "id": "ui_skit_01:0x4cd0",
@@ -3368,7 +3368,7 @@
    "max": 40,
    "kind": "line",
    "jp": "あるわけないよね？　バカなの？",
-   "en": ""
+   "en": "Of course you're not. Are you dumb?"
   },
   {
    "id": "ui_skit_01:0x4d0c",
@@ -3376,7 +3376,7 @@
    "max": 40,
    "kind": "line",
    "jp": "※このスキットは",
-   "en": ""
+   "en": "*This skit was originally"
   },
   {
    "id": "ui_skit_01:0x4d34",
@@ -3384,7 +3384,7 @@
    "max": 40,
    "kind": "line",
    "jp": "2014年5月1日に配信されたものです",
-   "en": ""
+   "en": "released on May 1, 2014."
   },
   {
    "id": "ui_skit_01:0x4d5c",
@@ -3392,7 +3392,7 @@
    "max": 40,
    "kind": "line",
    "jp": "あるわけないよね？　バカなの？",
-   "en": ""
+   "en": "Of course you're not. Are you dumb?"
   },
   {
    "id": "ui_skit_01:0x4d88",
@@ -3400,7 +3400,7 @@
    "max": 40,
    "kind": "title",
    "jp": "酔いどれロック３",
-   "en": ""
+   "en": "Drunken Rock 3"
   },
   {
    "id": "ui_skit_01:0x4dcc",
@@ -3408,7 +3408,7 @@
    "max": 40,
    "kind": "line",
    "jp": "ひゃっはっは",
-   "en": ""
+   "en": "Hyahahaha!"
   },
   {
    "id": "ui_skit_01:0x4df4",
@@ -3416,7 +3416,7 @@
    "max": 40,
    "kind": "line",
    "jp": "今日も酒が旨い！",
-   "en": ""
+   "en": "The sake's great again today!"
   },
   {
    "id": "ui_skit_01:0x4e1c",
@@ -3424,7 +3424,7 @@
    "max": 40,
    "kind": "line",
    "jp": "あるわけないよね？　バカなの？",
-   "en": ""
+   "en": "Of course you're not. Are you dumb?"
   },
   {
    "id": "ui_skit_01:0x4e58",
@@ -3432,7 +3432,7 @@
    "max": 40,
    "kind": "line",
    "jp": "晋作…",
-   "en": ""
+   "en": "Shinsaku..."
   },
   {
    "id": "ui_skit_01:0x4e80",
@@ -3440,7 +3440,7 @@
    "max": 40,
    "kind": "line",
    "jp": "明日も早いんだから…",
-   "en": ""
+   "en": "We have an early day tomorrow..."
   },
   {
    "id": "ui_skit_01:0x4ea8",
@@ -3448,7 +3448,7 @@
    "max": 40,
    "kind": "line",
    "jp": "飲み過ぎには…ぐごごごぉお…",
-   "en": ""
+   "en": "Don't drink too... *snoooore*..."
   },
   {
    "id": "ui_skit_01:0x4ee4",
@@ -3456,7 +3456,7 @@
    "max": 40,
    "kind": "line",
    "jp": "ありゃ",
-   "en": ""
+   "en": "Huh?"
   },
   {
    "id": "ui_skit_01:0x4f0c",
@@ -3464,7 +3464,7 @@
    "max": 40,
    "kind": "line",
    "jp": "ソウちんは飲んでないのか？",
-   "en": ""
+   "en": "So-chin, you ain't drinkin'?"
   },
   {
    "id": "ui_skit_01:0x4f34",
@@ -3472,7 +3472,7 @@
    "max": 40,
    "kind": "line",
    "jp": "飲み過ぎには…ぐごごごぉお…",
-   "en": ""
+   "en": "Don't drink too... *snoooore*..."
   },
   {
    "id": "ui_skit_01:0x4f70",
@@ -3480,7 +3480,7 @@
    "max": 40,
    "kind": "line",
    "jp": "聞いてよトサカくん",
-   "en": ""
+   "en": "Listen, Tosaka-kun."
   },
   {
    "id": "ui_skit_01:0x4f98",
@@ -3488,7 +3488,7 @@
    "max": 40,
    "kind": "line",
    "jp": "土方さんがお前は飲むなって",
-   "en": ""
+   "en": "Hijikata-san says I can't drink."
   },
   {
    "id": "ui_skit_01:0x4fc0",
@@ -3496,7 +3496,7 @@
    "max": 40,
    "kind": "line",
    "jp": "酷いと思わない？",
-   "en": ""
+   "en": "Isn't that awful?"
   },
   {
    "id": "ui_skit_01:0x4ffc",
@@ -3504,7 +3504,7 @@
    "max": 40,
    "kind": "line",
    "jp": "そうか…",
-   "en": ""
+   "en": "I see..."
   },
   {
    "id": "ui_skit_01:0x5024",
@@ -3512,7 +3512,7 @@
    "max": 40,
    "kind": "line",
    "jp": "しかしそれもわしのせいかもしれん…",
-   "en": ""
+   "en": "But maybe that's on me, too..."
   },
   {
    "id": "ui_skit_01:0x504c",
@@ -3520,7 +3520,7 @@
    "max": 40,
    "kind": "line",
    "jp": "酷いと思わない？",
-   "en": ""
+   "en": "Isn't that awful?"
   },
   {
    "id": "ui_skit_01:0x5088",
@@ -3528,7 +3528,7 @@
    "max": 40,
    "kind": "line",
    "jp": "そうじゃ",
-   "en": ""
+   "en": "I know!"
   },
   {
    "id": "ui_skit_01:0x50b0",
@@ -3536,7 +3536,7 @@
    "max": 40,
    "kind": "line",
    "jp": "センセーの作った特製ドリンクでも",
-   "en": ""
+   "en": "Have one of Sensei's"
   },
   {
    "id": "ui_skit_01:0x50d8",
@@ -3544,7 +3544,7 @@
    "max": 40,
    "kind": "line",
    "jp": "飲むといいぜよ",
-   "en": ""
+   "en": "special drinks instead!"
   },
   {
    "id": "ui_skit_01:0x5114",
@@ -3552,7 +3552,7 @@
    "max": 40,
    "kind": "line",
    "jp": "わーい",
-   "en": ""
+   "en": "Yay!"
   },
   {
    "id": "ui_skit_01:0x513c",
@@ -3560,7 +3560,7 @@
    "max": 40,
    "kind": "line",
    "jp": "トサカくんありがとー",
-   "en": ""
+   "en": "Thanks, Tosaka-kun~"
   },
   {
    "id": "ui_skit_01:0x5164",
@@ -3568,7 +3568,7 @@
    "max": 40,
    "kind": "line",
    "jp": "飲むといいぜよ",
-   "en": ""
+   "en": "special drinks instead!"
   },
   {
    "id": "ui_skit_01:0x51a0",
@@ -3576,7 +3576,7 @@
    "max": 40,
    "kind": "line",
    "jp": "グビッと飲みほす沖田",
-   "en": ""
+   "en": "Okita downs it in one gulp."
   },
   {
    "id": "ui_skit_01:0x51c8",
@@ -3584,7 +3584,7 @@
    "max": 40,
    "kind": "line",
    "jp": "トサカくんありがとー",
-   "en": ""
+   "en": "Thanks, Tosaka-kun~"
   },
   {
    "id": "ui_skit_01:0x51f0",
@@ -3592,7 +3592,7 @@
    "max": 40,
    "kind": "line",
    "jp": "飲むといいぜよ",
-   "en": ""
+   "en": "special drinks instead!"
   },
   {
    "id": "ui_skit_01:0x522c",
@@ -3600,7 +3600,7 @@
    "max": 40,
    "kind": "line",
    "jp": "ひっく…",
-   "en": ""
+   "en": "*hic*..."
   },
   {
    "id": "ui_skit_01:0x5254",
@@ -3608,7 +3608,7 @@
    "max": 40,
    "kind": "line",
    "jp": "何これ～美味しい",
-   "en": ""
+   "en": "Whoa~ This is delicious!"
   },
   {
    "id": "ui_skit_01:0x527c",
@@ -3616,7 +3616,7 @@
    "max": 40,
    "kind": "line",
    "jp": "飲むといいぜよ",
-   "en": ""
+   "en": "Go on and drink up, pal!"
   },
   {
    "id": "ui_skit_01:0x52b8",
@@ -3624,7 +3624,7 @@
    "max": 40,
    "kind": "line",
    "jp": "ひゃっはっは",
-   "en": ""
+   "en": "Hyahahaha!"
   },
   {
    "id": "ui_skit_01:0x52e0",
@@ -3632,7 +3632,7 @@
    "max": 40,
    "kind": "line",
    "jp": "おい沖田～酒も飲めないお子様は",
-   "en": ""
+   "en": "Hey, Okita~ Li'l kids who can't drink"
   },
   {
    "id": "ui_skit_01:0x5308",
@@ -3640,7 +3640,7 @@
    "max": 40,
    "kind": "line",
    "jp": "帰って寝てるのがお似合いら～",
-   "en": ""
+   "en": "should go home an' shleep~"
   },
   {
    "id": "ui_skit_01:0x5344",
@@ -3648,7 +3648,7 @@
    "max": 40,
    "kind": "line",
    "jp": "えー",
-   "en": ""
+   "en": "Aww."
   },
   {
    "id": "ui_skit_01:0x536c",
@@ -3656,7 +3656,7 @@
    "max": 40,
    "kind": "line",
    "jp": "何それスカシくんもひどいな～",
-   "en": ""
+   "en": "What? Mr. Poser's mean too~"
   },
   {
    "id": "ui_skit_01:0x5394",
@@ -3664,7 +3664,7 @@
    "max": 40,
    "kind": "line",
    "jp": "帰って寝てるのがお似合いら～",
-   "en": ""
+   "en": "should go home an' shleep~"
   },
   {
    "id": "ui_skit_01:0x53d0",
@@ -3672,7 +3672,7 @@
    "max": 40,
    "kind": "line",
    "jp": "お　なんら",
-   "en": ""
+   "en": "Huh? Wha'sh this?"
   },
   {
    "id": "ui_skit_01:0x53f8",
@@ -3680,7 +3680,7 @@
    "max": 40,
    "kind": "line",
    "jp": "沖田　抱きつくんらねえ",
-   "en": ""
+   "en": "Okita, shtop huggin' me!"
   },
   {
    "id": "ui_skit_01:0x5420",
@@ -3688,7 +3688,7 @@
    "max": 40,
    "kind": "line",
    "jp": "ぐおおっ！",
-   "en": ""
+   "en": "Gwoooh!"
   },
   {
    "id": "ui_skit_01:0x545c",
@@ -3696,7 +3696,7 @@
    "max": 40,
    "kind": "line",
    "jp": "むちゅ～",
-   "en": ""
+   "en": "*Smoooch~*"
   },
   {
    "id": "ui_skit_01:0x5484",
@@ -3704,7 +3704,7 @@
    "max": 40,
    "kind": "line",
    "jp": "沖田　抱きつくんらねえ",
-   "en": ""
+   "en": "Okita, shtop huggin' me!"
   },
   {
    "id": "ui_skit_01:0x54ac",
@@ -3712,7 +3712,7 @@
    "max": 40,
    "kind": "line",
    "jp": "ぐおおっ！",
-   "en": ""
+   "en": "Gwoooh!"
   },
   {
    "id": "ui_skit_01:0x54e8",
@@ -3720,7 +3720,7 @@
    "max": 40,
    "kind": "line",
    "jp": "ぐわぁー",
-   "en": ""
+   "en": "GWAAAH!"
   },
   {
    "id": "ui_skit_01:0x5510",
@@ -3728,7 +3728,7 @@
    "max": 40,
    "kind": "line",
    "jp": "ぺっぺっ！",
-   "en": ""
+   "en": "Ptui! Ptui!"
   },
   {
    "id": "ui_skit_01:0x5538",
@@ -3736,7 +3736,7 @@
    "max": 40,
    "kind": "line",
    "jp": "何するんらテメー！",
-   "en": ""
+   "en": "Wha' the hell'sh wrong with you!?"
   },
   {
    "id": "ui_skit_01:0x5574",
@@ -3744,7 +3744,7 @@
    "max": 40,
    "kind": "line",
    "jp": "おいこら坂本！",
-   "en": ""
+   "en": "Hey! Sakamoto!"
   },
   {
    "id": "ui_skit_01:0x559c",
@@ -3752,7 +3752,7 @@
    "max": 40,
    "kind": "line",
    "jp": "総司になに飲ませたんだ！",
-   "en": ""
+   "en": "What did you give Soji to drink!?"
   },
   {
    "id": "ui_skit_01:0x55c4",
@@ -3760,7 +3760,7 @@
    "max": 40,
    "kind": "line",
    "jp": "何するんらテメー！",
-   "en": ""
+   "en": "Wha' the hell'sh wrong with you!?"
   },
   {
    "id": "ui_skit_01:0x5600",
@@ -3768,7 +3768,7 @@
    "max": 40,
    "kind": "line",
    "jp": "え？これもしかして",
-   "en": ""
+   "en": "Huh? Y'mean this stuff"
   },
   {
    "id": "ui_skit_01:0x5628",
@@ -3776,7 +3776,7 @@
    "max": 40,
    "kind": "line",
    "jp": "酒が入っとったのか？",
-   "en": ""
+   "en": "had sake in it?"
   },
   {
    "id": "ui_skit_01:0x5650",
@@ -3784,7 +3784,7 @@
    "max": 40,
    "kind": "line",
    "jp": "これはもう死んで詫びるしかないぜよ…",
-   "en": ""
+   "en": "Guess I gotta die to make up for it..."
   },
   {
    "id": "ui_skit_01:0x568c",
@@ -3792,7 +3792,7 @@
    "max": 40,
    "kind": "line",
    "jp": "まったく…",
-   "en": ""
+   "en": "Unbelievable..."
   },
   {
    "id": "ui_skit_01:0x56b4",
@@ -3800,7 +3800,7 @@
    "max": 40,
    "kind": "line",
    "jp": "おい　今の総司は危険だ",
-   "en": ""
+   "en": "Listen. Soji's dangerous right now."
   },
   {
    "id": "ui_skit_01:0x56dc",
@@ -3808,7 +3808,7 @@
    "max": 40,
    "kind": "line",
    "jp": "逃げるぞ！",
-   "en": ""
+   "en": "Run for it!"
   },
   {
    "id": "ui_skit_01:0x5718",
@@ -3816,7 +3816,7 @@
    "max": 40,
    "kind": "line",
    "jp": "寝ている桂を残して店を出ていく三人",
-   "en": ""
+   "en": "The trio fled, leaving Katsura asleep."
   },
   {
    "id": "ui_skit_01:0x5740",
@@ -3824,7 +3824,7 @@
    "max": 40,
    "kind": "line",
    "jp": "おい　今の総司は危険だ",
-   "en": ""
+   "en": "Listen. Soji's dangerous right now."
   },
   {
    "id": "ui_skit_01:0x5768",
@@ -3832,7 +3832,7 @@
    "max": 40,
    "kind": "line",
    "jp": "逃げるぞ！",
-   "en": ""
+   "en": "Run for it!"
   },
   {
    "id": "ui_skit_01:0x57a4",
@@ -3840,7 +3840,7 @@
    "max": 40,
    "kind": "line",
    "jp": "ちょっと～",
-   "en": ""
+   "en": "Hey~"
   },
   {
    "id": "ui_skit_01:0x57cc",
@@ -3848,7 +3848,7 @@
    "max": 40,
    "kind": "line",
    "jp": "みんな待ってよ～",
-   "en": ""
+   "en": "Wait for me, everyone~"
   },
   {
    "id": "ui_skit_01:0x57f4",
@@ -3856,7 +3856,7 @@
    "max": 40,
    "kind": "line",
    "jp": "逃げるぞ！",
-   "en": ""
+   "en": "Run for it!"
   },
   {
    "id": "ui_skit_01:0x5830",
@@ -3864,7 +3864,7 @@
    "max": 40,
    "kind": "line",
    "jp": "ぐおお～",
-   "en": ""
+   "en": "Gwooo~"
   },
   {
    "id": "ui_skit_01:0x5858",
@@ -3872,7 +3872,7 @@
    "max": 40,
    "kind": "line",
    "jp": "んごごごぉ～",
-   "en": ""
+   "en": "Nggogogooo~"
   },
   {
    "id": "ui_skit_01:0x5880",
@@ -3880,7 +3880,7 @@
    "max": 40,
    "kind": "line",
    "jp": "逃げるぞ！",
-   "en": ""
+   "en": "Run for it!"
   },
   {
    "id": "ui_skit_01:0x58bc",
@@ -3888,7 +3888,7 @@
    "max": 40,
    "kind": "line",
    "jp": "『酔いどれロック3』　おわり",
-   "en": ""
+   "en": "'Drunken Rock 3' -- The End"
   },
   {
    "id": "ui_skit_01:0x58e4",
@@ -3896,7 +3896,7 @@
    "max": 40,
    "kind": "line",
    "jp": "んごごごぉ～",
-   "en": ""
+   "en": "Nggogogooo~"
   },
   {
    "id": "ui_skit_01:0x590c",
@@ -3904,7 +3904,7 @@
    "max": 40,
    "kind": "line",
    "jp": "逃げるぞ！",
-   "en": ""
+   "en": "Run for it!"
   },
   {
    "id": "ui_skit_01:0x5948",
@@ -3912,7 +3912,7 @@
    "max": 40,
    "kind": "line",
    "jp": "ぐおお～",
-   "en": ""
+   "en": "Gwooo~"
   },
   {
    "id": "ui_skit_01:0x5970",
@@ -3920,7 +3920,7 @@
    "max": 40,
    "kind": "line",
    "jp": "んごごごぉ～",
-   "en": ""
+   "en": "Nggogogooo~"
   },
   {
    "id": "ui_skit_01:0x5998",
@@ -3928,7 +3928,7 @@
    "max": 40,
    "kind": "line",
    "jp": "逃げるぞ！",
-   "en": ""
+   "en": "Run for it!"
   },
   {
    "id": "ui_skit_01:0x59d4",
@@ -3936,7 +3936,7 @@
    "max": 40,
    "kind": "line",
    "jp": "『酔いどれロック3』　おわり",
-   "en": ""
+   "en": "'Drunken Rock 3' -- The End"
   },
   {
    "id": "ui_skit_01:0x59fc",
@@ -3944,7 +3944,7 @@
    "max": 40,
    "kind": "line",
    "jp": "んごごごぉ～",
-   "en": ""
+   "en": "Nggogogooo~"
   },
   {
    "id": "ui_skit_01:0x5a24",
@@ -3952,7 +3952,7 @@
    "max": 48,
    "kind": "line",
    "jp": "逃げるぞ！",
-   "en": ""
+   "en": "Run for it!"
   },
   {
    "id": "ui_skit_01:0x5a60",
@@ -3960,7 +3960,7 @@
    "max": 40,
    "kind": "line",
    "jp": "※このスキットは",
-   "en": ""
+   "en": "*This skit was released only on"
   },
   {
    "id": "ui_skit_01:0x5a8f",
@@ -3968,7 +3968,7 @@
    "max": 33,
    "kind": "line",
    "jp": "でのみ配信した",
-   "en": ""
+   "en": "; it's a skit that"
   },
   {
    "id": "ui_skit_01:0x5ab0",
@@ -3976,7 +3976,7 @@
    "max": 40,
    "kind": "line",
    "jp": "お蔵入りスキットです",
-   "en": ""
+   "en": "never made the cut."
   }
  ]
 }

@@ -8,7 +8,7 @@
    "max": 64,
    "kind": "title",
    "jp": "？？？？",
-   "en": ""
+   "en": "????"
   },
   {
    "id": "ui_movie:0x58",
@@ -16,7 +16,7 @@
    "max": 64,
    "kind": "performers",
    "jp": "？？？？",
-   "en": ""
+   "en": "????"
   },
   {
    "id": "ui_movie:0xa0",
@@ -24,7 +24,7 @@
    "max": 64,
    "kind": "title",
    "jp": "オープニング",
-   "en": ""
+   "en": "Opening"
   },
   {
    "id": "ui_movie:0xe4",
@@ -32,7 +32,7 @@
    "max": 64,
    "kind": "performers",
    "jp": "龍馬、高杉、桂、土方、沖田",
-   "en": ""
+   "en": "Ryoma, Takasugi, Katsura, Hijikata, Okita"
   },
   {
    "id": "ui_movie:0x12c",
@@ -40,7 +40,7 @@
    "max": 64,
    "kind": "title",
    "jp": "Rolling Thunder",
-   "en": ""
+   "en": "Rolling Thunder"
   },
   {
    "id": "ui_movie:0x170",
@@ -48,7 +48,7 @@
    "max": 64,
    "kind": "performers",
    "jp": "龍馬、高杉、桂",
-   "en": ""
+   "en": "Ryoma, Takasugi, Katsura"
   },
   {
    "id": "ui_movie:0x1b8",
@@ -56,7 +56,7 @@
    "max": 64,
    "kind": "title",
    "jp": "ハチノジディストーション",
-   "en": ""
+   "en": "Figure-Eight Distortion"
   },
   {
    "id": "ui_movie:0x1fc",
@@ -64,7 +64,7 @@
    "max": 64,
    "kind": "performers",
    "jp": "桂小五郎",
-   "en": ""
+   "en": "Kogoro Katsura"
   },
   {
    "id": "ui_movie:0x244",
@@ -72,7 +72,7 @@
    "max": 64,
    "kind": "title",
    "jp": "INTERSECT",
-   "en": ""
+   "en": "INTERSECT"
   },
   {
    "id": "ui_movie:0x288",
@@ -80,7 +80,7 @@
    "max": 64,
    "kind": "performers",
    "jp": "龍馬、土方、沖田",
-   "en": ""
+   "en": "Ryoma, Hijikata, Okita"
   },
   {
    "id": "ui_movie:0x2d0",
@@ -88,7 +88,7 @@
    "max": 64,
    "kind": "title",
    "jp": "REACTION",
-   "en": ""
+   "en": "REACTION"
   },
   {
    "id": "ui_movie:0x314",
@@ -96,7 +96,7 @@
    "max": 64,
    "kind": "performers",
    "jp": "高杉晋作",
-   "en": ""
+   "en": "Shinsaku Takasugi"
   },
   {
    "id": "ui_movie:0x35c",
@@ -104,7 +104,7 @@
    "max": 64,
    "kind": "title",
    "jp": "重力のない世界",
-   "en": ""
+   "en": "A World Without Gravity"
   },
   {
    "id": "ui_movie:0x3a0",
@@ -112,7 +112,7 @@
    "max": 64,
    "kind": "performers",
    "jp": "桂小五郎",
-   "en": ""
+   "en": "Kogoro Katsura"
   },
   {
    "id": "ui_movie:0x3e8",
@@ -120,7 +120,7 @@
    "max": 64,
    "kind": "title",
    "jp": "What's this? 坂本龍馬ver.",
-   "en": ""
+   "en": "What's this? (Ryoma Sakamoto ver.)"
   },
   {
    "id": "ui_movie:0x42c",
@@ -128,7 +128,7 @@
    "max": 64,
    "kind": "performers",
    "jp": "坂本龍馬",
-   "en": ""
+   "en": "Ryoma Sakamoto"
   },
   {
    "id": "ui_movie:0x474",
@@ -136,7 +136,7 @@
    "max": 64,
    "kind": "title",
    "jp": "共鳴進歌",
-   "en": ""
+   "en": "Resonant Evolution"
   },
   {
    "id": "ui_movie:0x4b8",
@@ -144,7 +144,7 @@
    "max": 64,
    "kind": "performers",
    "jp": "沖田総司",
-   "en": ""
+   "en": "Soji Okita"
   },
   {
    "id": "ui_movie:0x500",
@@ -152,7 +152,7 @@
    "max": 64,
    "kind": "title",
    "jp": "生きてゆこう",
-   "en": ""
+   "en": "Let's Live On"
   },
   {
    "id": "ui_movie:0x544",
@@ -160,7 +160,7 @@
    "max": 64,
    "kind": "performers",
    "jp": "高杉晋作",
-   "en": ""
+   "en": "Shinsaku Takasugi"
   },
   {
    "id": "ui_movie:0x58c",
@@ -168,7 +168,7 @@
    "max": 64,
    "kind": "title",
    "jp": "Crash My Head",
-   "en": ""
+   "en": "Crash My Head"
   },
   {
    "id": "ui_movie:0x5d0",
@@ -176,7 +176,7 @@
    "max": 64,
    "kind": "performers",
    "jp": "坂本龍馬",
-   "en": ""
+   "en": "Ryoma Sakamoto"
   },
   {
    "id": "ui_movie:0x618",
@@ -184,7 +184,7 @@
    "max": 64,
    "kind": "title",
    "jp": "RIDE ON THE WAVE",
-   "en": ""
+   "en": "RIDE ON THE WAVE"
   },
   {
    "id": "ui_movie:0x65c",
@@ -192,7 +192,7 @@
    "max": 64,
    "kind": "performers",
    "jp": "龍馬、高杉、桂",
-   "en": ""
+   "en": "Ryoma, Takasugi, Katsura"
   },
   {
    "id": "ui_movie:0x6a4",
@@ -200,7 +200,7 @@
    "max": 64,
    "kind": "title",
    "jp": "モット!!!",
-   "en": ""
+   "en": "MORE!!!"
   },
   {
    "id": "ui_movie:0x6e8",
@@ -208,7 +208,7 @@
    "max": 64,
    "kind": "performers",
    "jp": "土方歳三",
-   "en": ""
+   "en": "Toshizo Hijikata"
   },
   {
    "id": "ui_movie:0x730",
@@ -216,7 +216,7 @@
    "max": 64,
    "kind": "title",
    "jp": "LAST SCREAM",
-   "en": ""
+   "en": "LAST SCREAM"
   },
   {
    "id": "ui_movie:0x774",
@@ -224,7 +224,7 @@
    "max": 64,
    "kind": "performers",
    "jp": "坂本龍馬",
-   "en": ""
+   "en": "Ryoma Sakamoto"
   },
   {
    "id": "ui_movie:0x7bc",
@@ -232,7 +232,7 @@
    "max": 64,
    "kind": "title",
    "jp": "What's this?",
-   "en": ""
+   "en": "What's this?"
   },
   {
    "id": "ui_movie:0x800",
@@ -240,7 +240,7 @@
    "max": 64,
    "kind": "performers",
    "jp": "龍馬、高杉、桂、土方、沖田",
-   "en": ""
+   "en": "Ryoma, Takasugi, Katsura, Hijikata, Okita"
   },
   {
    "id": "ui_movie:0x848",
@@ -248,7 +248,7 @@
    "max": 64,
    "kind": "title",
    "jp": "残響 -feedback-",
-   "en": ""
+   "en": "Reverberation -feedback-"
   },
   {
    "id": "ui_movie:0x88c",
@@ -256,7 +256,7 @@
    "max": 64,
    "kind": "performers",
    "jp": "沖田総司",
-   "en": ""
+   "en": "Soji Okita"
   },
   {
    "id": "ui_movie:0x8d4",
@@ -264,7 +264,7 @@
    "max": 64,
    "kind": "title",
    "jp": "群青を射す光",
-   "en": ""
+   "en": "Light Piercing the Ultramarine"
   },
   {
    "id": "ui_movie:0x918",
@@ -272,7 +272,7 @@
    "max": 64,
    "kind": "performers",
    "jp": "土方歳三",
-   "en": ""
+   "en": "Toshizo Hijikata"
   },
   {
    "id": "ui_movie:0x960",
@@ -280,7 +280,7 @@
    "max": 64,
    "kind": "title",
    "jp": "GOD BREATH",
-   "en": ""
+   "en": "GOD BREATH"
   },
   {
    "id": "ui_movie:0x9a4",
@@ -288,7 +288,7 @@
    "max": 64,
    "kind": "performers",
    "jp": "ジュニア",
-   "en": ""
+   "en": "Junior"
   },
   {
    "id": "ui_movie:0x9ec",
@@ -296,7 +296,7 @@
    "max": 64,
    "kind": "title",
    "jp": "グラデーション",
-   "en": ""
+   "en": "Gradation"
   },
   {
    "id": "ui_movie:0xa30",
@@ -304,7 +304,7 @@
    "max": 64,
    "kind": "performers",
    "jp": "ジュニア、沖田",
-   "en": ""
+   "en": "Junior, Okita"
   },
   {
    "id": "ui_movie:0xa78",
@@ -312,7 +312,7 @@
    "max": 64,
    "kind": "title",
    "jp": "不完全パズル",
-   "en": ""
+   "en": "Incomplete Puzzle"
   },
   {
    "id": "ui_movie:0xabc",
@@ -320,7 +320,7 @@
    "max": 64,
    "kind": "performers",
    "jp": "高杉、桂、誠仮面",
-   "en": ""
+   "en": "Takasugi, Katsura, Makoto Mask"
   },
   {
    "id": "ui_movie:0xb04",
@@ -328,7 +328,7 @@
    "max": 64,
    "kind": "title",
    "jp": "WHITE",
-   "en": ""
+   "en": "WHITE"
   },
   {
    "id": "ui_movie:0xb48",
@@ -336,7 +336,7 @@
    "max": 64,
    "kind": "performers",
    "jp": "龍馬、高杉、桂、土方、沖田",
-   "en": ""
+   "en": "Ryoma, Takasugi, Katsura, Hijikata, Okita"
   },
   {
    "id": "ui_movie:0xb90",
@@ -344,7 +344,7 @@
    "max": 64,
    "kind": "title",
    "jp": "GOD BREATH -混色様式-",
-   "en": ""
+   "en": "GOD BREATH -Mixed Color Style-"
   },
   {
    "id": "ui_movie:0xbd4",
@@ -352,7 +352,7 @@
    "max": 64,
    "kind": "performers",
    "jp": "龍馬、ジュニア",
-   "en": ""
+   "en": "Ryoma, Junior"
   },
   {
    "id": "ui_movie:0xc1c",
@@ -360,7 +360,7 @@
    "max": 64,
    "kind": "title",
    "jp": "宙ノ翼",
-   "en": ""
+   "en": "Wings of the Sky"
   },
   {
    "id": "ui_movie:0xc60",
@@ -368,7 +368,7 @@
    "max": 64,
    "kind": "performers",
    "jp": "慶喜、井伊",
-   "en": ""
+   "en": "Yoshinobu, Ii"
   },
   {
    "id": "ui_movie:0xca8",
@@ -376,7 +376,7 @@
    "max": 64,
    "kind": "title",
    "jp": "Period",
-   "en": ""
+   "en": "Period"
   },
   {
    "id": "ui_movie:0xcec",
@@ -384,7 +384,7 @@
    "max": 64,
    "kind": "performers",
    "jp": "vistlip",
-   "en": ""
+   "en": "vistlip"
   },
   {
    "id": "ui_movie:0xd34",
@@ -392,7 +392,7 @@
    "max": 64,
    "kind": "title",
    "jp": "Jack　ミュージックビデオver.",
-   "en": ""
+   "en": "Jack (Music Video ver.)"
   },
   {
    "id": "ui_movie:0xd78",
@@ -400,7 +400,7 @@
    "max": 64,
    "kind": "performers",
    "jp": "vistlip",
-   "en": ""
+   "en": "vistlip"
   },
   {
    "id": "ui_movie:0xdc0",
@@ -408,7 +408,7 @@
    "max": 64,
    "kind": "title",
    "jp": "Jack　アニメOPver.",
-   "en": ""
+   "en": "Jack (Anime OP ver.)"
   },
   {
    "id": "ui_movie:0xe04",
@@ -416,7 +416,7 @@
    "max": 64,
    "kind": "performers",
    "jp": "vistlip",
-   "en": ""
+   "en": "vistlip"
   },
   {
    "id": "ui_movie:0xe4c",
@@ -424,7 +424,7 @@
    "max": 64,
    "kind": "title",
    "jp": "絶頂DAYBREAK",
-   "en": ""
+   "en": "Zenith DAYBREAK"
   },
   {
    "id": "ui_movie:0xe90",
@@ -432,7 +432,7 @@
    "max": 64,
    "kind": "performers",
    "jp": "龍馬、高杉、桂、土方、沖田",
-   "en": ""
+   "en": "Ryoma, Takasugi, Katsura, Hijikata, Okita"
   },
   {
    "id": "ui_movie:0xed8",
@@ -440,7 +440,7 @@
    "max": 64,
    "kind": "title",
    "jp": "秘密★伝言　谷山紀章（坂本龍馬役）",
-   "en": ""
+   "en": "Secret Message - Kisho Taniyama (as Ryoma Sakamoto)"
   },
   {
    "id": "ui_movie:0xf1c",
@@ -448,7 +448,7 @@
    "max": 64,
    "kind": "performers",
    "jp": "谷山 紀章",
-   "en": ""
+   "en": "Kisho Taniyama"
   },
   {
    "id": "ui_movie:0xf64",
@@ -456,7 +456,7 @@
    "max": 64,
    "kind": "title",
    "jp": "秘密★伝言　鈴木達央（高杉晋作役）",
-   "en": ""
+   "en": "Secret Message - Tatsuhisa Suzuki (as Shinsaku Takasugi)"
   },
   {
    "id": "ui_movie:0xfa8",
@@ -464,7 +464,7 @@
    "max": 64,
    "kind": "performers",
    "jp": "鈴木 達央",
-   "en": ""
+   "en": "Tatsuhisa Suzuki"
   },
   {
    "id": "ui_movie:0xff0",
@@ -472,7 +472,7 @@
    "max": 64,
    "kind": "title",
    "jp": "秘密★伝言　森久保祥太郎（桂小五郎役）",
-   "en": ""
+   "en": "Secret Message - Showtaro Morikubo (as Kogoro Katsura)"
   },
   {
    "id": "ui_movie:0x1034",
@@ -480,7 +480,7 @@
    "max": 64,
    "kind": "performers",
    "jp": "森久保 祥太郎",
-   "en": ""
+   "en": "Showtaro Morikubo"
   },
   {
    "id": "ui_movie:0x107c",
@@ -488,7 +488,7 @@
    "max": 64,
    "kind": "title",
    "jp": "秘密★伝言　森川智之（土方歳三役）",
-   "en": ""
+   "en": "Secret Message - Toshiyuki Morikawa (as Toshizo Hijikata)"
   },
   {
    "id": "ui_movie:0x10c0",
@@ -496,7 +496,7 @@
    "max": 64,
    "kind": "performers",
    "jp": "森川 智之",
-   "en": ""
+   "en": "Toshiyuki Morikawa"
   },
   {
    "id": "ui_movie:0x1108",
@@ -504,7 +504,7 @@
    "max": 64,
    "kind": "title",
    "jp": "秘密★伝言　小野賢章（沖田総司役）",
-   "en": ""
+   "en": "Secret Message - Kensho Ono (as Soji Okita)"
   },
   {
    "id": "ui_movie:0x114c",
@@ -512,7 +512,7 @@
    "max": 64,
    "kind": "performers",
    "jp": "小野 賢章",
-   "en": ""
+   "en": "Kensho Ono"
   }
  ]
 }

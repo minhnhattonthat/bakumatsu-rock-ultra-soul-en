@@ -8,7 +8,7 @@
    "max": 512,
    "kind": "text",
    "jp": "はい",
-   "en": ""
+   "en": "Yes"
   },
   {
    "id": "ui_system_text:0x218",
@@ -16,7 +16,7 @@
    "max": 512,
    "kind": "text",
    "jp": "いいえ",
-   "en": ""
+   "en": "No"
   },
   {
    "id": "ui_system_text:0x420",
@@ -24,7 +24,7 @@
    "max": 512,
    "kind": "text",
    "jp": "OK",
-   "en": ""
+   "en": "OK"
   },
   {
    "id": "ui_system_text:0x628",
@@ -32,7 +32,7 @@
    "max": 512,
    "kind": "text",
    "jp": "○決定",
-   "en": ""
+   "en": "O OK"
   },
   {
    "id": "ui_system_text:0x830",
@@ -40,7 +40,7 @@
    "max": 512,
    "kind": "text",
    "jp": "×戻る",
-   "en": ""
+   "en": "X Back"
   },
   {
    "id": "ui_system_text:0xa38",
@@ -48,7 +48,7 @@
    "max": 512,
    "kind": "text",
    "jp": "×中止",
-   "en": ""
+   "en": "X Cancel"
   },
   {
    "id": "ui_system_text:0xc40",
@@ -56,7 +56,7 @@
    "max": 512,
    "kind": "text",
    "jp": "残り**分",
-   "en": ""
+   "en": "** min left"
   },
   {
    "id": "ui_system_text:0xe48",
@@ -64,7 +64,7 @@
    "max": 512,
    "kind": "text",
    "jp": "***％",
-   "en": ""
+   "en": "***%"
   },
   {
    "id": "ui_system_text:0x1050",
@@ -72,7 +72,7 @@
    "max": 512,
    "kind": "text",
    "jp": "セーブデータをロードしています。",
-   "en": ""
+   "en": "Loading save data."
   },
   {
    "id": "ui_system_text:0x1258",
@@ -80,7 +80,7 @@
    "max": 512,
    "kind": "text",
    "jp": "システムデータが存在しません。",
-   "en": ""
+   "en": "No system data found."
   },
   {
    "id": "ui_system_text:0x1460",
@@ -88,7 +88,7 @@
    "max": 512,
    "kind": "text",
    "jp": "設定が変更されています。\nセーブしますか？",
-   "en": ""
+   "en": "Settings have been changed.\\nSave them?"
   },
   {
    "id": "ui_system_text:0x1668",
@@ -96,7 +96,7 @@
    "max": 512,
    "kind": "text",
    "jp": "システムデータをセーブしています。",
-   "en": ""
+   "en": "Saving system data."
   },
   {
    "id": "ui_system_text:0x1870",
@@ -104,7 +104,7 @@
    "max": 512,
    "kind": "text",
    "jp": "プレイデータをセーブしています。",
-   "en": ""
+   "en": "Saving play data."
   },
   {
    "id": "ui_system_text:0x1a78",
@@ -112,7 +112,7 @@
    "max": 512,
    "kind": "text",
    "jp": "クイックセーブしますか？",
-   "en": ""
+   "en": "Quick save?"
   },
   {
    "id": "ui_system_text:0x1c80",
@@ -120,7 +120,7 @@
    "max": 512,
    "kind": "text",
    "jp": "クイックセーブしますか？\n前回のクイックセーブデータは\n失われます。",
-   "en": ""
+   "en": "Quick save?\\nYour previous quick save data\\nwill be lost."
   },
   {
    "id": "ui_system_text:0x1e88",
@@ -128,7 +128,7 @@
    "max": 512,
    "kind": "text",
    "jp": "クイックロードしますか？",
-   "en": ""
+   "en": "Quick load?"
   },
   {
    "id": "ui_system_text:0x2090",
@@ -136,7 +136,7 @@
    "max": 512,
    "kind": "text",
    "jp": "クイックセーブしたセーブデータが\nありません。",
-   "en": ""
+   "en": "No quick save data\\nfound."
   },
   {
    "id": "ui_system_text:0x2298",
@@ -144,7 +144,7 @@
    "max": 512,
    "kind": "text",
    "jp": "セーブしますか？",
-   "en": ""
+   "en": "Save?"
   },
   {
    "id": "ui_system_text:0x24a0",
@@ -152,7 +152,7 @@
    "max": 512,
    "kind": "text",
    "jp": "ロードしますか？",
-   "en": ""
+   "en": "Load?"
   },
   {
    "id": "ui_system_text:0x26a8",
@@ -160,7 +160,7 @@
    "max": 512,
    "kind": "text",
    "jp": "ロードしますか？\nクイックセーブデータは失われます。",
-   "en": ""
+   "en": "Load?\\nYour quick save data will be lost."
   },
   {
    "id": "ui_system_text:0x28b0",
@@ -168,7 +168,7 @@
    "max": 512,
    "kind": "text",
    "jp": "次の選択肢までスキップしますか？",
-   "en": ""
+   "en": "Skip to the next choice?"
   },
   {
    "id": "ui_system_text:0x2ab8",
@@ -176,7 +176,7 @@
    "max": 512,
    "kind": "text",
    "jp": "トップメニューへ戻りますか？\nセーブしていないと\nこれまでの進行データが失われます。",
-   "en": ""
+   "en": "Return to the top menu?\\nAny unsaved progress\\nwill be lost."
   },
   {
    "id": "ui_system_text:0x2cc0",
@@ -184,7 +184,7 @@
    "max": 512,
    "kind": "text",
    "jp": "チャプター選択に戻りますか？\nセーブしていないと\nこれまでの進行データが失われます。",
-   "en": ""
+   "en": "Return to chapter select?\\nAny unsaved progress\\nwill be lost."
   },
   {
    "id": "ui_system_text:0x2ec8",
@@ -192,7 +192,7 @@
    "max": 512,
    "kind": "text",
    "jp": "＜インストールについて＞\n記録メディアにデータの一部を\n「インストールデータ」としてセーブし、\nインストールデータとUMD®からのロードを\n使用することで、ロード時間を短縮する機能を\n使用することができます。",
-   "en": "",
+   "en": "<About Installing>\\nPart of the game data can be saved to\\nthe Memory Stick as \"install data\".\\nLoading from both the install data\\nand the UMD lets you shorten\\nloading times.",
    "encoding": "utf-8"
   },
   {
@@ -201,7 +201,7 @@
    "max": 512,
    "kind": "text",
    "jp": "幕末Rockをインストールします。\nよろしいですか？",
-   "en": ""
+   "en": "Install Bakumatsu Rock: Ultra Soul?\\nIs that OK?"
   },
   {
    "id": "ui_system_text:0x32d8",
@@ -209,7 +209,7 @@
    "max": 512,
    "kind": "text",
    "jp": "インストール中です。\nしばらくお待ちください。",
-   "en": ""
+   "en": "Installing...\\nPlease wait."
   },
   {
    "id": "ui_system_text:0x34e0",
@@ -217,7 +217,7 @@
    "max": 512,
    "kind": "text",
    "jp": "インストールが完了しました。",
-   "en": ""
+   "en": "Installation complete."
   },
   {
    "id": "ui_system_text:0x36e8",
@@ -225,7 +225,7 @@
    "max": 512,
    "kind": "text",
    "jp": "インストールデータのインストールに成功しました。\nインストールデータ使用をONに設定します。\nインストールメニューで、切り替えることができます。",
-   "en": "",
+   "en": "The install data was installed successfully.\\nUse Install Data is now set to ON.\\nYou can change this in the Install menu.",
    "encoding": "utf-8"
   },
   {
@@ -234,7 +234,7 @@
    "max": 512,
    "kind": "text",
    "jp": "記録メディアの空き容量が足りません。\n幕末ロックのインストールには、\n***の空き容量が必要です。",
-   "en": ""
+   "en": "Not enough free space on the Memory Stick.\\nInstalling Bakumatsu Rock: Ultra Soul\\nrequires *** of free space."
   },
   {
    "id": "ui_system_text:0x3af8",
@@ -242,7 +242,7 @@
    "max": 512,
    "kind": "text",
    "jp": "記録メディアが抜かれました。\nインストールに失敗しました。\n\nインストールを中断しますか？",
-   "en": ""
+   "en": "The Memory Stick was removed.\\nThe installation failed.\\n\\nCancel the installation?"
   },
   {
    "id": "ui_system_text:0x3d00",
@@ -250,7 +250,7 @@
    "max": 512,
    "kind": "text",
    "jp": "スリープモードに移行したため、\nインストールが中断されました。\nインストールデータの作成に失敗しました。",
-   "en": "",
+   "en": "Because the system entered sleep mode,\\nthe installation was interrupted.\\nFailed to create the install data.",
    "encoding": "utf-8"
   },
   {
@@ -259,7 +259,7 @@
    "max": 512,
    "kind": "text",
    "jp": "記録メディアが差し込まれていません。\nUMD®からデータを読み込みます。\nデータ管理のインストールデータ使用をOFFにしました。",
-   "en": "",
+   "en": "No Memory Stick is inserted.\\nData will be read from the UMD.\\nUse Install Data in Data Management is now OFF.",
    "encoding": "utf-8"
   },
   {
@@ -268,7 +268,7 @@
    "max": 512,
    "kind": "text",
    "jp": "インストールデータが壊れている可能性があります。\nUMD®からデータを読み込みます。\nデータ管理のインストールデータ使用をOFFにしました。",
-   "en": "",
+   "en": "The install data may be corrupted.\\nData will be read from the UMD.\\nUse Install Data in Data Management is now OFF.",
    "encoding": "utf-8"
   },
   {
@@ -277,7 +277,7 @@
    "max": 512,
    "kind": "text",
    "jp": "セーブ処理が中断されたため\nセーブが完了できませんでした。\n\nセーブをリトライしますか？",
-   "en": "",
+   "en": "The save was interrupted and\\ncould not be completed.\\n\\nRetry saving?",
    "encoding": "utf-8"
   },
   {
@@ -286,7 +286,7 @@
    "max": 512,
    "kind": "text",
    "jp": "記録メディアが差し込まれていません。\n\nセーブを中断しますか？",
-   "en": "",
+   "en": "No Memory Stick is inserted.\\n\\nCancel saving?",
    "encoding": "utf-8"
   },
   {
@@ -295,7 +295,7 @@
    "max": 512,
    "kind": "text",
    "jp": "記録メディアの空き容量が不足しています。\n進行データのセーブをするには空き容量があと\n***KB以上必要です。\n\nセーブを中断しますか？",
-   "en": "",
+   "en": "Not enough free space on the Memory Stick.\\nSaving progress data requires at least\\n***KB more free space.\\n\\nCancel saving?",
    "encoding": "utf-8"
   },
   {
@@ -304,7 +304,7 @@
    "max": 512,
    "kind": "text",
    "jp": "記録メディア内の他のデータを削除して\n空き容量を確保しますか？",
-   "en": "",
+   "en": "Delete other data on the Memory Stick\\nto free up space?",
    "encoding": "utf-8"
   },
   {
@@ -313,7 +313,7 @@
    "max": 512,
    "kind": "text",
    "jp": "記録メディアが差し込まれていません。\n\nセーブ処理は中断されました。",
-   "en": "",
+   "en": "No Memory Stick is inserted.\\n\\nSaving was canceled.",
    "encoding": "utf-8"
   },
   {
@@ -322,7 +322,7 @@
    "max": 512,
    "kind": "text",
    "jp": "エラーが発生しました。\nオートセーブができませんでした。\n\nセーブを中断しますか？",
-   "en": "",
+   "en": "An error occurred.\\nAutosave failed.\\n\\nCancel saving?",
    "encoding": "utf-8"
   },
   {
@@ -331,7 +331,7 @@
    "max": 512,
    "kind": "text",
    "jp": "ロード処理が中断されたため\nロードが完了できませんでした。\n\nロードをリトライしますか？",
-   "en": "",
+   "en": "The load was interrupted and\\ncould not be completed.\\n\\nRetry loading?",
    "encoding": "utf-8"
   },
   {
@@ -340,7 +340,7 @@
    "max": 512,
    "kind": "text",
    "jp": "記録メディアが差し込まれていません。\n\nロードを中断しますか？",
-   "en": "",
+   "en": "No Memory Stick is inserted.\\n\\nCancel loading?",
    "encoding": "utf-8"
   },
   {
@@ -349,7 +349,7 @@
    "max": 512,
    "kind": "text",
    "jp": "ロードに失敗しました。\nセーブデータが壊れている可能性があります。\n\nロード処理は中断されました。",
-   "en": "",
+   "en": "Loading failed.\\nThe save data may be corrupted.\\n\\nLoading was canceled.",
    "encoding": "utf-8"
   },
   {
@@ -358,7 +358,7 @@
    "max": 512,
    "kind": "text",
    "jp": "システムデータのオートロードを行いましたが\n       システムデータが存在しません。\n           ゲームを進める事で、\n    システムデータは自動的に作成されます。",
-   "en": "",
+   "en": "Tried to autoload system data, but\\n      no system data exists.\\n      Playing the game will\\ncreate system data automatically.",
    "encoding": "utf-8"
   },
   {
@@ -367,7 +367,7 @@
    "max": 512,
    "kind": "text",
    "jp": "設定を初期状態に戻します。\nよろしいですか？",
-   "en": ""
+   "en": "Settings will be reset to default.\\nIs that OK?"
   },
   {
    "id": "ui_system_text:0x5970",
@@ -375,7 +375,7 @@
    "max": 512,
    "kind": "text",
    "jp": "インストール済みとなっています。\n再インストールのためにはインストールデータを\n削除する必要があります。\n\nインストールデータを削除しますか？",
-   "en": "",
+   "en": "Already installed.\\nTo reinstall, the install data must\\nfirst be deleted.\\n\\nDelete the install data?",
    "encoding": "utf-8"
   },
   {
@@ -384,7 +384,7 @@
    "max": 512,
    "kind": "text",
    "jp": "本ゲームはオートセーブ機能に対応しています。\n　オートセーブ中には、メモリースティック™\n　　アクセスランプが点滅しますので、\n　　その間は記録メディアを抜いたり、\n　本体の電源を切ったりしないでください。",
-   "en": "",
+   "en": "     This game supports autosave.\\n While autosaving, the Memory Stick\\n access lamp will flash. During that\\ntime, do not remove the Memory Stick\\n      or turn off the system.",
    "encoding": "utf-8"
   },
   {
@@ -393,7 +393,7 @@
    "max": 512,
    "kind": "text",
    "jp": "スリープモードに移行したため、接続処理が\n中断されました。\n\n再接続しますか？",
-   "en": "",
+   "en": "Because the system entered sleep mode,\\nthe connection was interrupted.\\n\\nReconnect?",
    "encoding": "utf-8"
   },
   {
@@ -402,7 +402,7 @@
    "max": 512,
    "kind": "text",
    "jp": "ネットワーク接続処理の初期化に失敗しました。\n\n接続を終了します。",
-   "en": "",
+   "en": "Failed to initialize the network connection.\\n\\nThe connection will be closed.",
    "encoding": "utf-8"
   },
   {
@@ -411,7 +411,7 @@
    "max": 512,
    "kind": "text",
    "jp": "予期せぬエラーによって、処理が中断されました。\n\n接続を終了します",
-   "en": "",
+   "en": "The process was interrupted by an unexpected error.\\n\\nThe connection will be closed.",
    "encoding": "utf-8"
   },
   {
@@ -420,7 +420,7 @@
    "max": 512,
    "kind": "text",
    "jp": "ダウンロードコンテンツの読み込みに失敗しました。\nデータの一部が破損している可能性があります。\n\n再読み込みを行いますか？",
-   "en": "",
+   "en": "Failed to load downloadable content.\\nSome of the data may be corrupted.\\n\\nTry loading again?",
    "encoding": "utf-8"
   },
   {
@@ -429,7 +429,7 @@
    "max": 512,
    "kind": "text",
    "jp": "ダウンロードコンテンツのロードを中断しました。\nこの現象が何度も発生する場合は、PlayStation®Storeにてこれまで入手したダウンロードコンテンツを再ダウンロードすると、解決する場合があります。\n\nダウンロードしたことのあるコンテンツは、\nPlayStation®Storeの「ダウンロードリスト」から再ダウンロードできます。 ",
-   "en": "",
+   "en": "Loading of downloadable content was canceled.\\nIf this keeps happening, re-downloading the downloadable content you have obtained from PlayStation Store may solve it.\\n\\nContent you have downloaded before can be\\nre-downloaded from the \"Download List\" in PlayStation Store.",
    "encoding": "utf-8"
   },
   {
@@ -438,7 +438,7 @@
    "max": 512,
    "kind": "text",
    "jp": "　追加コンテンツが不足しています。\n　このセーブデータでプレイするには、\n　利用したことのある追加コンテンツを\n　　　全てインストールした状態で、\n　　　もう一度ロードしてください。\nダウンロードしたことのあるコンテンツは、\n　　　　PlayStation®Storeの\n　　「ダウンロードリスト」から\n　　　再ダウンロードできます。 ",
-   "en": "",
+   "en": " Some add-on content is missing.\\n  To play with this save data,\\n  install all the add-on content\\n       you have used before,\\n         then load again.\\nContent you have downloaded before\\n   can be re-downloaded from the\\n        \"Download List\" in\\n        PlayStation Store.",
    "encoding": "utf-8"
   },
   {
@@ -447,7 +447,7 @@
    "max": 512,
    "kind": "text",
    "jp": "トップメニューへ戻りますか？\n",
-   "en": ""
+   "en": "Return to the top menu?\\n"
   },
   {
    "id": "ui_system_text:0x6bb8",
@@ -455,7 +455,7 @@
    "max": 512,
    "kind": "text",
    "jp": "ライブ選択に戻りますか？\n",
-   "en": ""
+   "en": "Return to Live Select?\\n"
   },
   {
    "id": "ui_system_text:0x6dc0",
@@ -463,7 +463,7 @@
    "max": 512,
    "kind": "text",
    "jp": "ダウンロードコンテンツの読み込みに失敗しました。\nエラーコード　：　0x%x\n\n再読み込みを行いますか？",
-   "en": "",
+   "en": "Failed to load downloadable content.\\nError code : 0x%x\\n\\nTry loading again?",
    "encoding": "utf-8"
   },
   {
@@ -472,7 +472,7 @@
    "max": 512,
    "kind": "text",
    "jp": "ダウンロードコンテンツの読み込みに失敗しました。%s\n\n再読み込みを行いますか？",
-   "en": "",
+   "en": "Failed to load downloadable content.%s\\n\\nTry loading again?",
    "encoding": "utf-8"
   },
   {
@@ -481,7 +481,7 @@
    "max": 512,
    "kind": "text",
    "jp": "接続処理が中断されました。\n\n再接続しますか？",
-   "en": "",
+   "en": "The connection was interrupted.\\n\\nReconnect?",
    "encoding": "utf-8"
   },
   {
@@ -490,7 +490,7 @@
    "max": 512,
    "kind": "text",
    "jp": "記録メディアにインストールデータが見つかりません。\nUMD®からデータを読み込みます。\nデータ管理のインストールデータ使用をOFFにしました。",
-   "en": "",
+   "en": "No install data found on the Memory Stick.\\nData will be read from the UMD.\\nUse Install Data in Data Management is now OFF.",
    "encoding": "utf-8"
   },
   {
@@ -499,7 +499,7 @@
    "max": 512,
    "kind": "text",
    "jp": "進行データが存在しません。",
-   "en": "",
+   "en": "No progress data found.",
    "encoding": "utf-8"
   },
   {
@@ -508,7 +508,7 @@
    "max": 512,
    "kind": "text",
    "jp": "記録メディアにインストールデータが見つかりません。\nインストールデータ使用をOFFに設定します。\nインストールメニューで、切り替えることができます。",
-   "en": "",
+   "en": "No install data found on the Memory Stick.\\nUse Install Data is now set to OFF.\\nYou can change this in the Install menu.",
    "encoding": "utf-8"
   },
   {
@@ -517,7 +517,7 @@
    "max": 512,
    "kind": "text",
    "jp": "インストールデータが削除されました。\nインストールデータ使用をOFFに設定します。\nインストールメニューで、切り替えることができます。",
-   "en": "",
+   "en": "The install data has been deleted.\\nUse Install Data is now set to OFF.\\nYou can change this in the Install menu.",
    "encoding": "utf-8"
   },
   {
@@ -526,7 +526,7 @@
    "max": 512,
    "kind": "text",
    "jp": "システムデータの読み込みに失敗しました。\n再読み込みを行いますか？",
-   "en": "",
+   "en": "Failed to load system data.\\nTry loading again?",
    "encoding": "utf-8"
   },
   {
@@ -535,7 +535,7 @@
    "max": 512,
    "kind": "text",
    "jp": "記録メディアの空き容量が不足しています。\nシステムデータのセーブをするには空き容量があと\n***KB以上必要です。\n\nセーブを中断しますか？",
-   "en": "",
+   "en": "Not enough free space on the Memory Stick.\\nSaving system data requires at least\\n***KB more free space.\\n\\nCancel saving?",
    "encoding": "utf-8"
   },
   {
@@ -544,7 +544,7 @@
    "max": 512,
    "kind": "text",
    "jp": "記録メディアの空き容量が不足しています。\nシステムデータのセーブをするには空き容量があと\n%dKB以上必要です。\n\nセーブを中断しますか？",
-   "en": "",
+   "en": "Not enough free space on the Memory Stick.\\nSaving system data requires at least\\n%dKB more free space.\\n\\nCancel saving?",
    "encoding": "utf-8"
   },
   {
@@ -553,7 +553,7 @@
    "max": 512,
    "kind": "text",
    "jp": "記録メディアの空き容量が不足しています。\n進行データのセーブをするには空き容量があと\n%dKB以上必要です。\n\nセーブを中断しますか？",
-   "en": "",
+   "en": "Not enough free space on the Memory Stick.\\nSaving progress data requires at least\\n%dKB more free space.\\n\\nCancel saving?",
    "encoding": "utf-8"
   },
   {
@@ -562,7 +562,7 @@
    "max": 512,
    "kind": "text",
    "jp": "読み込み準備が出来るまで\nしばらくお待ちください。",
-   "en": "",
+   "en": "Please wait until\\nloading is ready.",
    "encoding": "utf-8"
   },
   {
@@ -571,7 +571,7 @@
    "max": 512,
    "kind": "text",
    "jp": "エラーが発生しました。\nオートロードができませんでした。\n\nロードを中断しますか？",
-   "en": "",
+   "en": "An error occurred.\\nAutoload failed.\\n\\nCancel loading?",
    "encoding": "utf-8"
   },
   {
@@ -580,7 +580,7 @@
    "max": 512,
    "kind": "text",
    "jp": "スリープモードに移行したため、\nインストールデータの削除が中断されました。\nインストールデータの削除に失敗しました。",
-   "en": "",
+   "en": "Because the system entered sleep mode,\\ndeleting the install data was interrupted.\\nFailed to delete the install data.",
    "encoding": "utf-8"
   },
   {
@@ -589,7 +589,7 @@
    "max": 512,
    "kind": "text",
    "jp": "記録メディアが差し込まれていません。\nUMD®からデータを読み込みます。\nインストールデータ使用をOFFに設定します。\nインストールメニューで、切り替えることができます。",
-   "en": "",
+   "en": "No Memory Stick is inserted.\\nData will be read from the UMD.\\nUse Install Data is now set to OFF.\\nYou can change this in the Install menu.",
    "encoding": "utf-8"
   },
   {
@@ -598,7 +598,7 @@
    "max": 512,
    "kind": "text",
    "jp": "＜幕末Rockとの連動について＞\n前作「幕末Rock」のシステムデータが\n記録メディアにある場合、特典データを\n受け取ることができます。",
-   "en": "",
+   "en": "<Bakumatsu Rock Link>\\nIf system data from the previous game,\\n\"Bakumatsu Rock\", is on the Memory Stick,\\nyou can receive bonus data.",
    "encoding": "utf-8"
   },
   {
@@ -607,7 +607,7 @@
    "max": 512,
    "kind": "text",
    "jp": "特典データを記録メディアへセーブ\nしますか？",
-   "en": ""
+   "en": "Save the bonus data\\nto the Memory Stick?"
   },
   {
    "id": "ui_system_text:0x9048",
@@ -615,7 +615,7 @@
    "max": 512,
    "kind": "text",
    "jp": "リトライしますか？",
-   "en": ""
+   "en": "Retry?"
   },
   {
    "id": "ui_system_text:0x9250",
@@ -623,7 +623,7 @@
    "max": 512,
    "kind": "text",
    "jp": "記録メディアが抜かれました。\n特典データのセーブに失敗しました。\n\nセーブを中断しますか？",
-   "en": "",
+   "en": "The Memory Stick was removed.\\nFailed to save the bonus data.\\n\\nCancel saving?",
    "encoding": "utf-8"
   },
   {
@@ -632,7 +632,7 @@
    "max": 512,
    "kind": "text",
    "jp": "スリープモードに移行したため、\n特典データのセーブが中断されました。\n\nセーブを中断しますか？",
-   "en": "",
+   "en": "Because the system entered sleep mode,\\nsaving the bonus data was interrupted.\\n\\nCancel saving?",
    "encoding": "utf-8"
   },
   {
@@ -641,7 +641,7 @@
    "max": 512,
    "kind": "text",
    "jp": "データの読み込みに失敗しました。\n\n前作「幕末Rock」のシステムデータが\n壊れている可能性があります。\n\n再読み込みを行いますか？",
-   "en": "",
+   "en": "Failed to load data.\\n\\nThe system data from the previous game,\\n\"Bakumatsu Rock\", may be corrupted.\\n\\nTry loading again?",
    "encoding": "utf-8"
   },
   {
@@ -650,7 +650,7 @@
    "max": 512,
    "kind": "text",
    "jp": "前作「幕末Rock」の\nシステムデータを探しています。\nしばらくお待ちください。",
-   "en": ""
+   "en": "Searching for system data from\\nthe previous game, \"Bakumatsu Rock\".\\nPlease wait."
   },
   {
    "id": "ui_system_text:0x9a70",
@@ -658,7 +658,7 @@
    "max": 512,
    "kind": "text",
    "jp": "前作「幕末Rock」のシステムデータが\n見つかりませんでした。\n\n再読み込みを行いますか？",
-   "en": "",
+   "en": "System data from the previous game,\\n\"Bakumatsu Rock\", was not found.\\n\\nTry loading again?",
    "encoding": "utf-8"
   },
   {
@@ -667,7 +667,7 @@
    "max": 512,
    "kind": "text",
    "jp": "特典データを保存中です。\nしばらくお待ちください。",
-   "en": ""
+   "en": "Saving bonus data.\\nPlease wait."
   },
   {
    "id": "ui_system_text:0x9e80",
@@ -675,7 +675,7 @@
    "max": 512,
    "kind": "text",
    "jp": "特典データの保存が完了しました。",
-   "en": ""
+   "en": "The bonus data has been saved."
   },
   {
    "id": "ui_system_text:0xa088",
@@ -683,7 +683,7 @@
    "max": 512,
    "kind": "text",
    "jp": "特典データは記録メディアに\n保存されています。",
-   "en": ""
+   "en": "The bonus data is saved\\non the Memory Stick."
   },
   {
    "id": "ui_system_text:0xa290",
@@ -691,7 +691,7 @@
    "max": 512,
    "kind": "text",
    "jp": "記録メディアの空き容量が不足しています。\n特典データをセーブするには空き容量があと",
-   "en": "",
+   "en": "Not enough free space on the Memory Stick.\\nSaving the bonus data requires at least",
    "encoding": "utf-8"
   },
   {
@@ -700,7 +700,7 @@
    "max": 512,
    "kind": "text",
    "jp": "KB以上必要です。\n\nセーブを中断しますか？",
-   "en": "",
+   "en": "KB more free space.\\n\\nCancel saving?",
    "encoding": "utf-8"
   },
   {
@@ -709,7 +709,7 @@
    "max": 512,
    "kind": "text",
    "jp": "ストーリーモードをプレイします",
-   "en": ""
+   "en": "Play Story Mode."
   },
   {
    "id": "ui_system_text:0xa8a8",
@@ -717,7 +717,7 @@
    "max": 512,
    "kind": "text",
    "jp": "イベントやムービーを閲覧します",
-   "en": ""
+   "en": "View events and movies."
   },
   {
    "id": "ui_system_text:0xaab0",
@@ -725,7 +725,7 @@
    "max": 512,
    "kind": "text",
    "jp": "ストーリーを選んでプレイします",
-   "en": ""
+   "en": "Choose a story to play."
   },
   {
    "id": "ui_system_text:0xacb8",
@@ -733,7 +733,7 @@
    "max": 512,
    "kind": "text",
    "jp": "設定を変更します",
-   "en": ""
+   "en": "Change the settings."
   },
   {
    "id": "ui_system_text:0xaec0",
@@ -741,7 +741,7 @@
    "max": 512,
    "kind": "text",
    "jp": "リズムゲームをプレイします",
-   "en": ""
+   "en": "Play the rhythm game."
   },
   {
    "id": "ui_system_text:0xb0c8",
@@ -749,7 +749,7 @@
    "max": 512,
    "kind": "text",
    "jp": "続きからプレイします",
-   "en": ""
+   "en": "Continue where you left off."
   },
   {
    "id": "ui_system_text:0xb2d0",
@@ -757,7 +757,7 @@
    "max": 512,
    "kind": "text",
    "jp": "前作のストーリーを開始します",
-   "en": ""
+   "en": "Start the previous game's story."
   },
   {
    "id": "ui_system_text:0xb4d8",
@@ -765,7 +765,7 @@
    "max": 512,
    "kind": "text",
    "jp": "新作ストーリーを開始します",
-   "en": ""
+   "en": "Start the new story."
   },
   {
    "id": "ui_system_text:0xb6e0",
@@ -773,7 +773,7 @@
    "max": 512,
    "kind": "text",
    "jp": "前作のデータを読み込みます",
-   "en": ""
+   "en": "Load data from the previous game."
   },
   {
    "id": "ui_system_text:0xb8e8",
@@ -781,7 +781,7 @@
    "max": 512,
    "kind": "text",
    "jp": "スキットを閲覧します",
-   "en": ""
+   "en": "View skits."
   },
   {
    "id": "ui_system_text:0xbaf0",
@@ -789,7 +789,7 @@
    "max": 512,
    "kind": "text",
    "jp": "登場人物の情報を閲覧します",
-   "en": ""
+   "en": "View character profiles."
   },
   {
    "id": "ui_system_text:0xbcf8",
@@ -797,7 +797,7 @@
    "max": 512,
    "kind": "text",
    "jp": "ゲーム中の楽曲を再生します",
-   "en": ""
+   "en": "Play the game's music."
   },
   {
    "id": "ui_system_text:0xbf00",
@@ -805,7 +805,7 @@
    "max": 512,
    "kind": "text",
    "jp": "解放したイベントを閲覧します",
-   "en": ""
+   "en": "View unlocked events."
   },
   {
    "id": "ui_system_text:0xc108",
@@ -813,7 +813,7 @@
    "max": 512,
    "kind": "text",
    "jp": "ゲーム中の動画を再生します",
-   "en": ""
+   "en": "Play the game's movies."
   },
   {
    "id": "ui_system_text:0xc310",
@@ -821,7 +821,7 @@
    "max": 512,
    "kind": "text",
    "jp": "音量を変更します",
-   "en": ""
+   "en": "Change the volume."
   },
   {
    "id": "ui_system_text:0xc518",
@@ -829,7 +829,7 @@
    "max": 512,
    "kind": "text",
    "jp": "インストール、削除を行います",
-   "en": ""
+   "en": "Install or delete install data."
   },
   {
    "id": "ui_system_text:0xc720",
@@ -837,7 +837,7 @@
    "max": 512,
    "kind": "text",
    "jp": "ゲームの難易度を変更します",
-   "en": ""
+   "en": "Change the difficulty."
   },
   {
    "id": "ui_system_text:0xc928",
@@ -845,7 +845,7 @@
    "max": 512,
    "kind": "text",
    "jp": "キーコンフィグを変更します",
-   "en": ""
+   "en": "Change the button config."
   },
   {
    "id": "ui_system_text:0xcb30",
@@ -853,7 +853,7 @@
    "max": 512,
    "kind": "text",
    "jp": "テキストの設定を行います",
-   "en": ""
+   "en": "Change the text settings."
   },
   {
    "id": "ui_system_text:0xcd38",
@@ -861,7 +861,7 @@
    "max": 512,
    "kind": "text",
    "jp": "進行データをセーブします",
-   "en": ""
+   "en": "Save your progress."
   },
   {
    "id": "ui_system_text:0xcf40",
@@ -869,7 +869,7 @@
    "max": 512,
    "kind": "text",
    "jp": "前作「幕末Rock」の要素を\n解放しますか？",
-   "en": ""
+   "en": "Unlock content from the previous\\ngame, \"Bakumatsu Rock\"?"
   },
   {
    "id": "ui_system_text:0xd148",
@@ -877,7 +877,7 @@
    "max": 512,
    "kind": "text",
    "jp": "予備のテキスト",
-   "en": "",
+   "en": "Spare text",
    "encoding": "utf-8"
   }
  ]

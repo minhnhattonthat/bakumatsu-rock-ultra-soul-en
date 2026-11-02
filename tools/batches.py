@@ -11,7 +11,8 @@ Batch TSV: id, speaker, form, limit, jp (` / ` = the game's \\n). Speaker is a g
 sprite the script changed before the line); `-` when unknown. Dialogue English is written as one paragraph per box:
 merge wraps it with vwf.wrap (ADV_LINE_PX) into at most vwf.ADV_LINES lines; an explicit `\\n` in the English forces a
 break. Fixed slots (UI tables) are limited in bytes, NUL included (`39b` = 39 bytes of text).
-Not batched here: lyric fragments (play/), the staff roll and the speaker table (done separately).
+Not batched here: lyric fragments (play/) and the speaker table (done separately). Staff roll lines use real
+newlines: the batch shows them as ` / `, the translator writes `\n`, merge turns it back into a newline.
 """
 import argparse, glob, os, re, sys
 
@@ -32,7 +33,7 @@ def story_files():
     """Scene scripts in story order, then the UI tables."""
     sc = sorted(glob.glob(os.path.join(SCRIPT, 'scene', '*.json')))
     key = lambda p: ('OP_m_b_ED_'.find(os.path.basename(p)[:2]), os.path.basename(p))
-    sc = [p for p in sc if not os.path.basename(p).startswith(('_', 'staffroll'))]
+    sc = [p for p in sc if not os.path.basename(p).startswith('_')]
     return sorted(sc, key=key) + sorted(glob.glob(os.path.join(SCRIPT, 'ui', '*.json'))) + \
         [os.path.join(SCRIPT, 'eboot.json'), os.path.join(SCRIPT, 'param_sfo.json')]
 
@@ -104,7 +105,7 @@ def entries():
         rel = os.path.relpath(p, SCRIPT).replace('\\', '/')
         sp = speakers(rel) if rel.startswith('scene/') else {}
         for e in doc['entries']:
-            if not e['jp'].strip() or e['kind'] in ('staff', 'speaker'):
+            if not e['jp'].strip() or e['kind'] == 'speaker':
                 continue
             out[e['id']] = (rel, e, doc['format'], sp.get(e['off'], '-'))
     return out
@@ -226,8 +227,9 @@ def check(b, ents=None, gl=None):
                 probs.append(f'{i}: a word wider than the box: {wide[0]!r}')
             if len(lines) > vwf.ADV_LINES:
                 probs.append(f'{i}: {len(lines)} lines in the box, max {vwf.ADV_LINES} (python -X utf8 tools/batches.py fit "...")')
-        else:
-            n = len(en.replace('\\n', '\n').encode('cp932' if e.get('encoding', 'cp932') != 'utf-8' else 'utf-8'))
+        elif fmt != 'mz-scene':  # scene slots resize (staff roll); fixed tables don't
+            # UI tables store \n as the two bytes '\' 'n' (the game's own newline code)
+            n = len(en.encode('cp932' if e.get('encoding', 'cp932') != 'utf-8' else 'utf-8'))
             if n > e['max'] - 1:
                 probs.append(f'{i}: {n} bytes, max {e["max"] - 1}')
         room = None if fmt == 'mz-scene' and e['kind'] in ('dialogue', 'choice') else e.get('max', 0) - 1
@@ -248,6 +250,8 @@ def merge(batches):
             rel, e, fmt, _ = ents[i]
             if fmt == 'mz-scene' and e['kind'] in ('dialogue', 'choice'):
                 en = '\\n'.join(wrap_dialogue(en))
+            elif e['kind'] == 'staff':  # the staff roll breaks lines with real newlines, not the \n code
+                en = en.replace('\\n', '\n')
             by_file.setdefault(rel, {})[i] = en
     for rel, t in by_file.items():
         path = os.path.join(SCRIPT, rel)

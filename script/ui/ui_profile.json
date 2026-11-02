@@ -8,7 +8,7 @@
    "max": 16,
    "kind": "name",
    "jp": "坂本龍馬　",
-   "en": ""
+   "en": "Ryoma Sakamoto"
   },
   {
    "id": "ui_profile:0x28",
@@ -16,7 +16,7 @@
    "max": 16,
    "kind": "va",
    "jp": "谷山紀章",
-   "en": ""
+   "en": "Kisho Taniyama"
   },
   {
    "id": "ui_profile:0x3c",
@@ -24,7 +24,7 @@
    "max": 8,
    "kind": "origin",
    "jp": "土佐",
-   "en": ""
+   "en": "Tosa"
   },
   {
    "id": "ui_profile:0x48",
@@ -32,7 +32,7 @@
    "max": 16,
    "kind": "birthday",
    "jp": "１１月１５日",
-   "en": ""
+   "en": "November 15"
   },
   {
    "id": "ui_profile:0x5c",
@@ -40,7 +40,7 @@
    "max": 16,
    "kind": "height",
    "jp": "１７９ｃｍ",
-   "en": ""
+   "en": "179 cm"
   },
   {
    "id": "ui_profile:0x70",
@@ -48,7 +48,7 @@
    "max": 16,
    "kind": "weight",
    "jp": "６３ｋｇ",
-   "en": ""
+   "en": "63 kg"
   },
   {
    "id": "ui_profile:0x84",
@@ -56,7 +56,7 @@
    "max": 8,
    "kind": "blood",
    "jp": "Ｏ型",
-   "en": ""
+   "en": "Type O"
   },
   {
    "id": "ui_profile:0x90",
@@ -64,7 +64,7 @@
    "max": 8,
    "kind": "sign",
    "jp": "蠍座",
-   "en": ""
+   "en": "Scorpio"
   },
   {
    "id": "ui_profile:0x9c",
@@ -72,7 +72,7 @@
    "max": 32,
    "kind": "likes",
    "jp": "歌うこと",
-   "en": ""
+   "en": "Singing"
   },
   {
    "id": "ui_profile:0xc0",
@@ -80,7 +80,7 @@
    "max": 32,
    "kind": "food",
    "jp": "ピッツァ",
-   "en": ""
+   "en": "Pizza"
   },
   {
    "id": "ui_profile:0xe4",
@@ -88,7 +88,7 @@
    "max": 32,
    "kind": "dislikes",
    "jp": "特になし",
-   "en": ""
+   "en": "Nothing in particular"
   },
   {
    "id": "ui_profile:0x108",
@@ -96,7 +96,7 @@
    "max": 32,
    "kind": "bio-title",
    "jp": "幼少期",
-   "en": ""
+   "en": "Childhood"
   },
   {
    "id": "ui_profile:0x12c",
@@ -104,7 +104,7 @@
    "max": 256,
    "kind": "bio",
    "jp": "■幼少期\n\n幼いころの記憶が無い。\n\n背中に大きなケガを負い、\n川岸でたおれているところを\n当時少女であった乙女に\n助けられる。\n数日生死の境を\nさまよったらしい。\n\nその後、坂本家の子として\n育てられる。",
-   "en": ""
+   "en": "[Childhood]\\n\\nHas no memory of his early\\nyears.\\n\\nFound collapsed on a\\nriverbank, his back badly\\nwounded, he was saved by\\nOtome, then a young girl.\\nHe hovered near death for\\ndays.\\n\\nHe was then raised as a\\nson of the Sakamoto\\nfamily."
   },
   {
    "id": "ui_profile:0x230",
@@ -112,7 +112,7 @@
    "max": 32,
    "kind": "bio-title",
    "jp": "幼少期",
-   "en": ""
+   "en": "Childhood"
   },
   {
    "id": "ui_profile:0x254",
@@ -120,7 +120,7 @@
    "max": 256,
    "kind": "bio",
    "jp": "しばらくし、父と母が\n亡くなる。\n龍馬の歌を喜んで\n聞いてくれていた\n記憶だけが強く残る。",
-   "en": ""
+   "en": "Some time later, his\\nfather and mother passed\\naway. All that stays vivid\\nis the memory of them\\nhappily listening to\\nRyoma's songs."
   },
   {
    "id": "ui_profile:0x358",
@@ -128,7 +128,7 @@
    "max": 32,
    "kind": "bio-title",
    "jp": "少年期",
-   "en": ""
+   "en": "Adolescence"
   },
   {
    "id": "ui_profile:0x37c",
@@ -136,7 +136,7 @@
    "max": 256,
    "kind": "bio",
    "jp": "■少年期\n\n身分の差が激しい土佐で、\n自分を育ててくれた乙女を\n守れるように\n剣術を習い始める。\n\n自分の好きな歌をうたうと、\nへたくそとバカにされる\n毎日だったが、逆に歌も剣術も\n一番になってやると決意する。",
-   "en": ""
+   "en": "[Adolescence]\\n\\nIn Tosa, where class lines\\nran deep, he took up the\\nsword to protect Otome,\\nwho raised him.\\n\\nMocked every day as a\\nlousy singer when he sang\\nthe songs he loved, he\\nvowed to be the best at\\nboth singing and the\\nsword."
   },
   {
    "id": "ui_profile:0x7fc",
@@ -144,7 +144,7 @@
    "max": 16,
    "kind": "name",
    "jp": "高杉晋作　",
-   "en": ""
+   "en": "S. Takasugi"
   },
   {
    "id": "ui_profile:0x810",
@@ -152,7 +152,7 @@
    "max": 16,
    "kind": "va",
    "jp": "鈴木達央",
-   "en": ""
+   "en": "T. Suzuki"
   },
   {
    "id": "ui_profile:0x824",
@@ -160,7 +160,7 @@
    "max": 8,
    "kind": "origin",
    "jp": "長州",
-   "en": ""
+   "en": "Choshu"
   },
   {
    "id": "ui_profile:0x830",
@@ -168,7 +168,7 @@
    "max": 16,
    "kind": "birthday",
    "jp": "８月２０日",
-   "en": ""
+   "en": "August 20"
   },
   {
    "id": "ui_profile:0x844",
@@ -176,7 +176,7 @@
    "max": 16,
    "kind": "height",
    "jp": "１７８ｃｍ",
-   "en": ""
+   "en": "178 cm"
   },
   {
    "id": "ui_profile:0x858",
@@ -184,7 +184,7 @@
    "max": 16,
    "kind": "weight",
    "jp": "６０ｋｇ",
-   "en": ""
+   "en": "60 kg"
   },
   {
    "id": "ui_profile:0x86c",
@@ -192,7 +192,7 @@
    "max": 8,
    "kind": "blood",
    "jp": "Ｂ型",
-   "en": ""
+   "en": "Type B"
   },
   {
    "id": "ui_profile:0x878",
@@ -200,7 +200,7 @@
    "max": 8,
    "kind": "sign",
    "jp": "獅子座",
-   "en": ""
+   "en": "Leo"
   },
   {
    "id": "ui_profile:0x884",
@@ -208,7 +208,7 @@
    "max": 32,
    "kind": "likes",
    "jp": "拳銃集め",
-   "en": ""
+   "en": "Collecting pistols"
   },
   {
    "id": "ui_profile:0x8a8",
@@ -216,7 +216,7 @@
    "max": 32,
    "kind": "food",
    "jp": "とうがらし",
-   "en": ""
+   "en": "Chili peppers"
   },
   {
    "id": "ui_profile:0x8cc",
@@ -224,7 +224,7 @@
    "max": 32,
    "kind": "dislikes",
    "jp": "豆腐",
-   "en": ""
+   "en": "Tofu"
   },
   {
    "id": "ui_profile:0x8f0",
@@ -232,7 +232,7 @@
    "max": 32,
    "kind": "bio-title",
    "jp": "幼少期",
-   "en": ""
+   "en": "Childhood"
   },
   {
    "id": "ui_profile:0x914",
@@ -240,7 +240,7 @@
    "max": 256,
    "kind": "bio",
    "jp": "■幼少期\n\n桂と出会う。\nしばらく女の子だと\nおもっていた。\n後に後悔することになる…。\n\n桂と祭りに行き、\n「きんぎょすくい」を\n「金魚救い」と勘違いして\n出店の店員と揉める。",
-   "en": ""
+   "en": "[Childhood]\\n\\nMeets Katsura. For a while\\nhe thought Katsura was a\\ngirl. He would come to\\nregret it...\\n\\nAt a festival with\\nKatsura, he took \"goldfish\\nscooping\" for \"goldfish\\nrescuing\" and got into a\\nfight with the stall\\nkeeper."
   },
   {
    "id": "ui_profile:0xa18",
@@ -248,7 +248,7 @@
    "max": 32,
    "kind": "bio-title",
    "jp": "少年期",
-   "en": ""
+   "en": "Adolescence"
   },
   {
    "id": "ui_profile:0xa3c",
@@ -256,7 +256,7 @@
    "max": 256,
    "kind": "bio",
    "jp": "■少年期\n\n松下村塾に入塾。\n\n松陰と出会い、ロックを知る。\n『男とロック』の講義中、\n男ならいかなる時でも\nすずしい顔をせよ！\nと松陰に唐辛子を\n食べさせられた。\n\nそこから訓練を重ね、\n今では好物に。\n\nこの頃から\nロックへのめり込む。",
-   "en": ""
+   "en": "[Adolescence]\\n\\nEnters Shoka Sonjuku,\\nmeets Shoin, finds rock.\\nIn a lecture on 'Men and\\nRock,' Shoin made him eat\\nchili peppers: \"A man\\nkeeps a cool face!\"\\n\\nAfter much training,\\nthey're now his favorite\\nfood.\\n\\nSince then, he lives for\\nrock."
   },
   {
    "id": "ui_profile:0xb40",
@@ -264,7 +264,7 @@
    "max": 32,
    "kind": "bio-title",
    "jp": "青年期",
-   "en": ""
+   "en": "Young Adulthood"
   },
   {
    "id": "ui_profile:0xb64",
@@ -272,7 +272,7 @@
    "max": 256,
    "kind": "bio",
    "jp": "■青年期\n\n幼い頃から\n面倒を見てくれていた\n家令をなくす。\n徳川派遣の視察と\n高杉が揉めた\n責任を負ったのが原因。\n\nこの頃から、幕府に対して\n嫌悪と警戒心を強める。",
-   "en": ""
+   "en": "[Young Adulthood]\\n\\nLoses the steward who had\\nlooked after him since he\\nwas little. The steward\\ntook the blame for\\nTakasugi's clash with an\\ninspector sent by the\\nTokugawa.\\n\\nFrom then on, his hatred\\nand wariness of the\\nshogunate grow."
   },
   {
    "id": "ui_profile:0xc68",
@@ -280,7 +280,7 @@
    "max": 32,
    "kind": "bio-title",
    "jp": "現在",
-   "en": ""
+   "en": "Present"
   },
   {
    "id": "ui_profile:0xc8c",
@@ -288,7 +288,7 @@
    "max": 256,
    "kind": "bio",
    "jp": "当時の流行病にかかり\nしばらく臥せる。\n家令がなくなった直後で、\n高杉の高齢の祖父母に\n伝染ると悪いと\n桂が看病する。\n\n■現在\n\n藩政にかかわることを\nのぞまれるも、\n幕府のやり方に反発し、\n松陰を捜す旅に出る。",
-   "en": ""
+   "en": "Bedridden a while with the\\nepidemic of the day. With\\nthe steward gone, Katsura\\nnursed him so Takasugi's\\nold grandparents wouldn't\\ncatch it.\\n\\n[Present]\\n\\nExpected to serve his\\ndomain, he defies the\\nshogunate and sets out\\nto find Shoin."
   },
   {
    "id": "ui_profile:0xfe4",
@@ -296,7 +296,7 @@
    "max": 16,
    "kind": "name",
    "jp": "桂小五郎　",
-   "en": ""
+   "en": "Kogoro Katsura"
   },
   {
    "id": "ui_profile:0xff8",
@@ -304,7 +304,7 @@
    "max": 16,
    "kind": "va",
    "jp": "森久保祥太郎",
-   "en": ""
+   "en": "S. Morikubo"
   },
   {
    "id": "ui_profile:0x100c",
@@ -312,7 +312,7 @@
    "max": 8,
    "kind": "origin",
    "jp": "長州",
-   "en": ""
+   "en": "Choshu"
   },
   {
    "id": "ui_profile:0x1018",
@@ -320,7 +320,7 @@
    "max": 16,
    "kind": "birthday",
    "jp": "６月２６日",
-   "en": ""
+   "en": "June 26"
   },
   {
    "id": "ui_profile:0x102c",
@@ -328,7 +328,7 @@
    "max": 16,
    "kind": "height",
    "jp": "１６９ｃｍ",
-   "en": ""
+   "en": "169 cm"
   },
   {
    "id": "ui_profile:0x1040",
@@ -336,7 +336,7 @@
    "max": 16,
    "kind": "weight",
    "jp": "５４ｋｇ",
-   "en": ""
+   "en": "54 kg"
   },
   {
    "id": "ui_profile:0x1054",
@@ -344,7 +344,7 @@
    "max": 8,
    "kind": "blood",
    "jp": "Ｏ型",
-   "en": ""
+   "en": "Type O"
   },
   {
    "id": "ui_profile:0x1060",
@@ -352,7 +352,7 @@
    "max": 8,
    "kind": "sign",
    "jp": "蟹座",
-   "en": ""
+   "en": "Cancer"
   },
   {
    "id": "ui_profile:0x106c",
@@ -360,7 +360,7 @@
    "max": 32,
    "kind": "likes",
    "jp": "楽譜集め",
-   "en": ""
+   "en": "Collecting sheet music"
   },
   {
    "id": "ui_profile:0x1090",
@@ -368,7 +368,7 @@
    "max": 32,
    "kind": "food",
    "jp": "どんぐり",
-   "en": ""
+   "en": "Acorns"
   },
   {
    "id": "ui_profile:0x10b4",
@@ -376,7 +376,7 @@
    "max": 32,
    "kind": "dislikes",
    "jp": "黒いもの全般",
-   "en": ""
+   "en": "Anything black"
   },
   {
    "id": "ui_profile:0x10d8",
@@ -384,7 +384,7 @@
    "max": 32,
    "kind": "bio-title",
    "jp": "幼少期",
-   "en": ""
+   "en": "Childhood"
   },
   {
    "id": "ui_profile:0x10fc",
@@ -392,7 +392,7 @@
    "max": 256,
    "kind": "bio",
    "jp": "■幼少期\n\n高杉と出会う。\n\n祭りで見た海外の楽器が\nどういう仕組なのか気になり\n大人に聞いて回るが誰も\n答えられなかったところ、\n分解してみてみれば？と\n高杉にいわれたことから、\nモノの構造に興味を持つ。",
-   "en": ""
+   "en": "[Childhood]\\n\\nMeets Takasugi.\\n\\nCurious how a foreign\\ninstrument at a festival\\nworked, he asked adults,\\nbut no one knew. Takasugi\\nsaid, \"Why not take it\\napart?\" and he grew\\nfascinated by how things\\nare built."
   },
   {
    "id": "ui_profile:0x1200",
@@ -400,7 +400,7 @@
    "max": 32,
    "kind": "bio-title",
    "jp": "少年期",
-   "en": ""
+   "en": "Adolescence"
   },
   {
    "id": "ui_profile:0x1224",
@@ -408,7 +408,7 @@
    "max": 256,
    "kind": "bio",
    "jp": "この頃から発明にハマりだす。\n色々なものを拾っては\n合体する日々。\n\n楽器に興味を持ったことから、\n様々な楽器を習う。\n\n■少年期\n\n松下村塾に入塾。\n\n女の子に間違えられる\n容姿だったため\n自分を恥じ、家出する。",
-   "en": ""
+   "en": "Around this time he gets\\nhooked on inventing,\\npicking things up and\\ncombining them.\\n\\nDrawn to instruments, he\\nlearns many kinds.\\n\\n[Adolescence]\\n\\nEnters Shoka Sonjuku.\\n\\nAshamed of being mistaken\\nfor a girl, he runs away\\nfrom home."
   },
   {
    "id": "ui_profile:0x1328",
@@ -416,7 +416,7 @@
    "max": 32,
    "kind": "bio-title",
    "jp": "青年期",
-   "en": ""
+   "en": "Young Adulthood"
   },
   {
    "id": "ui_profile:0x134c",
@@ -424,7 +424,7 @@
    "max": 256,
    "kind": "bio",
    "jp": "桂家では大騒ぎになったが、\n高杉により発見される。\n\n■青年期\n\n諸藩へ遊学。\n長崎へ遊学した際、\nエレキテルと出会い、\n発明に磨きがかかる。",
-   "en": ""
+   "en": "The Katsura household was\\nin an uproar, but Takasugi\\nfound him.\\n\\n[Young Adulthood]\\n\\nStudies in various\\ndomains. In Nagasaki he\\ndiscovers the elekiter,\\nand his inventing takes\\noff."
   },
   {
    "id": "ui_profile:0x1450",
@@ -432,7 +432,7 @@
    "max": 32,
    "kind": "bio-title",
    "jp": "現在",
-   "en": ""
+   "en": "Present"
   },
   {
    "id": "ui_profile:0x1474",
@@ -440,7 +440,7 @@
    "max": 256,
    "kind": "bio",
    "jp": "■現在\n\n藩政にかかわることを\nのぞまれるも、\n松陰が心配なため\n捜す旅に出る。",
-   "en": ""
+   "en": "[Present]\\n\\nExpected to serve his\\ndomain, he sets out to\\nfind Shoin, worried about\\nhim."
   },
   {
    "id": "ui_profile:0x17cc",
@@ -448,7 +448,7 @@
    "max": 16,
    "kind": "name",
    "jp": "土方歳三　",
-   "en": ""
+   "en": "T. Hijikata"
   },
   {
    "id": "ui_profile:0x17e0",
@@ -456,7 +456,7 @@
    "max": 16,
    "kind": "va",
    "jp": "森川智之",
-   "en": ""
+   "en": "T. Morikawa"
   },
   {
    "id": "ui_profile:0x17f4",
@@ -464,7 +464,7 @@
    "max": 8,
    "kind": "origin",
    "jp": "武蔵",
-   "en": ""
+   "en": "Musashi"
   },
   {
    "id": "ui_profile:0x1800",
@@ -472,7 +472,7 @@
    "max": 16,
    "kind": "birthday",
    "jp": "５月５日",
-   "en": ""
+   "en": "May 5"
   },
   {
    "id": "ui_profile:0x1814",
@@ -480,7 +480,7 @@
    "max": 16,
    "kind": "height",
    "jp": "１８３ｃｍ",
-   "en": ""
+   "en": "183 cm"
   },
   {
    "id": "ui_profile:0x1828",
@@ -488,7 +488,7 @@
    "max": 16,
    "kind": "weight",
    "jp": "６４ｋｇ",
-   "en": ""
+   "en": "64 kg"
   },
   {
    "id": "ui_profile:0x183c",
@@ -496,7 +496,7 @@
    "max": 8,
    "kind": "blood",
    "jp": "Ａ型",
-   "en": ""
+   "en": "Type A"
   },
   {
    "id": "ui_profile:0x1848",
@@ -504,7 +504,7 @@
    "max": 8,
    "kind": "sign",
    "jp": "牡牛座",
-   "en": ""
+   "en": "Taurus"
   },
   {
    "id": "ui_profile:0x1854",
@@ -512,7 +512,7 @@
    "max": 32,
    "kind": "likes",
    "jp": "作詞",
-   "en": ""
+   "en": "Writing lyrics"
   },
   {
    "id": "ui_profile:0x1878",
@@ -520,7 +520,7 @@
    "max": 32,
    "kind": "food",
    "jp": "肉",
-   "en": ""
+   "en": "Meat"
   },
   {
    "id": "ui_profile:0x189c",
@@ -528,7 +528,7 @@
    "max": 32,
    "kind": "dislikes",
    "jp": "なし\n（実はピーマンと\n人参が嫌い",
-   "en": ""
+   "en": "None (really:\\npeppers,carrots)"
   },
   {
    "id": "ui_profile:0x18c0",
@@ -536,7 +536,7 @@
    "max": 32,
    "kind": "bio-title",
    "jp": "幼少期",
-   "en": ""
+   "en": "Childhood"
   },
   {
    "id": "ui_profile:0x18e4",
@@ -544,7 +544,7 @@
    "max": 256,
    "kind": "bio",
    "jp": "■幼少期\n\n豪農の子であったが、\n両親が侍に殺され\n孤児となってしまう。\n近藤の家の道場に\n引き取られて育つ。\n\nこの頃から近藤に隠れ\n親の仇を捜し始める。\n\n荒れていたため\nバラガキと呼ばれる。",
-   "en": ""
+   "en": "[Childhood]\\n\\nBorn to a wealthy farming\\nfamily, he was orphaned\\nwhen samurai killed his\\nparents, and raised at the\\nKondo family's dojo.\\n\\nHe began hunting his\\nparents' killer, hidden\\nfrom Kondo.\\n\\nSo wild he was called the\\nThorny Brat."
   },
   {
    "id": "ui_profile:0x19e8",
@@ -552,7 +552,7 @@
    "max": 32,
    "kind": "bio-title",
    "jp": "少年期",
-   "en": ""
+   "en": "Adolescence"
   },
   {
    "id": "ui_profile:0x1a0c",
@@ -560,7 +560,7 @@
    "max": 256,
    "kind": "bio",
    "jp": "■少年期\n\n新選組の前身、\n壬生組が結成される。",
-   "en": ""
+   "en": "[Adolescence]\\n\\nThe Mibu-gumi, forerunner\\nof the Shinsengumi, is\\nformed."
   },
   {
    "id": "ui_profile:0x1b10",
@@ -568,7 +568,7 @@
    "max": 32,
    "kind": "bio-title",
    "jp": "青年期",
-   "en": ""
+   "en": "Young Adulthood"
   },
   {
    "id": "ui_profile:0x1b34",
@@ -576,7 +576,7 @@
    "max": 256,
    "kind": "bio",
    "jp": "■青年期\n\n新選組が愛獲として、\n正式デビューが決定。",
-   "en": ""
+   "en": "[Young Adulthood]\\n\\nThe Shinsengumi are set to\\nmake their official idol\\ndebut."
   },
   {
    "id": "ui_profile:0x1c38",
@@ -584,7 +584,7 @@
    "max": 32,
    "kind": "bio-title",
    "jp": "現在",
-   "en": ""
+   "en": "Present"
   },
   {
    "id": "ui_profile:0x1c5c",
@@ -592,7 +592,7 @@
    "max": 256,
    "kind": "bio",
    "jp": "■現在\n\n新選組の副長として、\n舞台に立つ日々を送っている。",
-   "en": ""
+   "en": "[Present]\\n\\nAs the Shinsengumi's\\nVice-Commander, he spends\\nhis days on stage."
   },
   {
    "id": "ui_profile:0x1fb4",
@@ -600,7 +600,7 @@
    "max": 16,
    "kind": "name",
    "jp": "沖田総司　",
-   "en": ""
+   "en": "Soji Okita"
   },
   {
    "id": "ui_profile:0x1fc8",
@@ -608,7 +608,7 @@
    "max": 16,
    "kind": "va",
    "jp": "小野賢章",
-   "en": ""
+   "en": "Kensho Ono"
   },
   {
    "id": "ui_profile:0x1fdc",
@@ -616,7 +616,7 @@
    "max": 8,
    "kind": "origin",
    "jp": "不明",
-   "en": ""
+   "en": "Unknown"
   },
   {
    "id": "ui_profile:0x1fe8",
@@ -624,7 +624,7 @@
    "max": 16,
    "kind": "birthday",
    "jp": "７月７日",
-   "en": ""
+   "en": "July 7"
   },
   {
    "id": "ui_profile:0x1ffc",
@@ -632,7 +632,7 @@
    "max": 16,
    "kind": "height",
    "jp": "１７５ｃｍ",
-   "en": ""
+   "en": "175 cm"
   },
   {
    "id": "ui_profile:0x2010",
@@ -640,7 +640,7 @@
    "max": 16,
    "kind": "weight",
    "jp": "５８ｋｇ",
-   "en": ""
+   "en": "58 kg"
   },
   {
    "id": "ui_profile:0x2024",
@@ -648,7 +648,7 @@
    "max": 8,
    "kind": "blood",
    "jp": "ＡＢ型",
-   "en": ""
+   "en": "Type AB"
   },
   {
    "id": "ui_profile:0x2030",
@@ -656,7 +656,7 @@
    "max": 8,
    "kind": "sign",
    "jp": "蟹座",
-   "en": ""
+   "en": "Cancer"
   },
   {
    "id": "ui_profile:0x203c",
@@ -664,7 +664,7 @@
    "max": 32,
    "kind": "likes",
    "jp": "お風呂",
-   "en": ""
+   "en": "Baths"
   },
   {
    "id": "ui_profile:0x2060",
@@ -672,7 +672,7 @@
    "max": 32,
    "kind": "food",
    "jp": "豆腐",
-   "en": ""
+   "en": "Tofu"
   },
   {
    "id": "ui_profile:0x2084",
@@ -680,7 +680,7 @@
    "max": 32,
    "kind": "dislikes",
    "jp": "にんにく",
-   "en": ""
+   "en": "Garlic"
   },
   {
    "id": "ui_profile:0x20a8",
@@ -688,7 +688,7 @@
    "max": 32,
    "kind": "bio-title",
    "jp": "幼少期",
-   "en": ""
+   "en": "Childhood"
   },
   {
    "id": "ui_profile:0x20cc",
@@ -696,7 +696,7 @@
    "max": 256,
    "kind": "bio",
    "jp": "■幼少期\n\n生まれなど不明。\n生きるためいくつかの\n盗賊団などを\n転々としていたようである。",
-   "en": ""
+   "en": "[Childhood]\\n\\nOrigins unknown. To\\nsurvive, he seems to have\\ndrifted from one band of\\nthieves to another."
   },
   {
    "id": "ui_profile:0x21d0",
@@ -704,7 +704,7 @@
    "max": 32,
    "kind": "bio-title",
    "jp": "少年期",
-   "en": ""
+   "en": "Adolescence"
   },
   {
    "id": "ui_profile:0x21f4",
@@ -712,7 +712,7 @@
    "max": 256,
    "kind": "bio",
    "jp": "■少年期\n\n新選組の前身、\n壬生組が結成される。\n\n近藤にスタミナをつけるため、\nにんにくを食べろといわれるが\n全く受け付けない。\n影で吸血鬼と呼ばれていた。",
-   "en": ""
+   "en": "[Adolescence]\\n\\nThe Mibu-gumi, forerunner\\nof the Shinsengumi, is\\nformed.\\n\\nTold by Kondo to eat\\ngarlic for stamina, he\\ncouldn't stomach it.\\nBehind his back, he was\\ncalled a vampire."
   },
   {
    "id": "ui_profile:0x22f8",
@@ -720,7 +720,7 @@
    "max": 32,
    "kind": "bio-title",
    "jp": "青年期",
-   "en": ""
+   "en": "Young Adulthood"
   },
   {
    "id": "ui_profile:0x231c",
@@ -728,7 +728,7 @@
    "max": 256,
    "kind": "bio",
    "jp": "■青年期\n\nオーディションで選ばれた\n新選組１期生。\n\n新選組が愛獲として、\n正式デビューが決定。\n\n煌の間でも人気は急上昇。\n一番隊組長となる。",
-   "en": ""
+   "en": "[Young Adulthood]\\n\\nA first-generation\\nShinsengumi member, chosen\\nby audition.\\n\\nThe Shinsengumi's official\\nidol debut is set.\\n\\nSoaring in popularity with\\nfans, he becomes\\nFirst Unit Captain."
   },
   {
    "id": "ui_profile:0x2420",
@@ -736,7 +736,7 @@
    "max": 32,
    "kind": "bio-title",
    "jp": "現在",
-   "en": ""
+   "en": "Present"
   },
   {
    "id": "ui_profile:0x2444",
@@ -744,7 +744,7 @@
    "max": 256,
    "kind": "bio",
    "jp": "■現在\n\n土方と人気を二分し、\nセンタートップを務めている。\n\nステージで各地を回る際、\n温泉めぐりを楽しみに\nしている。",
-   "en": ""
+   "en": "[Present]\\n\\nSplitting the fans evenly\\nwith Hijikata, he holds\\nthe top center spot.\\n\\nOn tour, he looks forward\\nto visiting hot springs."
   },
   {
    "id": "ui_profile:0x279c",
@@ -752,7 +752,7 @@
    "max": 16,
    "kind": "name",
    "jp": "ジュニア　",
-   "en": ""
+   "en": "Junior"
   },
   {
    "id": "ui_profile:0x27b0",
@@ -760,7 +760,7 @@
    "max": 16,
    "kind": "va",
    "jp": "諏訪部順一",
-   "en": ""
+   "en": "Junichi Suwabe"
   },
   {
    "id": "ui_profile:0x27c4",
@@ -768,7 +768,7 @@
    "max": 8,
    "kind": "origin",
    "jp": "アメリカ",
-   "en": ""
+   "en": "America"
   },
   {
    "id": "ui_profile:0x27d0",
@@ -776,7 +776,7 @@
    "max": 16,
    "kind": "birthday",
    "jp": "８月１０日",
-   "en": ""
+   "en": "August 10"
   },
   {
    "id": "ui_profile:0x27e4",
@@ -784,7 +784,7 @@
    "max": 16,
    "kind": "height",
    "jp": "１８９ｃｍ",
-   "en": ""
+   "en": "189 cm"
   },
   {
    "id": "ui_profile:0x27f8",
@@ -792,7 +792,7 @@
    "max": 16,
    "kind": "weight",
    "jp": "７７ｋｇ",
-   "en": ""
+   "en": "77 kg"
   },
   {
    "id": "ui_profile:0x280c",
@@ -800,7 +800,7 @@
    "max": 8,
    "kind": "blood",
    "jp": "Ｂ型",
-   "en": ""
+   "en": "Type B"
   },
   {
    "id": "ui_profile:0x2818",
@@ -808,7 +808,7 @@
    "max": 8,
    "kind": "sign",
    "jp": "獅子座",
-   "en": ""
+   "en": "Leo"
   },
   {
    "id": "ui_profile:0x2824",
@@ -816,7 +816,7 @@
    "max": 32,
    "kind": "likes",
    "jp": "記念写真を\n撮る事",
-   "en": ""
+   "en": "Taking souvenir\\nphotos"
   },
   {
    "id": "ui_profile:0x2848",
@@ -824,7 +824,7 @@
    "max": 32,
    "kind": "food",
    "jp": "酒",
-   "en": ""
+   "en": "Liquor"
   },
   {
    "id": "ui_profile:0x286c",
@@ -832,7 +832,7 @@
    "max": 32,
    "kind": "dislikes",
    "jp": "梅干し",
-   "en": ""
+   "en": "Pickled plums"
   },
   {
    "id": "ui_profile:0x2890",
@@ -840,7 +840,7 @@
    "max": 32,
    "kind": "bio-title",
    "jp": "幼少期",
-   "en": ""
+   "en": "Childhood"
   },
   {
    "id": "ui_profile:0x28b4",
@@ -848,7 +848,7 @@
    "max": 256,
    "kind": "bio",
    "jp": "■幼少期\n\n全てができてしまう\n子供だった。\n\n母を亡くし、父の手で\n育つことになる。\nこの頃から女性がそばに\nいると機嫌が良い子であった。\n\n海軍提督である父の影響か、\nいつかは自分も世界へと\n思うようになる。",
-   "en": ""
+   "en": "[Childhood]\\n\\nA child who could do\\nanything.\\n\\nAfter losing his mother,\\nhe was raised by his\\nfather. Women nearby\\nalways put him in a good\\nmood.\\n\\nHis father being a navy\\ncommodore, he dreamed of\\ntaking on the world one\\nday."
   },
   {
    "id": "ui_profile:0x29b8",
@@ -856,7 +856,7 @@
    "max": 32,
    "kind": "bio-title",
    "jp": "少年期",
-   "en": ""
+   "en": "Adolescence"
   },
   {
    "id": "ui_profile:0x29dc",
@@ -864,7 +864,7 @@
    "max": 256,
    "kind": "bio",
    "jp": "■少年期\n\n自分は世界にこそふさわしい。\n世界の女性を自分の物に\nするため、\n海軍に入る決意をする。\n\nかなりの数の女性と\n付き合っており、\n元彼から喧嘩を\nふっかけられる日々を過ごす。",
-   "en": ""
+   "en": "[Adolescence]\\n\\n\"Only the world is worthy\\nof me.\" Resolves to join\\nthe navy to win the\\nworld's women.\\n\\nDates a great many women\\nand spends his days\\nfending off their angry\\nexes."
   },
   {
    "id": "ui_profile:0x2ae0",
@@ -872,7 +872,7 @@
    "max": 32,
    "kind": "bio-title",
    "jp": "青年期",
-   "en": ""
+   "en": "Young Adulthood"
   },
   {
    "id": "ui_profile:0x2b04",
@@ -880,7 +880,7 @@
    "max": 256,
    "kind": "bio",
    "jp": "■青年期\n\n海軍に入隊。\n頭角を顕し、階級を上げていく。\nしばしば海外への遠征隊に\n出かけ、武勲を上げる。\n\nロックフェスにて、ある男から\n人生で初めての敗北を味わう。\n以来、本気でロックに\n取り組む。\n\n海外基地でのコンサートにて、\nセッションに入ったJと出会う。",
-   "en": ""
+   "en": "[Young Adulthood]\\n\\nJoins the navy and rises\\nfast, winning honors on\\noverseas missions.\\n\\nAt a rock fest, a certain\\nman hands him his first\\ndefeat. He takes rock\\nseriously ever since.\\n\\nMeets J at a base concert,\\nwhen J joins the session."
   },
   {
    "id": "ui_profile:0x2c08",
@@ -888,7 +888,7 @@
    "max": 32,
    "kind": "bio-title",
    "jp": "現在",
-   "en": ""
+   "en": "Present"
   },
   {
    "id": "ui_profile:0x2c2c",
@@ -896,7 +896,7 @@
    "max": 256,
    "kind": "bio",
    "jp": "■現在\n\n合衆国の政策、つまり\nワールドツアー中。\n\n各地で超魂を奪い、\n属国化している。",
-   "en": ""
+   "en": "[Present]\\n\\nPursuing U.S. policy -- in\\nother words, on a world\\ntour.\\n\\nStealing the Ultra Soul of\\nevery land, he makes them\\nvassal states."
   },
   {
    "id": "ui_profile:0x2f84",
@@ -904,7 +904,7 @@
    "max": 16,
    "kind": "name",
    "jp": "Ｊ　　　　",
-   "en": ""
+   "en": "J"
   },
   {
    "id": "ui_profile:0x2f98",
@@ -912,7 +912,7 @@
    "max": 16,
    "kind": "va",
    "jp": "Yuh",
-   "en": ""
+   "en": "Yuh"
   },
   {
    "id": "ui_profile:0x2fac",
@@ -920,7 +920,7 @@
    "max": 8,
    "kind": "origin",
    "jp": "不明",
-   "en": ""
+   "en": "Unknown"
   },
   {
    "id": "ui_profile:0x2fb8",
@@ -928,7 +928,7 @@
    "max": 16,
    "kind": "birthday",
    "jp": "１月１１日",
-   "en": ""
+   "en": "January 11"
   },
   {
    "id": "ui_profile:0x2fcc",
@@ -936,7 +936,7 @@
    "max": 16,
    "kind": "height",
    "jp": "１７５ｃｍ",
-   "en": ""
+   "en": "175 cm"
   },
   {
    "id": "ui_profile:0x2fe0",
@@ -944,7 +944,7 @@
    "max": 16,
    "kind": "weight",
    "jp": "５９ｋｇ",
-   "en": ""
+   "en": "59 kg"
   },
   {
    "id": "ui_profile:0x2ff4",
@@ -952,7 +952,7 @@
    "max": 8,
    "kind": "blood",
    "jp": "Ｏ型",
-   "en": ""
+   "en": "Type O"
   },
   {
    "id": "ui_profile:0x3000",
@@ -960,7 +960,7 @@
    "max": 8,
    "kind": "sign",
    "jp": "山羊座",
-   "en": ""
+   "en": "Goat"
   },
   {
    "id": "ui_profile:0x300c",
@@ -968,7 +968,7 @@
    "max": 32,
    "kind": "likes",
    "jp": "動物を\nかわいがる事",
-   "en": ""
+   "en": "Doting on\\nanimals"
   },
   {
    "id": "ui_profile:0x3030",
@@ -976,7 +976,7 @@
    "max": 32,
    "kind": "food",
    "jp": "甘いもの",
-   "en": ""
+   "en": "Sweets"
   },
   {
    "id": "ui_profile:0x3054",
@@ -984,7 +984,7 @@
    "max": 32,
    "kind": "dislikes",
    "jp": "酒",
-   "en": ""
+   "en": "Liquor"
   },
   {
    "id": "ui_profile:0x3078",
@@ -992,7 +992,7 @@
    "max": 32,
    "kind": "bio-title",
    "jp": "幼少期",
-   "en": ""
+   "en": "Childhood"
   },
   {
    "id": "ui_profile:0x309c",
@@ -1000,7 +1000,7 @@
    "max": 256,
    "kind": "bio",
    "jp": "■幼少期\n\n謎",
-   "en": ""
+   "en": "[Childhood]\\n\\nA mystery."
   },
   {
    "id": "ui_profile:0x31a0",
@@ -1008,7 +1008,7 @@
    "max": 32,
    "kind": "bio-title",
    "jp": "少年期",
-   "en": ""
+   "en": "Adolescence"
   },
   {
    "id": "ui_profile:0x31c4",
@@ -1016,7 +1016,7 @@
    "max": 256,
    "kind": "bio",
    "jp": "■少年期\n\n謎",
-   "en": ""
+   "en": "[Adolescence]\\n\\nA mystery."
   },
   {
    "id": "ui_profile:0x32c8",
@@ -1024,7 +1024,7 @@
    "max": 32,
    "kind": "bio-title",
    "jp": "青年期",
-   "en": ""
+   "en": "Young Adulthood"
   },
   {
    "id": "ui_profile:0x32ec",
@@ -1032,7 +1032,7 @@
    "max": 256,
    "kind": "bio",
    "jp": "■青年期\n\n分かっているのは、この頃から\n軍に記録官として配属され、\n各地を転々と\nしているという事。",
-   "en": ""
+   "en": "[Young Adulthood]\\n\\nAll that's known: around\\nthis time he was assigned\\nto the military as a\\nrecords officer and moves\\nfrom post to post."
   },
   {
    "id": "ui_profile:0x33f0",
@@ -1040,7 +1040,7 @@
    "max": 32,
    "kind": "bio-title",
    "jp": "現在",
-   "en": ""
+   "en": "Present"
   },
   {
    "id": "ui_profile:0x3414",
@@ -1048,7 +1048,7 @@
    "max": 256,
    "kind": "bio",
    "jp": "■現在\n\nジュニアの片腕として\nワールドツアーに参加中。\nギターを弾く際は、\nトランプをピックとして\n使用する。",
-   "en": ""
+   "en": "[Present]\\n\\nJoins the world tour as\\nJunior's right hand. He\\nplays guitar using a\\nplaying card as a pick."
   },
   {
    "id": "ui_profile:0x376c",
@@ -1056,7 +1056,7 @@
    "max": 16,
    "kind": "name",
    "jp": "井伊直弼　",
-   "en": ""
+   "en": "Naosuke Ii"
   },
   {
    "id": "ui_profile:0x3780",
@@ -1064,7 +1064,7 @@
    "max": 16,
    "kind": "va",
    "jp": "安元洋貴",
-   "en": ""
+   "en": "Hiroki Yasumoto"
   },
   {
    "id": "ui_profile:0x3794",
@@ -1072,7 +1072,7 @@
    "max": 8,
    "kind": "origin",
    "jp": "近江",
-   "en": ""
+   "en": "Omi"
   },
   {
    "id": "ui_profile:0x37a0",
@@ -1080,7 +1080,7 @@
    "max": 16,
    "kind": "birthday",
    "jp": "１０月２９日",
-   "en": ""
+   "en": "October 29"
   },
   {
    "id": "ui_profile:0x37b4",
@@ -1088,7 +1088,7 @@
    "max": 16,
    "kind": "height",
    "jp": "１８５ｃｍ",
-   "en": ""
+   "en": "185 cm"
   },
   {
    "id": "ui_profile:0x37c8",
@@ -1096,7 +1096,7 @@
    "max": 16,
    "kind": "weight",
    "jp": "６８ｋｇ",
-   "en": ""
+   "en": "68 kg"
   },
   {
    "id": "ui_profile:0x37dc",
@@ -1104,7 +1104,7 @@
    "max": 8,
    "kind": "blood",
    "jp": "Ａ型",
-   "en": ""
+   "en": "Type A"
   },
   {
    "id": "ui_profile:0x37e8",
@@ -1112,7 +1112,7 @@
    "max": 8,
    "kind": "sign",
    "jp": "蠍座",
-   "en": ""
+   "en": "Scorpio"
   },
   {
    "id": "ui_profile:0x37f4",
@@ -1120,7 +1120,7 @@
    "max": 32,
    "kind": "likes",
    "jp": "囲碁",
-   "en": ""
+   "en": "Go"
   },
   {
    "id": "ui_profile:0x3818",
@@ -1128,7 +1128,7 @@
    "max": 32,
    "kind": "food",
    "jp": "精進料理",
-   "en": ""
+   "en": "Shojin vegetarian cuisine"
   },
   {
    "id": "ui_profile:0x383c",
@@ -1136,7 +1136,7 @@
    "max": 32,
    "kind": "dislikes",
    "jp": "肉",
-   "en": ""
+   "en": "Meat"
   },
   {
    "id": "ui_profile:0x3f54",
@@ -1144,7 +1144,7 @@
    "max": 16,
    "kind": "name",
    "jp": "徳川慶喜　",
-   "en": ""
+   "en": "Y. Tokugawa"
   },
   {
    "id": "ui_profile:0x3f68",
@@ -1152,7 +1152,7 @@
    "max": 16,
    "kind": "va",
    "jp": "斎賀みつき",
-   "en": ""
+   "en": "Mitsuki Saiga"
   },
   {
    "id": "ui_profile:0x3f7c",
@@ -1160,7 +1160,7 @@
    "max": 8,
    "kind": "origin",
    "jp": "江戸",
-   "en": ""
+   "en": "Edo"
   },
   {
    "id": "ui_profile:0x3f88",
@@ -1168,7 +1168,7 @@
    "max": 16,
    "kind": "birthday",
    "jp": "９月２９日",
-   "en": ""
+   "en": "September 29"
   },
   {
    "id": "ui_profile:0x3f9c",
@@ -1176,7 +1176,7 @@
    "max": 16,
    "kind": "height",
    "jp": "１６５ｃｍ",
-   "en": ""
+   "en": "165 cm"
   },
   {
    "id": "ui_profile:0x3fb0",
@@ -1184,7 +1184,7 @@
    "max": 16,
    "kind": "weight",
    "jp": "５０ｋｇ",
-   "en": ""
+   "en": "50 kg"
   },
   {
    "id": "ui_profile:0x3fc4",
@@ -1192,7 +1192,7 @@
    "max": 8,
    "kind": "blood",
    "jp": "Ａ型",
-   "en": ""
+   "en": "Type A"
   },
   {
    "id": "ui_profile:0x3fd0",
@@ -1200,7 +1200,7 @@
    "max": 8,
    "kind": "sign",
    "jp": "天秤座",
-   "en": ""
+   "en": "Libra"
   },
   {
    "id": "ui_profile:0x3fdc",
@@ -1208,7 +1208,7 @@
    "max": 32,
    "kind": "likes",
    "jp": "将棋",
-   "en": ""
+   "en": "Shogi"
   },
   {
    "id": "ui_profile:0x4000",
@@ -1216,7 +1216,7 @@
    "max": 32,
    "kind": "food",
    "jp": "和菓子",
-   "en": ""
+   "en": "Japanese sweets"
   },
   {
    "id": "ui_profile:0x4024",
@@ -1224,7 +1224,7 @@
    "max": 32,
    "kind": "dislikes",
    "jp": "苺",
-   "en": ""
+   "en": "Strawberries"
   },
   {
    "id": "ui_profile:0x473c",
@@ -1232,7 +1232,7 @@
    "max": 16,
    "kind": "name",
    "jp": "近藤勇　　",
-   "en": ""
+   "en": "Isami Kondo"
   },
   {
    "id": "ui_profile:0x4750",
@@ -1240,7 +1240,7 @@
    "max": 16,
    "kind": "va",
    "jp": "藤原啓治",
-   "en": ""
+   "en": "Keiji Fujiwara"
   },
   {
    "id": "ui_profile:0x4764",
@@ -1248,7 +1248,7 @@
    "max": 8,
    "kind": "origin",
    "jp": "武蔵",
-   "en": ""
+   "en": "Musashi"
   },
   {
    "id": "ui_profile:0x4770",
@@ -1256,7 +1256,7 @@
    "max": 16,
    "kind": "birthday",
    "jp": "１０月９日",
-   "en": ""
+   "en": "October 9"
   },
   {
    "id": "ui_profile:0x4784",
@@ -1264,7 +1264,7 @@
    "max": 16,
    "kind": "height",
    "jp": "１９０ｃｍ",
-   "en": ""
+   "en": "190 cm"
   },
   {
    "id": "ui_profile:0x4798",
@@ -1272,7 +1272,7 @@
    "max": 16,
    "kind": "weight",
    "jp": "９３ｋｇ",
-   "en": ""
+   "en": "93 kg"
   },
   {
    "id": "ui_profile:0x47ac",
@@ -1280,7 +1280,7 @@
    "max": 8,
    "kind": "blood",
    "jp": "Ａ型",
-   "en": ""
+   "en": "Type A"
   },
   {
    "id": "ui_profile:0x47b8",
@@ -1288,7 +1288,7 @@
    "max": 8,
    "kind": "sign",
    "jp": "天秤座",
-   "en": ""
+   "en": "Libra"
   },
   {
    "id": "ui_profile:0x47c4",
@@ -1296,7 +1296,7 @@
    "max": 32,
    "kind": "likes",
    "jp": "雷舞鑑賞",
-   "en": ""
+   "en": "Watching live shows"
   },
   {
    "id": "ui_profile:0x47e8",
@@ -1304,7 +1304,7 @@
    "max": 32,
    "kind": "food",
    "jp": "おにぎり",
-   "en": ""
+   "en": "Rice balls"
   },
   {
    "id": "ui_profile:0x480c",
@@ -1312,7 +1312,7 @@
    "max": 32,
    "kind": "dislikes",
    "jp": "えび",
-   "en": ""
+   "en": "Shrimp"
   },
   {
    "id": "ui_profile:0x4f24",
@@ -1320,7 +1320,7 @@
    "max": 16,
    "kind": "name",
    "jp": "お登勢　　",
-   "en": ""
+   "en": "Otose"
   },
   {
    "id": "ui_profile:0x4f38",
@@ -1328,7 +1328,7 @@
    "max": 16,
    "kind": "va",
    "jp": "乃村健次",
-   "en": ""
+   "en": "Kenji Nomura"
   },
   {
    "id": "ui_profile:0x4f4c",
@@ -1336,7 +1336,7 @@
    "max": 8,
    "kind": "origin",
    "jp": "大津",
-   "en": ""
+   "en": "Otsu"
   },
   {
    "id": "ui_profile:0x4f58",
@@ -1344,7 +1344,7 @@
    "max": 16,
    "kind": "birthday",
    "jp": "４月２３日",
-   "en": ""
+   "en": "April 23"
   },
   {
    "id": "ui_profile:0x4f6c",
@@ -1352,7 +1352,7 @@
    "max": 16,
    "kind": "height",
    "jp": "１７８ｃｍ",
-   "en": ""
+   "en": "178 cm"
   },
   {
    "id": "ui_profile:0x4f80",
@@ -1360,7 +1360,7 @@
    "max": 16,
    "kind": "weight",
    "jp": "ひみつ",
-   "en": ""
+   "en": "Secret"
   },
   {
    "id": "ui_profile:0x4f94",
@@ -1368,7 +1368,7 @@
    "max": 8,
    "kind": "blood",
    "jp": "Ａ型",
-   "en": ""
+   "en": "Type A"
   },
   {
    "id": "ui_profile:0x4fa0",
@@ -1376,7 +1376,7 @@
    "max": 8,
    "kind": "sign",
    "jp": "牡牛座",
-   "en": ""
+   "en": "Taurus"
   },
   {
    "id": "ui_profile:0x4fac",
@@ -1384,7 +1384,7 @@
    "max": 32,
    "kind": "likes",
    "jp": "女子会",
-   "en": ""
+   "en": "Girls' nights out"
   },
   {
    "id": "ui_profile:0x4fd0",
@@ -1392,7 +1392,7 @@
    "max": 32,
    "kind": "food",
    "jp": "オリーブ",
-   "en": ""
+   "en": "Olives"
   },
   {
    "id": "ui_profile:0x4ff4",
@@ -1400,7 +1400,7 @@
    "max": 32,
    "kind": "dislikes",
    "jp": "うずらのたまご",
-   "en": ""
+   "en": "Quail eggs"
   },
   {
    "id": "ui_profile:0x570c",
@@ -1408,7 +1408,7 @@
    "max": 16,
    "kind": "name",
    "jp": "吉田松陰　",
-   "en": ""
+   "en": "Shoin Yoshida"
   },
   {
    "id": "ui_profile:0x5720",
@@ -1416,7 +1416,7 @@
    "max": 16,
    "kind": "va",
    "jp": "中尾隆聖",
-   "en": ""
+   "en": "Ryusei Nakao"
   },
   {
    "id": "ui_profile:0x5734",
@@ -1424,7 +1424,7 @@
    "max": 8,
    "kind": "origin",
    "jp": "長州",
-   "en": ""
+   "en": "Choshu"
   },
   {
    "id": "ui_profile:0x5740",
@@ -1432,7 +1432,7 @@
    "max": 16,
    "kind": "birthday",
    "jp": "８月４日",
-   "en": ""
+   "en": "August 4"
   },
   {
    "id": "ui_profile:0x5754",
@@ -1440,7 +1440,7 @@
    "max": 16,
    "kind": "height",
    "jp": "１４０ｃｍ",
-   "en": ""
+   "en": "140 cm"
   },
   {
    "id": "ui_profile:0x5768",
@@ -1448,7 +1448,7 @@
    "max": 16,
    "kind": "weight",
    "jp": "４２ｋｇ",
-   "en": ""
+   "en": "42 kg"
   },
   {
    "id": "ui_profile:0x577c",
@@ -1456,7 +1456,7 @@
    "max": 8,
    "kind": "blood",
    "jp": "Ｂ型",
-   "en": ""
+   "en": "Type B"
   },
   {
    "id": "ui_profile:0x5788",
@@ -1464,7 +1464,7 @@
    "max": 8,
    "kind": "sign",
    "jp": "獅子座",
-   "en": ""
+   "en": "Leo"
   },
   {
    "id": "ui_profile:0x5794",
@@ -1472,7 +1472,7 @@
    "max": 32,
    "kind": "likes",
    "jp": "旅",
-   "en": ""
+   "en": "Travel"
   },
   {
    "id": "ui_profile:0x57b8",
@@ -1480,7 +1480,7 @@
    "max": 32,
    "kind": "food",
    "jp": "ふぐ料理",
-   "en": ""
+   "en": "Pufferfish dishes"
   },
   {
    "id": "ui_profile:0x57dc",
@@ -1488,7 +1488,7 @@
    "max": 32,
    "kind": "dislikes",
    "jp": "こんにゃく",
-   "en": ""
+   "en": "Konjac"
   },
   {
    "id": "ui_profile:0x5ef4",
@@ -1496,7 +1496,7 @@
    "max": 16,
    "kind": "name",
    "jp": "天狗　　　",
-   "en": ""
+   "en": "Tengu"
   },
   {
    "id": "ui_profile:0x5f08",
@@ -1504,7 +1504,7 @@
    "max": 16,
    "kind": "va",
    "jp": "中尾隆聖",
-   "en": ""
+   "en": "Ryusei Nakao"
   },
   {
    "id": "ui_profile:0x5f1c",
@@ -1512,7 +1512,7 @@
    "max": 8,
    "kind": "origin",
    "jp": "長州",
-   "en": ""
+   "en": "Choshu"
   },
   {
    "id": "ui_profile:0x5f28",
@@ -1520,7 +1520,7 @@
    "max": 16,
    "kind": "birthday",
    "jp": "８月４日",
-   "en": ""
+   "en": "August 4"
   },
   {
    "id": "ui_profile:0x5f3c",
@@ -1528,7 +1528,7 @@
    "max": 16,
    "kind": "height",
    "jp": "不明",
-   "en": ""
+   "en": "Unknown"
   },
   {
    "id": "ui_profile:0x5f50",
@@ -1536,7 +1536,7 @@
    "max": 16,
    "kind": "weight",
    "jp": "不明",
-   "en": ""
+   "en": "Unknown"
   },
   {
    "id": "ui_profile:0x5f64",
@@ -1544,7 +1544,7 @@
    "max": 8,
    "kind": "blood",
    "jp": "Ｂ型",
-   "en": ""
+   "en": "Type B"
   },
   {
    "id": "ui_profile:0x5f70",
@@ -1552,7 +1552,7 @@
    "max": 8,
    "kind": "sign",
    "jp": "獅子座",
-   "en": ""
+   "en": "Leo"
   },
   {
    "id": "ui_profile:0x5f7c",
@@ -1560,7 +1560,7 @@
    "max": 32,
    "kind": "likes",
    "jp": "旅",
-   "en": ""
+   "en": "Travel"
   },
   {
    "id": "ui_profile:0x5fa0",
@@ -1568,7 +1568,7 @@
    "max": 32,
    "kind": "food",
    "jp": "ふぐ料理",
-   "en": ""
+   "en": "Pufferfish dishes"
   },
   {
    "id": "ui_profile:0x5fc4",
@@ -1576,7 +1576,7 @@
    "max": 32,
    "kind": "dislikes",
    "jp": "こんにゃく",
-   "en": ""
+   "en": "Konjac"
   },
   {
    "id": "ui_profile:0x66dc",
@@ -1584,7 +1584,7 @@
    "max": 16,
    "kind": "name",
    "jp": "勝海舟　　",
-   "en": ""
+   "en": "Kaishu Katsu"
   },
   {
    "id": "ui_profile:0x66f0",
@@ -1592,7 +1592,7 @@
    "max": 16,
    "kind": "va",
    "jp": "江原正士",
-   "en": ""
+   "en": "Masashi Ebara"
   },
   {
    "id": "ui_profile:0x6704",
@@ -1600,7 +1600,7 @@
    "max": 8,
    "kind": "origin",
    "jp": "江戸",
-   "en": ""
+   "en": "Edo"
   },
   {
    "id": "ui_profile:0x6710",
@@ -1608,7 +1608,7 @@
    "max": 16,
    "kind": "birthday",
    "jp": "１月３０日",
-   "en": ""
+   "en": "January 30"
   },
   {
    "id": "ui_profile:0x6724",
@@ -1616,7 +1616,7 @@
    "max": 16,
    "kind": "height",
    "jp": "１８０ｃｍ",
-   "en": ""
+   "en": "180 cm"
   },
   {
    "id": "ui_profile:0x6738",
@@ -1624,7 +1624,7 @@
    "max": 16,
    "kind": "weight",
    "jp": "７５ｋｇ",
-   "en": ""
+   "en": "75 kg"
   },
   {
    "id": "ui_profile:0x674c",
@@ -1632,7 +1632,7 @@
    "max": 8,
    "kind": "blood",
    "jp": "ＡＢ型",
-   "en": ""
+   "en": "Type AB"
   },
   {
    "id": "ui_profile:0x6758",
@@ -1640,7 +1640,7 @@
    "max": 8,
    "kind": "sign",
    "jp": "水瓶座",
-   "en": ""
+   "en": "Aquar."
   },
   {
    "id": "ui_profile:0x6764",
@@ -1648,7 +1648,7 @@
    "max": 32,
    "kind": "likes",
    "jp": "観劇",
-   "en": ""
+   "en": "Theatergoing"
   },
   {
    "id": "ui_profile:0x6788",
@@ -1656,7 +1656,7 @@
    "max": 32,
    "kind": "food",
    "jp": "うなぎ",
-   "en": ""
+   "en": "Eel"
   },
   {
    "id": "ui_profile:0x67ac",
@@ -1664,7 +1664,7 @@
    "max": 32,
    "kind": "dislikes",
    "jp": "らっきょ",
-   "en": ""
+   "en": "Pickled shallots"
   },
   {
    "id": "ui_profile:0x6ec4",
@@ -1672,7 +1672,7 @@
    "max": 16,
    "kind": "name",
    "jp": "お龍　　　",
-   "en": ""
+   "en": "Oryo"
   },
   {
    "id": "ui_profile:0x6ed8",
@@ -1680,7 +1680,7 @@
    "max": 16,
    "kind": "va",
    "jp": "豊口めぐみ",
-   "en": ""
+   "en": "M. Toyoguchi"
   },
   {
    "id": "ui_profile:0x6eec",
@@ -1688,7 +1688,7 @@
    "max": 8,
    "kind": "origin",
    "jp": "京都",
-   "en": ""
+   "en": "Kyoto"
   },
   {
    "id": "ui_profile:0x6ef8",
@@ -1696,7 +1696,7 @@
    "max": 16,
    "kind": "birthday",
    "jp": "６月６日",
-   "en": ""
+   "en": "June 6"
   },
   {
    "id": "ui_profile:0x6f0c",
@@ -1704,7 +1704,7 @@
    "max": 16,
    "kind": "height",
    "jp": "１６２ｃｍ",
-   "en": ""
+   "en": "162 cm"
   },
   {
    "id": "ui_profile:0x6f20",
@@ -1712,7 +1712,7 @@
    "max": 16,
    "kind": "weight",
    "jp": "ひみつ",
-   "en": ""
+   "en": "Secret"
   },
   {
    "id": "ui_profile:0x6f34",
@@ -1720,7 +1720,7 @@
    "max": 8,
    "kind": "blood",
    "jp": "Ａ型",
-   "en": ""
+   "en": "Type A"
   },
   {
    "id": "ui_profile:0x6f40",
@@ -1728,7 +1728,7 @@
    "max": 8,
    "kind": "sign",
    "jp": "双子座",
-   "en": ""
+   "en": "Gemini"
   },
   {
    "id": "ui_profile:0x6f4c",
@@ -1736,7 +1736,7 @@
    "max": 32,
    "kind": "likes",
    "jp": "運動",
-   "en": ""
+   "en": "Exercise"
   },
   {
    "id": "ui_profile:0x6f70",
@@ -1744,7 +1744,7 @@
    "max": 32,
    "kind": "food",
    "jp": "あんみつ",
-   "en": ""
+   "en": "Anmitsu"
   },
   {
    "id": "ui_profile:0x6f94",
@@ -1752,7 +1752,7 @@
    "max": 32,
    "kind": "dislikes",
    "jp": "数の子",
-   "en": ""
+   "en": "Herring roe"
   },
   {
    "id": "ui_profile:0x76ac",
@@ -1760,7 +1760,7 @@
    "max": 16,
    "kind": "name",
    "jp": "幾松　　　",
-   "en": ""
+   "en": "Ikumatsu"
   },
   {
    "id": "ui_profile:0x76c0",
@@ -1768,7 +1768,7 @@
    "max": 16,
    "kind": "va",
    "jp": "三澤紗千香",
-   "en": ""
+   "en": "Sachika Misawa"
   },
   {
    "id": "ui_profile:0x76d4",
@@ -1776,7 +1776,7 @@
    "max": 8,
    "kind": "origin",
    "jp": "若狭小浜",
-   "en": ""
+   "en": "Wakasa"
   },
   {
    "id": "ui_profile:0x76e0",
@@ -1784,7 +1784,7 @@
    "max": 16,
    "kind": "birthday",
    "jp": "６月８日",
-   "en": ""
+   "en": "June 8"
   },
   {
    "id": "ui_profile:0x76f4",
@@ -1792,7 +1792,7 @@
    "max": 16,
    "kind": "height",
    "jp": "１６５ｃｍ",
-   "en": ""
+   "en": "165 cm"
   },
   {
    "id": "ui_profile:0x7708",
@@ -1800,7 +1800,7 @@
    "max": 16,
    "kind": "weight",
    "jp": "ひみつ",
-   "en": ""
+   "en": "Secret"
   },
   {
    "id": "ui_profile:0x771c",
@@ -1808,7 +1808,7 @@
    "max": 8,
    "kind": "blood",
    "jp": "Ｏ型",
-   "en": ""
+   "en": "Type O"
   },
   {
    "id": "ui_profile:0x7728",
@@ -1816,7 +1816,7 @@
    "max": 8,
    "kind": "sign",
    "jp": "双子座",
-   "en": ""
+   "en": "Gemini"
   },
   {
    "id": "ui_profile:0x7734",
@@ -1824,7 +1824,7 @@
    "max": 32,
    "kind": "likes",
    "jp": "陶芸",
-   "en": ""
+   "en": "Pottery"
   },
   {
    "id": "ui_profile:0x7758",
@@ -1832,7 +1832,7 @@
    "max": 32,
    "kind": "food",
    "jp": "おそば",
-   "en": ""
+   "en": "Soba"
   },
   {
    "id": "ui_profile:0x777c",
@@ -1840,7 +1840,7 @@
    "max": 32,
    "kind": "dislikes",
    "jp": "なす",
-   "en": ""
+   "en": "Eggplant"
   },
   {
    "id": "ui_profile:0x7e94",
@@ -1848,7 +1848,7 @@
    "max": 16,
    "kind": "name",
    "jp": "おうの　　",
-   "en": ""
+   "en": "Ouno"
   },
   {
    "id": "ui_profile:0x7ea8",
@@ -1856,7 +1856,7 @@
    "max": 16,
    "kind": "va",
    "jp": "真堂圭",
-   "en": ""
+   "en": "Kei Shindo"
   },
   {
    "id": "ui_profile:0x7ebc",
@@ -1864,7 +1864,7 @@
    "max": 8,
    "kind": "origin",
    "jp": "長州",
-   "en": ""
+   "en": "Choshu"
   },
   {
    "id": "ui_profile:0x7ec8",
@@ -1872,7 +1872,7 @@
    "max": 16,
    "kind": "birthday",
    "jp": "６月７日",
-   "en": ""
+   "en": "June 7"
   },
   {
    "id": "ui_profile:0x7edc",
@@ -1880,7 +1880,7 @@
    "max": 16,
    "kind": "height",
    "jp": "１５８ｃｍ",
-   "en": ""
+   "en": "158 cm"
   },
   {
    "id": "ui_profile:0x7ef0",
@@ -1888,7 +1888,7 @@
    "max": 16,
    "kind": "weight",
    "jp": "ひみつ",
-   "en": ""
+   "en": "Secret"
   },
   {
    "id": "ui_profile:0x7f04",
@@ -1896,7 +1896,7 @@
    "max": 8,
    "kind": "blood",
    "jp": "Ｂ型",
-   "en": ""
+   "en": "Type B"
   },
   {
    "id": "ui_profile:0x7f10",
@@ -1904,7 +1904,7 @@
    "max": 8,
    "kind": "sign",
    "jp": "双子座",
-   "en": ""
+   "en": "Gemini"
   },
   {
    "id": "ui_profile:0x7f1c",
@@ -1912,7 +1912,7 @@
    "max": 32,
    "kind": "likes",
    "jp": "甘味めぐり",
-   "en": ""
+   "en": "Sweet-shop hopping"
   },
   {
    "id": "ui_profile:0x7f40",
@@ -1920,7 +1920,7 @@
    "max": 32,
    "kind": "food",
    "jp": "苺",
-   "en": ""
+   "en": "Strawberries"
   },
   {
    "id": "ui_profile:0x7f64",
@@ -1928,7 +1928,7 @@
    "max": 32,
    "kind": "dislikes",
    "jp": "わさび",
-   "en": ""
+   "en": "Wasabi"
   },
   {
    "id": "ui_profile:0x867c",
@@ -1936,7 +1936,7 @@
    "max": 16,
    "kind": "name",
    "jp": "岩崎弥太郎",
-   "en": ""
+   "en": "Yataro Iwasaki"
   },
   {
    "id": "ui_profile:0x8690",
@@ -1944,7 +1944,7 @@
    "max": 16,
    "kind": "va",
    "jp": "杉山紀彰",
-   "en": ""
+   "en": "N. Sugiyama"
   },
   {
    "id": "ui_profile:0x86a4",
@@ -1952,7 +1952,7 @@
    "max": 8,
    "kind": "origin",
    "jp": "土佐",
-   "en": ""
+   "en": "Tosa"
   },
   {
    "id": "ui_profile:0x86b0",
@@ -1960,7 +1960,7 @@
    "max": 16,
    "kind": "birthday",
    "jp": "１２月１１日",
-   "en": ""
+   "en": "December 11"
   },
   {
    "id": "ui_profile:0x86c4",
@@ -1968,7 +1968,7 @@
    "max": 16,
    "kind": "height",
    "jp": "１７０ｃｍ",
-   "en": ""
+   "en": "170 cm"
   },
   {
    "id": "ui_profile:0x86d8",
@@ -1976,7 +1976,7 @@
    "max": 16,
    "kind": "weight",
    "jp": "６２ｋｇ",
-   "en": ""
+   "en": "62 kg"
   },
   {
    "id": "ui_profile:0x86ec",
@@ -1984,7 +1984,7 @@
    "max": 8,
    "kind": "blood",
    "jp": "Ａ型",
-   "en": ""
+   "en": "Type A"
   },
   {
    "id": "ui_profile:0x86f8",
@@ -1992,7 +1992,7 @@
    "max": 8,
    "kind": "sign",
    "jp": "射手座",
-   "en": ""
+   "en": "Archer"
   },
   {
    "id": "ui_profile:0x8704",
@@ -2000,7 +2000,7 @@
    "max": 32,
    "kind": "likes",
    "jp": "お金稼ぎ",
-   "en": ""
+   "en": "Making money"
   },
   {
    "id": "ui_profile:0x8728",
@@ -2008,7 +2008,7 @@
    "max": 32,
    "kind": "food",
    "jp": "すいか",
-   "en": ""
+   "en": "Watermelon"
   },
   {
    "id": "ui_profile:0x874c",
@@ -2016,7 +2016,7 @@
    "max": 32,
    "kind": "dislikes",
    "jp": "生魚",
-   "en": ""
+   "en": "Raw fish"
   }
  ]
 }

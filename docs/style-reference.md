@@ -13,6 +13,7 @@ have said is a mistake. Paired examples follow (pilot batches b001-b003, approve
 | Soji Okita | cool, sharp, sometimes sweetly menacing; 僕/俺 | cool and cutting; polite-sounding threats ("Shall I cut you down, then?"); idol stage voice when performing. |
 | Yoshinobu Tokugawa | 余, 〜であるぞ, 〜せよ, ふはは | royal "We"/"I" with grandeur, imperious commands: "Bow before me.", "How amusing." |
 | Naosuke Ii | 〜ですよ/〜でしょう with menace | silky, contemptuous politeness: "How very unfortunate for you." |
+| Tengu | old man: ワシ, じゃ, のう, のよ, ふぉっふぉっふぉ | mildly elder-sage, teasing: "lad", "my boy", "eh?", "hm?", "Ho ho ho", "needn't"; never neutral modern phrasing ("Someone of my calibre needn't hear a note, lad."). |
 | Yataro Iwasaki | Tosa dialect, money-minded | fast-talking hustler: "big money", "leave it to me!". |
 | Otose | motherly 〜だよ, 〜おくれ | warm landlady: "dear", "now, now", "you boys". |
 | Narration (ト書き) | だ/である narration | plain past-tense narration, no slang. |

@@ -47,7 +47,12 @@ copy `%d`, `%s`, `%x` exactly.
 - Sound effects in ADV text: *Slam!* style.
 
 ## Notes from earlier batches
-- (added as reviews come in)
+- US spelling (honored, license, favorite, recognize, practiced, traveler).
+- 京の都 is "the capital, Kyoto" or "Kyoto", never "the capital of Kyoto".
+- Don't calque オレ様 as "the great me": "the great Takasugi", "yours truly", or a cocky sentence.
+- Old men (the Tengu, elders: ワシ/じゃ/のう) keep an elder register ("lad", "eh?"); keeping only "Ho ho ho" is flat.
+- 『』 -> single quotes. ！ lines don't end in "?". Giggles (んふふ) are "Hehe"/"Tee hee", not "Mmhm".
+- When \fnt1 spans the whole JP box, the big text spans the whole English too.
 
 ## Consistency
 Never edit `glossary.md`. For a recurring name or term not in it, pick a form, use it consistently, and report it.

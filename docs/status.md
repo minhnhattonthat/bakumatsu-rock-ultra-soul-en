@@ -2,7 +2,11 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 5 (engine spike + marker build) **done**; next is phase 6 (translate). Done: insertion pipeline, marker
+- **Phase:** 6 (translate) **in progress**: `tools/batches.py split` made b001-b114 (16,189 entries, `work/tl/`,
+  gitignored: re-split only if work/ is lost). Pilot b001-b003 done (check OK, under review); wave 1 b004-b023 out to
+  5 translators. Merge = `batches.py merge bNNN..` after check + review. Not batched: lyrics (play/, byte slots too
+  small for romaji: open), staff roll (separate batch, todo); speaker table done by hand.
+- **Phase 5** (engine spike + marker build) **done**. Done: insertion pipeline, marker
   build, **horizontal ADV dialogue centred on every panel** (script ops + 9-word EBOOT patch, D12), PT Serif VWF in
   font17, ADV width gate 112 px x 8 lines on all four panel variants, torture line, every box variant measured
   (`text.md` §7 table + §8), fixed-slot NUL fix (skit run-on).

@@ -9,6 +9,7 @@ an `Avoid` spelling fails. Name + honorific (龍馬さん) must come out as `Ryo
 - Romanisation: official English (the 2014 anime "Samurai Jam -Bakumatsu Rock-") where it exists, else Hepburn
   without macrons (Ryoma, not Ryōma).
 - Credits: English. Abbreviations: never to fit; report `LONG:` instead.
+- Spelling: US English (honored, license, favorite, recognize, practiced, traveler).
 - Register: a rock-and-roll comedy set in an alternate Bakumatsu: modern, punchy, playful English with period names
   and titles kept (shogun, shogunate, Shinsengumi). No archaic "thee/thou". Sound effects: *Slam!*, *Clang!*.
 
@@ -96,7 +97,8 @@ an `Avoid` spelling fails. Name + honorific (龍馬さん) must come out as `Ryo
 
 ## Phrases
 - 京 -> Kyoto (京の都 -> "the capital, Kyoto" / "Kyoto"). 烈（レッツ）ロックンロォォル -> "Let's rock 'n' rooooll!".
-- Junior's 大体オッケー -> "pretty much okay". 紹介状 -> letter of introduction; 免状 -> licence; 死罪 -> death penalty.
+- Junior's 大体オッケー -> "pretty much okay". 紹介状 -> letter of introduction; 免状 -> license; 死罪 -> death
+  penalty (a shout may cut it to "DEATH!?").
 - モジャモジャの先生 -> the Shaggy Sensei. 龍さん (Yataro) -> Ryo-san. お登勢やん -> Otose-yan. ♪ -> ~.
 
 ## Decisions from earlier batches

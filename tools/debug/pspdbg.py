@@ -21,7 +21,11 @@ class _Json:
     not UTF-8 and crashed the decode. Decode leniently instead."""
     @staticmethod
     def loads(b):
-        return json.loads(b.decode('utf-8', 'replace') if isinstance(b, (bytes, bytearray)) else b)
+        s = b.decode('utf-8', 'replace') if isinstance(b, (bytes, bytearray)) else b
+        try:
+            return json.loads(s)
+        except json.JSONDecodeError:   # empty / non-JSON frame (seen in the rhythm game): surface it, don't crash
+            return {'event': '_raw', 'data': s[:200]}
     dumps = staticmethod(json.dumps)
 
 

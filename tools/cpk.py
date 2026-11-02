@@ -80,25 +80,30 @@ def rebuild(path, repl):
     content = min(r['ContentOffset'], r['TocOffset'])
     order = sorted(range(len(ents)), key=lambda i: ents[i].off)
     out = bytearray(); newoff = {}; pos = r['ContentOffset'] - content   # relative to `content`
-    newfiles = {}
+    newfiles, newext, used = {}, {}, set()
     for i in order:
         e = ents[i]
-        if e.name in repl: data = repl[e.name]
+        key = f'{e.dir}/{e.name}' if e.dir else e.name   # dir/name: names repeat across dirs (INST com_000.gim)
+        if key in repl: data = repl[key]
         else: f.seek(e.off); data = f.read(e.csize)
         newfiles[i] = len(data)
         newoff[i] = pos; out += data
-        pad = 0 if i == order[-1] else -len(data) % r['Align']; out += b'\0' * pad; pos += len(data) + pad
+        pad = -len(data) % r['Align']; out += b'\0' * pad; pos += len(data) + pad   # last file padded too (ETOC is aligned)
+        newext[i] = len(data) if key in repl else e.size   # replaced files are stored raw
+        used.add(key)
+    assert not set(repl) - used, f'not in CPK: {sorted(set(repl) - used)[:5]}'
     for i, e in enumerate(ents):
-        toc.set(tb, i, 'FileOffset', newoff[i]); toc.set(tb, i, 'FileSize', newfiles[i]); toc.set(tb, i, 'ExtractSize', newfiles[i])
+        toc.set(tb, i, 'FileOffset', newoff[i]); toc.set(tb, i, 'FileSize', newfiles[i]); toc.set(tb, i, 'ExtractSize', newext[i])
     # leading region (header, TOC, GTOC, padding) copied, then the new content
     f.seek(0); head = bytearray(f.read(r['ContentOffset']))
     head[r['TocOffset']:r['TocOffset'] + len(tb)] = tb
     # size fields: keep the original's bookkeeping (padding conventions) and add the change
     f.seek(0, 2); d_content = len(out) - (f.tell() - r['ContentOffset'] - (r.get('EtocSize') or 0))
-    d_data = sum(newfiles.values()) - sum(e.csize for e in ents)
+    d = {'EnabledPackedSize': sum(newfiles.values()) - sum(e.csize for e in ents),
+         'EnabledDataSize': sum(newext.values()) - sum(e.size for e in ents)}
     if 'ContentSize' in info.pos[0]: info.set(head, 0, 'ContentSize', r['ContentSize'] + d_content)
-    for col in ('EnabledPackedSize', 'EnabledDataSize'):
-        if col in info.pos[0]: info.set(head, 0, col, r[col] + d_data)
+    for col in d:
+        if col in info.pos[0]: info.set(head, 0, col, r[col] + d[col])
     tail = b''
     if r.get('EtocOffset'):  # ETOC (timestamps) sits after the content; carry it over unchanged
         f.seek(r['EtocOffset']); tail = f.read(r['EtocSize'])

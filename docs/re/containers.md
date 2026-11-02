@@ -10,7 +10,7 @@ Dump: `rom.sha1`. Unpack order: `python tools/iso9660.py x ROM work/iso` -> `pyt
 | `PSP_GAME/SYSDIR/EBOOT.BIN` | 3,737,760 | encrypted (`~PSP`); plain ELF dumped to `work/eboot/EBOOT.ELF` (same size, sha1 b2695778dcb55c3884c3bbd5c76e97c03128fc61) by windowed PPSSPP with `DumpFileTypes = 7` (headless ignores ppsspp.ini); text in `text.md` §4 |
 | `PSP_GAME/USRDIR/INST.CPK` | 507 MB | 1,859 files: `scene/script` (80 ADV scripts), `play/script` (29 rhythm charts `otoNN.bin`), `scene/graphics` (1,174), `play/graphics` (311), `scene/mask` (47), `sound` (218 acb/awb) |
 | `PSP_GAME/USRDIR/NOINST.CPK` | 558 MB | 305 files: `systemdata` (9 UI text tables), `font` (2), `ui/graphics` (152), `eff` (27), `movie` (34 pmf + `movie_list_info.mil`), `sound`, `content/SAVEDATA` (3 PNG) |
-| `PSP_GAME/INSDIR/INST.DNS` | 515 MB | install data (the game copies INST.CPK content to the memstick; guess: same bytes as INST.CPK, check before building) |
+| `PSP_GAME/INSDIR/INST.DNS` | 515 MB | install data: `\0PGD` (NPDRM EDATA) = encrypted INST.CPK (verified by size: 0x90 header + 16 B per 1 KB block of INST.CPK, exact). Options > data management installs it to `ms0:\PSP\SAVEDATA\ULJM06388INSDIR\INST.DNS`; the EBOOT then opens that (path string at ELF 0x261eec, fallback `disc0:\PSP_GAME\USRDIR\INST.CPK` at 0x261f44; a plain `...INSDIR\INST.CPK` path at 0x261f18 too). So an installed player would read the original Japanese INST. Plan (phase 5 EBOOT patch): rename the install path the game probes so it always reads the UMD's INST.CPK; the build keeps INST.DNS original |
 | `PSP_GAME/PARAM.SFO` | 604 | TITLE `幕末Rock 超魂` (UTF-8, 128-byte slot) |
 | `ICON0.PNG`, `PIC1.PNG`, `INSDIR/*`, `SND0.AT3` | | XMB art: only the 幕末Rock logo (kept, D5: no official English logo) |
 | `USRDIR/content/THEME/THM_V_0[1-6].PTF` | ~300 KB each | PSP XMB themes (installable bonus); not surveyed yet (low priority) |
@@ -23,8 +23,10 @@ grows moves to the image end). Only fixed slots (UI tables, EBOOT strings, SFO) 
 
 - Files are CRILAYLA-compressed when `FileSize < ExtractSize` (`tools/crilayla.py`, verified: every unpacked file's length equals
   ExtractSize, asserted in `unpack.py`; `tests/test_formats.py`).
-- No compressor written: `cpk.rebuild` stores replaced files raw (`FileSize == ExtractSize`). Guess: the game's CRI loader accepts raw
-  entries (it must: many entries, e.g. `.cnz`, `.acf`, are stored raw). Confirm with the identity/edit build in phase 3.
+- No compressor written: `cpk.rebuild` stores replaced files raw (`FileSize == ExtractSize`). Replace keys are `dir/name`
+  (INST has two `com_000.gim`). Identity: rebuild with no edits is byte-identical for both CPKs, and so is the whole ISO
+  (`tests/test_identity.py`). The last file is padded to 2048 like the rest (ETOC is aligned); `ContentSize` = `EtocOffset -
+  ContentOffset`; `EnabledPackedSize`/`EnabledDataSize` move by the FileSize/ExtractSize deltas (their meaning is a guess).
 
 ## Inside the CPKs
 

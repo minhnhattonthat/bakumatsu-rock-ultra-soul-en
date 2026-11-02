@@ -17,9 +17,17 @@ need = pytest.mark.skipif(not Path(insert.CPK).exists(), reason="no unpacked CPK
 
 
 @need
-def test_no_english_no_edits():
-    """script/ has no `en` yet: insert.plan() patches nothing (identity, checked again by test_identity)."""
-    ed = insert.plan(insert.SCRIPT)
+def test_no_english_no_edits(tmp_path):
+    """A text dir with every `en` empty patches nothing (identity, checked again by test_identity)."""
+    import json
+    for p in Path(insert.SCRIPT).rglob("*.json"):
+        doc = json.loads(p.read_text(encoding="utf-8"))
+        for e in doc["entries"]:
+            e["en"] = ""
+        out = tmp_path / p.relative_to(insert.SCRIPT)
+        out.parent.mkdir(parents=True, exist_ok=True)
+        out.write_text(json.dumps(doc, ensure_ascii=False), encoding="utf-8")
+    ed = insert.plan(str(tmp_path))
     assert ed == {"INST": {}, "NOINST": {}, "iso": {}}
 
 

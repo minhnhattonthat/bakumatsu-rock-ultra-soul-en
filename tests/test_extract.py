@@ -99,4 +99,4 @@ def test_json_files_are_wellformed():
             assert e["id"] not in seen, e["id"]
             seen.add(e["id"])
             assert isinstance(e["off"], int) and e["max"] > 0
-            assert e["en"] == "", e["id"]
+            assert isinstance(e["en"], str), e["id"]

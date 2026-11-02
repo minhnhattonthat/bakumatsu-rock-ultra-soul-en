@@ -5,6 +5,7 @@
     python -X utf8 tools/batches.py check bNNN [bNNN..]                validate work/tl/bNNN.out.tsv; prints OK
     python -X utf8 tools/batches.py merge bNNN [bNNN..]                check, then write the English into script/
     python -X utf8 tools/batches.py fit "English text"                 the wrapped ADV box and each line's px
+    python -X utf8 tools/batches.py pairs bNNN [bNNN..]                reviewer pairs file work/tl/<first>-<last>.pairs.txt
 
 Batch TSV: id, speaker, form, limit, jp (` / ` = the game's \\n). Speaker is a guess (`ryoma?` = the last character
 sprite the script changed before the line); `-` when unknown. Dialogue English is written as one paragraph per box:
@@ -130,11 +131,7 @@ def split(chars, most):
             for i, (rel, e, fmt, sp) in cur:
                 jp = e['jp'].replace('\\n', ' / ').replace('\n', ' / ').replace('\t', ' ')
                 f.write('\t'.join([i, sp, FORMS.get(e['kind'], e['kind']), limit(e, fmt), jp]) + '\n')
-        text = ''.join(e['jp'] for _, (_, e, _, _) in cur)
-        with open(os.path.join(TL, b + '.terms.txt'), 'w', encoding='utf-8', newline='\n') as f:
-            for jp, en, avoid in gl:
-                if has_term(text, jp):
-                    f.write(f'{jp}\t{en}' + (f'\tavoid: {", ".join(avoid)}' if avoid else '') + '\n')
+        write_terms(b, ''.join(e['jp'] for _, (_, e, _, _) in cur), gl)
         cur, size = [], 0
 
     last_rel = None
@@ -144,6 +141,20 @@ def split(chars, most):
         cur.append((i, v)); size += len(v[1]['jp']); last_rel = v[0]
     flush()
     print(f'{len(todo)} entries -> batches up to b{n:03d}')
+
+
+def write_terms(b, text, gl):
+    with open(os.path.join(TL, b + '.terms.txt'), 'w', encoding='utf-8', newline='\n') as f:
+        for jp, en, avoid in gl:
+            if has_term(text, jp):
+                f.write(f'{jp}\t{en}' + (f'\tavoid: {", ".join(avoid)}' if avoid else '') + '\n')
+
+
+def refresh_terms():
+    """Rewrite every batch's terms list from the current glossary (after merging NEW TERMs between waves)."""
+    gl = glossary()
+    for p in sorted(glob.glob(os.path.join(TL, 'b[0-9][0-9][0-9].tsv'))):
+        write_terms(os.path.basename(p)[:-4], ''.join(r[4] for r in read_tsv(p)), gl)
 
 
 def wrap_dialogue(en):
@@ -233,9 +244,22 @@ def merge(batches):
     print(f'merged {sum(len(t) for t in by_file.values())} entries into {len(by_file)} files')
 
 
+def pairs(batches_, out):
+    """Reviewer input: `>> id | speaker | JP` / `EN` (wrapped as the game shows it) for every entry, story order."""
+    with open(out, 'w', encoding='utf-8', newline='\n') as f:
+        for b in batches_:
+            en = dict((r[0], r[1]) for r in read_tsv(os.path.join(TL, b + '.out.tsv')) if len(r) == 2)
+            for r in read_tsv(os.path.join(TL, b + '.tsv')):
+                e = en.get(r[0], '(missing)')
+                if r[3].endswith('px'):
+                    e = ' / '.join(wrap_dialogue(e))
+                f.write(f'>> {r[0]} | {r[1]} | {r[4]}\n   {e}\n')
+    print(out)
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument('cmd', choices=['split', 'check', 'merge', 'fit'])
+    ap.add_argument('cmd', choices=['split', 'check', 'merge', 'fit', 'pairs', 'terms'])
     ap.add_argument('args', nargs='*')
     ap.add_argument('--chars', type=int, default=3500)
     ap.add_argument('--max', type=int, default=150)
@@ -249,6 +273,10 @@ def main():
         sys.exit(1 if bad else 0)
     elif a.cmd == 'merge':
         merge(a.args)
+    elif a.cmd == 'terms':
+        refresh_terms()
+    elif a.cmd == 'pairs':
+        pairs(a.args, os.path.join(TL, '%s-%s.pairs.txt' % (a.args[0], a.args[-1])))
     else:
         for ln in wrap_dialogue(' '.join(a.args)):
             print('%4d px  %s' % (vwf.line_px(ln), ln))

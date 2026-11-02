@@ -8,7 +8,7 @@
    "max": 8,
    "kind": "speaker",
    "jp": "ト書き",
-   "en": ""
+   "en": "Narration"
   },
   {
    "id": "name:001",
@@ -16,7 +16,7 @@
    "max": 12,
    "kind": "speaker",
    "jp": "坂本龍馬",
-   "en": ""
+   "en": "Ryoma Sakamoto"
   },
   {
    "id": "name:002",
@@ -24,7 +24,7 @@
    "max": 12,
    "kind": "speaker",
    "jp": "高杉晋作",
-   "en": ""
+   "en": "Shinsaku Takasugi"
   },
   {
    "id": "name:003",
@@ -32,7 +32,7 @@
    "max": 12,
    "kind": "speaker",
    "jp": "桂小五郎",
-   "en": ""
+   "en": "Kogoro Katsura"
   },
   {
    "id": "name:004",
@@ -40,7 +40,7 @@
    "max": 12,
    "kind": "speaker",
    "jp": "土方歳三",
-   "en": ""
+   "en": "Toshizo Hijikata"
   },
   {
    "id": "name:005",
@@ -48,7 +48,7 @@
    "max": 12,
    "kind": "speaker",
    "jp": "沖田総司",
-   "en": ""
+   "en": "Soji Okita"
   },
   {
    "id": "name:006",
@@ -56,7 +56,7 @@
    "max": 12,
    "kind": "speaker",
    "jp": "徳川慶喜",
-   "en": ""
+   "en": "Yoshinobu Tokugawa"
   },
   {
    "id": "name:007",
@@ -64,7 +64,7 @@
    "max": 12,
    "kind": "speaker",
    "jp": "井伊直弼",
-   "en": ""
+   "en": "Naosuke Ii"
   },
   {
    "id": "name:008",
@@ -72,7 +72,7 @@
    "max": 8,
    "kind": "speaker",
    "jp": "老中",
-   "en": ""
+   "en": "Elder"
   },
   {
    "id": "name:009",
@@ -80,7 +80,7 @@
    "max": 8,
    "kind": "speaker",
    "jp": "老中",
-   "en": ""
+   "en": "Elder"
   },
   {
    "id": "name:010",
@@ -88,7 +88,7 @@
    "max": 12,
    "kind": "speaker",
    "jp": "吉田松陰",
-   "en": ""
+   "en": "Shoin Yoshida"
   },
   {
    "id": "name:011",
@@ -96,7 +96,7 @@
    "max": 12,
    "kind": "speaker",
    "jp": "岩崎弥太郎",
-   "en": ""
+   "en": "Yataro Iwasaki"
   },
   {
    "id": "name:012",
@@ -104,7 +104,7 @@
    "max": 8,
    "kind": "speaker",
    "jp": "ト書き",
-   "en": ""
+   "en": "Narration"
   },
   {
    "id": "name:013",
@@ -112,7 +112,7 @@
    "max": 8,
    "kind": "speaker",
    "jp": "天狗",
-   "en": ""
+   "en": "Tengu"
   },
   {
    "id": "name:014",
@@ -120,7 +120,7 @@
    "max": 8,
    "kind": "speaker",
    "jp": "近藤勇",
-   "en": ""
+   "en": "Isami Kondo"
   },
   {
    "id": "name:015",
@@ -128,7 +128,7 @@
    "max": 12,
    "kind": "speaker",
    "jp": "阿部正弘",
-   "en": ""
+   "en": "Masahiro Abe"
   },
   {
    "id": "name:016",
@@ -136,7 +136,7 @@
    "max": 8,
    "kind": "speaker",
    "jp": "お登勢",
-   "en": ""
+   "en": "Otose"
   },
   {
    "id": "name:017",
@@ -144,7 +144,7 @@
    "max": 8,
    "kind": "speaker",
    "jp": "お龍",
-   "en": ""
+   "en": "Oryo"
   },
   {
    "id": "name:018",
@@ -152,7 +152,7 @@
    "max": 8,
    "kind": "speaker",
    "jp": "おうの",
-   "en": ""
+   "en": "Ouno"
   },
   {
    "id": "name:019",
@@ -160,7 +160,7 @@
    "max": 8,
    "kind": "speaker",
    "jp": "幾松",
-   "en": ""
+   "en": "Ikumatsu"
   },
   {
    "id": "name:020",
@@ -168,7 +168,7 @@
    "max": 8,
    "kind": "speaker",
    "jp": "勝海舟",
-   "en": ""
+   "en": "Kaishu Katsu"
   },
   {
    "id": "name:021",
@@ -176,7 +176,7 @@
    "max": 8,
    "kind": "speaker",
    "jp": "乙女",
-   "en": ""
+   "en": "Otome"
   },
   {
    "id": "name:022",
@@ -184,7 +184,7 @@
    "max": 8,
    "kind": "speaker",
    "jp": "お発勢",
-   "en": ""
+   "en": "Ohatsuse"
   },
   {
    "id": "name:023",
@@ -192,7 +192,7 @@
    "max": 8,
    "kind": "speaker",
    "jp": "三太",
-   "en": ""
+   "en": "Santa"
   },
   {
    "id": "name:024",
@@ -200,7 +200,7 @@
    "max": 8,
    "kind": "speaker",
    "jp": "？？？",
-   "en": ""
+   "en": "???"
   },
   {
    "id": "name:025",
@@ -208,7 +208,7 @@
    "max": 12,
    "kind": "speaker",
    "jp": "一橋慶喜",
-   "en": ""
+   "en": "Yoshinobu Hitotsubashi"
   },
   {
    "id": "name:026",
@@ -216,7 +216,7 @@
    "max": 12,
    "kind": "speaker",
    "jp": "井伊直弼",
-   "en": ""
+   "en": "Naosuke Ii"
   },
   {
    "id": "name:027",
@@ -224,7 +224,7 @@
    "max": 8,
    "kind": "speaker",
    "jp": "五郎",
-   "en": ""
+   "en": "Goro"
   },
   {
    "id": "name:028",
@@ -232,7 +232,7 @@
    "max": 8,
    "kind": "speaker",
    "jp": "英助",
-   "en": ""
+   "en": "Eisuke"
   },
   {
    "id": "name:029",
@@ -240,7 +240,7 @@
    "max": 8,
    "kind": "speaker",
    "jp": "田沢",
-   "en": ""
+   "en": "Tazawa"
   },
   {
    "id": "name:030",
@@ -248,7 +248,7 @@
    "max": 8,
    "kind": "speaker",
    "jp": "松尾",
-   "en": ""
+   "en": "Matsuo"
   },
   {
    "id": "name:031",
@@ -256,7 +256,7 @@
    "max": 12,
    "kind": "speaker",
    "jp": "町人男Ｃ",
-   "en": ""
+   "en": "Townsman C"
   },
   {
    "id": "name:032",
@@ -264,7 +264,7 @@
    "max": 8,
    "kind": "speaker",
    "jp": "鈴美",
-   "en": ""
+   "en": "Suzumi"
   },
   {
    "id": "name:033",
@@ -272,7 +272,7 @@
    "max": 8,
    "kind": "speaker",
    "jp": "朋子",
-   "en": ""
+   "en": "Tomoko"
   },
   {
    "id": "name:034",
@@ -280,7 +280,7 @@
    "max": 8,
    "kind": "speaker",
    "jp": "綾那",
-   "en": ""
+   "en": "Ayana"
   },
   {
    "id": "name:035",
@@ -288,7 +288,7 @@
    "max": 8,
    "kind": "speaker",
    "jp": "農民男",
-   "en": ""
+   "en": "Farmer"
   },
   {
    "id": "name:036",
@@ -296,7 +296,7 @@
    "max": 8,
    "kind": "speaker",
    "jp": "安十郎",
-   "en": ""
+   "en": "Yasujuro"
   },
   {
    "id": "name:037",
@@ -304,7 +304,7 @@
    "max": 8,
    "kind": "speaker",
    "jp": "松崎",
-   "en": ""
+   "en": "Matsuzaki"
   },
   {
    "id": "name:038",
@@ -312,7 +312,7 @@
    "max": 8,
    "kind": "speaker",
    "jp": "九条",
-   "en": ""
+   "en": "Kujo"
   },
   {
    "id": "name:039",
@@ -320,7 +320,7 @@
    "max": 16,
    "kind": "speaker",
    "jp": "新選組隊士Ｃ",
-   "en": ""
+   "en": "Shinsengumi Member C"
   },
   {
    "id": "name:040",
@@ -328,7 +328,7 @@
    "max": 8,
    "kind": "speaker",
    "jp": "本部",
-   "en": ""
+   "en": "HQ"
   },
   {
    "id": "name:041",
@@ -336,7 +336,7 @@
    "max": 8,
    "kind": "speaker",
    "jp": "町田",
-   "en": ""
+   "en": "Machida"
   },
   {
    "id": "name:042",
@@ -344,7 +344,7 @@
    "max": 8,
    "kind": "speaker",
    "jp": "花田",
-   "en": ""
+   "en": "Hanada"
   },
   {
    "id": "name:043",
@@ -352,7 +352,7 @@
    "max": 12,
    "kind": "speaker",
    "jp": "幕府軍Ｄ",
-   "en": ""
+   "en": "Shogunate Soldier D"
   },
   {
    "id": "name:044",
@@ -360,7 +360,7 @@
    "max": 8,
    "kind": "speaker",
    "jp": "池永",
-   "en": ""
+   "en": "Ikenaga"
   },
   {
    "id": "name:045",
@@ -368,7 +368,7 @@
    "max": 8,
    "kind": "speaker",
    "jp": "蔵前",
-   "en": ""
+   "en": "Kuramae"
   },
   {
    "id": "name:046",
@@ -376,7 +376,7 @@
    "max": 8,
    "kind": "speaker",
    "jp": "浪人Ｃ",
-   "en": ""
+   "en": "Ronin C"
   },
   {
    "id": "name:047",
@@ -384,7 +384,7 @@
    "max": 12,
    "kind": "speaker",
    "jp": "場内案内",
-   "en": ""
+   "en": "Announcer"
   },
   {
    "id": "name:048",
@@ -392,7 +392,7 @@
    "max": 12,
    "kind": "speaker",
    "jp": "残党武士",
-   "en": ""
+   "en": "Holdout Samurai"
   },
   {
    "id": "name:049",
@@ -400,7 +400,7 @@
    "max": 8,
    "kind": "speaker",
    "jp": "江戸川",
-   "en": ""
+   "en": "Edogawa"
   },
   {
    "id": "name:050",
@@ -408,7 +408,7 @@
    "max": 8,
    "kind": "speaker",
    "jp": "丸山",
-   "en": ""
+   "en": "Maruyama"
   },
   {
    "id": "name:051",
@@ -416,7 +416,7 @@
    "max": 8,
    "kind": "speaker",
    "jp": "由花子",
-   "en": ""
+   "en": "Yukako"
   },
   {
    "id": "name:052",
@@ -424,7 +424,7 @@
    "max": 4,
    "kind": "speaker",
    "jp": "彩",
-   "en": ""
+   "en": "Aya"
   },
   {
    "id": "name:053",
@@ -432,7 +432,7 @@
    "max": 8,
    "kind": "speaker",
    "jp": "しのぶ",
-   "en": ""
+   "en": "Shinobu"
   },
   {
    "id": "name:054",
@@ -440,7 +440,7 @@
    "max": 8,
    "kind": "speaker",
    "jp": "永石",
-   "en": ""
+   "en": "Nagaishi"
   },
   {
    "id": "name:055",
@@ -448,7 +448,7 @@
    "max": 4,
    "kind": "speaker",
    "jp": "王",
-   "en": ""
+   "en": "Wang"
   },
   {
    "id": "name:056",
@@ -456,7 +456,7 @@
    "max": 8,
    "kind": "speaker",
    "jp": "石井",
-   "en": ""
+   "en": "Ishii"
   },
   {
    "id": "name:057",
@@ -464,7 +464,7 @@
    "max": 8,
    "kind": "speaker",
    "jp": "戸越",
-   "en": ""
+   "en": "Togoshi"
   },
   {
    "id": "name:058",
@@ -472,7 +472,7 @@
    "max": 8,
    "kind": "speaker",
    "jp": "宮本",
-   "en": ""
+   "en": "Miyamoto"
   },
   {
    "id": "name:059",
@@ -480,7 +480,7 @@
    "max": 8,
    "kind": "speaker",
    "jp": "大宮",
-   "en": ""
+   "en": "Omiya"
   },
   {
    "id": "name:060",
@@ -488,7 +488,7 @@
    "max": 12,
    "kind": "speaker",
    "jp": "龍馬/高杉",
-   "en": ""
+   "en": "Ryoma/Takasugi"
   },
   {
    "id": "name:061",
@@ -496,7 +496,7 @@
    "max": 8,
    "kind": "speaker",
    "jp": "龍馬/桂",
-   "en": ""
+   "en": "Ryoma/Katsura"
   },
   {
    "id": "name:062",
@@ -504,7 +504,7 @@
    "max": 8,
    "kind": "speaker",
    "jp": "桂/高杉",
-   "en": ""
+   "en": "Katsura/Takasugi"
   },
   {
    "id": "name:063",
@@ -512,7 +512,7 @@
    "max": 12,
    "kind": "speaker",
    "jp": "龍馬たち",
-   "en": ""
+   "en": "Ryoma & co."
   },
   {
    "id": "name:064",
@@ -520,7 +520,7 @@
    "max": 12,
    "kind": "speaker",
    "jp": "土方/沖田",
-   "en": ""
+   "en": "Hijikata/Okita"
   },
   {
    "id": "name:065",
@@ -528,7 +528,7 @@
    "max": 12,
    "kind": "speaker",
    "jp": "天狗/松陰",
-   "en": ""
+   "en": "Tengu/Shoin"
   },
   {
    "id": "name:066",
@@ -536,7 +536,7 @@
    "max": 12,
    "kind": "speaker",
    "jp": "お龍たち",
-   "en": ""
+   "en": "Oryo & co."
   },
   {
    "id": "name:067",
@@ -544,7 +544,7 @@
    "max": 8,
    "kind": "speaker",
    "jp": "桂たち",
-   "en": ""
+   "en": "Katsura & co."
   },
   {
    "id": "name:068",
@@ -552,7 +552,7 @@
    "max": 12,
    "kind": "speaker",
    "jp": "幾松/おうの",
-   "en": ""
+   "en": "Ikumatsu/Ouno"
   },
   {
    "id": "name:069",
@@ -560,7 +560,7 @@
    "max": 12,
    "kind": "speaker",
    "jp": "土方たち",
-   "en": ""
+   "en": "Hijikata & co."
   },
   {
    "id": "name:070",
@@ -568,7 +568,7 @@
    "max": 8,
    "kind": "speaker",
    "jp": "桂/沖田",
-   "en": ""
+   "en": "Katsura/Okita"
   },
   {
    "id": "name:071",
@@ -576,7 +576,7 @@
    "max": 12,
    "kind": "speaker",
    "jp": "龍子たち",
-   "en": ""
+   "en": "Ryoko & co."
   },
   {
    "id": "name:072",
@@ -584,7 +584,7 @@
    "max": 12,
    "kind": "speaker",
    "jp": "高杉/土方",
-   "en": ""
+   "en": "Takasugi/Hijikata"
   },
   {
    "id": "name:073",
@@ -592,7 +592,7 @@
    "max": 12,
    "kind": "speaker",
    "jp": "隊士たち",
-   "en": ""
+   "en": "Members"
   },
   {
    "id": "name:074",
@@ -600,7 +600,7 @@
    "max": 12,
    "kind": "speaker",
    "jp": "池永/蔵前",
-   "en": ""
+   "en": "Ikenaga/Kuramae"
   },
   {
    "id": "name:075",
@@ -608,7 +608,7 @@
    "max": 12,
    "kind": "speaker",
    "jp": "龍馬たち",
-   "en": ""
+   "en": "Ryoma & co."
   },
   {
    "id": "name:076",
@@ -616,7 +616,7 @@
    "max": 4,
    "kind": "speaker",
    "jp": "猫",
-   "en": ""
+   "en": "Cat"
   },
   {
    "id": "name:077",
@@ -624,7 +624,7 @@
    "max": 12,
    "kind": "speaker",
    "jp": "龍馬たち",
-   "en": ""
+   "en": "Ryoma & co."
   },
   {
    "id": "name:078",
@@ -632,7 +632,7 @@
    "max": 12,
    "kind": "speaker",
    "jp": "龍馬たち",
-   "en": ""
+   "en": "Ryoma & co."
   },
   {
    "id": "name:079",
@@ -640,7 +640,7 @@
    "max": 8,
    "kind": "speaker",
    "jp": "全員",
-   "en": ""
+   "en": "All"
   },
   {
    "id": "name:080",
@@ -648,7 +648,7 @@
    "max": 8,
    "kind": "speaker",
    "jp": "？？？",
-   "en": ""
+   "en": "???"
   },
   {
    "id": "name:081",
@@ -656,7 +656,7 @@
    "max": 8,
    "kind": "speaker",
    "jp": "龍子",
-   "en": ""
+   "en": "Ryoko"
   },
   {
    "id": "name:082",
@@ -664,7 +664,7 @@
    "max": 8,
    "kind": "speaker",
    "jp": "桂子",
-   "en": ""
+   "en": "Katsurako"
   },
   {
    "id": "name:083",
@@ -672,7 +672,7 @@
    "max": 8,
    "kind": "speaker",
    "jp": "晋子",
-   "en": ""
+   "en": "Shinko"
   },
   {
    "id": "name:084",
@@ -680,7 +680,7 @@
    "max": 8,
    "kind": "speaker",
    "jp": "歳子",
-   "en": ""
+   "en": "Toshiko"
   },
   {
    "id": "name:085",
@@ -688,7 +688,7 @@
    "max": 8,
    "kind": "speaker",
    "jp": "総美",
-   "en": ""
+   "en": "Fusami"
   },
   {
    "id": "name:086",
@@ -696,7 +696,7 @@
    "max": 8,
    "kind": "speaker",
    "jp": "赤石",
-   "en": ""
+   "en": "Akashi"
   },
   {
    "id": "name:087",
@@ -704,7 +704,7 @@
    "max": 8,
    "kind": "speaker",
    "jp": "根津",
-   "en": ""
+   "en": "Nezu"
   },
   {
    "id": "name:088",
@@ -712,7 +712,7 @@
    "max": 8,
    "kind": "speaker",
    "jp": "乃木坂",
-   "en": ""
+   "en": "Nogizaka"
   },
   {
    "id": "name:089",
@@ -720,7 +720,7 @@
    "max": 8,
    "kind": "speaker",
    "jp": "末堂",
-   "en": ""
+   "en": "Suedo"
   },
   {
    "id": "name:090",
@@ -728,7 +728,7 @@
    "max": 8,
    "kind": "speaker",
    "jp": "猪狩",
-   "en": ""
+   "en": "Ikari"
   },
   {
    "id": "name:091",
@@ -736,7 +736,7 @@
    "max": 8,
    "kind": "speaker",
    "jp": "安藤",
-   "en": ""
+   "en": "Ando"
   },
   {
    "id": "name:092",
@@ -744,7 +744,7 @@
    "max": 8,
    "kind": "speaker",
    "jp": "怨霊",
-   "en": ""
+   "en": "Vengeful Spirit"
   },
   {
    "id": "name:093",
@@ -752,7 +752,7 @@
    "max": 8,
    "kind": "speaker",
    "jp": "観客",
-   "en": ""
+   "en": "Audience"
   },
   {
    "id": "name:094",
@@ -760,7 +760,7 @@
    "max": 12,
    "kind": "speaker",
    "jp": "町田/花田",
-   "en": ""
+   "en": "Machida/Hanada"
   },
   {
    "id": "name:095",
@@ -768,7 +768,7 @@
    "max": 12,
    "kind": "speaker",
    "jp": "ジュニア",
-   "en": ""
+   "en": "Junior"
   },
   {
    "id": "name:096",
@@ -776,7 +776,7 @@
    "max": 4,
    "kind": "speaker",
    "jp": "J",
-   "en": ""
+   "en": "J"
   },
   {
    "id": "name:097",
@@ -784,7 +784,7 @@
    "max": 8,
    "kind": "speaker",
    "jp": "？？？",
-   "en": ""
+   "en": "???"
   },
   {
    "id": "name:098",
@@ -792,7 +792,7 @@
    "max": 8,
    "kind": "speaker",
    "jp": "誠仮面",
-   "en": ""
+   "en": "Makoto Mask"
   },
   {
    "id": "name:099",
@@ -800,7 +800,7 @@
    "max": 8,
    "kind": "speaker",
    "jp": "？？？",
-   "en": ""
+   "en": "???"
   }
  ]
 }

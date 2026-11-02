@@ -55,6 +55,15 @@ an `Avoid` spelling fails. Name + honorific (龍馬さん) must come out as `Ryo
 | ジュニア | Junior | | | |
 | 老中 | Elder | | shogunate senior councillor (rōjū) | |
 | ト書き | Narration | | speaker label for narration | |
+| マシューカルブレイスペリージュニア | Matthew Calbraith Perry Junior | | full name of Junior | |
+| ヒジゾー | Hijizo | | Ryoma's nickname for Hijikata (ヒジゾーさん -> Hijizo-san) | |
+| ソウちん | So-chin | | Ryoma's nickname for Okita | |
+| トサカ | Tosaka | | Okita's nickname for Ryoma (トサカくん -> Tosaka-kun) | |
+| シンディ | Shindy | | Ryoma's nickname for Takasugi | |
+| センセー | Sensei | | Ryoma's name for Katsura | |
+| テンちゃん | Ten-chan | | the Tengu | |
+| 龍ちゃん | Ryo-chan | | Otose's name for Ryoma | |
+| 女将 | Landlady | | Otose | |
 
 ## Places
 | JP | EN | max | notes | Avoid |
@@ -63,7 +72,8 @@ an `Avoid` spelling fails. Name + honorific (龍馬さん) must come out as `Ryo
 | 長州 | Choshu | | | Chōshū |
 | 江戸 | Edo | | | |
 | 富士 | Fuji | | | |
-| テラーダ | Terada | | Otose's inn (live house) | Teradaya |
+| テラーダ | Terada | | Otose's inn (live house); アルベルゴ ディテラーダ -> Albergo di Terada | Teradaya |
+| 錦市場 | Nishiki Market | | | |
 
 ## Items / skills / terms
 | JP | EN | max | notes | Avoid |
@@ -78,7 +88,16 @@ an `Avoid` spelling fails. Name + honorific (龍馬さん) must come out as `Ryo
 | 幕府 | shogunate | | | bakufu |
 | 将軍 | shogun | | | |
 | 志士 | rebel | | 志士 = the loyalist activists; "three rebels" | shishi |
-| 大舞台 | audition | | when glossed （オーディション） | |
+| 大舞台 | audition | | when glossed （オーディション）; 大舞台会場 -> audition hall | |
+| 片魂 | Piece Soul | | 片魂（ピースソウル）, plural Piece Souls | |
+| 天歌師範 | Heaven's Song master | | | |
+| 黒船 | Black Ships | | 黒船来航 -> the arrival of the Black Ships | |
+| 六絃琴 | six-string | | Ryoma's guitar | |
+
+## Phrases
+- 京 -> Kyoto (京の都 -> "the capital, Kyoto" / "Kyoto"). 烈（レッツ）ロックンロォォル -> "Let's rock 'n' rooooll!".
+- Junior's 大体オッケー -> "pretty much okay". 紹介状 -> letter of introduction; 免状 -> licence; 死罪 -> death penalty.
+- モジャモジャの先生 -> the Shaggy Sensei. 龍さん (Yataro) -> Ryo-san. お登勢やん -> Otose-yan. ♪ -> ~.
 
 ## Decisions from earlier batches
 - (none yet)

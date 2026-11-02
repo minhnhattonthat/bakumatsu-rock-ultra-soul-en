@@ -83,3 +83,11 @@ def test_marker_set_fits_every_slot():
     ed = insert.plan(str(mark))
     # NOINST: 9 UI tables + font17 (VWF); iso: PARAM.SFO + the plain EBOOT with the ADV code patch (D12)
     assert len(ed["INST"]) == 109 and len(ed["NOINST"]) == 10 and len(ed["iso"]) == 2
+
+
+def test_slot_keeps_a_nul():
+    """A string that fills its slot exactly has no terminator and runs on into the next one in game (skit box)."""
+    from textfmt import slot_bytes
+    assert slot_bytes("abc", 4, nul=True) == b"abc\0" and slot_bytes("abcd", 4) == b"abcd"
+    with pytest.raises(ValueError):
+        slot_bytes("abcd", 4, nul=True)

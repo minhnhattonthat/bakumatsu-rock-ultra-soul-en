@@ -44,11 +44,13 @@ def encode(s):
     return s.encode(ENC)
 
 
-def slot_bytes(s, capacity, enc=ENC):
-    """str -> exactly `capacity` bytes: encoded text + NUL padding. Raises if it does not fit."""
+def slot_bytes(s, capacity, enc=ENC, nul=False):
+    """str -> exactly `capacity` bytes: encoded text + NUL padding. Raises if it does not fit. nul=True (new text)
+    also demands one NUL: the skit box reads to the NUL, so a full slot runs on into the next string (one original
+    profile slot is full, so re-encoding the original can't demand it)."""
     b = s.encode(enc)
-    if len(b) > capacity:
-        raise ValueError(f'{s!r}: {len(b)} bytes does not fit in {capacity}')
+    if len(b) > capacity - nul:
+        raise ValueError(f'{s!r}: {len(b)} bytes{" + NUL" * nul} does not fit in {capacity}')
     return b + b'\0' * (capacity - len(b))
 
 

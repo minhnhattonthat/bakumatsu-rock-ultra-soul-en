@@ -2,10 +2,10 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 5 (engine spike + marker build) **nearly done**. Done: insertion pipeline, marker build, **horizontal ADV
-  dialogue centred on every panel** (script ops + 9-word EBOOT patch, D12), PT Serif VWF in font17, ADV width gate
-  112 px x 8 lines measured on all four panel variants, torture line. Open (small): measure the profile / system
-  dialog / chapter-card text boxes (§7 table "not measured yet"), then phase 6.
+- **Phase:** 5 (engine spike + marker build) **done**; next is phase 6 (translate). Done: insertion pipeline, marker
+  build, **horizontal ADV dialogue centred on every panel** (script ops + 9-word EBOOT patch, D12), PT Serif VWF in
+  font17, ADV width gate 112 px x 8 lines on all four panel variants, torture line, every box variant measured
+  (`text.md` §7 table + §8), fixed-slot NUL fix (skit run-on).
 - **Done:**
   - Step 0: repo, hooks, check, `rom.sha1`, PPSSPPHeadless boot route (`tools/routes/boot.txt`; `menu.txt` = to top MENU).
   - Phase 1 (`docs/re/README.md` indexes it): no earlier patch exists. ISO/CPK layout, CRILAYLA, unpacker, GIM sweep, plain
@@ -50,11 +50,11 @@ Updated at the end of every session. Keep it to what the next session needs; his
       `tools/adv_widths.tsv`), `tools/debug/mips.py` (EBOOT disassembly: `dis`, `func`, `callers`).
       `tools/mark.py --torture` puts ASCII/double-space/full-box torture lines in m_001001.
     - **`build/bakumatsu_rock_us_en.iso` = marker build** (`tools/mark.py --force --torture`, then `tools/build.py --texts
-      work/mark`), sha1 fb5de67e08cb5d1686dc9889dc5713e6a05756e6; smoke exit 0.
-- **Next:** (1) finish phase 5: measure profile / system dialog / chapter-card boxes (warp `m_profile`-type scenes from
-  `scenes.tsv` on the marker ISO, read the shots), run `jp_left.py` on the marker build; (2) phase 6: width lint must
-  enforce `vwf.ADV_LINE_PX`/`ADV_LINES` with explicit `\n` breaks (engine char-wrap breaks centring); menus using font24
-  are still monospace 8 px (only font17 has the VWF).
+      work/mark`), sha1 fb1f45606196f1ece1d32850fdcfdc264a2f0044 (smoke exit 0 on the previous, NUL-fix-only-different build).
+- **Next (phase 6):** read `references/translation.md`; build the batch tooling (work/tl batches, translator/reviewer
+  agents per `.claude/agents/`), and a width lint that enforces `vwf.ADV_LINE_PX`/`ADV_LINES` on dialogue with explicit
+  `\n` breaks (engine char-wrap breaks centring) plus byte slots (NUL included) for fixed files. Notes: menus drawn
+  with font24 are still monospace 8 px (only font17 has the VWF); `jp_left.py` on the marker build not run yet.
 - **Phase 4+ notes:** script insertion re-maps jump args (`text.md` §1/§7) when string lengths change; the marker build
   proves it in game. Debug addresses in `docs/re/debug.md` assume an unchanged EBOOT code segment (string-only edits are
   fine; the EBOOT is not patched at all by default now).

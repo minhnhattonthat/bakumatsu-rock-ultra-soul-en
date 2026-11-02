@@ -126,7 +126,8 @@ def write_table(name, data, texts):
     """Patch every slot of one table in place: texts = {slot offset: str}; returns the new bytes."""
     for s in slots(data, name):
         if s.off in texts:
-            data = data[:s.off] + slot_bytes(texts[s.off], s.capacity, s.enc) + data[s.off + s.capacity:]
+            nul = texts[s.off] != s.text      # new text keeps a terminator (textfmt.slot_bytes)
+            data = data[:s.off] + slot_bytes(texts[s.off], s.capacity, s.enc, nul) + data[s.off + s.capacity:]
     return data
 
 
@@ -145,7 +146,7 @@ def write_eboot(eboot, texts):
     for off, cap in EBOOT_SLOTS:
         if off in texts:
             b = texts[off].encode('utf-8')
-            assert len(b) <= cap, f'EBOOT slot {off:#x}: {len(b)} bytes > {cap}'
+            assert len(b) < cap, f'EBOOT slot {off:#x}: {len(b)} bytes + NUL > {cap}'
             out[off:off + cap] = b + b'\0' * (cap - len(b))
     return bytes(out)
 
@@ -159,5 +160,5 @@ def sfo_title(sfo):
 def write_sfo(sfo, text):
     off, cap = SFO_TITLE
     b = text.encode('utf-8')
-    assert len(b) <= cap, f'SFO title: {len(b)} bytes > {cap}'
+    assert len(b) < cap, f'SFO title: {len(b)} bytes + NUL > {cap}'
     return sfo[:off] + b + b'\0' * (cap - len(b)) + sfo[off + cap:]

@@ -89,7 +89,7 @@ def main():
             for e in doc['entries']:
                 enc = e.get('encoding', 'cp932')
                 # only scene slots resize safely; a rhythm note's fragment is 1-6 chars of its own buffer
-                cap = None if doc['format'] == 'mz-scene' else e['max']
+                cap = None if doc['format'] == 'mz-scene' else e['max'] - 1   # room for the NUL
                 e['en'] = marker(e, cap, enc)
                 n += 1
             if a.torture and rel.replace('\\', '/') == TORTURE_FILE:

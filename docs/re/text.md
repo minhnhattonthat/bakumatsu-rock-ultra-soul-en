@@ -185,7 +185,14 @@ horizontal (or re-laying out the panels) is EBOOT engine work, not data. Anchors
 | Bottom help line | every menu | x 8..235, ~227 px | ~32 marker chars | `work/qa/warp/story_menu/final.png` |
 | ADV back log line | SELECT in ADV | x 47..458, ~412 px, 1 line | ~40 marker chars, scrolls | `work/qa/warp/adv_backlog/final.png` |
 | ADV speech panel (vertical) | dialogue | ~140x210 px panel, 4 columns x ~13 chars | ~15 px/char down a column | `work/qa/warp/m_001001/final.png` |
-| Chapter card / profile / system dialog | | not measured yet | | |
+| Profile list row | Special > Profile | x 232..460, ~228 px | `[id] CV: [id]`, byte slot binds first | `work/qa/warp/gallery_profile/final.png` |
+| Skit balloon | Special > Skit, 2 lines | x 143..430, ~285 px per line | 39 bytes per line (slot 40 incl. NUL) bind before px | `work/qa/warp/gallery_skit_view/final.png` |
+| ADV location caption card | first line of a scene (`――京　錦市場`) | card ~120x210 | horizontal since §8, gate as speech | `work/qa/gate_c.png` |
+| Option / data menus, chapter card title | | graphics (GIM), not text | phase 8 graphics | `option_text`, `option_data`, `chapter_enter` |
+
+**Every new fixed-slot string keeps a NUL** (`textfmt.slot_bytes(nul=True)` from `uitable.write_table`; MZ slots resize
+with one): a skit line that filled its 40-byte slot ran on into the next line in game. One original profile slot is
+full with no NUL, so the original's re-encode doesn't demand it.
 
 These are read off the zoomed marker shots, not yet from a per-variant px budget; the ADV panel will be re-measured
 after the horizontal layout lands, and the font is proportional, so the budget is in px (chars are approximate).

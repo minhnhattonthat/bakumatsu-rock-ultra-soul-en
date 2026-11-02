@@ -134,7 +134,7 @@ def patch_script(name, data, texts, kind='scene', shared=None):
             caps[s.off] = s.capacity
             continue
         n = len(encode(t))
-        caps[s.off] = s.capacity if n <= s.capacity else _pad(n + 1)
+        caps[s.off] = s.capacity if n < s.capacity else _pad(n + 1)
     # 2. old -> new instruction offsets (bytes and words)
     off_map, new_off, sizes = {}, 4, []
     for ins in sc.instrs:

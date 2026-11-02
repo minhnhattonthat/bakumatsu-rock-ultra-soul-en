@@ -33,6 +33,7 @@ chapter_bonus_enter	menu	6 down;40 -;6 down;60 -;6 circle;400 -;6 right;200 -;6 
 gallery_menu	menu	6 down;60 -;6 circle	TopMenuSpecial	300	GALLERY submenu
 gallery_skit	menu	6 down;60 -;6 circle;300 -;6 circle	SkitGallery	400	skit list
 gallery_skit_view	menu	6 down;60 -;6 circle;300 -;6 circle;400 -;6 circle	Skit	500	first skit
+gallery_skit_more	menu	6 down;60 -;6 circle;300 -;6 circle;400 -;6 circle;300 -;6 circle;240 -;6 circle;240 -;6 circle;240 -;6 circle	Skit	300	first skit, lines 2-5 (balloon line layout)
 gallery_event	menu	6 down;60 -;6 circle;300 -;6 up;60 -;6 up;60 -;6 circle	EventGallery	400	event list
 gallery_event_view	menu	6 down;60 -;6 circle;300 -;6 up;60 -;6 up;60 -;6 circle;400 -;6 circle	Event	500	first event
 gallery_movie	menu	6 down;60 -;6 circle;300 -;6 up;60 -;6 circle	MovieGallery	400	movie list

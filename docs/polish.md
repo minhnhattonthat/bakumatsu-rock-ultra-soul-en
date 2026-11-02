@@ -231,3 +231,9 @@ The release script refuses to run while any line is unticked.
 #### 19_bonus_4
 - [x] b_016001:0x7b78 Takasugi それはオレ様のセリフだ: -> "I should be the one asking that! I'm ashamed of you, Katsura-san. You of all people!"
 - [x] b_018001:0xa414 Ii: -> "can I catch whoever that is?"
+
+## Skit balloon centring (phase 8, visual QA r3)
+- [ ] ui_skit_*: the skit balloon centres each line as if every byte were 8 px wide (start = centre - bytes*4; measured
+  on `warp.py gallery_skit_more`: "Cheeeers!!" at x 257, the 36-char line at 152), so proportional English sits left
+  of centre, long lines most (~45 px). Legible, inside the balloon. Fix: find the skit line-centring code (EBOOT,
+  like `ADV_CODE`) and make it sum the font17 advances; waive if it is not a small patch.

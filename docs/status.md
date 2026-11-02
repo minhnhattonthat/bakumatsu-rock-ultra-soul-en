@@ -2,7 +2,13 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8 (QA in the emulator) **in progress** (2026-11-03).
+- **Phase:** 9 (release) **next**. To do: the one unticked polish.md line (skit balloon centring: fix in the EBOOT
+  or waive), then `tools/release.py` (patch + README; never `gh release create`), `jp_left.py` on the release build,
+  debug tool off (warp is external, nothing in the ISO), re-apply/verify the patch.
+- **Phase 8 done** (2026-11-03): build 73788b787f8bb8315e5db97f7fe3d2f44174112b, smoke exit 0, tour 137/137 warps ok,
+  visual QA round 3: 152/152 sheets ok (`qa_gate.py check work/qa/manifest.tsv work/qa/verdicts` exit 0; 5 reviewers
+  on 150 sheets, `gallery_skit_more` (new row) read by the controller); story gate 21/21. No game-over screen exists
+  (lives only score); chapter cards 1-10, credits (staffroll, staffroll2) English in the tour.
   - Phase 7 review fixed (45f77d0): isodiff checks dir/PVD bytes, unedited extents, the appended tail;
     `tests/test_build_en.py` builds the English ISO from `script/` (read-back included) + a negative dir-record test;
     `insert.py plan` log crash.
@@ -53,7 +59,8 @@ Updated at the end of every session. Keep it to what the next session needs; his
   - jp_left: `tools/textscan.py` (every text record read back from the built ISO) + `jp_left.py` -> 0 runs.
   - Tour: `warp.py --all --sheet --iso build/bakumatsu_rock_us_en.iso` (**warp's default ISO is the JP ROM**), then
     `tools/tour.py` (every sheet page -> `work/qa/tour/`, 150 sheets), then `qa_gate.py init`.
-  - **Left in phase 8:** visual-QA round 3 verdicts on the 150 sheets of build 73788b78 (round 1/2 only saw page 1).
+  - Visual QA round 3 (every sheet page; rounds 1/2 only saw page 1): 0 issues. Notes, ok: skit balloon lines sit
+    left of centre (engine centres at 8 px/byte; polish.md item), b_007001 "What an insult~" keeps a `~`.
 - **Phase 7 done** (2026-11-03): build green.
   - `tools/lint.py` over every `script/` entry (in `tools/check.py` via `tests/test_lint.py`): ADV px/lines, byte
     slots, control codes, non-ASCII/leftover JP, glossary (on the unwrapped text), ordinals, blanks, one-word last
